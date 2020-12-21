@@ -99,7 +99,7 @@ Pořadí v rámci všech soutěží, které jsou součástí kombinované sout�
 ... v případě samostatného umístění v soutěži v dané disciplíně získá závodník body odpovídající jeho umístění
 ... v případě kdy dva nebo více závodníků dosáhnou v soutěži v dané disciplíně nerozhodného výsledku, získá závodník body odpovídající průměrnému pořadí shodných závodníků.
 +
-např. pokud je shoda na 4. místě čtyř závodníků, pak body budou rovny latexmath:[$\left( 4 + 5 + 6 + 7 \right) \div 4 = 5,5$]
+např. pokud je shoda na 4. místě čtyř závodníků, pak body budou rovny asciimath:[( 4 + 5 + 6 + 7 ) -: 4 = 5,5]
 .. Celkový počet bodů se u každého příslušného závodníka rovná součinu bodů, které získali ve všech soutěžích (v jednotlivých disciplínách)
 .. Každému závodníkovi budou uděleny celkové body ve vzestupném pořadí, které se vypočítají pro všechny závodníky (tj. nižší hodnoty jsou lepší). V případě, že někteří soutěžící mají stejné celkové bodové ohodnocení, relativní celkové pořadí těchto závodníků s nerozhodnými výsledky se stanoví:
 ... [[cuk-2i]]porovnáním vzájemného výkonu těchto soutěžících; a
