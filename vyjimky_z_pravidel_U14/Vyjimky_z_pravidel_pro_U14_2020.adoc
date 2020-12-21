@@ -1,138 +1,106 @@
-[cols="",options="header",]
-|===
-|Český horolezecký svaz
-|Výjimky ze soutěžních pravidel ČHS pro závody mládeže do 14 let v soutěžním lezení pro rok 2020
-|
-|*Český horolezecký svaz*
-|*15.01.2020*
-|===
+:lang: cs
+include::../locale/attributes.adoc[]
+:doctype: book
+:imagesdir: ../media
+:!chapter-label:
+:!section-refsig:
+:!chapter-refsig:
+:xrefstyle: short
+:toc: left
+:toclevels: 1
+= Výjimky ze soutěžních pravidel ČHS pro závody mládeže do 14 let v soutěžním lezení pro rok 2020
+Český horolezecký svaz
+v1.0, 15.1.2020
+:title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
+:sectnums:
 
-[cols="",]
-|===
-|
-|===
+[preamble]
+Pro závody Českého poháru do 14 let platí <<..\provadeci_predpisy_mladez\Provadeci_predpisy_mladez_2020.adoc,„Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2020“>> a <<../pravidla/pravidla_SL.adoc,„Pravidla soutěžního lezení ČHS 2020“>> s výjimkami v těchto bodech:
 
-image:extracted-media\media\image1.jpeg[image,width=313,height=164]
-
-Obsah
-
-link:#_Toc30021972[1. Hodnocení a žebříčky 2]
-
-link:#_Toc30021973[2. Lezecká stěna 2]
-
-link:#_Toc30021974[3. Obtížnost 2]
-
-link:#_Toc30021975[3.1. Povolené formáty 2]
-
-link:#_Toc30021976[3.2. Startovní listiny 2]
-
-link:#_Toc30021977[3.3. Prohlídka cest 3]
-
-link:#_Toc30021978[3.4. Bezpečnost a jištění 3]
-
-link:#_Toc30021979[3.5. Ukončení pokusu v cestě 3]
-
-link:#_Toc30021980[4. Rychlost 3]
-
-link:#_Toc30021981[4.1. Předčasný start v závodech na rychlost 3]
-
-link:#_Toc30021982[4.2. Cesty u nominačního formátu 3]
-
-link:#_Toc30021983[5. Bouldering 4]
-
-link:#_Toc30021984[6. Protesty 4]
-
-Pro závody Českého poháru do 14 let platí „Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2020“ a „Pravidla soutěžního lezení ČHS 2020“ s výjimkami v těchto bodech:
-
-[arabic]
-. [#_Toc30021972 .anchor]####Hodnocení a žebříčky
+==Hodnocení a žebříčky
 
 Závody ČP do 14 let mají své vlastní hodnocení vedené na webových stránkách ČHS. Celkové pořadí je stanoveno po skončení posledního (finálového) závodu seriálu.
 
-[arabic, start=2]
-. [#_Toc30021973 .anchor]####Lezecká stěna
+== Lezecká stěna
 
 V případě, že stěna nesplňuje výškové požadavky dle soutěžních pravidel, ale umožňuje postavit plnohodnotné cesty v uvedené délce, může Komise udělit výjimku.
 
-[arabic, start=3]
-. [#_Toc30021974 .anchor]####Obtížnost
-. [#_Toc30021975 .anchor]####Povolené formáty
+== Obtížnost
+=== Povolené formáty
 
 U závodů Českého poháru do 14 let, kde lze kromě ustanovení pravidel soutěžního lezení využít i tyto možnosti:
 
-[arabic, start=5]
 . Formát závodů kategorie ČP do 14 let a určení pořadí:
-. Klasický formát – tj. 2 kvalifikační cesty + finále.
-. Rozšířený klasický formát – tj. 3 – 6 kvalifikačních cest + finále.
-. Volný formát – tj. 3 - 10 cest bez finále. Při tomto formátu závodů se výsledné pořadí každého závodníka určí geometrickým průměrem pořadí v jednotlivých cestách.
+.. Klasický formát – tj. 2 kvalifikační cesty + finále.
+.. Rozšířený klasický formát – tj. 3 – 6 kvalifikačních cest + finále.
+.. Volný formát – tj. 3 - 10 cest bez finále. Při tomto formátu závodů se výsledné pořadí každého závodníka určí geometrickým průměrem pořadí v jednotlivých cestách.
 
-Geometrický průměr se používá také pro výpočet pořadí pro postup do finále na základě výsledků z kvalifikačních cest. Geometrický průměr je definován jako n-tá odmocnina ze součinu pořadí v jednotlivých cestách: latexmath:[$Výsledné\ pořadí\  =$], kde r~1~, … r~n~ je umístění v jednotlivých kvalifikačních cestách, n je počet závodních cest.
++
+Geometrický průměr se používá také pro výpočet pořadí pro postup do finále na základě výsledků z kvalifikačních cest. Geometrický průměr je definován jako n-tá odmocnina ze součinu pořadí v jednotlivých cestách: asciimath:[Výsledné\ pořadí\ = root(n)(prod_(i=1)^n r_i)], kde asciimath:[r_1, … r_n] je umístění v jednotlivých kvalifikačních cestách, n je počet závodních cest.
 
-[arabic, start=9]
 . Ve finálových cestách závodů formátu klasického a rozšířeného rozhodčí měří a zaznamenávají čas. Čas je měřen od zahájení pokusu závodníka v cestě do jeho ukončení:
-. zapnutím poslední expresky (dosažením topu),
-. pádem,
-. porušením pravidel, znamenajícím ukončení pokusu v cestě (nepovolená pozice, zapnutí expresek v nesprávném pořadí, překročení časového limitu, využití nepovolených částí stěny k lezení atd.).
+.. zapnutím poslední expresky (dosažením topu),
+.. pádem,
+.. porušením pravidel, znamenajícím ukončení pokusu v cestě (nepovolená pozice, zapnutí expresek v nesprávném pořadí, překročení časového limitu, využití nepovolených částí stěny k lezení atd.).
 
++
 Tento čas je v případě bodové shody několika závodníků použit jako konečné kritérium pro stanovení konečného pořadí. V případě bodové shody na závodech formátu volného platí následující pravidlo: pokud na některém z prvních tří míst výsledného pořadí (po dolezení a vyhodnocení poslední cesty) dojde k bodové shodě, musí mezi závodníky proběhnout superfinále, kde se měří čas postupem uvedeným výše. První až třetí místo musí být obsazeno pouze jedním závodníkem.
 
-[arabic, start=13]
-. [#_Toc30021976 .anchor]####Startovní listiny
+== Startovní listiny
 
 Startovní pořadí na první kvalifikační cestě bude náhodné. Startovní pořadí na druhé kvalifikační cestě bude stejné jako na té první, ale s posunem 50%. Při více cestách v kvalifikaci se počet závodníků dělí počtem cest (nejvýše však na čtvrtiny).
 
-Příklad č. 1: Při dvaceti soutěžících v dané kategorii a dvou kvalifikačních cestách pak ten, který lezl jako 11. na první kvalifikační cestě, poleze na druhé cestě jako první.
+.{blank}
+====
+Při dvaceti soutěžících v dané kategorii a dvou kvalifikačních cestách pak ten, který lezl jako 11. na první kvalifikační cestě, poleze na druhé cestě jako první.
+====
 
-Příklad č. 2: Při dvaceti závodnících v dané kategorii a třech cestách v kvalifikaci poleze jako první na druhé cestě závodník, který lezl 7. a na třetí cestě 14. (ze startovní listiny na první cestu).
+.{blank}
+====
+Při dvaceti závodnících v dané kategorii a třech cestách v kvalifikaci poleze jako první na druhé cestě závodník, který lezl 7. a na třetí cestě 14. (ze startovní listiny na první cestu).
+====
 
-Příklad č. 3: Při dvaceti závodnících v dané kategorii a čtyřech cestách v kvalifikaci poleze jako první na druhé cestě závodník, který lezl 11., na třetí cestě 6. a na čtvrté cestě 16. (ze startovní listiny na první cestu).
+.{blank}
+====
+Při dvaceti závodnících v dané kategorii a čtyřech cestách v kvalifikaci poleze jako první na druhé cestě závodník, který lezl 11., na třetí cestě 6. a na čtvrté cestě 16. (ze startovní listiny na první cestu).
+====
 
 Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pokusu na další cestě musí být minimálně 15 minut.
 
-[arabic, start=14]
-. [#_Toc30021977 .anchor]####Prohlídka cest
+=== Prohlídka cest
 
 Na prohlídku cesty, pokud se leze stylem OS, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
-[arabic, start=15]
-. [#_Toc30021978 .anchor]####Bezpečnost a jištění
+=== Bezpečnost a jištění
 . Kvalifikační cesty:
-
++
 Kategorie U10 a U12 musí lézt s horním jištěním (top-rope) stylem "FLASH". Cesta musí být předlezena před začátkem závodu. Kategorie U14 může lézt s horním jištěním nebo se spodním jištěním. Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního rozhodčího tak, aby byla zajištěna bezpečnost závodníků. Pro zvýšení bezpečnosti lze lézt se zapnutou první expreskou v případě lezení se spodním jištěním.
 
-[arabic, start=17]
 . Finálová cesta:
-
-Kat. U10 a U12 musí lézt s horním jištěním (top-rope), stylem "ON-SIGHT".
-
-Kat. U14 musí lézt se spodním jištěním stylem "ON-SIGHT". Případnou změnu povoluje hlavní rozhodčí.
-
+Kat. U10 a U12:: musí lézt s horním jištěním (top-rope), stylem "ON-SIGHT".
+Kat. U14:: musí lézt se spodním jištěním stylem "ON-SIGHT". Případnou změnu povoluje hlavní rozhodčí.
++
 Při lezení s horním jištěním (top-rope) je přípustné navázání závodníka dle bodu 6.2.5.b) (dvě karabiny s pojistkou zámku - západky proti sobě, nebo jedna karabina se zajištěním proti pootočení).
-
++
 Při lezení s horním jištěním je jako TOP uznán poslední označený chyt kontrolovaně držený oběma rukama.
 
-[arabic, start=18]
-. [#_Toc30021979 .anchor]####Ukončení pokusu v cestě
+=== Ukončení pokusu v cestě
 
 Rozhodčí povolí závodníkovi na jeho žádost jeden další pokus v kvalifikačních cestách v případě pádu pod první expreskou nebo pod určeným označeným chytem, oznámeným v průběhu prohlídky. Aby nebylo pochyb, chyt může být jen kontrolován a nesmí být použit k dalšímu postupu.
 
-[arabic, start=19]
-. [#_Toc30021980 .anchor]####Rychlost
-. [#_Toc30021981 .anchor]####Předčasný start v závodech na rychlost
+== Rychlost
+=== Předčasný start v závodech na rychlost
 
 Pro závody v klasickém formátu a světovém formátu není závodník při předčasném startu okamžitě vyřazen, ale má možnost jednoho opravného pokusu na cestě.
 
-[arabic, start=21]
-. [#_Toc30021982 .anchor]####Cesty u nominačního formátu
+=== Cesty u nominačního formátu
 
 Nominační formát může proběhnout na jedné nebo dvou identických cestách.
 
-[arabic, start=22]
-. [#_Toc30021983 .anchor]####Bouldering
+== Bouldering
 
-Pro závody mládeže do 14 let neplatí ustanovení 5.4.5 a 5.4.7 Pravidel soutěžního lezení 2020, která zde mají pouze doporučující charakter.
+Pro závody mládeže do 14 let neplatí ustanovení <<../pravidla/pravidla_SL.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<../pravidla/pravidla_SL.adoc#pl-kv-flash-bouldering-7,5.4.7>> Pravidel soutěžního lezení 2020, která zde mají pouze doporučující charakter.
 
-[arabic, start=23]
-. [#_Toc30021984 .anchor]####Protesty
+== Protesty
 
 Poplatek je stanoven na 200 Kč.
