@@ -1,1 +1,1 @@
-asciidoctor-pdf -v -a lang=cs pravidla_SL2020.adoc
+asciidoctor-pdf -v -a lang=cs pravidla/pravidla_SL.adoc -D target
