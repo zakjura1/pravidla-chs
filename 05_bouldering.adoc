@@ -1,0 +1,168 @@
+[#bouldering]
+== BOULDERING
+
+[#obecne-bouldering]
+=== OBECNĚ
+
+. Tato pravidla je třeba číst v souvislosti s částí <<#obecna-pravidla>>, Obecná pravidla.
+. Soutěže v boulderingu sestávají ze série krátkých lezeckých cest zvaných bouldery. Všechny bouldery musejí být přelezeny bez pomoci lan. Počet lezeckých kroků na každém boulderu může být nejvýše 12 a průměrný počet lezeckých kroků na bouldery v jednom kole má být mezi 4 až 8.
+. Soutěže v boulderingu obvykle sestávají z kvalifikačního a finálového kola, v případě finále formátem SP i semifinálového kola.
+. Soutěž se může konat:
+.. ve dvou dnech. Pak se kvalifikace koná první den a finále druhý den.
+.. v jednom dni. Pak musí být minimálním časem prodlevy 2 hodiny mezi tím, co skončil poslední soutěžící z kvalifikace a uzavřením izolace finálového kola. Uzavření izolace nesmí proběhnout dříve, než jednu hodinu před startem finálového kola.
+. Přípustné systémy lezení boulderů v jednotlivých kolech jsou následující:
+.. kvalifikaci je možné lézt systémem:
+... FLASH – soutěžící se volně pohybují v prostoru závodu a pokusují bouldery v jimi zvoleném pořadí a za přítomnosti ostatních soutěžících (viz odstavec <<#prubeh-lezeni-kvalifikace-flash-bouldering>>)
+... [[klasicky-format]]Klasický formát – soutěžící lezou bouldery stylem On-sight - během kola jsou v izolaci a bouldery pokusují všichni ve stejném pořadí a s pravidelným časovým intervalem lezení a odpočinku (viz odstavec <<#prubeh-lezeni-kvalifikace-onsight-bouldering>>)
+.. finále je možné lézt systémem:
+... Klasický formát – viz <<#obecne-bouldering>>.<<klasicky-format,5.a.ii>>
+... Formát SP – leze se on-sight, všichni finalisté lezou nejprve první, pak druhý, atd. boulder.
+.. semifinále se leze pouze stylem On-sight - během kola jsou soutěžící v izolaci a bouldery pokusují všichni ve stejném pořadí a s pravidelným časovým intervalem lezení a odpočinku (viz odstavec <<#prubeh-lezeni-kvalifikace-onsight-bouldering>>)
+. Počet boulderů v kvalifikaci má být 5. Počet boulderů ve finále i semifinále má být 4.
++
+Počet boulderů v kvalifikačním kole a finále může být upraven Hlavním rozhodčím. Nesmí však v kvalifikaci přesáhnout 8 a klesnout pod 4 a ve finále a semifinále přesáhnout 6 a klesnout pod 4.
+
+. Z bezpečnostních důvodů bouldery musí být:
+.. vybaveny dopadovými matracemi. Je na zodpovědnosti Hlavního stavěče, aby byly matrace, poskytnuté pořadateli, náležitě umístěny, a aby byl počet a charakter boulderů přizpůsoben počtu dostupných matrací. Jsou-li matrace napojovány, je třeba zakrýt mezery mezi nimi, aby se předešlo tomu, že mezi ně soutěžící spadne;
+.. [[ob-7b]]postaveny tak, aby nejnižší část těla soutěžícího nebyla nikdy výše než 3 metry nad matracemi;
+.. postaveny tak, aby neobsahovaly skoky po chytech směrem dolů.
+. Hodnocení soutěžících na každém boulderu provádí minimálně jeden pomocný rozhodčí, pro finálová kola jsou doporučeni 2 pomocní rozhodčí, z nichž jeden může zároveň čistit chyty.
+. [[ob-9]]Každý boulder má stanovenou startovní pozici (nástup), odkud se pokus hodnotí jako úspěšně započatý. Nástup se skládá z chytu/chytů pro obě ruce a pro obě nohy. Jako startovní chyt nesmí být označeno prázdné místo nebo neohraničená plocha stěny.
++
+Veškeré pevně určené pozice musí být jasně označeny.
++
+Skupina chytů může být hodnocena a označena jako jeden chyt.
+
+. [[ob-10]]Jedním bonusovým bodem (tzv. zóna) bude hodnoceno držení určitého chytu na boulderu. Umístění tohoto chytu záleží na uvážení Hlavního stavěče. Tento chyt musí být zřetelně označen. Bonusový bod bude započítán i v případě, že soutěžící úspěšně přeleze boulder bez toho, aby bonusový chyt použil. Pro uznání zóny by měly být splněny následující podmínky: kontrolované držení označeného chytu, které bude uznáno při využití tohoto chytu k dosažení stabilní nebo kontrolované pozice.
+. [[ob-11]]Konec boulderu (top) může být určen jako:
+.. kontrolované držení posledního chytu oběma rukama. Takový chyt musí být jasně označen;
+.. postavení soutěžícího na vrcholu stěny (pozor jen na omezení v odstavci <<#obecne-bouldering>>.<<#ob-7b,7b>>)
+. Označení zmiňovaná v článcích <<#obecne-bouldering>>.<<#ob-9,9>>, <<#obecne-bouldering>>.<<#ob-10,10>> a <<#obecne-bouldering>>.<<#ob-11,11>> musejí být stejná pro celý průběh soutěže. Barvy použité pro označení nástupu a topu musí být stejné. Odlišná barva musí být použita pro označení bonusového chytu (zóny). Obě tyto barvy musí být odlišné od barvy použité na ohraničení podle <<#lezecka-stena>>.<<#ls-2>>. Příklad musí být instalován na rozcvičovací stěně v izolační zóně.
+. Je vhodné, aby bouldery byly postaveny tak, aby byly viditelné z jakéhokoliv místa v hledišti. V zájmu diváků by měly být všechny bouldery postaveny na vyvýšeném podiu.
+. Každý závodník je povinen odevzdat řádně vyplněnou a podepsanou kartu se záznamem svých pokusů nejpozději do 5 minut po skončení kola hlavnímu rozhodčímu nebo osobě jím určené, popř. u registrace. Nedodržení časového limitu pro odevzdání bude mít za následek nezapočítání výsledků kola, jehož zápis závodník včas neodevzdal.
+
+[#startovni-listiny-bouldering]
+=== STARTOVNÍ LISTINY
+
+. Při kvalifikaci lezené on-sight se startovní pořadí určí podle průběžného rankingu, a to ve shodném pořadí – nejlépe umístěný soutěžící leze první. Soutěžící neuvedení v aktuálním průběžném rankingu startují poslední v náhodném pořadí.
+. Při kvalifikaci lezené systémem FLASH nastupují soutěžící na bouldery v libovolném pořadí podle vlastního výběru, viz odstavec <<#prubeh-lezeni-kvalifikace-flash-bouldering>>.
+. Startovní pořadí ve finále a semifinále musí být opakem umístění v předchozím kole, tedy nejlépe hodnocený soutěžící leze jako poslední. V případě shodného umístění soutěžících v kvalifikaci (případně i semifinále) bude jejich startovní pořadí v dalších kolech (finále, semifinále) následující:
+.. pokud jsou soutěžící uvedeni v průběžném rankingu, lezou v obráceném pořadí, než jak jsou v něm seřazeni;
+.. pokud někteří soutěžící jsou a někteří nejsou v aktuálním průběžném rankingu, lezou nejprve ti, kteří v žebříčku nejsou;
+.. pokud soutěžící v aktuálním průběžném rankingu nejsou uvedeni, startují v náhodném pořadí. Losování pořadí se provede pro každé kolo nově.
+
+[#prohlidka-bouldering]
+=== PROHLÍDKA BOULDERŮ
+
+. V kvalifikaci lezené systémem flash je doba prohlídky součástí času kvalifikačního kola, závodníci proto v jejím průběhu mohou absolvovat své pokusy. Vede ji hlavní stavěč, který se závodníky prochází všechny bouldery. Soutěžící musejí po dobu prohlídky setrvat ve vyznačeném prostoru. Není povoleno lézt na stěny nebo si stoupat na jakékoliv vybavení nebo nábytek. Je dovoleno dotýkat se rukama pouze označených nástupních chytů s tím, že soutěžící nesmí opustit zem oběma nohama.
+. V kvalifikaci, semifinále a ve finále lezeném klasickým formátem není žádný samostatný čas vyhrazený na prohlídku, prohlídka je zde součástí času vyhrazeného na přelezení boulderu. Soutěžící musejí po dobu prohlídky setrvat ve vyznačeném prostoru. Není povoleno lézt na stěny nebo si stoupat na jakékoliv vybavení nebo nábytek. Soutěžící nesmějí žádným způsobem komunikovat s kýmkoliv mimo vymezený prostor. Informace mohou dostávat pouze od Hlavního nebo pomocného rozhodčího přiděleného k danému boulderu. Je dovoleno dotýkat se rukama pouze označených nástupních chytů s tím, že soutěžící nesmí opustit zem oběma nohama.
+. Před finálovým kolem lezeným systémem SP je společná prohlídka všech boulderů s tím, že na každý boulder je vyhrazen samostatný pozorovací čas 2 minuty. Soutěžící musejí po dobu prohlídky setrvat ve vyznačeném prostoru. Není povoleno lézt na stěny nebo si stoupat na jakékoliv vybavení nebo nábytek. Soutěžící nesmějí žádným způsobem komunikovat s kýmkoliv mimo vymezený prostor. Informace mohou dostávat pouze od Hlavního nebo pomocného rozhodčího přiděleného k danému boulderu. Je dovoleno dotýkat se rukama pouze označených nástupních chytů s tím, že soutěžící nesmí opustit zem oběma nohama.
+
+[#prubeh-lezeni-kvalifikace-flash-bouldering]
+=== PRŮBĚH LEZENÍ – KVALIFIKACE FLASH
+
+. Při kvalifikaci lezené systémem FLASH lezou soutěžící bouldery v libovolném pořadí v rámci celkového časového limitu stanoveného pro celou kategorii.
+. Po neúspěšném dokončení pokusu v jednom boulderu může závodník nastoupit znovu do téhož boulderu pouze pokud není u tohoto boulderu přítomen jiný/jiní soutěžící, který má zájem na něm uskutečnit svůj pokus. Pokud soutěžící dokončí pokus úspěšně, již se do něj nesmí vracet k dalším pokusům.
+. Každý pokus soutěžícího musí začít z pozice popsané v odstavci <<#obecne-bouldering>>.<<#ob-9,9>>.
+. Jednotlivé chyty musejí být průběžně čištěny pomocným rozhodčím nebo personálem pořadatelů, tak, aby všichni soutěžící měli stejné podmínky. Soutěžící také může požadovat, aby byly chyty očištěny bezprostředně před jeho pokusem na boulderu. Soutěžící mohou před každým pokusem za pomoci kartáčů a jiných pomůcek očistit chyty, na které dosáhnou ze země a to včetně použití dlouhých kartáčů k očištění výše umístěných chytů. Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořadateli.
+. Rozdělení závodníků do kvalifikačních skupin je definováno následující tabulkou. Hlavní rozhodčí může navýšit minimální čas. Ve výjimečných případech může hlavní rozhodčí navýšit i počet závodníků ve skupině, ale v tomto případě použije minimální čas platný pro tento navýšený počet.
++
+[cols="^2,^4,^2",options="header",width=60%]
+[.center]
+|===
+|Počet boulderů |Maximální počet závodníků |Minimální čas
+|8 |30 |90
+|7 |27 |80
+|6 |24 |70
+|5 |21 |60
+|4 |18 |50
+|===
++
+. Hlavní rozhodčí po dohodě s Delegátem ČHS může po skončení registrace závodníků rozhodnout o maximálním počtu pokusů závodníka na boulder. Tento počet pokusů ale nesmí klesnout pod 5. O této skutečnosti musí být závodníci informování.
+. Delegát ČHS po dohodě s Hlavním rozhodčím může povolit formát s jednou kvalifikační skupinou. V tomto případě musí být časový limit kola upraven tak, že základní časový interval je 105 minut pro maximálně 30 závodníků. Za každých dalších maximálně 5 závodníků se přidává 10 minut.
+
+[#prubeh-lezeni-kvalifikace-onsight-bouldering]
+=== PRŮBĚH LEZENÍ – KVALIFIKACE ON-SIGHT, SEMIFINÁLE A FINÁLE KLASICKÝM FORMÁTEM
+
+. Při kvalifikaci lezené on-sight, semifinále a finále klasickým formátem musejí soutěžící lézt bouldery ve stanoveném pořadí. Po každém boulderu má soutěžící odpočinkový čas, který je stejný jako čas přidělený na přelezení boulderu, kterému se říká časový interval, ten je 5 minut. Každý boulder musí obsahovat i jasně vyznačený prostor, odkud soutěžící boulder může vidět a který musí obsahovat bezpečnostní žíněnky.
+. Soutěžící, kteří lezou, musejí s koncem časového intervalu ukončit lezení a vrátit se do prostoru pro odpočinek – přechodné izolace. Z tohoto místa nesmí být možné pozorovat žádný boulder. Soutěžící, kterému skončil odpočinkový čas, se musí přesunout k dalšímu boulderu.
+. Každý pokus soutěžícího musí začít z pozice popsané v odstavci <<#obecne-bouldering>>.<<#ob-9,9>>.
+. Začátek (a konec) každé doby střídání musí být oznámen hlasitým a jasným signálem. Když zbývá jedna minuta do konce doby střídání, bude to oznámeno jiným signálem. V soutěžní zóně musí být umístěna časomíra, zobrazující neustále zbývající časový limit. Počet a umístění zařízení zobrazujících časový limit musí být stanoven tak, aby byla vidět ode všech lezených boulderů, z prostoru pro odpočinek a ze všech částí hlediště.
+. Jednotlivé chyty musejí být očištěny pomocným rozhodčím nebo personálem pořadatelů před tím, než soutěžící nastoupí svůj první pokus na daný boulder. Soutěžící také může požadovat, aby byly chyty očištěny před každým jeho pokusem na boulderu. Soutěžící mohou před každým pokusem za pomoci kartáčů a jiných pomůcek očistit chyty, na které dosáhnou ze země – a to včetně použití dlouhých kartáčů k očištění výše umístěných chytů. Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořadateli.
+
+[#prubeh-lezeni-finale-sp-bouldering]
+=== PRŮBĚH LEZENÍ – FINÁLE SYSTÉMEM SP
+
+. Ve finálovém kole lezeném systémem SP musí být každý boulder lezen všemi soutěžícími podle pořadí jejich startovních čísel a teprve potom se soutěžící přesunou k dalšímu boulderu. Pokud obě kategorie lezou současně, pak pokusují současně boulder stejného pořadí, tedy pokud jedna kategorie skončí své pokusy dříve, počká, než druhá kategorie dokončí své pokusy, a poté se společně přesunou na další boulder.
+. Doba lezení ve finále jsou 4 minuty. Jestliže soutěžící ukončí svůj pokus před uplynutím 4minutového limitu, musí se vrátit do přechodné izolace v tranzitním prostoru a další lezec v pořadí musí být připraven ihned zahájit svůj pokus.
+. Každý pokus soutěžícího musí začít z pozice popsané v odstavci <<#obecne-bouldering>>.<<ob-9,9>>.
+. Začátek (a konec) každého časového limitu musí být oznámen hlasitým a jasným signálem. Když zbývá jedna minuta do konce doby střídání, bude to oznámeno jiným signálem. V soutěžní zóně musí být umístěna časomíra, zobrazující neustále zbývající časový limit. Počet a umístění zařízení zobrazujících časový limit musí být stanoven tak, aby byla vidět ode všech lezených boulderů, z prostoru pro odpočinek a ze všech částí hlediště.
+. Jednotlivé chyty musejí být očištěny pomocným rozhodčím nebo personálem pořadatelů před tím, než soutěžící nastoupí svůj první pokus na daný boulder. Soutěžící také může požadovat, aby byly chyty očištěny před každým jeho pokusem na boulderu. Soutěžící mohou před každým pokusem za pomoci kartáčů a jiných pomůcek očistit chyty, na které dosáhnou ze země - a to včetně použití dlouhých kartáčů k očištění výše umístěných chytů. Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořadateli.
+
+[#zacatek-a-konec-pokusu-bouldering]
+=== ZAČÁTEK A KONEC POKUSU
+
+. Pokus se považuje za započatý, když závodník přeruší kontakt se zemí poslední částí těla.
+. Pokus je považován za úspěšný, když pomocný rozhodčí potvrdí, že soutěžící dosáhl topu v souladu s odstavcem <<#obecne-bouldering>>.<<#ob-11,11>> a ohlásí „TOP“.
+. Pokus je považován za neúspěšně ukončený když:
+.. soutěžící se nedostane do startovní pozice popsané v odstavci <<#obecne-bouldering>>.<<#ob-9,9>>;
+.. [[tib-3]]soutěžící použije k lezení jakoukoli jinou část stěny, chytu nebo struktury, než je povoleno v odstavci <<#lezecka-stena>>.<<#ls-1,1>> nebo takovou, která je označena jako zakázaná pro lezení v souladu s odstavcem <<#lezecka-stena>>.<<#ls-2,2>>;
+.. soutěžící se dotkne země jakoukoli částí těla;
+.. pokus nebyl dokončen před vypršením časového intervalu
+.. soutěžící nezačne tak, jak stanoví rozhodčí daného boulderu.
+
++
+Pokus bude také započítán v případě:
+[start=6]
+.. dotyku rukou, nohou nebo magnesiování chytů jiných než startovních (viz odstavec <<#obecne-bouldering>>.<<#ob-9,9>>) nebo chytů či struktur, které jsou umístěny nebo blokují použitelnou část jakéhokoliv startovacího chytu.
+.. dělání jakýchkoliv značek na stěně nebo chytech.
+. V případě porušení pravidel v odstavci <<#zacatek-a-konec-pokusu-bouldering>>.<<#tib-3,3b.-c.>> musí rozhodčí nařídit soutěžící/mu ukončit pokus.
+
+[#technicke-incidenty-bouldering]
+=== TECHNICKÉ INCIDENTY
+
+. Pokud se soutěžící, zástupce soutěžícího nebo boulderový rozhodčí se domnívají, že nastal technický incident, musí to ohlásit hlavnímu rozhodčímu před zahájením dalšího pokusu. Technický incident se nebere v úvahu, pokud nastal po signálu oznamující konec časového limitu.
+. Hlavní rozhodčí, po případné konzultaci s hlavním stavěčem určí zda došlo k technickému incidentu. Aby se předešlo pochybnostem za technický incident se nepovažuje:
+.. přerušení pokusu soutěžícího z důvodu zastavení jeho krvácení
+. Když nastane technický incident, pak první následující pokus soutěžícího, kterého technický incident postihl, na tom boulderu, kde technický incident nastal, je považován za pokračování původního pokusu.
++
+Pokud soutěžící, kterému se stal technický incident, dokončuje svůj pokus po opravě, má k dispozici zbytek časového limitu z momentu, kdy se technický incident objevil, s tím, že minimální čas jsou 2 minuty.
+
+. V případě technického incidentu během kvalifikace lezené systémem flash se boulder po dobu opravy uzavře. Celkový časový limit se prodlouží o dobu potřebnou na opravu technického incidentu pokud doba opravy přesáhne 10 minut.
+. Technický incident během kol lezených klasickým formátem on-sight:
+.. Pokud je možné potvrzený technický incident opravit před koncem daného časového limitu, soutěžící má možnost ve svém pokusu (pokusech) pokračovat.
+... Rozhodne-li se soutěžící lézt dál, znamená to konec technického incidentu a v budoucnu nebude brán ohled na žádné protesty s tímto incidentem spojené.
+... Rozhodne-li se soutěžící ve svém pokusu v daném časovém limitu nepokračovat, pak soutěžící na daném boulderu, kde technický incident nastal, dokončí svůj pokus v časovém limitu určeném Hlavním rozhodčím.
+.. Jestliže není možné opravu dokončit před koncem daného časového limitu, pak bude v momentě, kdy zazní signál označující konec časového limitu, dané kolo pro soutěžícího, kterého technický incident postihl a pro soutěžící na předchozích boulderech Hlavním rozhodčím zastaveno. Ostatní soutěžící v kole pokračují. Po dokončení opravy má soutěžící, kterého technický incident postihl, k dispozici zbytek časového limitu z momentu, kdy se technický incident objevil s tím, že minimální časový limit bude 2 minuty. Poté soutěž znovu začne pro všechny soutěžící, jejichž pokusy byly zastaveny, a to signálem ohlašujícím časový limit.
+. Nastane-li technický incident ve finále lezeném systémem SP, soutěžící, kterého technický incident postihl, se musí odebrat do přechodné izolace v tranzitní zóně a tam počkat na opravu. Po dokončení opravy se soutěžící musí vrátit k zopakování svého pokusu(ů).
++
+Soutěžící má k dispozici zbytek časového limitu z momentu, kdy technický incident nastal s tím, že minimální čas jsou 2 minuty.
+
+[#poradi-po-kazdem-kole-bouldering]
+=== POŘADÍ PO KAŽDÉM KOLE
+
+. Po každém kole jsou soutěžící hodnoceni podle následujících kritérií:
+.. Počet úspěšně přelezených boulderů;
+.. Celkový počet získaných zón;
+.. Celkový počet pokusů pro úspěšné přelezení těchto boulderů;
+.. Celkový počet pokusů pro získané zóny.
+. Nastane-li na nějaké pozici remíza, vezmou se v úvahu výsledky soutěžících z předchozího kola.
+. Nastane-li remíza na prvních třech místech ve finálovém kole poté, co bylo aplikováno zpětné hodnocení, jejích umístění bude vyhodnoceno následovně:
+.. [[ppkk-a]]porovnáním nejlepších výsledků každého závodníka ve finálovém kole, počínaje počtem Topů získaných na první pokus, potom počtem Topů získaných na druhý pokus, atd.
+.. [[ppkk-b]]pokud porovnání podle <<ppkk-a,a.>> nerozhodlo, pak porovnáním ve finálovém kole počtu získaných Zón na první pokus, potom počtu Zón na druhý pokus atd.
+.. [[ppkk-c]]pokud soutěžící zůstali na prvním, druhém případně třetím místě stále nerozřazeni po aplikování <<ppkk-a,a.>> a <<ppkk-b,b.>>, pak proces bude opakován s výsledky ze semifinálového kola, případně pokud je to možné z kvalifikačního kola. (např. pokud byla jen jedna skupina, případně více skupin lezlo identické bouldery)
+.. pokud soutěžící zůstali na prvním, druhém případně třetím místě stále nerozřazeni po aplikování <<ppkk-a,a.>>, <<ppkk-b,b.>> a <<ppkk-c,c.>>, pak budou hodnoceni na stejné pozici.
+. Nastane-li remíza na jiných místech, pak příslušní závodníci budou hodnocení na stejné pozici.
+
+[#stanoveny-pocet-soutezicich-pro-kazde-kolo-bouldering]
+=== STANOVENÝ POČET SOUTĚŽÍCÍCH PRO KAŽDÉ KOLO
+
+. Část <<#stanoveny-pocet-soutezicich-pro-kazde-kolo-bouldering>> je nutné číst ve spojení s výše zmiňovanou částí <<#poradi-po-kazdem-kole-bouldering>>, tedy dříve, než aplikujeme část <<#stanoveny-pocet-soutezicich-pro-kazde-kolo-bouldering>>, je třeba dokončit vypracování umístění.
+. Stanovený počet soutěžících kvalifikujících se do finále v klasickém formátu je 8. Pokud je finále lezeno formátem SP, je stanovený počet soutěžících kvalifikujících se do finále 6. V případě finále ve formátu SP by mělo být součástí závodu semifinále, kde je stanovený počet soutěžících kvalifikujících se do semifinále 20. O možnosti zařadit závod s finálovým kolem ve formátu SP bez semifinále rozhoduje na návrh pořadatele delegát ČHS ještě před vydáním propozic, kde tato skutečnost následně musí být uvedena.
+. Stanovená kvóta bude naplněna soutěžícími s nejlepším umístěním z předešlého kola.
+. Je-li stanovená kvóta přesažena v důsledku remízy soutěžících, pak se do dalšího kola soutěže kvalifikují všichni remízující soutěžící.
+
+[#pouziti-videozaznamu-bouldering]
+=== POUŽITÍ VIDEOZÁZNAMU
+
+. Oficiální videozáznam pokusů soutěžících může být použit Odvolací porotou při hodnocení oficiálních protestů.

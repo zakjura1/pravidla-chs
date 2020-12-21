@@ -1,0 +1,1 @@
+asciidoctor-pdf -v -a lang=cs pravidla_SL2020.adoc

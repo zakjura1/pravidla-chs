@@ -1,0 +1,219 @@
+[#obecna-pravidla]
+== OBECNÁ PRAVIDLA
+
+[#discipliny]
+=== DISCIPLÍNY
+. Soutěže ve sportovním lezení se dělí do následujících disciplín:
+.. Lezení na obtížnost: cesty se lezou s jištěním soutěžícího lanem a nejdelší dosažená vzdálenost v linii cesty určuje umístění soutěžícího.
+.. Bouldering: řada jednotlivých, krátkých cest (boulderů) je lezena bez lezeckého lana, s ochrannými matracemi. Úhrnný počet bodů dosažených soutěžícím při lezení boulderů a počet pokusů nutných k jejich získání určuje umístění soutěžícího.
+.. Rychlost: cesty jsou lezeny s horním jištěním (top-rope). O umístění soutěžícího rozhoduje čas, potřebný k přelezení cesty.
+.. Kombinace: soutěží se ve všech třech uvedených disciplínách (obtížnost, rychlost, bouldering), úhrnný počet bodů získaný soutěžícím za umístění v jednotlivých disciplínách určuje umístění soutěžícího.
+. Soutěže se mohou sestávat z oddělených soutěží pro lezení na obtížnost, boulderingu a lezení na rychlost. V jednotlivé soutěži nemusejí být všechny disciplíny zastoupeny.
+. Každá národní soutěž musí zahrnovat dvě kategorie: mužskou a ženskou.
+. Národní soutěže mohou obsahovat cesty/bouldery, které jsou přelézány:
+.. On-sight: po schválené prohlídce cesty, kdy soutěžícím není dovoleno vidět ostatní soutěžící v cestě nebo boulderu před svým pokusem;
+.. Flash: po předlezení cesty/boulderu předlezcem a/nebo po zhlédnutí pokusů ostatních soutěžících.
+. Národní soutěže jsou vyhlašovány v mezinárodním nebo Open formátu. Tato informace musí být uvedena v propozicích závodu.
+.. Mezinárodní formát – počty postupujících závodníků do dalších kol se nenavyšují o zahraniční účastníky
+.. Open formát – počty postupujících závodníků do dalších kol se navyšují o zahraniční účastníky
+
+[#lezecka-stena]
+=== LEZECKÁ STĚNA
+. [[ls-1]]Celý povrch lezecké stěny je možno použít k lezení s následujícími výjimkami:
+.. Otvory v lezecké stěně sloužící k montáži chytů nesmí soutěžící v lezení používat rukama;
+.. Pro lezení není dovoleno používat ani boční, ani horní okraj stěny.
+. [[ls-2]]Je-li potřeba ohraničit chyty, části stěny nebo struktury, které nejsou k lezení povoleny, je k tomuto vymezení třeba použít jasně rozpoznatelné černé vyznačení. V případě nutnosti lze využít jinou, kontrastní barvu, pak ale musí být tato barva jasně specifikována při prohlídce cesty.
+
+[#bezpecnost]
+=== BEZPEČNOST
+. Pořadatel soutěže je zodpovědný za udržování bezpečnosti na závodišti a ve veřejném prostoru ve vztahu k veškerým aktivitám spojeným s průběhem soutěže.
+. Hlavní rozhodčí po poradě s Hlavním stavěčem má pravomoc dělat rozhodnutí související s otázkami bezpečnosti na závodišti, včetně toho, že odmítne povolit start nebo pokračování jakékoliv části soutěže. Jakákoliv osoba, na kterou má Hlavní rozhodčí podezření, že porušila nebo pravděpodobně porušila bezpečnostní postupy, bude zbavena svých povinností a/nebo bude muset opustit závodiště.
+. Jističi jmenovaní pořadatelem musí být vycvičeni pro soutěžní způsob jištění. Hlavní rozhodčí může pořadatelům kdykoliv v průběhu soutěže nařídit výměnu kteréhokoliv jističe. Je-li jistič vyměněn, nesmí mu být dovoleno nadále jistit jakéhokoliv soutěžícího v dané soutěži.
+. Každá cesta nebo boulder musí být navržen(a) tak, aby se předešlo nebezpečí zranění soutěžícího při pádu, popřípadě zranění nebo omezení jakéhokoliv jiného soutěžícího nebo třetí osoby.
+. Hlavní rozhodčí a Hlavní stavěč musejí zkontrolovat každou cestu nebo boulder před zahájením každého soutěžního kola, aby se zajistilo zachování bezpečnostních norem.
+. Veškeré vybavení používané v soutěži – jak organizátorem, tak soutěžícími - musí být v souladu s odpovídajícími normami. V rámci těchto požadavků musejí soutěžící v lezení na obtížnost a na rychlost používat jednoduché lano poskytnuté pořadateli (výjimkou je pouze použití automatického jistícího zařízení v případě lezení na rychlost). O frekvenci, se kterou se lano bude měnit, musí rozhodnout Hlavní rozhodčí.
+. Následující bezpečnostní opatření musí být dodržována při stavbě cest:
+.. Každý bod postupového jištění použitý v soutěži, včetně posledního, musí být vybaven expreskou: schválená a správně zapnutá 8 nebo 10 mm karabina Maillon Rapide, ke které je připnuta spojitá, strojově sešitá smyčka, na jejímž druhém konci je karabina, ke které soutěžící musí připnout lano. Musí být minimalizována možnost přetočení karabiny.
+.. Tam, kde je potřeba prodloužit normální expresku, je nutno použít namísto kratší expresky spojitou, strojově sešitou smyčku o stejné nosnosti. Oko smyčky je možné spojit lepicí páskou. Za žádných okolností není možné takovouto smyčku zkracovat nebo upravovat za pomoci uzlů. Za žádných okolností se nesmí použít řetěz z normálně dlouhých expresek (spojených jedna k druhé buď za pomoci karabiny Maillon Rapide nebo za pomoci karabin s pojistkou či bez ní). Není dovoleno používat svázané lano nebo svázanou plochou smyčku.
+. Hlavní rozhodčí musí ověřit, že je na místě vhodně kvalifikovaný zdravotnický personál, aby bylo možné zajistit rychlou pomoc v případě jakékoliv úrazu nebo zranění soutěžícího či pořadatele na závodišti.
++
+Tento zdravotnický personál soutěže musí být přítomen od plánovaného otevření izolace nebo rozcvičovací zóny do konce pokusu posledního soutěžícího.
+. Existují-li důvody věřit, že je soutěžící z jakéhokoliv důvodu nezpůsobilý soutěžit (např. zranění nebo nemoc), je Hlavní rozhodčí oprávněn vyžádat si prohlídku soutěžícího. Tu provede zdravotník pořadatele a bude spočívat v následujícím tělesném testu:
+.. Dolní končetiny: Soutěžící musí být schopen udělat pět po sobě jdoucích skoků na každé noze.
+.. Horní končetiny: Soutěžící musí být schopen udělat pět po sobě jdoucích kliků na obou rukou.
+.. Krvácení: Soutěžící musí být schopen zastavit krvácení, tak aby se krev nedostala na chyty. Bílý kapesník aplikovaný na ránu po zakrytí (např. páskou) nesmí vykazovat žádné známky krve.
++
+Jestliže si po výsledcích tohoto vyšetření zdravotnický personál myslí, že je soutěžící nezpůsobilý k soutěžení, Hlavní rozhodčí nesmí soutěžícího nechat soutěžit. Když se později objeví důkazy o tom, že se soutěžící zotavil, může požádat o opětné podstoupení tělesných testů. Jestliže si po výsledcích tohoto vyšetření lékařský personál myslí, že je soutěžící způsobilý k soutěžení, Hlavní rozhodčí musí soutěžícího nechat soutěžit.
+. Za žádných okolností není možné přijímat zvláštní opatření na základě žádosti soutěžícího (např. slézaní z vrcholu boulderu na zem po žebříku).
+
+[#startovni-listiny]
+=== STARTOVNÍ LISTINY
+. Oficiální startovní listina kvalifikačního kola musí být sestavena neprodleně po ukončení registrace soutěžících v den závodu.
++
+Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabuli a v izolaci a budou k dispozici členům soutěžní poroty, vedoucím týmů, komentátorovi a zástupcům médií.
+. Startovní listiny pro každé nadcházející kolo soutěže budou sestaveny a vydány ve shodě s výše napsaným, a to poté, co budou vypsány oficiální výsledky a po uzavření veškerých protestů.
+. Startovní listiny musejí obsahovat následující informace:
+.. Startovní pořadí;
+.. Jméno a příjmení soutěžícího;
+.. Státní příslušnost;
+.. Ročník narození soutěžícího;
+.. Časy otevření a uzavření izolace, je-li to relevantní;
+.. Čas startu kola;
+.. Jakoukoliv jinou informaci schválenou Hlavním rozhodčím.
+. Způsob přípravy startovních listin pro jednotlivé disciplíny je uveden v odstavci <<#startovni-listiny-obtiznost>> pro obtížnost, odstavci <<#startovni-listiny-bouldering>> pro bouldering a odstavcích <<#kvalifikace-kf-rychlost>>, <<#kvalifikace-sf-rychlost>>, <<#finale-kf-sf-rychlost>> pro rychlost.
+
+[#registrace-a-izolace]
+=== REGISTRACE A IZOLACE
+. [[registrace-a-izolace-1]]Všichni soutěžící způsobilí soutěžit v některém kole soutěže se musejí zaregistrovat v registračním oddělení, a to nejpozději v časovém limitu určeném pořadateli.
+. [[registrace-a-izolace-2]]Pouze níže jmenované osoby mohou vstoupit do izolační zóny:
+.. Soutěžní činitelé ČHS;
+.. Pořadatelé;
+.. Soutěžící oprávnění účastnit se aktuálního soutěžního kola;
+.. Oprávnění trenéři;
+.. Ostatní osoby zmocněné Hlavním rozhodčím. Tyto osoby musejí být během svého setrvání v izolaci, v rámci zachování bezpečnosti v izolaci a v rámci zabránění nepatřičného rozptylování soutěžících nebo kontaktu s nimi, pod dohledem k tomu zmocněného oficiálního činitele.
+
+. [[registrace-a-izolace-3]]Do izolační zóny nesmějí zvířata. Výjimky z tohoto pravidla musejí být schváleny Hlavním rozhodčím.
+
+. [[registrace-a-izolace-4]]Kouření v prostoru izolace je zakázáno. Pořadatel však může vyhradit prostor pro kuřáky tak, aby nedošlo porušení podmínek izolace a nebyli omezování ostatní soutěžící.
+
+. [[registrace-a-izolace-5]]Soutěžící musejí dodržovat podmínky izolace během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
+
+. Žádný soutěžící nebo člen týmu u sebe nesmí mít žádné elektronické komunikační zařízení, když se nalézá v soutěžním prostoru, aniž by mu to povolil Hlavní rozhodčí.
+
+. Soutěžící nesmí v průběhu pozorování a lezení poslouchat žádné audio zařízení.
+
+. Průběžné výsledky mohou být zobrazovány v izolaci nebo viditelné z izolace.
+
+[#prohlidka-cesty]
+=== PROHLÍDKA CESTY
+
+. Před začátkem pokusu daného kola je soutěžícím registrovaným pro toto konkrétní kolo povolena prohlídka cesty, během níž mají příležitost si prohlédnout cestu(y) nebo boulder(y). Konkrétní pravidla pro tato pozorování jsou definována v příslušných odděleních týkajících se lezení na obtížnost, boulderingu a rychlosti.
+
+. Při prohlídce musejí soutěžící dodržovat pravidla izolace. Trenéři nesmějí soutěžící během pozorování doprovázet. Soutěžící musejí po dobu pozorování setrvat ve vyznačeném pozorovacím prostoru. Není povoleno lézt na stěnu nebo si stoupat na jakékoliv vybavení nebo nábytek. Soutěžící nesmějí žádným způsobem komunikovat s kýmkoliv mimo prostor pro prohlídku.
+
+. Během času určeného k prohlídce cest nebo boulderů mohou soutěžící používat dalekohled, mohou si kreslit náčrtky (plánky) nebo si psát poznámky. Žádné jiné pozorovací nebo záznamové vybavení není povoleno.
+
+. Soutěžící nesmí mít jiné informace o dané cestě nebo boulderu než ty, které získají v průběhu oficiální prohlídky nebo ty, které získají od Hlavního rozhodčího nebo Hlavního stavěče.
+
+. Je na vlastní zodpovědnosti každého soutěžícího, aby se informoval o veškerých pokynech týkajících se dané cesty nebo boulderu.
+
+[#priprava-pred-lezenim]
+=== PŘÍPRAVA PŘED LEZENÍM
+
+. Po obdržení oficiálního pokynu k opuštění izolace a pokračování do přípravné zóny, nesmí soutěžícího doprovázet nikdo jiný než pověření činitelé.
+
+. S příchodem do přípravné zóny soutěžící provede poslední přípravy před svým pokusem, nazuje si lezečky, naváže se na lano atd., cokoliv je relevantní pro daný typ soutěže.
+
+. Veškeré používané lezecké vybavení, včetně navázání v případě lezení na obtížnost, musí být schváleno pověřeným činitelem jak z hlediska bezpečnosti, tak z hlediska vyhovění předpisům ČHS, a to ještě předtím, než je soutěžícímu povoleno zahájit svůj pokus na cestě/boulderu. Každý soutěžící je výhradně zodpovědný za vybavení a oblečení, které při svém pokusu hodlá použít.
+
+. Každý soutěžící se připraví na opuštění přípravné zóny a k přechodu do soutěžní zóny, když k tomu bude vyzván. Jakékoliv nepřiměřené zdržení v tomto ohledu může vyústit v obdržení žluté karty. Jakákoliv další prodleva bude mít za následek diskvalifikaci v souladu s částí <<#disciplinarni-rizeni>>.
+
+[#obleceni-a-vybaveni]
+=== OBLEČENÍ A VYBAVENÍ
+
+. Veškeré vybavení, které soutěžící používá, musí být v souladu s příslušnými normami. Použití neschváleného vybavení nebo neschválené úpravy vybavení, uzlů, oblečení, jakýkoliv nesoulad s pravidly o reklamě, jakékoliv porušení jakékoliv části pravidel a nařízení ČHS týkajících se oblečení a vybavení, bude mít pro soutěžícího za následek disciplinární postih ve shodě s částí <<#disciplinarni-rizeni>>.
+
+. Pořadatel má právo vybavit soutěžící jednotným soutěžním dresem – trikem. Soutěžící je povinen takový dres nosit v průběhu všech svých pokusů a při vyhlášení výsledků.
+
+. Každý závodník
+.. musí mít oblečení na horní i dolní části těla. V případě nevhodných klimatických podmínek může hlavní rozhodčí udělit výjimku z tohoto pravidla.
+
+.. musí mít během pokusu lezeckou obuv a v disciplínách, kde to je relevantní úvazek
+
+.. mohou používat podle svého uvážení pytlík s magnéziem (suchým nebo tekutým) pouze na své ruce. Nesmí být použité další činidla pro zvýšení přilnavosti (např. pryskyřice)
+
+.. mohou použít helmu
+
+.. nesmí během pokusu mít oblečené ani nést audio zařízení
+
+. Veškeré vybavení a oblečení musí být v souladu s následujícími pravidly týkajícími se reklamy:
+
+.. Pokrývka hlavy: Pouze jméno výrobce a/nebo logo;
+
+.. Úvazek: Jméno výrobce a/nebo logo a sponzorský nápis (y) – ne celkově větší než 200 čtverečních centimetrů;
+
+.. Pytlík s magnéziem: Jméno výrobce a/nebo logo a sponzorský nápis (y) – ne celkově větší než 100 čtverečních centimetrů;
+
+.. Nohy: Jméno výrobce a/nebo logo a sponzorský nápis(y) – ne celkově větší než 300 čtverečních centimetrů na každou nohu;
+
+.. Boty a ponožky: Pouze jméno výrobce a/nebo logo.
+
++
+Výrazy a loga označující oddílovou příslušnost, jsou povoleny na všech výše zmíněných položkách navíc k uvedeným velikostním omezením. Jakékoliv reklamní jméno nebo logo umístěné přímo na těle soutěžícího jako např. tetování se započítá do výše uvedených omezení pro příslušnou část těla.
+
++
+Porušení těchto pravidel bude mít za následek disciplinární postih ve shodě s částí <<#disciplinarni-rizeni>>.
+
+. Oficiální startovní číslo dodané pořadatelem závodu musí být viditelně umístěné na zádech. Pořadatel může poskytnout další startovní čísla, která budou umístěna na nohavici kalhot.
+
+[#udrzba-steny]
+=== ÚDRŽBA STĚNY
+
+. Hlavní stavěč musí ověřit, že je v průběhu každého kola k dispozici zkušený tým údržby, aby bylo možné efektivně a bezpečně provést jakoukoliv údržbu nebo opravu nařízenou Hlavním rozhodčím. Bezpečnostní opatření musejí být striktně dodržována.
+
+. Na základě pokynů od Hlavního rozhodčího musí Hlavní stavěč okamžitě zorganizovat opravné práce. Po skončení opravy musí Hlavní stavěč opravu zkontrolovat a informovat Hlavního rozhodčího o tom, jestli výsledek opravy nevyústil v nějaké nespravedlivé výhody/nevýhody pro následující soutěžící. Rozhodnutí Hlavního rozhodčího o tom, jestli pokračovat v daném kole nebo jej zastavit a začít od začátku, je konečné a nelze se proti němu odvolat.
+
+[#technicke-incidenty]
+=== TECHNICKÉ INCIDENTY
+
+. Technický incident je jakákoliv událost, která pro soutěžícího vyústí ve znevýhodnění nebo v nespravedlivé zvýhodnění a kterou soutěžící svým počínáním nezpůsobil. Typy technických incidentů a opatření, následujících při jejich výskytu, to vše je specifikováno níže, v příslušných částech týkajících se lezení na obtížnost, boulderingu a rychlosti.
+
+. Obecně je třeba se technickým incidentem zabývat následujícím způsobem:
+
+.. Technický incident v případě, že je soutěžící v nepovolené poloze
++
+Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je jeho pokus ukončen. Hlavní rozhodčí musí okamžitě rozhodnout, zda ohlásit technický incident a povolit soutěžícímu dodatečný pokus v souladu s pravidly platnými pro technické incidenty té které disciplíny.
+
+.. Technický incident v případě, že je soutěžící v povolené poloze
+
+... Je-li soutěžící v povolené poloze v důsledku technického incidentu oznámeného Hlavním rozhodčím, může se buď rozhodnout, že bude pokračovat v lezení nebo ohlásí technický incident. Rozhodne-li se soutěžící lézt dál, znamená to konec technického incidentu a v budoucnu nebude brán ohled na žádné protesty s tímto incidentem spojené.
+
+... Je-li soutěžící stále v povolené poloze v důsledku technického incidentu ohlášeného soutěžícím, musí popsat podstatu technického incidentu a se souhlasem Hlavního rozhodčího může buď pokračovat, nebo nepokračovat v lezení. Rozhodne-li se soutěžící lézt dál, nebude v budoucnu brán ohled na žádné protesty s tímto incidentem spojené.
+
+. Potvrzení nebo odmítnutí technického incidentu je v kompetenci Hlavního rozhodčího, který se v případě potřeby může poradit s Hlavním stavěčem. Rozhodnutí je konečné.
+
+[#pouziti-videozaznamu-pro-potreby-rozhodcich]
+=== POUŽITÍ VIDEOZÁZNAMU PRO POTŘEBY ROZHODČÍCH
+
+. Je nutno natáčet oficiální videozáznamy pokusů soutěžících při finálových a semifinálových kolech ve všech disciplínách.
+
+. Je potřeba používat dostatečné množství kamer tak, aby bylo možné záznam zodpovědně použít při posuzování sporných momentů (porušení pravidel, posouzení technického incidentu, předčasný start, čas atd.). Doporučuje se, aby kameramanům, kteří musejí mít náležité zkušenosti s nahráváním lezeckých soutěží, asistovali pomocní rozhodčí. Před začátkem kola dá kameramanům Hlavní rozhodčí instrukce ohledně vhodných technik a postupů. Pozici kamer určí Hlavní rozhodčí po poradě s Hlavním stavěčem. Zvláštní pozornost je třeba věnovat tomu, aby kameramani nebyli vyrušováni ve své práci a aby nikdo nevstupoval kameře do záběru.
+
+. Pro potřeby rozhodčích je třeba zajistit monitor připojitelný k záznamu. Monitor je třeba umístit tak, aby rozhodčí mohli sledovat záznamový materiál a probírat jakoukoliv událost bez toho, aby záznam mohla zahlédnout nepovolaná osoba a bez toho, aby mohl rozhodčí při těchto debatách někdo poslouchat nebo vyrušovat, avšak dostatečně blízko ke stolu, za kterým rozhodčí sedí.
+
+. Pro posuzování se smí používat pouze oficiální záznam a oficiální vysílání ĆHS pokud je k dispozici. Záznam si smí prohlížet pouze Hlavní rozhodčí, pomocní rozhodčí, Hlavní stavěč a Delegát ČHS, případně ředitel závodu, pokud je členem odvolací poroty.
+
+. Na konci každého kola musí být záznam předán Hlavnímu rozhodčímu, pokud si ho vyžádá.
+
+[#vysledkove-listiny]
+=== VÝSLEDKOVÉ LISTINY
+
+. Na konci každého soutěžního kola je na základě práce rozhodčích sestavena a oficiálně písemně schválena Hlavním rozhodčím výsledková listina. Tento oficiální dokument je třeba neprodleně zveřejnit.
+
+. Na konci soutěže je třeba připravit a vydat oficiální výsledkovou listinu, ukazující konečné umístění soutěžících, stejně tak jako jejich výsledky z dílčích kol soutěže. Listinu musí podepsat Hlavní rozhodčí.
+
+. Veškeré oficiální výsledkové listiny je třeba vydávat ve formátu stanoveném ČHS, na oficiální soutěžní tabuli a kopie je třeba dát k dispozici oficiální soutěžním činitelům, komentátorovi a zástupcům médií. Oficiální výsledkové listiny musí obsahovat čas vydání.
+
+[#hodnoceni-a-zebricky]
+=== HODNOCENÍ A ŽEBŘÍČKY
+
+. Postupy pro individuální hodnocení soutěžících v průběhu soutěže jsou popsány v příslušných částech věnujících se lezení na obtížnost, boulderingu a rychlosti.
+
+. ČHS vydává následující společné žebříčky hodnocení:
+.. Český pohár, včetně Českého poháru mládeže a Českého poháru do 14 let
+.. Průběžný ranking.
+
++
+Podrobný popis způsobu sestavení žebříčku Českého poháru a průběžného rankingu je možné najít na webových stránkách ČHS v prováděcích předpisech pro daný rok.
+
+[#antidopingove-testy]
+=== ANTIDOPINGOVÉ TESTY
+
+. Pořadatel musí ve spolupráci s ČHS zajistit, že antidopingové testy budou provedeny jak v souladu s národními nařízeními týkajícími se příslušných sportovních událostí, tak v souladu se světovými antidopingovými pravidly.
+
+[#slavnostni-akty]
+=== SLAVNOSTNÍ AKTY
+
+. Není-li Hlavním rozhodčím určeno jinak, musejí se všichni soutěžící zúčastnit zahajovacího ceremoniálu, pokud se koná. V případě, že tak neučiní, budou soutěžící podrobeni disciplinárnímu postihu ve shodě s částí <<#disciplinarni-rizeni>>.
+
+. Není-li výslovně Hlavním rozhodčím určeno jinak, zúčastní se 3 nejlepší finalisté slavnostního aktu udílení cen. V případě, že tak neučiní, budou podrobeni disciplinárnímu postihu ve shodě s částí <<#disciplinarni-rizeni>>.

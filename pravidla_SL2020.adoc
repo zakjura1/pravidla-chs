@@ -1,0 +1,34 @@
+:lang: cs
+include::locale/attributes.adoc[]
+:doctype: book
+:imagesdir: media
+:!chapter-label:
+:!section-refsig:
+:!chapter-refsig:
+:xrefstyle: short
+:toc: left
+= Pravidla soutěžního lezení ČHS 2020
+Český horolezecký svaz
+v1.0, 15.01.2020
+:title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
+:sectnums:
+
+include::01_chs.adoc[]
+
+include::02_poradatel.adoc[]
+
+include::03_obecna_pravidla.adoc[]
+
+include::04_obtiznost.adoc[]
+
+include::05_bouldering.adoc[]
+
+include::06_rychlost.adoc[]
+
+include::07_kombinace.adoc[]
+
+include::08_disciplinarni_rizeni.adoc[]
+
+include::09_protesty.adoc[]
+
+include::10_antidoping.adoc[]

@@ -1,0 +1,78 @@
+[#chs]
+== ČESKÝ HOROLEZECKÝ SVAZ
+[#uvod]
+=== ÚVOD
+. Český horolezecký svaz ČHS je nejvyšší autoritou ve všech otázkách soutěžního lezení na území České republiky. Český horolezecký svaz je členem Mezinárodní federace soutěžního lezení (IFSC), která je uznána Mezinárodním olympijským výborem (MOV) a je členem Asociace sportů uznaných MOV (ARISF), Generální asociace mezinárodních sportovních federací (GAISF) a Mezinárodní federace Světových her (IWGA).
++
+Český horolezecký svaz hájí zájmy horolezectví směrem k organizacím v ČR i k mezinárodní federaci IFSC (International Federation of Sport Climbing). ČHS vlastní veškerá marketingová, obchodní, mediální a další práva k oficiálním soutěžím v soutěžním lezení na území ČR. Převod těchto práv na další subjekt je plně v kompetenci ČHS.
+. ČHS plní funkci nejvyšší autority pro všechny významné národní lezecké soutěže, jak jsou uvedeny níže v části <<#souteze>>. Jako takový je zodpovědný za:
+.. Kontrolu všech technických a jiných aspektů tohoto sportu;
+.. Příjem přihlášek od pořadatelů významných národních lezeckých soutěží;
+.. Schvalování těchto přihlášek, které posuzuje v zájmu tohoto sportu a které vyhodnotí ve shodě s pravidly a nařízeními ČHS platnými pro tyto soutěže.
++
+Všechny soutěže schválené ČHS musí být za všech okolností připravovány, pořádány a vykonány v přísné shodě s pravidly a nařízeními, které se s těmito soutěžemi pojí.
+. Organizační struktura ČHS je podrobně popsána v jeho Stanovách a Směrnicích.
+
+[#zodpovednost-chs]
+=== ZODPOVĚDNOST ČHS
+. Při organizaci významných národních lezeckých soutěží jsou úkoly ČHS následující:
+.. Příjem všech přihlášek pro organizaci soutěže schválené ČHS;
+.. Odpovídání na dotazy – jednak obecné povahy a jednak na ty týkající se schválených soutěží;
+.. Vydávání veškerých informací týkajících se soutěží schválených ČHS;
+.. Vydávání pravidel, nařízení a oznámení ČHS. K těmto dokumentům mohou být publikovány dodatky, které je třeba číst spolu s těmito dokumenty, přičemž ve spojitosti s původním dokumentem mají dodatky přednost. Každý dodatek musí obsahovat datum uvedení v platnost;
+.. Oficiální vydávání veškerých soutěžních výsledků, umístění v Českém poháru a umístění v Českém rankingu jak dospělých, tak i mládeže, včetně dalších vyhlašovaných průběžných soutěží.
+.. Jmenování reprezentačních družstev pro mezinárodní soutěže pořádané pod záštitou IFSC.
+.. Jmenování všech oficiálních soutěžních činitelů ČHS na schválené soutěže.
+
+[#souteze]
+=== SOUTĚŽE
+
+. Pouze členové ČHS nebo oddíly v ČHS registrované nebo právnická či fyzická osoba s příslušným oprávněním jsou způsobilí zažádat o zorganizování soutěže schválené ČHS.
+. Mezi soutěže, které musí schválit ČHS patří:
+.. I. kategorie – Mezinárodní Mistrovství ČR včetně Mistrovství ČR mládeže a Mistrovství ČR do 14 let
+.. II. kategorie – Český pohár, včetně Českého poháru mládeže a Českého poháru do 14 let
+.. III. kategorie – rankingové závody a závody nižších kategorií, pořádané jako oficiální soutěže ČHS
+
+[#oficialni-soutezni-cinitele]
+=== OFICIÁLNÍ SOUTĚŽNÍ ČINITELÉ SOUTĚŽÍ ČHS
+
+. ČHS jmenuje následující oficiální soutěžní činitele na soutěže schválené ČHS:
+
+.. [[hr]]Hlavní rozhodčí
++
+Hlavní rozhodčí musí být držitelem národní licence Hlavní rozhodčí ČHS. Má celkovou pravomoc v soutěžním prostoru, který je definován jako prostor sestávající z izolační zóny, přípravné zóny a soutěžní zóny, přičemž ta poslední obsahuje lezecké stěny (stěnu). Jeho pravomoc zahrnuje i jakýkoliv jiný prostor určený pro bezpečné a spravedlivé provedení soutěže, jako jsou přídavné prostory potřebné pro nahrávání a přehrávání videozáznamu. Jeho pravomoc se týká i médií a všech osob nominovaných pořadatelem. Celková pravomoc Hlavního rozhodčího se týká všech aspektů průběhu soutěže. Hlavní rozhodčí předsedá poradám oficiálních soutěžních činitelů a organizačním a technickým poradám s pořadateli, trenéry a soutěžícími.
++
+Hlavní rozhodčí je zodpovědný za vydání výsledkové listiny, přijímání protestů a řešení a oznamování jakýchkoliv důležitých změn v programu soutěže.
++
+Hlavnímu rozhodčímu v jeho výkonu asistují pomocní rozhodčí (traťový rozhodčí, boulderový rozhodčí), jmenovaní pořadatelem soutěže. Hlavní rolí pomocných rozhodčí je posuzovat výkony soutěžících na cestách a na boulderech. Pomocní rozhodčí musejí být plně obeznámeni se všemi technickými pravidly a nařízeními platnými pro soutěže ČHS a v rámci svých povinností přijímají pokyny a pracují pod vedením Hlavního rozhodčího. Hlavní rozhodčí je zodpovědný za informování všech pomocných rozhodčích ohledně aplikace pravidel ČHS ještě před začátkem soutěže.
++
+ČHS může také jmenovat dodatečné rozhodčí, případně rozhodčího-uchazeče, který prochází poslední fází výcviku držitele licence Hlavního rozhodčího ČHS.
++
+Hlavní rozhodčí musí předložit ČHS podrobnou zprávu o dané soutěži a o každém uchazeči na rozhodčího, který prochází konečnou fází svého výcvikového programu.
++
+.. [[td]]Delegát ČHS
++
+Delegát ČHS se během konání soutěže věnuje všem organizačním záležitostem, které s ČHS souvisí. V jeho pravomoci je zajistit, aby příslušenství, vybavení a služby, které poskytuje pořadatel (jako registrace soutěžících a ostatních, služby zahrnující bodování a výsledky, zdravotnické, mediální a jiné vybavení) byly v souladu s regulemi ČHS. Delegát ČHS je členem odvolací poroty a má právo účastnit se všech porad s pořadateli soutěže. V nepřítomnosti Hlavního rozhodčího a před jeho příchodem na soutěž jedná Delegát ČHS v jeho zastoupení ve věcech organizace závodů v rámci soutěžního prostoru. Ve výjimečných případech má Delegát ČHS pravomoc přijmout a aplikovat nouzová opatření, jako je například přizpůsobení soutěžního formátu. Delegát je zodpovědný za vydání startovních listin.
++
+Delegát ČHS musí předložit ČHS podrobnou zprávu o dané soutěži.
++
+U soutěží kde Delegát ČHS není právě přítomen, přebírá všechna jeho práva a povinnosti Hlavní rozhodčí.
+
+. ČHS potvrzuje na soutěže schválené ČHS ve funkcích následující oficiální soutěžní činitele jmenované pořadatelem:
+
+.. Hlavní stavěč
++
+Hlavní stavěč pro závody I. a II. kategorie musí být držitelem národní stavěčské licence 1. úrovně (Hlavní stavěč ČHS) nebo 2. úrovně (Stavěč ČHS) nebo mezinárodní stavěčské licence IFSC. Hlavní stavěč se radí se členy stavěčského týmu, který je jmenován pořadatelem před započetím soutěže, aby naplánoval a zkoordinoval veškeré záležitosti týkající se stavby a údržby cest, včetně podoby každé cesty nebo boulderu; upevnění chytů, bodů postupových jištění a jiného vybavení v souladu s nařízeními ČHS; opravy a čištění cest a instalaci a údržbu rozcvičovacího vybavení. Je zodpovědný za kontrolu bezpečnosti na každé cestě nebo boulderu, radí Hlavnímu rozhodčímu v technických otázkách v rámci závodiště, asistuje při sestavování nákresu pro cesty v lezení na obtížnost, radí rozhodčím ohledně rozmístění kamer a ohledně maximálních časových limitů pro jednotlivá kola.
++
+Hlavní stavěč je členem odvolací poroty.
+
++
+.. Obsluha výsledkového servisu
++
+Zodpovídá za přípravu listin pro registraci závodníků, připravuje startovní a výsledkové listiny. Nahrává finální výsledky na stránky ČHS a předává datový soubor s výsledky po závodu správci rankingu na lezeni@navrat.name. Je schopná se orientovat v technických věcech související s průběžnými výsledky a obsluhou mobilních klientů při vkládání výsledků traťovými rozhodčími. Připravuje ve spolupráci s hlavním rozhodčím a technickým delegátem případné další informace, které je nutné zveřejnit. Má právo vstupovat do všech prostor soutěžního prostoru.
+
++
+.. Ředitel soutěže
++
+Ředitel soutěže úzce spolupracuje během konání soutěže se všemi soutěžními činiteli jmenovanými ČHS. Věnuje se všem organizačním záležitostem, které se soutěží souvisí. Jeho povinností je zajistit veškeré příslušenství, vybavení a služby nutné k bezproblémovému průběhu soutěže. Je zodpovědný za registraci soutěžících a trenérů, zajišťuje služby zahrnující bodování a výsledky, zdravotnický servis a další. Veškerou svou činnost podřizuje předpisům a směrnicím ČHS.
+

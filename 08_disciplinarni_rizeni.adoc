@@ -1,0 +1,84 @@
+[#disciplinarni-rizeni]
+== DISCIPLINÁRNÍ ŘÍZENÍ
+
+[#disciplinarni-rizeni-uvod]
+=== ÚVOD
+
+. Hlavní rozhodčí má celkovou pravomoc nad činnostmi a rozhodnutími týkajícími se soutěžního prostoru (viz článek <<#oficialni-soutezni-cinitele>>.<<#hr,1.a.>>).
+
+[#disciplinarni-rizeni-soutezici]
+=== SOUTĚŽÍCÍ
+
+. Hlavní rozhodčí má oprávnění přijmout následující opatření v případě porušení pravidel soutěže, co se týče nekázně soutěžících:
+.. Neoficiální, slovní napomenutí;
+.. [[drs-b]]Oficiální napomenutí doprovázené ukázáním žluté karty.
+. Žlutá karta může být v souladu s výše zmíněným článkem <<#disciplinarni-rizeni-soutezici>>.<<drs-b,1.b.>> udělena za jakékoliv z následujících porušení pravidel:
+.. Vzhledem k pokynům Hlavního rozhodčího, za neuposlechnutí takových pokynů jako:
+... Nepřiměřené zdržení při návratu do izolace, když k tomu dá Hlavní rozhodčí pokyn;
+... Nepřiměřené zdržení mezi opuštěním přípravné zóny a příchodem do soutěžní zóny, když je k tomu dán pokyn;
+... Neschopnost odstartovat v souladu s pokyny Hlavního rozhodčího.
+.. Vzhledem k vybavení a slavnostním aktům, za:
+... Porušení pravidel a nařízení ČHS ohledně vybavení a oblečení platných pro danou soutěž;
+... Nenošení dresu poskytnutého pořadatelem soutěže;
+... Nenošení startovního čísla poskytnutého pořadatelem soutěže;
+... Neúčast soutěžících na zahajovacím ceremoniálu;
+... Neúčast tří nejlepších finalistů při udílení cen;
+.. Vzhledem k chování, za:
+... Užití neslušného nebo hrubého jazyka relativně nepříliš silné povahy;
+... Nesportovní chování méně významného druhu.
+
++
+Protesty proti těmto rozhodnutím se musejí řídit postupem popsaným v části <<#protesty>>.
+
+. Udělení druhé žluté karty v jedné soutěži bude mít za následek diskvalifikaci soutěžícího z dané soutěže.
+. Udělení třetí žluté karty v jedné sezóně bude mít za následek jeden z následujících postihů:
+.. V případě, že je soutěžící již přihlášen pro nadcházející soutěž ČHS započítávající se do průběžného rankingu, nebude soutěžící způsobilý se této soutěže zúčastnit;
+.. Není-li použitelná možnost a), pak soutěžící nebude způsobilý zúčastnit se v další soutěži ČHS započítávající se do průběžného rankingu ve stejné disciplíně, jako v té, kde soutěžící obdržel třetí žlutou kartu.
+. Hlavní rozhodčí je oprávněný diskvalifikovat soutěžícího ze soutěže. Diskvalifikace musí být doprovázena ukázáním červené karty.
+.. Diskvalifikace bez dalšího postihu
++
+Následující porušení pravidel budou potrestána udělením červené karty a okamžitou diskvalifikací soutěžícího ze soutěže bez dalších postihů:
+
+... Pozorování cest z prostoru mimo pozorovací zónu;
+... Použití neschváleného vybavení;
+... Nepovolené použití jakéhokoliv způsobu komunikace v rámci izolační zóny nebo jiného vyhrazeného prostoru.
+
+.. Diskvalifikace s postoupením Disciplinární komisi ČHS
++
+Následující porušení pravidel budou potrestána udělením červené karty a okamžitou diskvalifikací soutěžícího ze soutěže s postoupením Disciplinární komisi ČHS:
++
+Přestupky spáchané v soutěžním prostoru sportovcem nebo členem týmu:
+
+... Shromažďování informací o cestě, kterou má soutěžící lézt, nad rámec toho, co je povoleno pravidly soutěže;
+... Shromažďování a/nebo poskytování informací jiným sportovcům nad rámec toho, co je povoleno pravidly soutěže;
+... Rozptylování jakéhokoliv sportovce nebo překážení sportovci, který se připravuje nebo již leze svůj pokus na cestě;
+... Nepodvolení se pokynům rozhodčích, pořadatelů nebo soutěžních činitelů ČHS;
+... Odmítnutí podřídit se nařízením o reklamě platným pro oblečení a vybavení;
+... Nesportovní chování nebo jiná vážná výtržnost v průběhu soutěže;
+... Hrubé, výhružné nebo násilné chování ve vztahu k soutěžním činitelům ČHS, pořadatelům, členům týmů (včetně sportovců) nebo jakékoliv jiné osobě.
+
++
+Přestupky spáchané sportovcem nebo členem týmu mimo závodiště, ale ve veřejné aréně, v dějišti soutěže nebo v ubytovacích nebo jiných zařízeních se soutěží spjatých:
+
+... Značně nesportovní chování nebo jiná vážná výtržnost;
+
+... Hrubé, výhružné nebo násilné chování ve vztahu k soutěžním činitelům ČHS, pořadatelům, členům týmů (včetně sportovců) nebo jakékoliv jiné osobě.
+
++
+Protesty proti těmto rozhodnutím se musejí řídit postupem popsaným v části <<#protesty>>.
+
++
+Kroky, které následují v případě postoupení přestupku Disciplinární komisi ČHS, jsou stanoveny Disciplinárním řádem ČHS.
+
+. V nejbližší vhodné chvíli po vydání červené karty musí Hlavní rozhodčí předložit písemné vyjádření týkající se provinění vedoucímu týmu soutěžícího (nebo danému soutěžícímu v případě nepřítomnosti vedoucího týmu) a toho, zdali Hlavní rozhodčí hodlá danou záležitost předat k posouzení Disciplinární komisi ČHS.
+. Pokud bude přestupek dále řešen Disciplinární komisí ČHS musí dále bez zbytečného prodlení předat Disciplinární komisi ČHS: kopii tohoto písemného vyjádření společně s detailní zprávou týkající se daného přestupku proti pravidlům, jakýmkoliv důkazním materiálem a jakýmkoliv návrhem dalšího postupu ohledně zvážení případných dalších postihů. Složení a způsob práce disciplinární komise popisují příslušné dokumenty ČHS – Stanovy ČHS a Disciplinární řád ČHS.
+
+[#oficialni-soutezni-cinitele-tymu]
+=== OFICIÁLNÍ SOUTĚŽNÍ ČINITELÉ TÝMU
+
+. Na oficiální soutěžní činitele týmu (trenéry, maséry, lékaře,…) musí být nahlíženo stejným způsobem jako na soutěžící a je nutné se k nim tak chovat.
+
+[#ostatni-osoby]
+=== OSTATNÍ OSOBY
+
+. Hlavní rozhodčí je oprávněn vyzvat jakékoliv osoby, které jednají v rozporu s pravidly, k okamžitému opuštění soutěžního prostoru a je-li to nutné, může pozastavit veškerou soutěžní činnost do doby, než bude jeho požadavku vyhověno.
