@@ -65,7 +65,7 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 . Po neúspěšném dokončení pokusu v jednom boulderu může závodník nastoupit znovu do téhož boulderu pouze pokud není u tohoto boulderu přítomen jiný/jiní soutěžící, který má zájem na něm uskutečnit svůj pokus. Pokud soutěžící dokončí pokus úspěšně, již se do něj nesmí vracet k dalším pokusům.
 . Každý pokus soutěžícího musí začít z pozice popsané v odstavci <<#obecne-bouldering>>.<<#ob-9,9>>.
 . Jednotlivé chyty musejí být průběžně čištěny pomocným rozhodčím nebo personálem pořadatelů, tak, aby všichni soutěžící měli stejné podmínky. Soutěžící také může požadovat, aby byly chyty očištěny bezprostředně před jeho pokusem na boulderu. Soutěžící mohou před každým pokusem za pomoci kartáčů a jiných pomůcek očistit chyty, na které dosáhnou ze země a to včetně použití dlouhých kartáčů k očištění výše umístěných chytů. Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořadateli.
-. Rozdělení závodníků do kvalifikačních skupin je definováno následující tabulkou. Hlavní rozhodčí může navýšit minimální čas. Ve výjimečných případech může hlavní rozhodčí navýšit i počet závodníků ve skupině, ale v tomto případě použije minimální čas platný pro tento navýšený počet.
+. [[pl-kv-flash-bouldering-5]]Rozdělení závodníků do kvalifikačních skupin je definováno následující tabulkou. Hlavní rozhodčí může navýšit minimální čas. Ve výjimečných případech může hlavní rozhodčí navýšit i počet závodníků ve skupině, ale v tomto případě použije minimální čas platný pro tento navýšený počet.
 +
 [cols="^2,^4,^2",options="header",width=60%]
 [.center]
@@ -79,7 +79,7 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 |===
 +
 . Hlavní rozhodčí po dohodě s Delegátem ČHS může po skončení registrace závodníků rozhodnout o maximálním počtu pokusů závodníka na boulder. Tento počet pokusů ale nesmí klesnout pod 5. O této skutečnosti musí být závodníci informování.
-. Delegát ČHS po dohodě s Hlavním rozhodčím může povolit formát s jednou kvalifikační skupinou. V tomto případě musí být časový limit kola upraven tak, že základní časový interval je 105 minut pro maximálně 30 závodníků. Za každých dalších maximálně 5 závodníků se přidává 10 minut.
+. [[pl-kv-flash-bouldering-7]]Delegát ČHS po dohodě s Hlavním rozhodčím může povolit formát s jednou kvalifikační skupinou. V tomto případě musí být časový limit kola upraven tak, že základní časový interval je 105 minut pro maximálně 30 závodníků. Za každých dalších maximálně 5 závodníků se přidává 10 minut.
 
 [#prubeh-lezeni-kvalifikace-onsight-bouldering]
 === PRŮBĚH LEZENÍ – KVALIFIKACE ON-SIGHT, SEMIFINÁLE A FINÁLE KLASICKÝM FORMÁTEM

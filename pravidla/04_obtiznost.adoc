@@ -186,7 +186,7 @@ To, zda závodníci tečují či netečují následující chyt v linii cesty, n
 . Nastane-li na nějaké pozici remíza, vezmou se v úvahu výsledky soutěžících z předchozího kola (zpětné hodnocení).
 . Celkové pořadí v kvalifikaci se počítá jako geometrický průměr následujícím způsobem:
 +
-asciimath:[PT = sqrt( r_1 * r_2)}]
+asciimath:[PT = sqrt( r_1 * r_2)]
 +
 Kde: asciimath:[PT] = celkové body
 +
