@@ -5,6 +5,7 @@ include::../locale/attributes.adoc[]
 :!chapter-label:
 :!section-refsig:
 :!chapter-refsig:
+:stem:
 :xrefstyle: short
 :toc: left
 = Pravidla soutěžního lezení ČHS 2021
@@ -13,22 +14,22 @@ v1.1, 1.1.2021
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
-include::01_chs.adoc[]
+include::_chs.adoc[]
 
-include::02_poradatel.adoc[]
+include::_poradatel.adoc[]
 
-include::03_obecna_pravidla.adoc[]
+include::_obecna_pravidla.adoc[]
 
-include::04_obtiznost.adoc[]
+include::_obtiznost.adoc[]
 
-include::05_bouldering.adoc[]
+include::_bouldering.adoc[]
 
-include::06_rychlost.adoc[]
+include::_rychlost.adoc[]
 
-include::07_kombinace.adoc[]
+include::_kombinace.adoc[]
 
-include::08_disciplinarni_rizeni.adoc[]
+include::_disciplinarni_rizeni.adoc[]
 
-include::09_protesty.adoc[]
+include::_protesty.adoc[]
 
-include::10_antidoping.adoc[]
+include::_antidoping.adoc[]
