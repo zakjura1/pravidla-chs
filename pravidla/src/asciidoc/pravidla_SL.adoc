@@ -1,7 +1,7 @@
 :lang: cs
-include::../locale/attributes.adoc[]
+include::../../../locale/_attributes.adoc[]
 :doctype: book
-:imagesdir: ../media
+:imagesdir: ./images
 :!chapter-label:
 :!section-refsig:
 :!chapter-refsig:
