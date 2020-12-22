@@ -9,7 +9,7 @@ include::../../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 1
-= Výjimky ze soutěžních pravidel ČHS pro závody mládeže do 14 let v soutěžním lezení pro rok 2020
+= Výjimky ze soutěžních pravidel ČHS pro závody mládeže do 14 let v soutěžním lezení pro rok 2021
 Český horolezecký svaz
 v1.0, 15.1.2020
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
