@@ -3,4 +3,4 @@ Repositář s pravidly soutěžního lezení ČHS
 
 Pro generování všech dokumentů stačí zavolat 
 
- & mvn clean process-resources
+ mvn clean process-resources
