@@ -28,7 +28,5 @@ jobs:
       with:
         name: generated-pravidla.zip
         path: |
-          pravidla/target/generated-docs/
-          provadeci_predpisy_dospeli/target/generated-docs/
-          provadeci_predpisy_mladez/target/generated-docs/
-          vyjimky_z_pravidel_u14/target/generated-docs/
+          target/generated-docs/
+          !target/generated-docs/pravidla_kapitoly

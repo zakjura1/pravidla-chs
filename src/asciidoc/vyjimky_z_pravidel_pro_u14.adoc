@@ -1,5 +1,5 @@
 :lang: cs
-include::../../../locale/_attributes.adoc[]
+include::../../locale/_attributes.adoc[]
 :doctype: book
 :imagesdir: ./images
 :!chapter-label:
@@ -15,7 +15,7 @@ v1.0, 15.1.2020
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
-Pro závody Českého poháru do 14 let platí <<..\provadeci_predpisy_mladez\Provadeci_predpisy_mladez_2020.adoc,„Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2020“>> a <<../pravidla/pravidla_SL.adoc,„Pravidla soutěžního lezení ČHS 2020“>> s výjimkami v těchto bodech:
+Pro závody Českého poháru do 14 let platí <<provadeci_predpisy_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2021“>> a <<pravidla_sl.adoc#,„Pravidla soutěžního lezení ČHS 2021“>> s výjimkami v těchto bodech:
 
 == Hodnocení a žebříčky
 
@@ -99,7 +99,7 @@ Nominační formát může proběhnout na jedné nebo dvou identických cestách
 
 == Bouldering
 
-Pro závody mládeže do 14 let neplatí ustanovení <<../pravidla/pravidla_SL.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<../pravidla/pravidla_SL.adoc#pl-kv-flash-bouldering-7,5.4.7>> Pravidel soutěžního lezení 2020, která zde mají pouze doporučující charakter.
+Pro závody mládeže do 14 let neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> Pravidel soutěžního lezení 2020, která zde mají pouze doporučující charakter.
 
 == Protesty
 

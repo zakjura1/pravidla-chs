@@ -1,5 +1,5 @@
 :lang: cs
-include::../../../locale/_attributes.adoc[]
+include::../../locale/_attributes.adoc[]
 :doctype: book
 :imagesdir: ./images
 :!chapter-label:
@@ -11,7 +11,7 @@ include::../../../locale/_attributes.adoc[]
 :toclevels: 1
 = Prováděcí předpisy soutěžního lezení dospělých pro rok 2021
 Český horolezecký svaz
-v1.0, 15.1.2020
+v1.1, 1.1.2021
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -196,4 +196,4 @@ Nominační závody musí být pořádány v open formátu.
 
 === Pro všechny závody I. a II. kategorie je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis. 
 
-=== Nedílnou součástí těchto předpisů jsou <<../pravidla/pravidla_SL.adoc,Pravidla soutěžního lezení ČHS 2020>> 
+=== Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>> 

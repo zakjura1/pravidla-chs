@@ -1,0 +1,36 @@
+:lang: cs
+include::../../locale/_attributes.adoc[]
+:includedir: pravidla_kapitoly
+:doctype: book
+:imagesdir: ./images
+:!chapter-label:
+:!section-refsig:
+:!chapter-refsig:
+:stem:
+:xrefstyle: short
+:toc: left
+= Pravidla soutěžního lezení ČHS 2021
+Český horolezecký svaz
+v1.1, 1.1.2021
+:title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
+:sectnums:
+
+include::{includedir}/_chs.adoc[]
+
+include::{includedir}/_poradatel.adoc[]
+
+include::{includedir}/_obecna_pravidla.adoc[]
+
+include::{includedir}/_obtiznost.adoc[]
+
+include::{includedir}/_bouldering.adoc[]
+
+include::{includedir}/_rychlost.adoc[]
+
+include::{includedir}/_kombinace.adoc[]
+
+include::{includedir}/_disciplinarni_rizeni.adoc[]
+
+include::{includedir}/_protesty.adoc[]
+
+include::{includedir}/_antidoping.adoc[]

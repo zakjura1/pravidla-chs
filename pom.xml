@@ -3,20 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.chs</groupId>
-    <artifactId>pravidla-chs-parent</artifactId>
+    <artifactId>pravidla-chs</artifactId>
     <version>1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Soutěžní dokumenty komise soutěžního lezení ČHS</name>
 
-    <modules>
-        <module>pravidla</module>
-        <module>provadeci_predpisy_dospeli</module>
-        <module>provadeci_predpisy_mladez</module>
-        <module>vyjimky_z_pravidel_U14</module>
-    </modules>
-  
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.build.timestamp.format>dd.MM.yyyy</maven.build.timestamp.format>
         <asciidoctor.maven.plugin.version>2.1.0</asciidoctor.maven.plugin.version>
         <asciidoctorj.version>2.4.2</asciidoctorj.version>
@@ -40,7 +34,6 @@
     </repositories>
     <build>
         <defaultGoal>process-resources</defaultGoal>
-        <pluginManagement>
             <plugins>
                 <plugin>
                     <groupId>org.asciidoctor</groupId>
@@ -67,7 +60,7 @@
                             <revnumber>${project.version}</revnumber>
                             <revdate>${maven.build.timestamp}</revdate>
                         </attributes>
-                                           
+                        <enableVerbose>true</enableVerbose> 
                     </configuration>
                     <executions>
                         <execution>
@@ -103,66 +96,11 @@
                             <configuration>
                                 <backend>docbook</backend>
                                 <doctype>book</doctype>
-                                <outputDirectory>${project.build.directory}/docbook/cs-CZ</outputDirectory> 
+                                <outputDirectory>${project.build.directory}/docbook</outputDirectory> 
                             </configuration>
-                        </execution>
-                        
+                        </execution>                       
                     </executions>                    
                 </plugin>
-                <plugin>
-                    <groupId>org.jboss.maven.plugins</groupId>
-                    <artifactId>maven-jdocbook-plugin</artifactId>
-                    <version>${maven.jdocbook.plugin.version}</version>
-                    <extensions>true</extensions>
-                    <dependencies>
-                        <!-- NOTE pressgang handles staging the DocBook XSL and activates the xslthl source highlighter -->
-                        <dependency>
-                            <groupId>org.jboss.pressgang</groupId>
-                            <artifactId>pressgang-xslt-ns</artifactId>
-                            <version>${pressgang.xslt.ns.version}</version>
-                        </dependency>
-                        <dependency>
-                            <groupId>org.jboss.pressgang</groupId>
-                            <artifactId>pressgang-jdocbook-style</artifactId>
-                            <type>jdocbook-style</type>
-                            <version>${pressgang.xslt.ns.version}</version>
-                        </dependency>
-                    </dependencies>
-                    <configuration>
-                        <masterTranslation>cs-CZ</masterTranslation>
-                        <sourceDirectory>${project.build.directory}/docbook</sourceDirectory>
-                        <formats>
-                            <format>
-                                <formatName>pdf</formatName>
-                                <stylesheetResource>classpath:/xslt/org/jboss/pressgang/pdf.xsl</stylesheetResource>
-                            </format>
-                        </formats>
-                        <options>
-                            <autoDetectFonts>true</autoDetectFonts>
-                            <xincludeSupported>true</xincludeSupported>
-                            <xmlTransformerType>saxon</xmlTransformerType>
-                            <docbookVersion>1.78.1</docbookVersion>
-                            <!--
-                            <docbookVersion>1.78.1</docbookVersion>
-                            -->
-                            <localeSeparator>-</localeSeparator>
-                            <transformerParameters>
-                                <asciidoc.mode>1</asciidoc.mode>
-                            </transformerParameters>
-                        </options>
-                    </configuration>
-                    <executions>
-                        <execution>
-                            <id>generate-pdf</id>
-                            <phase>process-resources</phase>
-                            <goals>
-                                <goal>resources</goal>
-                                <goal>generate</goal>
-                            </goals>
-                        </execution>
-                    </executions>
-                </plugin>                
             </plugins>
-        </pluginManagement>
     </build>
 </project>
