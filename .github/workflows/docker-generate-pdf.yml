@@ -21,7 +21,7 @@ jobs:
     - name: Archive generated pdf's
       uses: actions/upload-artifact@v2
       with:
-        name: generated-pdf
+        name: generated-pravidla-pdf.zip
         path: src/asciidoc/*.pdf
       
        

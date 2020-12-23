@@ -5,7 +5,7 @@ include::../../locale/_attributes.adoc[]
 :!chapter-label:
 :!section-refsig:
 :!chapter-refsig:
-:stem:
+:stem: latexmath
 :xrefstyle: short
 :toc: left
 :toclevels: 1

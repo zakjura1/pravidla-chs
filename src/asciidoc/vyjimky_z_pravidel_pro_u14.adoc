@@ -5,7 +5,7 @@ include::../../locale/_attributes.adoc[]
 :!chapter-label:
 :!section-refsig:
 :!chapter-refsig:
-:stem:
+:stem: latexmath
 :xrefstyle: short
 :toc: left
 :toclevels: 1
@@ -36,7 +36,14 @@ U závodů Českého poháru do 14 let, kde lze kromě ustanovení pravidel sout
 .. Volný formát – tj. 3 - 10 cest bez finále. Při tomto formátu závodů se výsledné pořadí každého závodníka určí geometrickým průměrem pořadí v jednotlivých cestách.
 
 +
-Geometrický průměr se používá také pro výpočet pořadí pro postup do finále na základě výsledků z kvalifikačních cest. Geometrický průměr je definován jako n-tá odmocnina ze součinu pořadí v jednotlivých cestách: asciimath:[VP = root(n)(prod_(i=1)^n r_i)], kde asciimath:[VP] je výsledné pořadí a asciimath:[r_1, …, r_n] je umístění v jednotlivých kvalifikačních cestách, n je počet závodních cest.
+Geometrický průměr se používá také pro výpočet pořadí pro postup do finále na základě výsledků z kvalifikačních cest. Geometrický průměr je definován jako n-tá odmocnina ze součinu pořadí v jednotlivých cestách: 
+
+[stem]
+++++
+VP = \sqrt[n]{\prod_{i=1}^{n} r_{i}}
+++++
+
+kde stem:[VP] je výsledné pořadí a stem:[r_{1}, \dots, r_{n}] je umístění v jednotlivých kvalifikačních cestách, n je počet závodních cest.
 
 . Ve finálových cestách závodů formátu klasického a rozšířeného rozhodčí měří a zaznamenávají čas. Čas je měřen od zahájení pokusu závodníka v cestě do jeho ukončení:
 .. zapnutím poslední expresky (dosažením topu),

@@ -6,7 +6,7 @@ include::../../locale/_attributes.adoc[]
 :!chapter-label:
 :!section-refsig:
 :!chapter-refsig:
-:stem:
+:stem: latexmath
 :xrefstyle: short
 :toc: left
 = Pravidla soutěžního lezení ČHS 2021

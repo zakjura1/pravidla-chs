@@ -5,7 +5,7 @@ include::../../locale/_attributes.adoc[]
 :!chapter-label:
 :!section-refsig:
 :!chapter-refsig:
-:stem:
+:stem: latexmath
 :xrefstyle: short
 :toc: left
 :toclevels: 1
@@ -158,7 +158,7 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sa
 |8. |9 |16. |1
 |===
 +
-. Dosáhnou-li závodníci shodného výsledku, bude jim přidělen podíl součtu příslušných bodů. Příklad: tři závodníci připadají na 7. -9. místo; asciimath:[(11 + 9 + 8) -: 3 = 9,3] bodů.
+. Dosáhnou-li závodníci shodného výsledku, bude jim přidělen podíl součtu příslušných bodů. Příklad: tři závodníci připadají na 7. -9. místo; stem:[(11 + 9 + 8) \div 3 = 9,3] bodů.
 . Pro závody ČP do 14 let se použije koeficient podle počtu závodníků následovně:
 
   * Nad 15 závodníků - koeficient 1
