@@ -38,13 +38,15 @@ U závodů Českého poháru do 14 let, kde lze kromě ustanovení pravidel sout
 +
 Geometrický průměr se používá také pro výpočet pořadí pro postup do finále na základě výsledků z kvalifikačních cest. Geometrický průměr je definován jako n-tá odmocnina ze součinu pořadí v jednotlivých cestách: 
 
++
 [stem]
 ++++
 VP = \sqrt[n]{\prod_{i=1}^{n} r_{i}}
 ++++
 
++
 kde stem:[VP] je výsledné pořadí a stem:[r_{1}, \dots, r_{n}] je umístění v jednotlivých kvalifikačních cestách, n je počet závodních cest.
-
++
 . Ve finálových cestách závodů formátu klasického a rozšířeného rozhodčí měří a zaznamenávají čas. Čas je měřen od zahájení pokusu závodníka v cestě do jeho ukončení:
 .. zapnutím poslední expresky (dosažením topu),
 .. pádem,
