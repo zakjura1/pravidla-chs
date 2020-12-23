@@ -1,0 +1,26 @@
+name: Docker Image CI - Generate PDF using asciidoctor-pdf
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+    container: asciidoctor/docker-asciidoctor 
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run asciidoctor-pdf
+      run: asciidoctor-pdf -r asciidoctor-mathematical src/asciidoc/*.adoc
+    
+    - name: Archive generated pdf's
+    - uses: actions/upload-artifact@v2
+      with:
+        name: generated-pdf
+        path: src/asciidoc/*.pdf
+      
+       
