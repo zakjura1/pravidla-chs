@@ -8,7 +8,7 @@ include::../../locale/_attributes.adoc[]
 :stem: latexmath
 :xrefstyle: short
 :toc: left
-:toclevels: 1
+:toclevels: 2
 = Prováděcí předpisy soutěžního lezení dospělých pro rok 2021
 Český horolezecký svaz
 v1.1, 1.1.2021
@@ -29,7 +29,7 @@ v1.1, 1.1.2021
 
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 
-[cols=",,,,",options="header",]
+[cols=",,,,",options="header"]
 [.center]
 |===
       2+a|                                  ^|*základní startovné* ^| *startovní čísla* ^| *startovní čísla a dres*
