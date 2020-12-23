@@ -1,6 +1,6 @@
 :lang: cs
 include::../../locale/_attributes.adoc[]
-:doctype: book
+:title-page:
 :imagesdir: ./images
 :!chapter-label:
 :!section-refsig:

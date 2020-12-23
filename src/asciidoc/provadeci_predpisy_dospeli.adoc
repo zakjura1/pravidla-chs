@@ -1,6 +1,6 @@
 :lang: cs
 include::../../locale/_attributes.adoc[]
-:doctype: book
+:title-page:
 :imagesdir: ./images
 :!chapter-label:
 :!section-refsig:
@@ -17,17 +17,17 @@ v1.1, 1.1.2021
 
 == Pořadatel 
 
-===  Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen "ČHS") nebo právnická či fyzická osoba s příslušným oprávněním má právo požádat ČHS o pořadatelství závodů: Mistrovství České republiky, závodů Českého poháru a rankingových závodů v lezení na obtížnost, boulderingu a v lezení na rychlost (disciplíny). 
+.  Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen "ČHS") nebo právnická či fyzická osoba s příslušným oprávněním má právo požádat ČHS o pořadatelství závodů: Mistrovství České republiky, závodů Českého poháru a rankingových závodů v lezení na obtížnost, boulderingu a v lezení na rychlost (disciplíny). 
 
-=== ČHS prostřednictvím sekretariátu uzavře s pořadatelem písemnou smlouvu o pořádání závodu, ve které jsou stanoveny podmínky uspořádání závodu. Uzavření smlouvy není nutné v případě rankingového závodu. 
+. ČHS prostřednictvím sekretariátu uzavře s pořadatelem písemnou smlouvu o pořádání závodu, ve které jsou stanoveny podmínky uspořádání závodu. Uzavření smlouvy není nutné v případě rankingového závodu. 
 
-=== ČHS poskytne pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky atd.). Výše dotace na každý rok na jednotlivé závody je stanovena Komisí soutěžního lezení ČHS (dále jen Komise) a zveřejněna na webu ČHS (viz dokument Dotace pro pořadatele v roce 2020). 
+. ČHS poskytne pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky atd.). Výše dotace na každý rok na jednotlivé závody je stanovena Komisí soutěžního lezení ČHS (dále jen Komise) a zveřejněna na webu ČHS (viz dokument Dotace pro pořadatele v roce 2020). 
 
-=== ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje technický delegát a upravuje smlouva mezi ČHS a pořadatelem. 
+. ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje technický delegát a upravuje smlouva mezi ČHS a pořadatelem. 
 
-=== Vyhlášení výsledků musí být provedeno důstojným způsobem. 
+. Vyhlášení výsledků musí být provedeno důstojným způsobem. 
 
-=== Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
+. Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 
 [cols=",,,,",options="header",]
 [.center]
@@ -41,11 +41,11 @@ v1.1, 1.1.2021
 
 Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla ve čtvrtek 20.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
 
-=== Každý pořadatel musí zabezpečit pro závodníky a rozhodčí základní občerstvení (např. minerální voda, banán, tatranka, jablko apod.). 
+. Každý pořadatel musí zabezpečit pro závodníky a rozhodčí základní občerstvení (např. minerální voda, banán, tatranka, jablko apod.). 
 
-=== V izolované zóně musí být k dispozici další minerální voda. 
+. V izolované zóně musí být k dispozici další minerální voda. 
 
-=== V izolované zóně musí být možnost rozcvičení a rozlezení. 
+. V izolované zóně musí být možnost rozcvičení a rozlezení. 
 
 == Kategorie závodů 
 
@@ -61,42 +61,42 @@ Nominační závody musí být pořádány v open formátu.
 
 == Závodníci 
 
-=== Závodníci jsou povinni lézt v dresu (triko) dodaném pořadatelem, pokud pořadatel takový dres dodá a stanoví povinnost v něm startovat. 
+. Závodníci jsou povinni lézt v dresu (triko) dodaném pořadatelem, pokud pořadatel takový dres dodá a stanoví povinnost v něm startovat. 
 
-=== Závodů dospělých I. a II. kategorie se mohou zúčastnit pouze závodníci, kteří v daném kalendářním roce dosáhnou věku 16 let. Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností. 
+. Závodů dospělých I. a II. kategorie se mohou zúčastnit pouze závodníci, kteří v daném kalendářním roce dosáhnou věku 16 let. Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností. 
 
 == Rozhodčí a stavěč cest 
 
-=== Komise deleguje pro závody I. a II. kategorie delegáta ČHS, hlavního rozhodčího soutěže a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. 
+. Komise deleguje pro závody I. a II. kategorie delegáta ČHS, hlavního rozhodčího soutěže a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. 
 
-=== Hlavního stavěče závodu v lezení na obtížnost a boulderingu navrhuje pořadatel na základě seznamu držitelů příslušných stavěčských licencí, jeho nasazení pro daný závod musí být schváleno Komisí. Hlavní stavěč závodu I. a II. kategorie musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS) nebo úrovně 2. (Stavěč ČHS), případně mezinárodní licence IFSC, pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit Komise. 
+. Hlavního stavěče závodu v lezení na obtížnost a boulderingu navrhuje pořadatel na základě seznamu držitelů příslušných stavěčských licencí, jeho nasazení pro daný závod musí být schváleno Komisí. Hlavní stavěč závodu I. a II. kategorie musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS) nebo úrovně 2. (Stavěč ČHS), případně mezinárodní licence IFSC, pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit Komise. 
 
-=== Práci a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderingu hradí pořadatel. Minimální cena za stavění závodních cest u závodů I. a II. kategorie týmem vedeným licencovaným stavěčem je 10 000,- Kč za jednodenní závod a 12 000,- za závod dvoudenní. Pokud by tato cena nebyla pořadatelem dodržena, bude mu rozdíl odebrán z doplňkové části dotace a dorovnán stavěčům. 
+. Práci a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderingu hradí pořadatel. Minimální cena za stavění závodních cest u závodů I. a II. kategorie týmem vedeným licencovaným stavěčem je 10 000,- Kč za jednodenní závod a 12 000,- za závod dvoudenní. Pokud by tato cena nebyla pořadatelem dodržena, bude mu rozdíl odebrán z doplňkové části dotace a dorovnán stavěčům. 
 
 == Poskytování informací o závodech 
 
 [#pioz-1]
-=== Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (ivana.palasova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. Propozice by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby Komise měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk. Úroveň propagace bude mít vliv na výši doplňkové části dotace. 
+. Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (ivana.palasova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. Propozice by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby Komise měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk. Úroveň propagace bude mít vliv na výši doplňkové části dotace. 
 
 [#pioz-2]
-===  Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této výsledkové listiny a podpis hlavního rozhodčího. 
+.  Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této výsledkové listiny a podpis hlavního rozhodčího. 
 
 [#pioz-3]
-=== Pořadatel I. a II. Kategorie musí použít oficiální program pro zpracování výsledků. Pořadateli III. kategorie je doporučeno používat oficiální program pro zpracování výsledků. Při použití vlastního programu a zaslání výsledků pro ranking v jiném než oficiálním výstupu bude pořadateli krácena dotace a to jen v případě, kdy formát tohoto závodu je v oficiální aplikaci podporován. 
+. Pořadatel I. a II. Kategorie musí použít oficiální program pro zpracování výsledků. Pořadateli III. kategorie je doporučeno používat oficiální program pro zpracování výsledků. Při použití vlastního programu a zaslání výsledků pro ranking v jiném než oficiálním výstupu bude pořadateli krácena dotace a to jen v případě, kdy formát tohoto závodu je v oficiální aplikaci podporován. 
 
 == Doba trvání závodů 
 
-=== Závody na obtížnost I. kategorie se uskuteční ve dvou dnech: 1. den muži kvalifikace (2 cesty) + ženy kvalifikace (2 cesty), které se lezou stylem flash, 2. den muži semifinále + finále, ženy semifinále + finále (vše stylem OS) /. 
+. Závody na obtížnost I. kategorie se uskuteční ve dvou dnech: 1. den muži kvalifikace (2 cesty) + ženy kvalifikace (2 cesty), které se lezou stylem flash, 2. den muži semifinále + finále, ženy semifinále + finále (vše stylem OS) /. 
 
-=== Boulderingové závody I. kategorie se uskuteční ve dvou dnech. Kvalifikace se mohou lézt stylem flash nebo OS, finále se lezou stylem OS. Pořadatel si může sám zvolit formát finále – tj. buď závodníci lezou zároveň na všech boulderech nebo všichni lezou postupně stejný boulder – formát SP (mohou lézt ženy i muži zároveň). V případě formátu SP musí být zařazeno semifinále. Doporučený formát je SP.
+. Boulderingové závody I. kategorie se uskuteční ve dvou dnech. Kvalifikace se mohou lézt stylem flash nebo OS, finále se lezou stylem OS. Pořadatel si může sám zvolit formát finále – tj. buď závodníci lezou zároveň na všech boulderech nebo všichni lezou postupně stejný boulder – formát SP (mohou lézt ženy i muži zároveň). V případě formátu SP musí být zařazeno semifinále. Doporučený formát je SP.
 
-=== Závody na obtížnost II. kategorie se uskuteční na dvou kvalifikačních cestách stylem flash a finále OS v jednom dni.
+. Závody na obtížnost II. kategorie se uskuteční na dvou kvalifikačních cestách stylem flash a finále OS v jednom dni.
 
-=== Závody v boulderingu II. kategorie mohou mít kvalifikace flash nebo OS, finále musí být stylem OS, přičemž ve finále platí stejné možnosti jako u závodů I. kategorie. 
+. Závody v boulderingu II. kategorie mohou mít kvalifikace flash nebo OS, finále musí být stylem OS, přičemž ve finále platí stejné možnosti jako u závodů I. kategorie. 
 
-=== Závody na rychlost I. i II. kategorie se konají v jednom dni. 
+. Závody na rychlost I. i II. kategorie se konají v jednom dni. 
 
-=== Závody III. kategorie ve všech disciplínách se konají v jednom dni. Mohou být realizovány v jakémkoli formátu, který je v souladu s Pravidly soutěžního lezení ČHS 2020. 
+. Závody III. kategorie ve všech disciplínách se konají v jednom dni. Mohou být realizovány v jakémkoli formátu, který je v souladu s Pravidly soutěžního lezení ČHS 2020. 
 
 == Postupový klíč 
 
@@ -120,15 +120,15 @@ Nominační závody musí být pořádány v open formátu.
 
 == Hodnocení závodů 
 
-=== Z každého závodu získává český účastník body do průběžného rankingu ve sportovním lezení na obtížnost, v boulderingu a lezení na rychlost. Body jsou přidělovány na základě automaticky generovaného vzorce zohledňujícího počet závodníků a kvalitu startovního pole, který je k dispozici u správce rankingu. Do průběžného rankingu se započítávají všechny závody plovoucího roku (za posledních 365 dní) v dané soutěžní disciplíně. Zahraniční účastníci se do rankingu nezapočítávají. 
+. Z každého závodu získává český účastník body do průběžného rankingu ve sportovním lezení na obtížnost, v boulderingu a lezení na rychlost. Body jsou přidělovány na základě automaticky generovaného vzorce zohledňujícího počet závodníků a kvalitu startovního pole, který je k dispozici u správce rankingu. Do průběžného rankingu se započítávají všechny závody plovoucího roku (za posledních 365 dní) v dané soutěžní disciplíně. Zahraniční účastníci se do rankingu nezapočítávají. 
 
-=== Český pohár v lezení na obtížnost se skládá minimálně ze dvou závodů ČP a Mezinárodního Mistrovství ČR (MMČR). Do pořadí se započítávají minimálně dva pohárové závody a MMČR. Pořadí se hodnotí stejným bodovým systémem (s konstantní bodovou hodnotou za dané umístění ve všech závodech) započítávají se do něj pouze čeští účastníci. Konečné pořadí se počítá ze dvou nejúspěšnějších závodů ČP a MMČR (popř. tří závodů ČP – viz dále). V případě shody rozhoduje MMČR. Pokud se uskuteční 4 a více pohárových závodů včetně MMČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Maximální počet závodů ČP v jedné sezóně je 6.
+. Český pohár v lezení na obtížnost se skládá minimálně ze dvou závodů ČP a Mezinárodního Mistrovství ČR (MMČR). Do pořadí se započítávají minimálně dva pohárové závody a MMČR. Pořadí se hodnotí stejným bodovým systémem (s konstantní bodovou hodnotou za dané umístění ve všech závodech) započítávají se do něj pouze čeští účastníci. Konečné pořadí se počítá ze dvou nejúspěšnějších závodů ČP a MMČR (popř. tří závodů ČP – viz dále). V případě shody rozhoduje MMČR. Pokud se uskuteční 4 a více pohárových závodů včetně MMČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Maximální počet závodů ČP v jedné sezóně je 6.
 
-=== Český pohár v boulderingu se skládá minimálně ze dvou závodů ČP a Mezinárodního Mistrovství ČR (MMČR). Do pořadí se započítávají minimálně dva pohárové závody a MMČR. Pořadí se hodnotí stejným bodovým systémem (s konstantní bodovou hodnotou za dané umístění ve všech závodech) a započítávají se do něj pouze čeští účastníci. Konečné pořadí se počítá ze dvou nejúspěšnějších závodů ČP a MMČR (popř. tří závodů ČP – viz dále). V případě shody rozhoduje MMČR. Pokud se uskuteční 4 a více pohárových závodů včetně MMČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Maximální počet závodů ČP v jedné sezóně je 6.
+. Český pohár v boulderingu se skládá minimálně ze dvou závodů ČP a Mezinárodního Mistrovství ČR (MMČR). Do pořadí se započítávají minimálně dva pohárové závody a MMČR. Pořadí se hodnotí stejným bodovým systémem (s konstantní bodovou hodnotou za dané umístění ve všech závodech) a započítávají se do něj pouze čeští účastníci. Konečné pořadí se počítá ze dvou nejúspěšnějších závodů ČP a MMČR (popř. tří závodů ČP – viz dále). V případě shody rozhoduje MMČR. Pokud se uskuteční 4 a více pohárových závodů včetně MMČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Maximální počet závodů ČP v jedné sezóně je 6.
 
-=== Český pohár v lezení na rychlost se skládá z minimálně jednoho závodu ČP a Mezinárodního Mistrovství ČR (MMČR). Do pořadí se započítávají oba závody. Pokud se uskuteční 3 pohárové závody v lezení na rychlost včetně MMČR, započítávají se do celkového pořadí ČP všechny tyto závody. Pokud se uskuteční 4 a více pohárových závodů včetně MMČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Pořadí se hodnotí stejným bodovým systémem (s konstantní bodovou hodnotou za dané umístění ve všech závodech) a započítávají se do něj pouze čeští účastníci. Maximální počet závodů ČP v jedné sezóně je 6.
+. Český pohár v lezení na rychlost se skládá z minimálně jednoho závodu ČP a Mezinárodního Mistrovství ČR (MMČR). Do pořadí se započítávají oba závody. Pokud se uskuteční 3 pohárové závody v lezení na rychlost včetně MMČR, započítávají se do celkového pořadí ČP všechny tyto závody. Pokud se uskuteční 4 a více pohárových závodů včetně MMČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Pořadí se hodnotí stejným bodovým systémem (s konstantní bodovou hodnotou za dané umístění ve všech závodech) a započítávají se do něj pouze čeští účastníci. Maximální počet závodů ČP v jedné sezóně je 6.
 
-=== Systém bodování závodů ČP ve všech disciplínách: 
+. Systém bodování závodů ČP ve všech disciplínách: 
 
 [cols="6*^",options="header",]
 |===
@@ -147,35 +147,35 @@ Nominační závody musí být pořádány v open formátu.
 
 == Vyhlášení výsledků 
 
-=== Vyhlášení výsledků musí být provedeno důstojným způsobem. Vyhlášení výsledků musí být nejdéle do 30 minut po ukončení posledního kola závodu poslední kategorie. Jednotlivé kategorie mohou být vyhlašovány i v průběhu závodu. 
+. Vyhlášení výsledků musí být provedeno důstojným způsobem. Vyhlášení výsledků musí být nejdéle do 30 minut po ukončení posledního kola závodu poslední kategorie. Jednotlivé kategorie mohou být vyhlašovány i v průběhu závodu. 
 
-=== Při vyhlášení výsledků musí být dodrženy podmínky stanovené ČHS ve smlouvě s pořadatelem podle smluv s partnery ČHS. 
+. Při vyhlášení výsledků musí být dodrženy podmínky stanovené ČHS ve smlouvě s pořadatelem podle smluv s partnery ČHS. 
 
-=== Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem a cenami dodanými eventuálním partnerem závodu. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků. 
+. Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem a cenami dodanými eventuálním partnerem závodu. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků. 
 
-=== U mezinárodního mistrovství ČR (MMČR) se vyhlašuje pouze jedno pořadí závodu a uděluje titul Mezinárodního mistra ČR.
+. U mezinárodního mistrovství ČR (MMČR) se vyhlašuje pouze jedno pořadí závodu a uděluje titul Mezinárodního mistra ČR.
 
-=== Závodníci na prvních třech místech celkového pořadí Českého poháru v každé kategorii obdrží po ukončení posledního pohárového závodu diplomy, poháry a ceny pro celkové vyhodnocení poháru. Prize money za celkové pořadí seriálu jsou doporučeny. Vyhlášení celkového pořadí Českého poháru zabezpečí předseda Komise nebo jeho zástupce pro Český pohár. V případě, že je na základě smlouvy s ČHS pořadatelem seriálu samostatný subjekt, odpovídá tento subjekt i za vyhlášení celkového pořadí ČP. 
+. Závodníci na prvních třech místech celkového pořadí Českého poháru v každé kategorii obdrží po ukončení posledního pohárového závodu diplomy, poháry a ceny pro celkové vyhodnocení poháru. Prize money za celkové pořadí seriálu jsou doporučeny. Vyhlášení celkového pořadí Českého poháru zabezpečí předseda Komise nebo jeho zástupce pro Český pohár. V případě, že je na základě smlouvy s ČHS pořadatelem seriálu samostatný subjekt, odpovídá tento subjekt i za vyhlášení celkového pořadí ČP. 
 
 == Lezecká stěna a izolace 
 
-=== Pro závody ČP v lezení na obtížnost jsou parametry stěny tyto: Min. výška 10 m a možnost stavby lezecké cesty o délce min. 12 m. Pro boulder 4 m minimální výška a možnost stavby min. čtyř boulderů o minimálním počtu 6 kroků, tak aby si závodníci nepřekáželi. 
+. Pro závody ČP v lezení na obtížnost jsou parametry stěny tyto: Min. výška 10 m a možnost stavby lezecké cesty o délce min. 12 m. Pro boulder 4 m minimální výška a možnost stavby min. čtyř boulderů o minimálním počtu 6 kroků, tak aby si závodníci nepřekáželi. 
 
-=== V případě, že stěna nesplňuje výškové požadavky, požádá pořadatel Komisi o posouzení stěny. Pokud stěna nesplňuje minimální výšku, ale umožňuje postavit plnohodnotné cesty v uvedené délce, může Komise udělit výjimku. 
+. V případě, že stěna nesplňuje výškové požadavky, požádá pořadatel Komisi o posouzení stěny. Pokud stěna nesplňuje minimální výšku, ale umožňuje postavit plnohodnotné cesty v uvedené délce, může Komise udělit výjimku. 
 
-=== Rozlézací stěna v izolaci musí mít velikost min. 9 m2. Do izolace by měl být oddělený vstup. Izolace musí být hlídaná pořadatelem! 
+. Rozlézací stěna v izolaci musí mít velikost min. 9 m2. Do izolace by měl být oddělený vstup. Izolace musí být hlídaná pořadatelem! 
 
-=== Závodníci musí mít k dispozici toalety. 
+. Závodníci musí mít k dispozici toalety. 
 
 == Personální zabezpečení závodů ČHS 
 
-=== Jury
+. Jury
 
 * Delegát ČHS (TD) - náklady na jeho činnost placeny ČHS 
 * Hlavní rozhodčí (HR) - náklady na jeho činnost placeny ČHS, u závodů III. kategorie je možno sloučit funkci TD+HR 
 * Pomocní rozhodčí - pro každou kategorii (obtížnost – dva traťoví rozhodčí na každou závodní cestu, bouldering – minimálně jeden na každý boulder, doporučeni 2 rozhodčí, z nichž jeden může působit zároveň jako čistič chytů, rychlost - startér) – z řad pořadatelů, zkušení, se znalostí pravidel, nezávislí 
 
-=== Stavěči 
+. Stavěči 
 
 * Hlavní stavěč - držitel národní licence 1. nebo 2. úrovně nebo mezinárodní licence IFSC, placený pořadatelem 
 * Pomocní stavěči
@@ -190,10 +190,10 @@ Nominační závody musí být pořádány v open formátu.
 
 == Ostatní 
 
-=== Výši finanční a případně jiné podpory závodů všech kategorií schvaluje Komise. V případě nedodržení Pravidel soutěžního lezení ČHS platných pro rok 2020 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
+. Výši finanční a případně jiné podpory závodů všech kategorií schvaluje Komise. V případě nedodržení Pravidel soutěžního lezení ČHS platných pro rok 2020 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
 
-=== Pro závody III. kategorie mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<pioz-1>>, <<pioz-2>> a <<pioz-3>>. 
+. Pro závody III. kategorie mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<pioz-1>>, <<pioz-2>> a <<pioz-3>>. 
 
-=== Pro všechny závody I. a II. kategorie je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis. 
+. Pro všechny závody I. a II. kategorie je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis. 
 
-=== Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>> 
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>> 
