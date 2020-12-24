@@ -14,12 +14,12 @@ jobs:
     container: asciidoctor/docker-asciidoctor 
     steps:
     - name: Get current date
-        id: date
-        run: echo "currentDate=$(date +'%d.%m.%Y')" >> $GITHUB_ENV
+      id: date
+      run: echo "currentDate=$(date +'%d.%m.%Y')" >> $GITHUB_ENV
     
     - name: Get project version from pom.xml
-        id: project_version
-        run: echo "projectVersion=$(mvn help:evaluate -Dexpression=project.version -q -DforceStdout)" >> $GITHUB_ENV
+      id: project_version
+      run: echo "projectVersion=$(mvn help:evaluate -Dexpression=project.version -q -DforceStdout)" >> $GITHUB_ENV
 
     - uses: actions/checkout@v2
       
