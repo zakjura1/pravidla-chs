@@ -20,7 +20,7 @@ jobs:
     - uses: actions/checkout@v2
       
     - name: Run asciidoctor-pdf
-      run: asciidoctor-pdf -r asciidoctor-mathematical -a compress -a mathematical-format=svg -a revdate=$NOW -a revnumber=1.1.$GITHUB_RUN_ID src/asciidoc/*.adoc
+      run: asciidoctor-pdf -r asciidoctor-mathematical -a compress -a mathematical-format=svg -a revdate=$NOW -a revnumber=1.1.GITHUB_RUN_NUMBER src/asciidoc/*.adoc
     
     - name: Archive generated pdf's
       uses: actions/upload-artifact@v2
