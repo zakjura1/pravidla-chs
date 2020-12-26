@@ -35,7 +35,7 @@
 . Následující bezpečnostní opatření musí být dodržována při stavbě cest:
 .. Každý bod postupového jištění použitý v soutěži, včetně posledního, musí být vybaven expreskou: schválená a správně zapnutá 8 nebo 10 mm karabina Maillon Rapide, ke které je připnuta spojitá, strojově sešitá smyčka, na jejímž druhém konci je karabina, ke které soutěžící musí připnout lano. Musí být minimalizována možnost přetočení karabiny.
 .. Tam, kde je potřeba prodloužit normální expresku, je nutno použít namísto kratší expresky spojitou, strojově sešitou smyčku o stejné nosnosti. Oko smyčky je možné spojit lepicí páskou. Za žádných okolností není možné takovouto smyčku zkracovat nebo upravovat za pomoci uzlů. Za žádných okolností se nesmí použít řetěz z normálně dlouhých expresek (spojených jedna k druhé buď za pomoci karabiny Maillon Rapide nebo za pomoci karabin s pojistkou či bez ní). Není dovoleno používat svázané lano nebo svázanou plochou smyčku.
-. Hlavní rozhodčí musí ověřit, že je na místě vhodně kvalifikovaný zdravotnický personál, aby bylo možné zajistit rychlou pomoc v případě jakékoliv úrazu nebo zranění soutěžícího či pořadatele na závodišti.
+. Hlavní rozhodčí musí ověřit, že je na místě vhodně kvalifikovaný zdravotnický personál, aby bylo možné zajistit rychlou pomoc v případě jakékoliv nehody nebo úrazu soutěžícího či pořadatele na závodišti.
 +
 Tento zdravotnický personál soutěže musí být přítomen od plánovaného otevření izolace nebo rozcvičovací zóny do konce pokusu posledního soutěžícího.
 . Existují-li důvody věřit, že je soutěžící z jakéhokoliv důvodu nezpůsobilý soutěžit (např. zranění nebo nemoc), je Hlavní rozhodčí oprávněn vyžádat si prohlídku soutěžícího. Tu provede zdravotník pořadatele a bude spočívat v následujícím tělesném testu:
@@ -74,7 +74,7 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 
 . [[registrace-a-izolace-3]]Do izolační zóny nesmějí zvířata. Výjimky z tohoto pravidla musejí být schváleny Hlavním rozhodčím.
 
-. [[registrace-a-izolace-4]]Kouření v prostoru izolace je zakázáno. Pořadatel však může vyhradit prostor pro kuřáky tak, aby nedošlo porušení podmínek izolace a nebyli omezování ostatní soutěžící.
+. [[registrace-a-izolace-4]]Kouření v prostoru izolace je zakázáno. Pořadatel však může vyhradit prostor pro kuřáky tak, aby nedošlo k porušení podmínek izolace a nebyli omezování ostatní soutěžící.
 
 . [[registrace-a-izolace-5]]Soutěžící musejí dodržovat podmínky izolace během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
 
