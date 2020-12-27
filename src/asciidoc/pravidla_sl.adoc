@@ -13,6 +13,9 @@ include::../../locale/_attributes.adoc[]
 Český horolezecký svaz
 v1.1, 1.1.2021
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
+
+include::{includedir}/_slovnik_pojmu.adoc[]
+
 :sectnums:
 
 include::{includedir}/_chs.adoc[]
