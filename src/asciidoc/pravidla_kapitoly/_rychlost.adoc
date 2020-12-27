@@ -25,7 +25,7 @@
 . Umístění jistících bodů musí být takové, aby tyto body nepomáhaly, nebránily nebo neohrožovaly soutěžícího v lezení na cestě.
 . V případě manuálního způsobu jištění platí:
 .. Soutěžící je jištěný zespodu. Lano se používá jednoduché.
-.. Horní jištění musí procházet skrze dva oddělené jistící body, z nichž každý se sestává z karabiny s pojistkou, připevněné k jistícímu bodu expreskou se správně zapnutou 8 mm nebo 10 mm karabinou Maillon Rapide.
+.. Horní jištění musí procházet skrze dva oddělené <<#jistici-bod, jistící body>>.
 .. Lezecké lano musí být připevněné k úvazku každého soutěžícího buď:
 ... za pomoci osmičkového uzlu, zajištěného dalším uzlem, nebo
 ... za pomoci karabiny se šroubovací pojistkou západky takového typu, který minimalizuje nebezpečí příčného zatížení a vycvaknutí lana z karabiny, nebo použitím dvou karabin se šroubovací pojistkou západky proti sobě. Lezecké lano musí být spojeno s karabinou/karabinami osmičkovým uzlem, zajištěným další uzlem.
@@ -56,11 +56,11 @@
 [#dokonceni-cesty-rychlost]
 === DOKONČENÍ CESTY
 
-. [[dcr-1]]Pokus je chápán jako úspěšně dokončený v případě, že byl lezen v souladu s pravidly a soutěžící rukou stiskl spínač časomíry a časomíra se zastavila.
-. [[dcr-2]]Pokus soutěžícího je hodnocen jako neúspěšný když, kterýkoliv soutěžící poruší pravidlo o předčasném startu nebo když:
-.. Stiskl spínač časomíry a časomíra se nezastavila
-.. Spadne;
-.. Použije k lezení chyty nebo prvky vyčleněné v souladu s článkem <<#lezecka-stena>>.<<#ls-2,2>>;
+. [[dcr-1,{counter:dcr}]]Pokus je chápán jako úspěšně dokončený v případě, že byl lezen v souladu s pravidly a soutěžící rukou stiskl spínač časomíry a časomíra se zastavila.
+. [[dcr-2,{counter:dcr}]]Pokus soutěžícího je hodnocen jako neúspěšný když, kterýkoliv soutěžící poruší pravidlo o předčasném startu nebo když:
+.. nepodařilo se mu zastavit časomíru
+.. zastavil pád nebo uklouznutí jinak než použitím nejvýše drženým/použitým chytem předtím než došlo k pádu/uklouznutí.
+.. Použije k lezení chyty nebo prvky vyčleněné v souladu s článkem <<#lezecka-stena>>.<<#ls-2>>;
 .. Použije k lezení boční nebo horní okraj lezecké stěny;
 .. Dotkne se jakoukoliv částí těla země poté, co nastoupil na cestu;
 .. Využije jakoukoliv umělou pomůcku neuvedenou v pravidlech a neschválenou hlavním rozhodčím.
@@ -169,7 +169,7 @@ Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo
 . Startovní pořadí musí být náhodné
 . Každý soutěžící bude hodnocen na základě nejlepšího času ze všech absolvovaných pokusů
 . Minimální pauza mezi jednotlivými pokusy je 5 minut.
-. Pokus se posuzuje podle bodů <<#dokonceni-cesty-rychlost>>.<<#dcr-1,1>> a <<#dokonceni-cesty-rychlost>>.<<#dcr-2,2>>. V případě předčasného startu se pokus považuje jen za neúspěšný pokus.
+. Pokus se posuzuje podle bodů <<#dokonceni-cesty-rychlost>>.<<#dcr-1>> a <<#dokonceni-cesty-rychlost>>.<<#dcr-2>>. V případě předčasného startu se pokus považuje jen za neúspěšný pokus.
 . Remíza soutěžících:
 .. Nastane-li po porovnání nejlepších časů remíza dvou nebo více soutěžících, jsou tito soutěžící porovnání na základě druhého nejlepšího času, v případě shody pak třetího atd.
 .. V případě, kdy závodníci jsou stále na stejném místě, pak je lépe umístěn závodník s více platnými pokusy

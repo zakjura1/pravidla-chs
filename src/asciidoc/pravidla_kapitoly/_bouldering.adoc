@@ -106,7 +106,7 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 . Pokus je považován za úspěšný, když pomocný rozhodčí potvrdí, že soutěžící dosáhl topu v souladu s odstavcem <<#obecne-bouldering>>.<<#ob-11,11>> a ohlásí „TOP“.
 . Pokus je považován za neúspěšně ukončený když:
 .. soutěžící se nedostane do startovní pozice popsané v odstavci <<#obecne-bouldering>>.<<#ob-9,9>>;
-.. [[tib-3]]soutěžící použije k lezení jakoukoli jinou část stěny, chytu nebo struktury, než je povoleno v odstavci <<#lezecka-stena>>.<<#ls-1,1>> nebo takovou, která je označena jako zakázaná pro lezení v souladu s odstavcem <<#lezecka-stena>>.<<#ls-2,2>>;
+.. [[tib-3]]soutěžící použije k lezení jakoukoli jinou část stěny, chytu nebo struktury, než je povoleno v odstavci <<#lezecka-stena>>.<<#ls-1>> nebo takovou, která je označena jako zakázaná pro lezení v souladu s odstavcem <<#lezecka-stena>>.<<#ls-2>>;
 .. soutěžící se dotkne země jakoukoli částí těla;
 .. pokus nebyl dokončen před vypršením časového intervalu
 .. soutěžící nezačne tak, jak stanoví rozhodčí daného boulderu.

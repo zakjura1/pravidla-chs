@@ -19,10 +19,10 @@
 
 [#lezecka-stena]
 === LEZECKÁ STĚNA
-. [[ls-1]]Celý povrch lezecké stěny je možno použít k lezení s následujícími výjimkami:
+. [[ls-1,{counter:ls}]]Celý povrch lezecké stěny je možno použít k lezení s následujícími výjimkami:
 .. Otvory v lezecké stěně sloužící k montáži chytů nesmí soutěžící v lezení používat rukama;
 .. Pro lezení není dovoleno používat ani boční, ani horní okraj stěny.
-. [[ls-2]]Je-li potřeba ohraničit chyty, části stěny nebo struktury, které nejsou k lezení povoleny, je k tomuto vymezení třeba použít jasně rozpoznatelné černé vyznačení. V případě nutnosti lze využít jinou, kontrastní barvu, pak ale musí být tato barva jasně specifikována při prohlídce cesty.
+. [[ls-2,{counter:ls}]]Je-li potřeba ohraničit chyty, části stěny nebo struktury, které nejsou k lezení povoleny, je k tomuto vymezení třeba použít jasně rozpoznatelné černé vyznačení. V případě nutnosti lze využít jinou, kontrastní barvu, pak ale musí být tato barva jasně specifikována při prohlídce cesty.
 
 [#bezpecnost]
 === BEZPEČNOST
