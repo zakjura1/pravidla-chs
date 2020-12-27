@@ -56,6 +56,9 @@ Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druh�
 
 [#prohlidka-cest]
 === PROHLÍDKA CEST
+. Kvalifikační cesty musí být demonstrovány předlezci
+.. pomocí videa přehrávaného ve smyčce v rámci <<#rozcvicovaci-zona, rozcvičovací zóny>>. Video musí být spuštěno nejpozději 60 minut před plánovaným startem daného kola; nebo
+.. pokud video předlezení není možné, pak pomocí živého předlezení, které musí začít nejpozději 30 (TODO 15???) minut před pokusem prvního závodníka
 
 . V souladu s částí <<#prohlidka-cesty>> obecných pravidel, soutěžící (jako skupina) mají povolenou prohlídku cest, které polezou on-sight.
 
@@ -109,10 +112,10 @@ Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druh�
 . Soutěžící se v průběhu svého pokusu na cestě může ptát, kolik z času mu zbývá, přičemž Hlavní rozhodčí musí soutěžícího okamžitě informovat nebo někoho pověřit, aby soutěžícího informoval. Když časový limit vyprší, musí dát Hlavní rozhodčí soutěžícímu pokyn, aby přestal lézt. Soutěžící, který tohoto pokynu neuposlechne, bude vystaven disciplinárnímu postihu v souladu s článkem <<#disciplinarni-rizeni>>.
 . V průběhu pokusu na cestě:
 .. Soutěžící musí být stále v povolené pozici. To je z hlediska postupového jištění když:
-... [[prubeh-pokusu-i]]soutěžící celým tělem nepřelezl nad/za spodní karabinu expresky, do které ještě nezapnul lano nebo
-... [[prubeh-pokusu-ii]]neopustil oběma rukama poslední chyt, který byl hlavním stavěčem označen jako poslední chyt, ze kterého může být ještě jištění zapnuto
+... [[prubeh-pokusu-i,({counter:pp:i})]]soutěžící celým tělem nepřelezl nad/za spodní karabinu expresky, do které ještě nezapnul lano nebo
+... [[prubeh-pokusu-ii,({counter:pp})]]neopustil oběma rukama poslední chyt, který byl hlavním stavěčem označen jako poslední chyt, ze kterého může být ještě jištění zapnuto
 ... pokud je vyznačen chyt z důvodu bezpečnosti modrým křížem, bodování je pozastaveno na tomto chytu dokud není příslušné jištění zapnuto
-... v ostatních případech je bodování pozastaveno na posledním chytu před <<#prubeh-pokusu-i,(i)>> nebo <<#prubeh-pokusu-ii,(ii)>>.
+... v ostatních případech je bodování pozastaveno na posledním chytu před <<#prubeh-pokusu-i>> nebo <<#prubeh-pokusu-ii>>.
 
 
 +

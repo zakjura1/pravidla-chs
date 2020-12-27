@@ -7,12 +7,14 @@
 
 === POUŽITÍ
 
-. Antidopingová pravidla se vztahují na všechny soutěže pořádané pod záštitou ČHS. Jakákoliv osoba – jako sportovec, trenér, soutěžní činitel, člen lékařského nebo ošetřovatelského personálu - která se přihlásí, připravuje se nebo se účastní těchto soutěží, je chápána jako někdo, kdo souhlasil respektováním a podřízením se antidopingovým pravidlům.
+. Antidopingová pravidla se vztahují na všechny soutěže pořádané pod záštitou ČHS. 
+. Jakákoliv osoba – jako sportovec, trenér, soutěžní činitel, člen lékařského nebo ošetřovatelského personálu - která se přihlásí, připravuje se nebo se účastní těchto soutěží, je chápána jako někdo, kdo souhlasil s respektováním a podřízením se antidopingovým pravidlům a bodu <<#prestupky-a-sankce-doping>>.
 
 === PŘÍSLUŠNÉ ORGÁNY V RÁMCI ČHS
 
 . Příslušné orgány v rámci ČHS, které se zabývají prosazováním antidopingových pravidel v lezeckých soutěžích – které zahrnují lezení na obtížnost, bouldering, lezení na rychlost a kombinaci – jsou Lékařská a Disciplinární komise ČHS.
 
+[#prestupky-a-sankce-doping]
 === PŘESTUPKY A SANKCE
 
 . S dopingovými přestupky bude nakládáno ve shodě s Antidopingovou politikou Světové antidopingové asociace a s Disciplinárním řádem ČHS.
