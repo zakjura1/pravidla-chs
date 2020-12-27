@@ -16,7 +16,7 @@ může:: představuje volitelnou záležitost
 
 [[pouzitelne-standardy]]Použitelné standardy:: mají význam definovaný bodem <<#standardy>> těchto pravidel
 
-[[pouzitelne-standardy]]Poplatek za protest:: představuje částku definovanou ČHS v souvislosti s podáním protestu v soutěži ohledně dodržování těchto pravidel
+[[poplatek-za-protest]]Poplatek za protest:: představuje částku definovanou ČHS v souvislosti s podáním protestu v soutěži ohledně dodržování těchto pravidel
 
 [[umela-pomoc]]Umělá pomoc:: představuje držení nebo použití čehokoliv z následujícího:
  .. jakýkoliv montážní otvor (T-Nut) určený k uchycení <<#umely-chyt,umělého chytu>>
@@ -49,12 +49,12 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
 
 [[lezecky-povrch]]Lezecký povrch:: představuje použitelnou plochu lezecké stěny:
  .. zahrnující jakýkoliv Přírodní chyt, a
- .. vylučující jakýkoliv <<#umely-chyt, Umělý chyt>>, strukturu nebo jiný dočasnou <<#stuktura,Strukturu>> uchycenou na použitelnou plochu
+ .. vylučující jakýkoliv <<#umely-chyt, Umělý chyt>>, strukturu nebo jiný dočasnou <<#struktura,Strukturu>> uchycenou na použitelnou plochu
 
 [[soutezni-prostor]]Soutěžní prostor:: představuje takovou část v místě konání akce, která je vyhrazená pro sportovní soutěže včetně:
- ..jakékoliv <<#izolacni-zona,Izolační zóny>> nebo <<#zahrivaci-zona,Zahřivací zóny>>
+ ..jakékoliv <<#izolacni-zona,Izolační zóny>> nebo <<#rozcvicovaci-zona,Rozcvičovací zóny>>
  .. jakékoliv <<#svolavaci-zona,Svolávací zóny>>/<<#tranzitni-zona,Transitní zóny>>
- .. jakékoliv <<#soutezni-zona,Soutěžní zóny>> zahrnující:
+ .. jakékoliv soutěžní zóny zahrnující:
  ... <<#lezecky-povrch,Lezecký povrch>> použitý v jakémkoliv kole soutěže
  ... prostor bezprostředně před a vedle lezecké stěny či stěn
  ... jakýkoliv další prostor vyhrazený z důvodu bezpečnosti a dodržení spravedlivých podmínek soutěže, např. další prostory potřebné pro nahrávání nebo přehrávání video záznamu.
@@ -112,7 +112,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[izolacni-zona]]Izolační zóna:: znamená <<#rozcvicovaci-zona,Rozcvičovací zónu>> do které je hlídaný vstup a omezen na:
 .. závodníky, kteří se kvalifikovali do daného kola závodu
-.. doprovázející <<#cleny-tymu,Členy týmu>>
+.. doprovázející <<#clenove-tymu,Členy týmu>>
 
 [[legitimni-pozice]]Legitimní pozice:: znamená pro potřeby soutěží v lezení na obtížnost, že soutěžící během jeho pokusu:
 .. nepoužil <<#umela-pomoc,Umělou pomoc>>
@@ -123,16 +123,16 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[manualni-jistitka]]Manuální jistící zařízení:: jsou zařízení, která splňují normu link:https://www.nlfnorm.cz/terminologicky-slovnik/82171[ČSN EN 15151-2]
 
-[[oficialni-vysledky]]Oficiální výsledky:: jsou výsledky zveřejněné na konci soutěže nebo jakéhokoliv kola soutěže na oficiální nástěnce a jsou podepsané příslušným <<#chs-official,Oficiálním činitelem ČHS>>
+[[oficialni-vysledky]]Oficiální výsledky:: jsou výsledky zveřejněné na konci soutěže nebo jakéhokoliv kola soutěže na oficiální nástěnce a jsou podepsané příslušným <<#chs-official,Oficiálním činovník ČHS>>
 
 [[puvodni-rozhodnuti]]Původní rozhodnutí:: je takové rozhodnutí, které platilo předtím, než na něj byl podán platný protest dle příslušných stanovení v <<#protesty>>
 
-[[prubezne-vysledky]]Průběžné výsledky/Neoficiální výsledky:: jsou výsledky, které jsou publikovány nebo kolují dříve než je <<#chs-oficial,Oficiální čínovník ČHS>> pro daný závod nebo jakoukoliv cestu či kolo během závodu publikuje
+[[prubezne-vysledky]]Průběžné výsledky/Neoficiální výsledky:: jsou výsledky, které jsou publikovány nebo kolují dříve než je <<#chs-official,Oficiální činovník ČHS>> pro daný závod nebo jakoukoliv cestu či kolo během závodu publikuje
 
 [[jistici-bod]]Jistící bod:: je složen z
-.. [[jb1,{counter:jb:a}.]]rychlospojka, spojená se šroubem fixovaným do nosné konstrukce <<#lezecky-povrch,Lezeckého povrchu>> 
+.. [[jb1,{counter:jb:a}.]]rychlospojky, spojené se šroubem fixovaným do nosné konstrukce <<#lezecky-povrch,Lezeckého povrchu>> 
 .. [[jb2,{counter:jb}.]]karabiny do které závodník zapíná lano. Orientace karabiny musí minimalizovat možnost přetočení karabiny
-.. jednoduchou strojově sešitou smyčku příslušné délky spojující <<#jb1>> a <<#jb2>>
+.. jednoduchou strojově sešitou smyčkou příslušné délky spojující <<#jb1>> a <<#jb2>> (dále jen expreska)
 
 [[poradi]]Pořadí:: je relace mezi množinou výsledků, kdy pro jakékoliv dva prvky platí, že první je „umístěn výše než“, „umístěn níže než“ nebo „umístěn stejně“ jako druhý. Všechny pořadí v těchto pravidlech jsou počítány podle link:https://en.wikipedia.org/wiki/Ranking#Standard_competition_ranking_%28%221224%22_ranking%29[Standard competition ranking] pokud není v těchto pravidlech uvedeno jinak.
 
@@ -150,11 +150,17 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[struktura]]Struktura:: je buď dutý nebo pevný objekt, který poskytuje jedno nebo více míst pro uchycení rukou nebo nohou a je uchycen k <<#lezecky-povrch,Lezeckému povrchu>> po dobu nejméně jednoho kola soutěže.
 
+[[manazer-tymu]]Vedoucí týmu:: je týmem zvolená osoba, která je zodpovědná za chování <<#clenove-tymu,členů>> v rámci jejich týmu během celé soutěže. Pro různé disciplíny může být zvolen jiný vedoucí týmu
+
+[[clenove-tymu]]Členové týmu:: jsou společně závodníci daného týmu a jejich oficiální doprovod
+
+[[oficialni-doprovod]]Oficiální doprovod týmu:: představuje v rámci společné skupiny závodníku jejich vedoucího, trenéry a zdravotnický doprovod v rámci soutěže.
+
 [[top-chyt]]TOP chyt:: je speciálně označený poslední chyt v cestě lezenou s horním jištěním nebo boulderu.
 
 [[nakres]]Nákres cesty:: je symbolický popis cesty, který obsahuje bodované hodnoty pro každý chyt cesty
 
-[[tranzit-zona]]Tranzitní zóna/Přechodná izolace:: je konkrétní část v rámci <<#soutezni-prostor, Soutěžního prostoru>>, která je upravena tak, aby umožňovala soutěžícícm se připravit (nebo si odpočinout) před na jejich pokus(y) na boudleru/cestě.
+[[tranzitni-zona]]Tranzitní zóna/Přechodná izolace:: je konkrétní část v rámci <<#soutezni-prostor, Soutěžního prostoru>>, která je upravena tak, aby umožňovala soutěžícícm se připravit (nebo si odpočinout) před na jejich pokus(y) na boudleru/cestě.
 
 [[pouzit]]Použít::  znamená pro potřeby rozhodování a bodování stav, kdy soutěžící použil nějaký objekt/strukturu k postupnému pohybu jak svého těžiště těla nebo boků a pohyb jedné nebo obou rukou směřoval:
 .. k dalšímu chytu podél linie cesty; nebo
@@ -164,6 +170,6 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[vrm]]Označení platného výsledku:: znamená dosažení bodovaného hodnocení
 
-[[zahrivaci-zona]]Zahřívací zóna:: znamená jakoukoliv část <<#soutezni-prostor,Soutěžního prostoru>> která je určená a vybavená pro potřeby přípravy závodníků
+[[rozcvicovaci-zona]]Rozcvičovací zóna:: znamená jakoukoliv část <<#soutezni-prostor,Soutěžního prostoru>> která je určená a vybavená pro potřeby přípravy závodníků
 
 [[z-klip]]Z-klip:: je situace, kdy je lano protažené skrz dva <<#jistici-bod,Jistící body>> mimo logické pořadí

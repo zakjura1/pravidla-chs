@@ -26,16 +26,42 @@
 
 [#bezpecnost]
 === BEZPEČNOST
-. Pořadatel soutěže je zodpovědný za udržování bezpečnosti na závodišti a ve veřejném prostoru ve vztahu k veškerým aktivitám spojeným s průběhem soutěže.
+. Pořadatel soutěže je zodpovědný za udržování bezpečnosti v <<#soutezni-prostor, soutěžním prostoru>> a ve veřejném prostoru ve vztahu k veškerým aktivitám spojeným s průběhem soutěže.
 . Hlavní rozhodčí po poradě s Hlavním stavěčem má pravomoc dělat rozhodnutí související s otázkami bezpečnosti na závodišti, včetně toho, že odmítne povolit start nebo pokračování jakékoliv části soutěže. Jakákoliv osoba, na kterou má Hlavní rozhodčí podezření, že porušila nebo pravděpodobně porušila bezpečnostní postupy, bude zbavena svých povinností a/nebo bude muset opustit závodiště.
 . Jističi jmenovaní pořadatelem musí být vycvičeni pro soutěžní způsob jištění. Hlavní rozhodčí může pořadatelům kdykoliv v průběhu soutěže nařídit výměnu kteréhokoliv jističe. Je-li jistič vyměněn, nesmí mu být dovoleno nadále jistit jakéhokoliv soutěžícího v dané soutěži.
 . Každá cesta nebo boulder musí být navržen(a) tak, aby se předešlo nebezpečí zranění soutěžícího při pádu, popřípadě zranění nebo omezení jakéhokoliv jiného soutěžícího nebo třetí osoby.
 . Hlavní rozhodčí a Hlavní stavěč musejí zkontrolovat každou cestu nebo boulder před zahájením každého soutěžního kola, aby se zajistilo zachování bezpečnostních norem.
-. Veškeré vybavení používané v soutěži – jak organizátorem, tak soutěžícími - musí být v souladu s odpovídajícími normami. V rámci těchto požadavků musejí soutěžící v lezení na obtížnost a na rychlost používat jednoduché lano poskytnuté pořadateli (výjimkou je pouze použití automatického jistícího zařízení v případě lezení na rychlost). O frekvenci, se kterou se lano bude měnit, musí rozhodnout Hlavní rozhodčí.
+
 . Následující bezpečnostní opatření musí být dodržována při stavbě cest:
-.. Každý bod postupového jištění použitý v soutěži, včetně posledního, musí být vybaven expreskou: schválená a správně zapnutá 8 nebo 10 mm karabina Maillon Rapide, ke které je připnuta spojitá, strojově sešitá smyčka, na jejímž druhém konci je karabina, ke které soutěžící musí připnout lano. Musí být minimalizována možnost přetočení karabiny.
-.. Tam, kde je potřeba prodloužit normální expresku, je nutno použít namísto kratší expresky spojitou, strojově sešitou smyčku o stejné nosnosti. Oko smyčky je možné spojit lepicí páskou. Za žádných okolností není možné takovouto smyčku zkracovat nebo upravovat za pomoci uzlů. Za žádných okolností se nesmí použít řetěz z normálně dlouhých expresek (spojených jedna k druhé buď za pomoci karabiny Maillon Rapide nebo za pomoci karabin s pojistkou či bez ní). Není dovoleno používat svázané lano nebo svázanou plochou smyčku.
-. Hlavní rozhodčí musí ověřit, že je na místě vhodně kvalifikovaný zdravotnický personál, aby bylo možné zajistit rychlou pomoc v případě jakékoliv nehody nebo úrazu soutěžícího či pořadatele na závodišti.
+.. Každý bod postupového jištění použitý v soutěži, včetně posledního, musí splňovat definici <<#jistici-bod,jistícího bodu>>.
+.. Tam, kde je potřeba prodloužit normální expresku, je nutno použít namísto kratší smyčky opět spojitou, strojově sešitou smyčku o stejné nosnosti. Oko smyčky je možné spojit lepicí páskou. Za žádných okolností není možné takovouto smyčku zkracovat nebo upravovat za pomoci uzlů. Za žádných okolností se nesmí použít řetěz z normálně dlouhých expresek (spojených jedna k druhé buď za pomoci karabiny Maillon Rapide nebo za pomoci karabin s pojistkou či bez ní). Není dovoleno používat svázané lano nebo svázanou plochou smyčku.
+
+[#standardy]
+=== VYBAVENí
+. Veškeré vybavení používané v soutěži – jak organizátorem, tak soutěžícími - musí být v souladu s odpovídajícími ČSN EN normami nebo srovnatelnými mezinárodními ekvivalenty pokud není ČHS uvedeno jinak a ve vyjímečných případech hlavním rozhodčím. Aplikované normy v tuto chvíli jsou:
+
+[cols="2*",options="header",width="75%"]
+[.center]
+|===
+|Vybavení|Aplikovaný standard
+|Jistící zařízení (blokující)| link:https://www.nlfnorm.cz/terminologicky-slovnik/82180[ČSN EN 15151-1]
+|Jistící zařízení (manuální)| link:https://www.nlfnorm.cz/terminologicky-slovnik/82171[ČSN EN 15151-2]
+|Lezecký úvazek| link:https://www.nlfnorm.cz/ehn/6609[ČSN EN 12277] (typ C, děti <40kg nebo <140cm i typ B)
+|Lezecké chyty| ČSN EN 12572-3
+|Lezecká lana| link:https://www.nlfnorm.cz/ehn/5495[ČSN EN-892]
+|Lezecké struktury| ČSN EN 12572-1, ČSN EN 12572-2
+|Karabiny (šroubovací zámek)| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ H)
+|Karabiny (automatický zámek| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ H)
+|Expreska / popruh| link:https://www.nlfnorm.cz/ehn/5639[ČSN EN 566]
+|Expreska / karabina| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ B, typ D)
+|Expreska / rychlospojka| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ Q)
+|===
+
+. V rámci těchto požadavků musejí soutěžící v lezení na obtížnost a na rychlost používat jednoduché lano poskytnuté pořadateli (výjimkou je pouze použití automatického jistícího zařízení v případě lezení na rychlost). O frekvenci, se kterou se lano bude měnit, musí rozhodnout Hlavní rozhodčí.
+
+[#zdravotnicky-personal]
+=== ZDRAVOTNICKÝ PERSONÁL
+. Hlavní rozhodčí musí ověřit, že je na místě vhodně kvalifikovaný zdravotnický personál, aby bylo možné zajistit rychlou pomoc v případě jakékoliv nehody nebo úrazu soutěžícího nebo oficiálního doprovodu týmu.
 +
 Tento zdravotnický personál soutěže musí být přítomen od plánovaného otevření izolace nebo rozcvičovací zóny do konce pokusu posledního soutěžícího.
 . Existují-li důvody věřit, že je soutěžící z jakéhokoliv důvodu nezpůsobilý soutěžit (např. zranění nebo nemoc), je Hlavní rozhodčí oprávněn vyžádat si prohlídku soutěžícího. Tu provede zdravotník pořadatele a bude spočívat v následujícím tělesném testu:
