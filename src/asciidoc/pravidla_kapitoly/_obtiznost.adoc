@@ -14,7 +14,7 @@
 
 . Soutěž v lezení na obtížnost se obvykle sestává z:
 .. kvalifikačního kola, které se musí odehrávat na dvou nestejných cestách. Obě cesty musí být přibližně stejného rázu a podobné technické obtížnosti. Cesty jsou přelézány stylem FLASH;
-.. finále (v případě závodů 1. kategorie i semifinále, všechny závody mládeže se lezou bez semifinále), které se odehrávají na jedné cestě, která je lezena stylem On-sight.
+.. finále (v případě <<#mistrovstvi,Mistrovství>> i semifinále, všechny závody mládeže se lezou bez semifinále), které se odehrávají na jedné cestě, která je lezena stylem On-sight.
 
 +
 V případě nepředvídaných událostí může Hlavní rozhodčí zrušit jedno z kol. Je-li jedno kolo zrušeno, pak se výsledky z předchozího kola počítají rovněž jako výsledky zrušeného kola.
@@ -209,8 +209,8 @@ Vzhledem k zavedení času jako jednoho z rozhodujících kritérií ve finále 
 === STANOVENÝ POČET SOUTĚŽÍCÍCH NA KAŽDÉ KOLO
 
 . Část <<#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost>> je třeba číst ve spojení s výše popsanou částí <<#poradi-po-kazdem-kole-obtiznost>>, tedy dříve než aplikujeme část <<#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost>>, je třeba sestavit pořadí.
-. Při závodech I. kategorie je počet soutěžících kvalifikujících se pro semifinále 26 a pro finále 8 soutěžících. V případě, že počet soutěžících, kteří nastoupí do kvalifikace je nižší než 26, může Hlavní rozhodčí rozhodnout o zrušení semifinále a podle výsledků z kvalifikace postoupí rovnou do finále 8 soutěžících. Rozhodnutí o zrušení semifinále musí Hlavní rozhodčí oznámit všem soutěžícím dané kategorie před zahájením kvalifikace.
-. U závodů II. kategorie se automaticky vynechává semifinále a do finále postupuje 8 soutěžících.
+. Při závodech nejvyšších soutěží je počet soutěžících kvalifikujících se pro semifinále 26 a pro finále 8 soutěžících. V případě, že počet soutěžících, kteří nastoupí do kvalifikace je nižší než 26, může Hlavní rozhodčí rozhodnout o zrušení semifinále a podle výsledků z kvalifikace postoupí rovnou do finále 8 soutěžících. Rozhodnutí o zrušení semifinále musí Hlavní rozhodčí oznámit všem soutěžícím dané kategorie před zahájením kvalifikace.
+. U závodů 1. ligy se automaticky vynechává semifinále a do finále postupuje 8 soutěžících.
 . Stanovená kvóta bude naplněna soutěžícími s nejlepším umístěním z předešlého kola.
 . Je-li stanovená kvóta přesažena v důsledku remízy soutěžících, pak se do dalšího kola soutěže kvalifikují všichni remízující soutěžící.
 
@@ -240,5 +240,5 @@ Soutěžící nebo jeho trenér může proti tomuto rozhodnutí podat okamžitý
 [#casova-ustanoveni-obtiznost]
 === ČASOVÁ USTANOVENÍ
 
-. Konají-li se dvě návazná kola po sobě (kvalifikace – semifinále, semifinále – finále u závodů I. kategorie, kvalifikace – finále u závodů II. kategorie), musí být minimálně 2 hodiny mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další. V nezbytných případech může Hlavní rozhodčí rozhodnout o zkrácení této doby, doba mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další nesmí klesnout pod 1 hodinu a informace o tomto zkrácení pak musí být veřejně vyhlášena a vyvěšena na oficiální tabuli nejpozději 15 minut před startem prvního závodníka v poslední cestě 1. kola.
+. Konají-li se dvě návazná kola po sobě (kvalifikace – semifinále, semifinále – finále u závodů nejvyšších soutěží, kvalifikace – finále u závodů 1. ligy), musí být minimálně 2 hodiny mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další. V nezbytných případech může Hlavní rozhodčí rozhodnout o zkrácení této doby, doba mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další nesmí klesnout pod 1 hodinu a informace o tomto zkrácení pak musí být veřejně vyhlášena a vyvěšena na oficiální tabuli nejpozději 15 minut před startem prvního závodníka v poslední cestě 1. kola.
 . Izolace by neměla být uzavřena dříve, než 1 hodinu před startem prvního závodníka. V případě více kategorií závodících na stejné cestě je myšlen první závodník první kategorie.

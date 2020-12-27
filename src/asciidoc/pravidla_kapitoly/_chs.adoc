@@ -29,9 +29,10 @@ Všechny soutěže schválené ČHS musí být za všech okolností připravová
 
 . Pouze členové ČHS nebo oddíly v ČHS registrované nebo právnická či fyzická osoba s příslušným oprávněním jsou způsobilí zažádat o zorganizování soutěže schválené ČHS.
 . Mezi soutěže, které musí schválit ČHS patří:
-.. I. kategorie – Mezinárodní Mistrovství ČR včetně Mistrovství ČR mládeže a Mistrovství ČR do 14 let
-.. II. kategorie – Český pohár, včetně Českého poháru mládeže a Českého poháru do 14 let
-.. III. kategorie – rankingové závody a závody nižších kategorií, pořádané jako oficiální soutěže ČHS
+.. Nejvyšší soutěže tj. Mezinárodní Mistrovství ČR včetně Mistrovství ČR mládeže a Mistrovství ČR do 14 let
+.. 1. liga – Český pohár, včetně Českého poháru mládeže a Českého poháru do 14 let
+.. 2. liga – oblastní závody pořádané jako oficiální soutěže ČHS
+.. 3. liga - závody nižší úrovně pořádané jako oficiální soutěže ČHS
 
 [#oficialni-soutezni-cinitele]
 === OFICIÁLNÍ SOUTĚŽNÍ ČINITELÉ SOUTĚŽÍ ČHS
@@ -62,7 +63,7 @@ U soutěží kde Delegát ČHS není právě přítomen, přebírá všechna jeh
 
 .. Hlavní stavěč
 +
-Hlavní stavěč pro závody I. a II. kategorie musí být držitelem národní stavěčské licence 1. úrovně (Hlavní stavěč ČHS) nebo 2. úrovně (Stavěč ČHS) nebo mezinárodní stavěčské licence IFSC. Hlavní stavěč se radí se členy stavěčského týmu, který je jmenován pořadatelem před započetím soutěže, aby naplánoval a zkoordinoval veškeré záležitosti týkající se stavby a údržby cest, včetně podoby každé cesty nebo boulderu; upevnění chytů, bodů postupových jištění a jiného vybavení v souladu s nařízeními ČHS; opravy a čištění cest a instalaci a údržbu rozcvičovacího vybavení. Je zodpovědný za kontrolu bezpečnosti na každé cestě nebo boulderu, radí Hlavnímu rozhodčímu v technických otázkách v rámci závodiště, asistuje při sestavování nákresu pro cesty v lezení na obtížnost, radí rozhodčím ohledně rozmístění kamer a ohledně maximálních časových limitů pro jednotlivá kola.
+Hlavní stavěč pro závody nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence 1. úrovně (Hlavní stavěč ČHS) nebo 2. úrovně (Stavěč ČHS) nebo mezinárodní stavěčské licence IFSC. Hlavní stavěč se radí se členy stavěčského týmu, který je jmenován pořadatelem před započetím soutěže, aby naplánoval a zkoordinoval veškeré záležitosti týkající se stavby a údržby cest, včetně podoby každé cesty nebo boulderu; upevnění chytů, bodů postupových jištění a jiného vybavení v souladu s nařízeními ČHS; opravy a čištění cest a instalaci a údržbu rozcvičovacího vybavení. Je zodpovědný za kontrolu bezpečnosti na každé cestě nebo boulderu, radí Hlavnímu rozhodčímu v technických otázkách v rámci závodiště, asistuje při sestavování nákresu pro cesty v lezení na obtížnost, radí rozhodčím ohledně rozmístění kamer a ohledně maximálních časových limitů pro jednotlivá kola.
 +
 Hlavní stavěč je členem odvolací poroty.
 
