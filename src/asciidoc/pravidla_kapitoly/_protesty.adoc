@@ -4,13 +4,13 @@
 [#obecne-protesty]
 === OBECNĚ
 
-. Všechny písemné a ústní protesty a oficiální reakce se musejí odehrávat v češtině.
-. Písemný protest musí být na https://www.horosvaz.cz/res/archive/309/052084.pdf?seek=1577116013[formuláři ČHS] nebo na papíru obsahující stejné informace.
-. [[op-3]]Protest může být uznán pouze v případě, pokud jiné body těchto pravidel neurčují jinak:
+. [[op-1,{counter:op}.]]Všechny písemné a ústní protesty a oficiální reakce se musejí odehrávat v češtině.
+. [[op-2,{counter:op}.]]Písemný protest musí být na https://www.horosvaz.cz/res/archive/309/052084.pdf?seek=1577116013[formuláři ČHS] nebo na papíru obsahující stejné informace.
+. [[op-3,{counter:op}.]]Protest může být uznán pouze v případě, pokud jiné body těchto pravidel neurčují jinak:
 .. je-li spojen se zaplacením oficiálního protestného.
 .. je podepsaný zástupcem soutěžícího (vedoucí týmu) nebo soutěžícím, pokud vedoucí týmu není přítomen
 .. obsahuje konkrétní článek pravidel na jehož základě je protest podán a jméno soutěžícího nebo skupiny soutěžících, na které se protest vztahuje
-. Bez ohledu na <<#obecne-protesty>>.<<op-3,3>> může odvolací porota rozhodnou o neplatnosti jakéhokoliv protestu
+. Bez ohledu na <<#obecne-protesty>>.<<op-3>> může odvolací porota rozhodnou o neplatnosti jakéhokoliv protestu
 .. byl podán mimo definované časové intervaly
 .. protest je založen na skutečnosti, která neodpovídá žádnému článku pravidel
 .. odvolací porota se shodne, že protest není platný
