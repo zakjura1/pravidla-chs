@@ -88,27 +88,31 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 .. Jakoukoliv jinou informaci schválenou Hlavním rozhodčím.
 . Způsob přípravy startovních listin pro jednotlivé disciplíny je uveden v odstavci <<#startovni-listiny-obtiznost>> pro obtížnost, odstavci <<#startovni-listiny-bouldering>> pro bouldering a odstavcích <<#kvalifikace-kf-rychlost>>, <<#kvalifikace-sf-rychlost>>, <<#finale-kf-sf-rychlost>> pro rychlost.
 
-[#registrace-a-izolace]
-=== REGISTRACE A IZOLACE
-. [[registrace-a-izolace-1]]Všichni soutěžící způsobilí soutěžit v některém kole soutěže se musejí zaregistrovat v registračním oddělení, a to nejpozději v časovém limitu určeném pořadateli.
-. [[registrace-a-izolace-2]]Pouze níže jmenované osoby mohou vstoupit do izolační zóny:
+[#registrace]
+=== REGISTRACE
+. Všichni soutěžící způsobilí soutěžit v některém kole soutěže se musejí zaregistrovat v registračním oddělení, a to nejpozději v časovém limitu určeném pořadateli.
+
+[#soutezni-prostor-p]
+=== SOUTĚŽNÍ PROSTOR
+. Soutěžní prostor musí být oddělen od jakéhokoliv veřejně dostupného prostoru
+. Žádný soutěžící nebo člen týmu u sebe nesmí mít žádné elektronické komunikační zařízení, když se nalézá v soutěžním prostoru, aniž by mu to povolil Hlavní rozhodčí.
+. Soutěžící nesmí v průběhu pozorování a lezení poslouchat žádné audio zařízení.
+. Průběžné výsledky mohou být zobrazovány v izolaci nebo viditelné z izolace.
+
+[#pristup-do-soutezniho-prostoru]
+=== PŘÍSTUP DO SOUTĚŽNÍHO PROSTORU
+. [[pdsp-2,{counter:pdsp}]]Pouze níže jmenované osoby mohou vstoupit do soutěžního prostoru:
 .. Soutěžní činitelé ČHS;
 .. Pořadatelé;
 .. Soutěžící oprávnění účastnit se aktuálního soutěžního kola;
-.. Oprávnění trenéři;
-.. Ostatní osoby zmocněné Hlavním rozhodčím. Tyto osoby musejí být během svého setrvání v izolaci, v rámci zachování bezpečnosti v izolaci a v rámci zabránění nepatřičného rozptylování soutěžících nebo kontaktu s nimi, pod dohledem k tomu zmocněného oficiálního činitele.
+.. Oprávnění trenéři; (jen <<#izolacni-zona,Izolační zóna>> a <<#rozcvicovaci-zona,Rozcvičovací zóna>>)
+.. Ostatní osoby zmocněné Hlavním rozhodčím. Tyto osoby musejí být během svého setrvání v soutěžním prostoru, v rámci zachování bezpečnosti v soutěžním prostoru a v rámci zabránění nepatřičného rozptylování soutěžících nebo kontaktu s nimi, pod dohledem k tomu zmocněného oficiálního činitele.
 
-. [[registrace-a-izolace-3]]Do izolační zóny nesmějí zvířata. Výjimky z tohoto pravidla musejí být schváleny Hlavním rozhodčím.
+. [[pdsp-3,{counter:pdsp}]]Do soutěžního prostoru nesmějí zvířata. Výjimky z tohoto pravidla musí být schváleny Hlavním rozhodčím.
 
-. [[registrace-a-izolace-4]]Kouření v prostoru izolace je zakázáno. Pořadatel však může vyhradit prostor pro kuřáky tak, aby nedošlo k porušení podmínek izolace a nebyli omezování ostatní soutěžící.
+. [[pdsp-4,{counter:pdsp}]]Kouření v soutěžním prostoru je zakázáno. Pořadatel však může vyhradit prostor pro kuřáky tak, aby nedošlo k porušení podmínek izolace a nebyli omezování ostatní soutěžící.
 
-. [[registrace-a-izolace-5]]Soutěžící musejí dodržovat podmínky izolace během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
-
-. Žádný soutěžící nebo člen týmu u sebe nesmí mít žádné elektronické komunikační zařízení, když se nalézá v soutěžním prostoru, aniž by mu to povolil Hlavní rozhodčí.
-
-. Soutěžící nesmí v průběhu pozorování a lezení poslouchat žádné audio zařízení.
-
-. Průběžné výsledky mohou být zobrazovány v izolaci nebo viditelné z izolace.
+. [[pdsp-5,{counter:pdsp}]]Soutěžící musejí dodržovat podmínky izolace během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
 
 [#prohlidka-cesty]
 === PROHLÍDKA CESTY
