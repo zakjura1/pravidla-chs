@@ -28,9 +28,9 @@ může:: představuje volitelnou záležitost
 
 [[umely-chyt]]Umělý chyt:: představuje vyrobený chyt, který je přichycený k lezeckému povrchu pomocí vrutů nebo šroubů
 
-[[cerna-paska]]Černá páska:: V případě nutnosti lze využít jinou, kontrastní barvu, pak ale musí být tato barva jasně specifikována při prohlídce cesty
+[[cerna-paska]]Černá páska:: je páska černé barvy. V případě nutnosti lze využít jinou, kontrastní barvu, pak ale musí být tato barva jasně specifikována při prohlídce cesty
 
-[[soutez]]Soutěž v kalendáři:: je Soutěž, která
+[[soutez]]Soutěž:: je soutěž, která
  .. zahrnuje závody v jedné nebo více disciplínách, které organizuje ČHS a dodržují tato pravidla
  .. jsou uvedeny v kalendáři závodů publikovaném ČHS
 
@@ -54,10 +54,10 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
  .. vylučující jakýkoliv <<#umely-chyt, Umělý chyt>>, strukturu nebo jiný dočasnou <<#struktura,Strukturu>> uchycenou na použitelnou plochu
 
 [[lezecka-stena]]Lezecká stěna::
-. [[ls-1,{counter:ls}]]Celý povrch lezecké stěny je možno použít k lezení s následujícími výjimkami:
-.. Otvory v lezecké stěně sloužící k montáži chytů nesmí soutěžící v lezení používat rukama;
-.. Pro lezení není dovoleno používat ani boční, ani horní okraj stěny.
-. [[ls-2,{counter:ls}]]Je-li potřeba ohraničit chyty, části stěny nebo struktury, které nejsou k lezení povoleny, je k tomuto vymezení třeba použít  <<#cerna-paska,černou pásku>>. 
+.. [[ls-1,{counter:ls}]]Celý povrch lezecké stěny je možno použít k lezení s následujícími výjimkami:
+... Otvory v lezecké stěně sloužící k montáži chytů nesmí soutěžící v lezení používat rukama;
+... Pro lezení není dovoleno používat ani boční, ani horní okraj stěny.
+.. [[ls-2,{counter:ls}]]Je-li potřeba ohraničit chyty, části stěny nebo struktury, které nejsou k lezení povoleny, je k tomuto vymezení třeba použít  <<#cerna-paska,černou pásku>>. 
 
 [[soutezni-prostor]]Soutěžní prostor:: představuje takovou část v místě konání akce, která je vyhrazená pro sportovní soutěže včetně:
  ..jakékoliv <<#izolacni-zona,Izolační zóny>> nebo <<#rozcvicovaci-zona,Rozcvičovací zóny>>
@@ -100,9 +100,9 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 .. závažné nesportovní chování nebo jiné závažné narušení; a
 .. urážlivé, výhružné nebo násilné chování vůči jiné osobě
 
-[[poradatel]Pořadatel]:: představuje osobu zodpovědnou za organizaci a přípravu jakékoliv <<#soutez,Soutěži v kalendáři>>
+[[poradatel]]Pořadatel:: představuje osobu zodpovědnou za organizaci a přípravu jakékoliv <<#soutez,Soutěže>>
 
-[[chs-official]]Oficiální činitel ČHS:: znamená jakéhokoliv a každého z činovníků vyjmenovaných v bodě <<#oficialni-soutezni-cinitele>>, který je jmenován pro danou <<#soutez,Soutěž v kalendáři>>.
+[[chs-official]]Oficiální činitel ČHS:: znamená jakéhokoliv a každého z činovníků vyjmenovaných v bodě <<#oficialni-soutezni-cinitele>>, který je jmenován pro danou <<#soutez,Soutěž>>.
 
 [[zavodni-licence]]Závodní licence:: znamená povolení udělené ČHS jednotlivci:
 .. účastnit se jakéhokoliv Mezinárodního Mistrovství ČR, Mistrovství mládeže ČR, Mistrovství mládeže U14 ČR, Mistrovství [oblasti]
