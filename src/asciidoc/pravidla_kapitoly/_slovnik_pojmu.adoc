@@ -20,13 +20,15 @@ může:: představuje volitelnou záležitost
 
 [[umela-pomoc]]Umělá pomoc:: představuje držení nebo použití čehokoliv z následujícího:
  .. jakýkoliv montážní otvor (T-Nut) určený k uchycení <<#umely-chyt,umělého chytu>>
- .. jakákoliv část <<#lezecky-povrch,lezeckého povrchu>> ohraničené pomocí nepřerušované černé pásky
+ .. jakákoliv část <<#lezecky-povrch,lezeckého povrchu>> ohraničené pomocí nepřerušované <<#cerna-paska,černé pásky>>
  .. jakákoliv reklama nebo informační cedule upevněná na <<#lezecky-povrch,lezeckém povrchu>>
  .. jakýkoliv otevřený okraj nebo horní hrana <<#lezecky-povrch,lezeckého povrchu>>
  .. jakýkoliv borhák/nýt umístěný na <<#lezecky-povrch,lezeckého povrchu>>
  .. jakýkoliv <<#jistici-bod,jistící bod>> nebo lano
 
 [[umely-chyt]]Umělý chyt:: představuje vyrobený chyt, který je přichycený k lezeckému povrchu pomocí vrutů nebo šroubů
+
+[[cerna-paska]]Černá páska:: V případě nutnosti lze využít jinou, kontrastní barvu, pak ale musí být tato barva jasně specifikována při prohlídce cesty
 
 [[soutez]]Soutěž v kalendáři:: je Soutěž, která
  .. zahrnuje závody v jedné nebo více disciplínách, které organizuje ČHS a dodržují tato pravidla
@@ -50,6 +52,12 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
 [[lezecky-povrch]]Lezecký povrch:: představuje použitelnou plochu lezecké stěny:
  .. zahrnující jakýkoliv Přírodní chyt, a
  .. vylučující jakýkoliv <<#umely-chyt, Umělý chyt>>, strukturu nebo jiný dočasnou <<#struktura,Strukturu>> uchycenou na použitelnou plochu
+
+[[lezecka-stena]]Lezecká stěna::
+. [[ls-1,{counter:ls}]]Celý povrch lezecké stěny je možno použít k lezení s následujícími výjimkami:
+.. Otvory v lezecké stěně sloužící k montáži chytů nesmí soutěžící v lezení používat rukama;
+.. Pro lezení není dovoleno používat ani boční, ani horní okraj stěny.
+. [[ls-2,{counter:ls}]]Je-li potřeba ohraničit chyty, části stěny nebo struktury, které nejsou k lezení povoleny, je k tomuto vymezení třeba použít  <<#cerna-paska,černou pásku>>. 
 
 [[soutezni-prostor]]Soutěžní prostor:: představuje takovou část v místě konání akce, která je vyhrazená pro sportovní soutěže včetně:
  ..jakékoliv <<#izolacni-zona,Izolační zóny>> nebo <<#rozcvicovaci-zona,Rozcvičovací zóny>>
