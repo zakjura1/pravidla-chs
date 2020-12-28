@@ -22,7 +22,7 @@
 . Členy Odvolací poroty budou Hlavní rozhodčí, Delegát ČHS a Hlavní stavěč. V případě, že byl Hlavní rozhodčí původcem rozhodnutí, které protest vyvolalo, nastoupí na jeho místo v Odvolací porotě Ředitel závodu (pozn. pokud na závod není jmenován delegát ČHS, zůstává Hlavní rozhodčí členem Odvolací poroty na základě odstavce <<#oficialni-soutezni-cinitele>>.<<#td,1.b.>>.
 . Nemůže-li se Odvolací porota jednohlasně shodnout na posouzení protestu, pak platí původní rozhodnutí.
 . Rozhodnout je třeba tak rychle, jak to okolnosti dovolí. V případě písemných protestů musí být písemné rozhodnutí Odvolací poroty předáno Hlavním rozhodčím osobě, která oficiálně protest podala nebo, v případě protestu podle níže zmíněného článku <<#protest-proti-vysledkum>>.<<#ppv-3b,3.b.>>, je třeba informovat vedoucího týmu a/nebo soutěžícího.
-. Rozhodnutí Odvolací poroty pokud jde o níže zmíněné články <<#protest-proti-rozhodnuti>> a <<#protest-proti-vysledkum>> je konečné a není možné proti němu dále protestovat.
+. Rozhodnutí Odvolací poroty, pokud jde o níže zmíněné články <<#protest-proti-rozhodnuti>> a <<#protest-proti-vysledkum>>, je konečné a není možné proti němu dále protestovat.
 
 [#protest-proti-rozhodnuti]
 === PROTESTY PROTI ROZHODNUTÍ, KTERÉ SE TÝKÁ UKONČENÍ POKUSU SOUTĚŽÍCÍHO
@@ -39,7 +39,7 @@
 . Soutěže v lezení na rychlost:
 .. V případě protestu proti uveřejněným výsledkům soutěžícího je třeba protest podat v souladu s výše zmíněným článkem <<#protest-proti-vysledkum>>.<<#ppv-1,1>>.
 .. [[ppv-3b]]V případě protestu v průběhu vyřazovacího kola, je třeba protest podat ihned po ohlášení výsledku soutěžícího v daném vyřazovacím kole. Další vyřazovací kolo soutěže nesmí začít, dokud hlavní rozhodčí o protestu nerozhodne. Pokud jde o tyto protesty, neplatí se žádný poplatek.
-. Hlavní rozhodčí označí příslušné výsledky že jsou „Pod protestem“, vyznačí, kterých konkrétních výsledků se protest týká a zajistí aby pořadatel vyhlásil, že výsledky jsou pod protestem.
+. Hlavní rozhodčí označí příslušné výsledky jako „Pod protestem“, vyznačí, kterých konkrétních výsledků se protest týká, a zajistí, aby pořadatel vyhlásil, že výsledky jsou pod protestem.
 
 [#dusledky-protestu]
 === DŮSLEDKY PROTESTU

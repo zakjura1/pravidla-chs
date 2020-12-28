@@ -207,7 +207,7 @@ Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je 
 
 . Pro potřeby rozhodčích je třeba zajistit monitor připojitelný k záznamu. Monitor je třeba umístit tak, aby rozhodčí mohli sledovat záznamový materiál a probírat jakoukoliv událost bez toho, aby záznam mohla zahlédnout nepovolaná osoba a bez toho, aby mohl rozhodčí při těchto debatách někdo poslouchat nebo vyrušovat, avšak dostatečně blízko ke stolu, za kterým rozhodčí sedí.
 
-. Pro posuzování se smí používat pouze oficiální záznam a oficiální vysílání ĆHS pokud je k dispozici. Záznam si smí prohlížet pouze Hlavní rozhodčí, pomocní rozhodčí, Hlavní stavěč a Delegát ČHS, případně ředitel závodu, pokud je členem odvolací poroty.
+. Pro posuzování se smí používat pouze oficiální záznam a oficiální vysílání ČHS, pokud je k dispozici. Záznam si smí prohlížet pouze Hlavní rozhodčí, pomocní rozhodčí, Hlavní stavěč a Delegát ČHS, případně ředitel závodu, pokud je členem odvolací poroty.
 
 . Na konci každého kola musí být záznam předán Hlavnímu rozhodčímu, pokud si ho vyžádá.
 

@@ -159,7 +159,7 @@ Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo
 ... Vyhrává závodník s lepším umístěním v kvalifikaci nebo
 ... Pokud mají v kvalifikaci stejné umístění, pak se rozběh opakuje
 .. Pokud se závodník neohlásí po vyvolání, pak vyhrává druhý závodník
-. Vždy musí proběhnout rozřazovací kolo o třetí a čtvrté místo (malé finále), a to dříve než proběhne finále o 1. na 2. místo.
+. Vždy musí proběhnout rozřazovací kolo o třetí a čtvrté místo (malé finále), a to dříve, než proběhne finále o 1. na 2. místo.
 . V případě předčasného startu v souboji o 1. místo musí vítěz absolvovat další pokus pro získání platného času.
 . Každý závodník musí zůstat v soutěžním prostoru dle pokynu hlavního rozhodčího, dokud není vyřazen.
 
@@ -181,8 +181,8 @@ Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo
 
 . [[hpkkr-1]]Po každém kole soutěže musí být určeno pořadí soutěžících v souladu s odstavci <<#kvalifikace-kf-rychlost>>.<<#kkr-3,3>>, <<#kvalifikace-sf-rychlost>>.<<#ksr-6,6>> a <<#finale-kf-sf-rychlost>>.<<#fksfr-2,2>>.
 . Remíza soutěžících:
-.. Nastane-li po kvalifikačním kole remíza dvou nebo více soutěžících na poslední příčce (příčkách), která(é) se ještě kvalifikuje(í) do finále, a je tak překročen počet stanovených soutěžících pro finále v souladu s článkem <<#finale-kf-sf-rychlost>>.<<#fksfr-1,1>> a <<#hodnoceni-po-kazdem-kole-rychlost>>.<<#hpkkr-1,1>>, pak musí mezi těmito soutěžícími proběhnout na cestě č. 1 další pokusy, dokud není remíza rozbita. Časy zaznamenané během těchto pokusů musí být použité pouze pro určení, kdo se kvalifikoval do finálového kola a ne pro jiné účely.
-.. Nastane-li po kvalifikačním kole remíza dvou nebo více soutěžících na jakémkoliv jiném, než na posledním kvalifikačním místě, budou tito soutěžící náhodně rozmístěni ve startovním pořadí;
+.. Nastane-li po kvalifikačním kole remíza dvou nebo více soutěžících na poslední příčce (příčkách), která(é) se ještě kvalifikuje(í) do finále, a je tak překročen počet stanovených soutěžících pro finále v souladu s článkem <<#finale-kf-sf-rychlost>>.<<#fksfr-1,1>> a <<#hodnoceni-po-kazdem-kole-rychlost>>.<<#hpkkr-1,1>>, pak musí mezi těmito soutěžícími proběhnout na cestě č. 1 další pokusy, dokud není remíza rozbita. Časy zaznamenané během těchto pokusů musí být použité pouze pro určení, kdo se kvalifikoval do finálového kola, a ne pro jiné účely.
+.. Nastane-li po kvalifikačním kole remíza dvou nebo více soutěžících na jakémkoliv jiném než na posledním kvalifikačním místě, budou tito soutěžící náhodně rozmístěni ve startovním pořadí;
 .. Nastane-li remíza ve finálovém kole, pak se postupuje v souladu s odstavcem <<#finale-kf-sf-rychlost>>.<<#fksfr-4,4>>
 
 [#oficialni-trenink-rychlost]

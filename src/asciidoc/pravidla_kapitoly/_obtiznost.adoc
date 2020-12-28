@@ -114,7 +114,7 @@ Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druh�
 .. Soutěžící musí být stále v povolené pozici. To je z hlediska postupového jištění když:
 ... [[prubeh-pokusu-i,({counter:pp:i})]]soutěžící celým tělem nepřelezl nad/za spodní karabinu expresky, do které ještě nezapnul lano nebo
 ... [[prubeh-pokusu-ii,({counter:pp})]]neopustil oběma rukama poslední chyt, který byl hlavním stavěčem označen jako poslední chyt, ze kterého může být ještě jištění zapnuto
-... pokud je vyznačen chyt z důvodu bezpečnosti modrým křížem, bodování je pozastaveno na tomto chytu dokud není příslušné jištění zapnuto
+... pokud je vyznačen chyt z důvodu bezpečnosti modrým křížem, bodování je pozastaveno na tomto chytu, dokud není příslušné jištění zapnuto
 ... v ostatních případech je bodování pozastaveno na posledním chytu před <<#prubeh-pokusu-i>> nebo <<#prubeh-pokusu-ii>>.
 
 
@@ -211,7 +211,7 @@ Vzhledem k zavedení času jako jednoho z rozhodujících kritérií ve finále 
 [#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost]
 === STANOVENÝ POČET SOUTĚŽÍCÍCH NA KAŽDÉ KOLO
 
-. Část <<#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost>> je třeba číst ve spojení s výše popsanou částí <<#poradi-po-kazdem-kole-obtiznost>>, tedy dříve než aplikujeme část <<#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost>>, je třeba sestavit pořadí.
+. Část <<#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost>> je třeba číst ve spojení s výše popsanou částí <<#poradi-po-kazdem-kole-obtiznost>>, tedy dříve, než aplikujeme část <<#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost>>, je třeba sestavit pořadí.
 . Při závodech nejvyšších soutěží je počet soutěžících kvalifikujících se pro semifinále 26 a pro finále 8 soutěžících. V případě, že počet soutěžících, kteří nastoupí do kvalifikace je nižší než 26, může Hlavní rozhodčí rozhodnout o zrušení semifinále a podle výsledků z kvalifikace postoupí rovnou do finále 8 soutěžících. Rozhodnutí o zrušení semifinále musí Hlavní rozhodčí oznámit všem soutěžícím dané kategorie před zahájením kvalifikace.
 . U závodů 1. ligy se automaticky vynechává semifinále a do finále postupuje 8 soutěžících.
 . Stanovená kvóta bude naplněna soutěžícími s nejlepším umístěním z předešlého kola.
