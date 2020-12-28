@@ -82,7 +82,7 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
 
 [[disciplina]]Disciplína:: představuje konkrétní formát soutěže v lezení, která odpovídá příslušným pravidlům a standardům
 
-[[dns]]Neodstartoval nebo DNS:: znamená:
+[[dns]]Neodstartoval/DNS:: znamená:
 +
 --
 .. v kontextu konkrétního boulderu, cesty nebo rozběhu v rámci jakéhokoliv kola nebo fáze závodu, že daný závodník se vůbec nepokusil daný boulder, cestu nebo rozběh absolvovat; a
@@ -100,7 +100,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 .. závažné nesportovní chování nebo jiné závažné narušení; a
 .. urážlivé, výhružné nebo násilné chování vůči jiné osobě
 
-[[poradatel]]Pořadatel:: představuje osobu zodpovědnou za organizaci a přípravu jakékoliv <<#soutez,Soutěže>>
+[[poradatel-sp]]Pořadatel:: představuje osobu zodpovědnou za organizaci a přípravu jakékoliv <<#soutez,Soutěže>>
 
 [[chs-official]]Oficiální činitel ČHS:: znamená jakéhokoliv a každého z činovníků vyjmenovaných v bodě <<#oficialni-soutezni-cinitele>>, který je jmenován pro danou <<#soutez,Soutěž>>.
 

@@ -6,7 +6,7 @@
 
 . [[dru-1,{counter:dru}]]Hlavní rozhodčí má celkovou pravomoc nad činnostmi a rozhodnutími týkajícími se <<#soutezni-prostor,soutěžního prostoru>>.
 
-. [[dru-2,{counter:dru}]]Hlavní rozhodčí má oprávnění přijmout následující opatření v případě porušení pravidel soutěže, co se týče nekázně kteréhokoliv <<#clen-tymu,člena týmu>>:
+. [[dru-2,{counter:dru}]]Hlavní rozhodčí má oprávnění přijmout následující opatření v případě porušení pravidel soutěže, co se týče nekázně kteréhokoliv <<#clenove-tymu,člena týmu>>:
 .. [[drs-a,{counter:drsa:a}]]neoficiální, slovní napomenutí;
 .. [[drs-b,{counter:drsa}]]oficiální napomenutí doprovázené ukázáním žluté karty.
 
@@ -36,7 +36,7 @@
 . <<#oficialni-doprovod, Oficiální doprovod týmu>> po obdržení žluté karty nesmí mít povolen přístup do jakékoliv zóny soutěžního prostoru během konání soutěže, z důvodu prospěchu týmu.
 
 === DISKVALIFIKACE (DSQ)
-. Hlavní rozhodčí je oprávněný diskvalifikovat libovolného <<#clen-tymu,člena týmu>>. 
+. Hlavní rozhodčí je oprávněný diskvalifikovat libovolného <<#clenove-tymu,člena týmu>>. 
 . Následující porušení pravidel budou potrestána udělením červené karty a okamžitou diskvalifikací soutěžícího ze soutěže a mohou být podstoupena disciplinární komisi:
 
 .. použití neschváleného vybavení;
@@ -49,7 +49,7 @@
 Aby se předešlo pochybnostem, v soutěžních kolech, kde se podmínky izolace neaplikují, mohou soutěžící získávat informace od jiných členů týmu, kteří jsou mimo soutěžní prostor. a to jak před pokusem, tak i během jejich pokusu.
 
 === Diskvalifikace za chování (DQB)
-. Hlavní rozhodčí je oprávněný diskvalifikovat za chování libovolného <<#clen-tymu,člena týmu>>. Jakákoliv diskvalifikace za chování bude potrestána udělením červené karty a bude postoupena Disciplinární komisi ČHS. A dále okamžitou diskvalifikací soutěžícího ze všech soutěží dané <<#soutez,Soutěže>>. 
+. Hlavní rozhodčí je oprávněný diskvalifikovat za chování libovolného <<#clenove-tymu,člena týmu>>. Jakákoliv diskvalifikace za chování bude potrestána udělením červené karty a bude postoupena Disciplinární komisi ČHS. A dále okamžitou diskvalifikací soutěžícího ze všech soutěží dané <<#soutez,Soutěže>>. 
 
 . Následující záležitosti budou mít za následek okamžitou diskvalifikaci za chování:
 .. nepodvolení se pokynům rozhodčích, pořadatelů nebo soutěžních činitelů ČHS, pokud se tak děje v soutěžním prostoru
