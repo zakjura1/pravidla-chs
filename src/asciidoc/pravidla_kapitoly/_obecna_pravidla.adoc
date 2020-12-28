@@ -17,17 +17,11 @@
 .. Mezinárodní formát – počty postupujících závodníků do dalších kol se nenavyšují o zahraniční účastníky
 .. Open formát – počty postupujících závodníků do dalších kol se navyšují o zahraniční účastníky
 
-[#lezecka-stena]
-=== LEZECKÁ STĚNA
-. [[ls-1,{counter:ls}]]Celý povrch lezecké stěny je možno použít k lezení s následujícími výjimkami:
-.. Otvory v lezecké stěně sloužící k montáži chytů nesmí soutěžící v lezení používat rukama;
-.. Pro lezení není dovoleno používat ani boční, ani horní okraj stěny.
-. [[ls-2,{counter:ls}]]Je-li potřeba ohraničit chyty, části stěny nebo struktury, které nejsou k lezení povoleny, je k tomuto vymezení třeba použít jasně rozpoznatelné černé vyznačení. V případě nutnosti lze využít jinou, kontrastní barvu, pak ale musí být tato barva jasně specifikována při prohlídce cesty.
-
 [#bezpecnost]
 === BEZPEČNOST
 . Pořadatel soutěže je zodpovědný za udržování bezpečnosti v <<#soutezni-prostor, soutěžním prostoru>> a ve veřejném prostoru ve vztahu k veškerým aktivitám spojeným s průběhem soutěže.
-. Hlavní rozhodčí po poradě s Hlavním stavěčem má pravomoc dělat rozhodnutí související s otázkami bezpečnosti na závodišti, včetně toho, že odmítne povolit start nebo pokračování jakékoliv části soutěže. Jakákoliv osoba, na kterou má Hlavní rozhodčí podezření, že porušila nebo pravděpodobně porušila bezpečnostní postupy, bude zbavena svých povinností a/nebo bude muset opustit závodiště.
+. Každý soutěžící bude považován za zcela a jedinečně zodpovědného za vybavení, které použije během soutěžního pokusu a/nebo během soutěže.
+. Hlavní rozhodčí po poradě s Hlavním stavěčem má pravomoc dělat rozhodnutí související s otázkami bezpečnosti v <<#soutezni-prostor,soutěžním prostoru>>, včetně toho, že odmítne povolit start nebo pokračování jakékoliv části soutěže. Jakákoliv osoba, na kterou má Hlavní rozhodčí podezření, že porušila nebo pravděpodobně porušila bezpečnostní postupy, bude zbavena svých povinností a/nebo bude muset opustit závodiště.
 . Jističi jmenovaní pořadatelem musí být vycvičeni pro soutěžní způsob jištění. Hlavní rozhodčí může pořadatelům kdykoliv v průběhu soutěže nařídit výměnu kteréhokoliv jističe. Je-li jistič vyměněn, nesmí mu být dovoleno nadále jistit jakéhokoliv soutěžícího v dané soutěži.
 . Každá cesta nebo boulder musí být navržen(a) tak, aby se předešlo nebezpečí zranění soutěžícího při pádu, popřípadě zranění nebo omezení jakéhokoliv jiného soutěžícího nebo třetí osoby.
 . Hlavní rozhodčí a Hlavní stavěč musejí zkontrolovat každou cestu nebo boulder před zahájením každého soutěžního kola, aby se zajistilo zachování bezpečnostních norem.
@@ -38,7 +32,7 @@
 
 [#standardy]
 === VYBAVENí
-. Veškeré vybavení používané v soutěži – jak organizátorem, tak soutěžícími - musí být v souladu s odpovídajícími ČSN EN normami nebo srovnatelnými mezinárodními ekvivalenty pokud není ČHS uvedeno jinak a ve vyjímečných případech hlavním rozhodčím. Aplikované normy v tuto chvíli jsou:
+. Veškeré vybavení používané v soutěži – jak organizátorem, tak soutěžícími - musí být v souladu s odpovídajícími ČSN EN normami nebo srovnatelnými mezinárodními ekvivalenty pokud není ČHS uvedeno jinak a ve výjimečných případech hlavním rozhodčím. Aplikované normy v tuto chvíli jsou:
 
 [cols="2*",options="header",width="75%"]
 [.center]
@@ -51,7 +45,7 @@
 |Lezecká lana| link:https://www.nlfnorm.cz/ehn/5495[ČSN EN-892]
 |Lezecké struktury| ČSN EN 12572-1, ČSN EN 12572-2
 |Karabiny (šroubovací zámek)| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ H)
-|Karabiny (automatický zámek| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ H)
+|Karabiny (automatický zámek)| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ H)
 |Expreska / popruh| link:https://www.nlfnorm.cz/ehn/5639[ČSN EN 566]
 |Expreska / karabina| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ B, typ D)
 |Expreska / rychlospojka| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ Q)
@@ -61,9 +55,7 @@
 
 [#zdravotnicky-personal]
 === ZDRAVOTNICKÝ PERSONÁL
-. Hlavní rozhodčí musí ověřit, že je na místě vhodně kvalifikovaný zdravotnický personál, aby bylo možné zajistit rychlou pomoc v případě jakékoliv nehody nebo úrazu soutěžícího nebo oficiálního doprovodu týmu.
-+
-Tento zdravotnický personál soutěže musí být přítomen od plánovaného otevření izolace nebo rozcvičovací zóny do konce pokusu posledního soutěžícího.
+. Hlavní rozhodčí musí ověřit, že je na místě vhodně kvalifikovaný zdravotnický personál, aby bylo možné zajistit rychlou pomoc v případě jakékoliv nehody nebo úrazu soutěžícího nebo oficiálního doprovodu týmu. Tento zdravotnický personál soutěže musí být přítomen od plánovaného otevření izolace nebo rozcvičovací zóny do konce pokusu posledního soutěžícího.
 . Existují-li důvody věřit, že je soutěžící z jakéhokoliv důvodu nezpůsobilý soutěžit (např. zranění nebo nemoc), je Hlavní rozhodčí oprávněn vyžádat si prohlídku soutěžícího. Tu provede zdravotník pořadatele a bude spočívat v následujícím tělesném testu:
 .. Dolní končetiny: Soutěžící musí být schopen udělat pět po sobě jdoucích skoků na každé noze.
 .. Horní končetiny: Soutěžící musí být schopen udělat pět po sobě jdoucích kliků na obou rukou.
@@ -101,18 +93,18 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 
 [#pristup-do-soutezniho-prostoru]
 === PŘÍSTUP DO SOUTĚŽNÍHO PROSTORU
-. [[pdsp-2,{counter:pdsp}]]Pouze níže jmenované osoby mohou vstoupit do soutěžního prostoru:
+. [[pdsp-1,{counter:pdsp}]]Pouze níže jmenované osoby mohou vstoupit do soutěžního prostoru:
 .. Soutěžní činitelé ČHS;
 .. Pořadatelé;
 .. Soutěžící oprávnění účastnit se aktuálního soutěžního kola;
-.. Oprávnění trenéři; (jen <<#izolacni-zona,Izolační zóna>> a <<#rozcvicovaci-zona,Rozcvičovací zóna>>)
+.. Oprávnění trenéři (jen <<#izolacni-zona,Izolační zóna>> a <<#rozcvicovaci-zona,Rozcvičovací zóna>>)
 .. Ostatní osoby zmocněné Hlavním rozhodčím. Tyto osoby musejí být během svého setrvání v soutěžním prostoru, v rámci zachování bezpečnosti v soutěžním prostoru a v rámci zabránění nepatřičného rozptylování soutěžících nebo kontaktu s nimi, pod dohledem k tomu zmocněného oficiálního činitele.
 
-. [[pdsp-3,{counter:pdsp}]]Do soutěžního prostoru nesmějí zvířata. Výjimky z tohoto pravidla musí být schváleny Hlavním rozhodčím.
+. [[pdsp-2,{counter:pdsp}]]Do soutěžního prostoru nesmějí zvířata. Výjimky z tohoto pravidla musí být schváleny Hlavním rozhodčím.
 
-. [[pdsp-4,{counter:pdsp}]]Kouření v soutěžním prostoru je zakázáno. Pořadatel však může vyhradit prostor pro kuřáky tak, aby nedošlo k porušení podmínek izolace a nebyli omezování ostatní soutěžící.
+. [[pdsp-3,{counter:pdsp}]]Kouření v soutěžním prostoru je zakázáno. Pořadatel však může vyhradit prostor pro kuřáky tak, aby nedošlo k porušení podmínek izolace a nebyli omezování ostatní soutěžící.
 
-. [[pdsp-5,{counter:pdsp}]]Soutěžící musejí dodržovat podmínky izolace během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
+. [[pdsp-4,{counter:pdsp}]]Soutěžící musejí dodržovat podmínky izolace během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
 
 [#prohlidka-cesty]
 === PROHLÍDKA CESTY

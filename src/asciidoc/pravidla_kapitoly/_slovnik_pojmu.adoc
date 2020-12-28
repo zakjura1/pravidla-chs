@@ -90,7 +90,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[dsb]]Diskvalifikace za chování:: znamená diskvalifikaci ze soutěže pro porušení Antidopingových pravidel (nebo případně Olympijské charty) nebo jakýchkoliv jiných závažných porušeních předpisů vydaných ČHS, IFSC, MOV nebo ČOV včetně, ale není omezeno jen na 
 .. závažné nesportovní chování nebo jiné závažné narušení; a
-.. násilné, výhružné nebo xxx chování vůči jiné osobě
+.. urážlivé, výhružné nebo násilné chování vůči jiné osobě
 
 [[poradatel]Pořadatel]:: představuje osobu zodpovědnou za organizaci a přípravu jakékoliv <<#soutez,Soutěži v kalendáři>>
 
@@ -106,7 +106,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 .. v jakékoliv dokončené fázi/kole nebudou mít určené pořadí v rámci dané fáze/kola (a kde to je relevantní v rámci závodu)
 
 [[podminky-izolace]]Podmínky izolace:: znamená že závodník během jakéhokoliv kola závodu absolvuje své pokusy na libovolné cestě/boulderu v daném kole pouze se znalostmi o dané cestě/boulderu omezené na následující informace:
-.. které získal pozorováním mimo <<#soutezni-prostor,Soutěžní prostor>> předtím než byla uzavřena izolace pro danou kategorii
+.. které získal pozorováním mimo <<#soutezni-prostor,Soutěžní prostor>> předtím, než byla uzavřena izolace pro danou kategorii
 .. které získal během společného pozorování dané cesty/boulderů v rámci vyhrazeného prostoru pro společnou prohlídku, včetně takových informací, které mohou být sdílené závodníky účastnících se této společné prohlídky. A jen tehdy pokud soutěžící ještě neprovedli své pokusy nebo své pokusy nedokončili.
 .. které získal během svého pokusu nebo pokusů na dané cestě/bouldrech.
 
@@ -127,7 +127,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[puvodni-rozhodnuti]]Původní rozhodnutí:: je takové rozhodnutí, které platilo předtím, než na něj byl podán platný protest dle příslušných stanovení v <<#protesty>>
 
-[[prubezne-vysledky]]Průběžné výsledky/Neoficiální výsledky:: jsou výsledky, které jsou publikovány nebo kolují dříve než je <<#chs-official,Oficiální činovník ČHS>> pro daný závod nebo jakoukoliv cestu či kolo během závodu publikuje
+[[prubezne-vysledky]]Průběžné výsledky/Neoficiální výsledky:: jsou výsledky, které jsou publikovány nebo kolují dříve, než je <<#chs-official,Oficiální činovník ČHS>> pro daný závod nebo jakoukoliv cestu či kolo během závodu publikuje
 
 [[jistici-bod]]Jistící bod:: je složen z
 .. [[jb1,{counter:jb:a}.]]rychlospojky, spojené se šroubem fixovaným do nosné konstrukce <<#lezecky-povrch,Lezeckého povrchu>> 
@@ -136,9 +136,9 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[poradi]]Pořadí:: je relace mezi množinou výsledků, kdy pro jakékoliv dva prvky platí, že první je „umístěn výše než“, „umístěn níže než“ nebo „umístěn stejně“ jako druhý. Všechny pořadí v těchto pravidlech jsou počítány podle link:https://en.wikipedia.org/wiki/Ranking#Standard_competition_ranking_%28%221224%22_ranking%29[Standard competition ranking] pokud není v těchto pravidlech uvedeno jinak.
 
-[[reakcni-cas]]Reakční čas:: je rozdíl mezi časem, kdy soutěžící opustil startovní desku a začátkem startovního signálu. Měří se minimálně na 1/100s a může být 0, kladný nebo záporný
+[[reakcni-cas]]Reakční čas:: je rozdíl mezi časem, kdy soutěžící opustil startovní desku a začátkem startovního signálu. Měří se minimálně na 0,01 sekundy a může být 0, kladný nebo záporný
 
-[[bezpecnostni-chyt]]Bezpečnostní chyt:: je takový chyt, který hlavní stavěč určil, z důvodu bezpečnosti, jako poslední možný ze kterého se musí zapnout příslušný <<#jistici-bod, Jistící bod>>. Jistící bod i chyt musí být označeny modrým křížkem a závodníci na něj musí být během prohlídky upozorněni.
+[[bezpecnostni-chyt]]Bezpečnostní chyt:: je takový chyt, který hlavní stavěč určil, z důvodu bezpečnosti, jako poslední možný, ze kterého se musí zapnout příslušný <<#jistici-bod, Jistící bod>>. Jistící bod i chyt musí být označeny modrým křížkem a závodníci na něj musí být během prohlídky upozorněni.
 
 [[seeding]]Seeding:: ???
 
@@ -160,7 +160,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[nakres]]Nákres cesty:: je symbolický popis cesty, který obsahuje bodované hodnoty pro každý chyt cesty
 
-[[tranzitni-zona]]Tranzitní zóna/Přechodná izolace:: je konkrétní část v rámci <<#soutezni-prostor, Soutěžního prostoru>>, která je upravena tak, aby umožňovala soutěžícícm se připravit (nebo si odpočinout) před na jejich pokus(y) na boudleru/cestě.
+[[tranzitni-zona]]Tranzitní zóna/Přechodná izolace:: je konkrétní část v rámci <<#soutezni-prostor, Soutěžního prostoru>>, která je upravena tak, aby umožňovala soutěžícím se připravit (nebo si odpočinout) před na jejich pokus(y) na boulderu/cestě.
 
 [[pouzit]]Použít::  znamená pro potřeby rozhodování a bodování stav, kdy soutěžící použil nějaký objekt/strukturu k postupnému pohybu jak svého těžiště těla nebo boků a pohyb jedné nebo obou rukou směřoval:
 .. k dalšímu chytu podél linie cesty; nebo

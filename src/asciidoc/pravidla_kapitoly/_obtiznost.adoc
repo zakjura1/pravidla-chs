@@ -50,7 +50,7 @@ Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druh�
 [#flash-obtiznost]
 === FLASH
 
-. Pro cesty lezené stylem FLASH platí odstavce <<#registrace>>, <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-3>> a <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-4>> týkající se izolace ve stejném smyslu pro rozcvičovací prostory.
+. Pro cesty lezené stylem FLASH platí odstavce <<#registrace>>, <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-2>> a <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-3>> týkající se izolace ve stejném smyslu pro rozcvičovací prostory.
 
 . Cesty musí být předlezeny živě před pokusem prvního závodníka. Je vhodné, aby cesty pro muže byly lezeny mužem, cesty pro ženy ženou. V případě potřeby je možné nahradit živé předlezení opakovaným přehráváním videozáznamu z předlezení.
 
