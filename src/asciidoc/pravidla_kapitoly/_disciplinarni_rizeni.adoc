@@ -48,8 +48,8 @@
 +
 Aby se předešlo pochybnostem, v soutěžních kolech, kde se podmínky izolace neaplikují, mohou soutěžící získávat informace od jiných členů týmu, kteří jsou mimo soutěžní prostor. a to jak před pokusem, tak i během jejich pokusu.
 
-=== Diskvalifikace za chování (DQB)
-. Hlavní rozhodčí je oprávněný diskvalifikovat za chování libovolného <<#clenove-tymu,člena týmu>>. Jakákoliv diskvalifikace za chování bude potrestána udělením červené karty a bude postoupena Disciplinární komisi ČHS. A dále okamžitou diskvalifikací soutěžícího ze všech soutěží dané <<#soutez,Soutěže>>. 
+=== DISKVALIFIKACE ZA CHOVÁNÍ (DQB)
+. Hlavní rozhodčí je oprávněný diskvalifikovat za chování libovolného <<#clenove-tymu,člena týmu>>. Jakákoliv diskvalifikace za chování bude potrestána udělením červené karty a bude postoupena Disciplinární komisi ČHS. A dále okamžitou diskvalifikací dané osoby ze všech soutěží dané <<#soutez,Soutěže>>. 
 
 . Následující záležitosti budou mít za následek okamžitou diskvalifikaci za chování:
 .. nepodvolení se pokynům rozhodčích, pořadatelů nebo soutěžních činitelů ČHS, pokud se tak děje v soutěžním prostoru
@@ -60,7 +60,7 @@ Aby se předešlo pochybnostem, v soutěžních kolech, kde se podmínky izolace
 .. Nesportovní chování nebo jiná vážná výtržnost v průběhu soutěže;
 .. Hrubé, výhružné nebo násilné chování ve vztahu k soutěžním činitelům ČHS, pořadatelům, členům týmů (včetně sportovců) nebo jakékoliv jiné osobě.
 
-. Přestupky spáchané sportovcem nebo členem týmu mimo soutěžní prostor, ale ve veřejné aréně, v dějišti soutěže nebo v ubytovacích nebo jiných zařízeních se soutěží spjatých:
+. Přestupky spáchané libovolným členem týmu mimo soutěžní prostor, ale ve veřejné aréně, v dějišti soutěže nebo v ubytovacích nebo jiných zařízeních se soutěží spjatých:
 .. značně nesportovní chování nebo jiná vážná výtržnost;
 .. hrubé, výhružné nebo násilné chování ve vztahu k soutěžním činitelům ČHS, pořadatelům, členům týmů (včetně sportovců) nebo jakékoliv jiné osobě.
 
