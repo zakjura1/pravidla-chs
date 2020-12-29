@@ -14,15 +14,26 @@
 .. byl podán mimo definované časové intervaly
 .. protest je založen na skutečnosti, která neodpovídá žádnému článku pravidel
 .. odvolací porota se shodne, že protest není platný
+. Po přijetí protestu nejprve odvolací porota vyhodnotí příslušný protest, zda je:
+.. *neplatný* – v tomto případě je formulář s protestem vrácený a neplatí se poplatek za protest. Formulář je zároveň takto i označen
+.. *platný* – v tomto případě se odvolací porota bude protestem zabývat
 
 [#soutezeni-odvolaci-porota]
 === SOUTĚŽNÍ ODVOLACÍ POROTA
 
 . V případě písemného nebo ústního protestu v souladu s článkem <<#protesty>> musí Hlavní rozhodčí shromáždit Odvolací porotu.
 . Členy Odvolací poroty budou Hlavní rozhodčí, Delegát ČHS a Hlavní stavěč. V případě, že byl Hlavní rozhodčí původcem rozhodnutí, které protest vyvolalo, nastoupí na jeho místo v Odvolací porotě Ředitel závodu (pozn. pokud na závod není jmenován delegát ČHS, zůstává Hlavní rozhodčí členem Odvolací poroty na základě odstavce <<#oficialni-soutezni-cinitele>>.<<#td,1.b.>>.
-. Nemůže-li se Odvolací porota jednohlasně shodnout na posouzení protestu, pak platí původní rozhodnutí.
+. Pokud jsou dostupné důkazy a materiály neprůkazné nebo nemůže-li se Odvolací porota jednohlasně shodnout na posouzení protestu, pak platí původní rozhodnutí. Protest v tomto případě bude označen  „*neurčitý*“ a neplatí se poplatek za protest.
 . Rozhodnout je třeba tak rychle, jak to okolnosti dovolí. V případě písemných protestů musí být písemné rozhodnutí Odvolací poroty předáno Hlavním rozhodčím osobě, která oficiálně protest podala nebo, v případě protestu podle níže zmíněného článku <<#protest-proti-vysledkum>>.<<#ppv-3b,3.b.>>, je třeba informovat vedoucího týmu a/nebo soutěžícího.
-. Rozhodnutí Odvolací poroty, pokud jde o níže zmíněné články <<#protest-proti-rozhodnuti>> a <<#protest-proti-vysledkum>>, je konečné a není možné proti němu dále protestovat.
+
+[#protesty-proti-bezpecnosti]
+=== PROTESTY PROTI BEZPEČNOSTI
+. Bez ohledu na jakékoliv jiné ustanovení těchto pravidel lze podat protest, pokud je možné, že existuje nějaké bezpečnostní riziko. Takový protest musí být:
+.. podaný písemně a neplatí se poplatek za protest
+.. podepsaný třemi (3) různými osobami z <<#oficialni-doprovod,oficiálního doprovodu týmu>>, každá z jiného týmu
+
++
+a odvolací porota musí bez odkladu rozhodnout a aplikovat opatření vedoucí k odstranění tohoto identifikovaného rizika.
 
 [#protest-proti-rozhodnuti]
 === PROTESTY PROTI ROZHODNUTÍ, KTERÉ SE TÝKÁ UKONČENÍ POKUSU SOUTĚŽÍCÍHO
@@ -50,4 +61,4 @@
 === POPLATKY ZA PROTESTY
 
 . Protestné ve výši 500 Kč musí být uhrazeno Hlavnímu rozhodčímu současně s podáním protestu.
-. Je-li protest uznán, protestné se vrací. Není-li protest uznán, protestné se nevrací.
+. Je-li protest uznán nebo , protestné se vrací. Není-li protest uznán, protestné se nevrací.
