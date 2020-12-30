@@ -8,36 +8,73 @@
 
 . Soutěže v lezení na obtížnost se konají na účelově vyrobených umělých stěnách s minimální výškou 10 metrů, které dovolují postavit cesty s minimální délkou 12 metrů a minimální šířkou každé cesty 3 metry. Hlavní rozhodčí může po úvaze povolit šířku menší než 3 metry na omezeném úseku cesty.
 
-. Všechny soutěže v lezení na obtížnost se lezou se spodním jištěním soutěžícího. U vybraných kategorií mládeže je povoleno lézt s horním jištěním – top-rope. Příslušné kategorie jsou uvedeny ve výjimkách z pravidel pro závody mládeže U14.
-
-. Cesta je považována za úspěšně přelezenou, pokud byla přelezena v souladu s platnými pravidly a pokud bylo lano zapnuto z regulérní polohy do poslední expresky. V případě cesty lezené top-rope (mládež), je nutné dosáhnout posledního chytu oběma rukama. Tento chyt musí být jasně označen a musí na něj být upozorněno při předlezení.
+. Všechny soutěže v lezení na obtížnost se lezou se spodním jištěním soutěžícího. U vybraných kategorií mládeže je povoleno lézt s horním jištěním – top-rope. Příslušné kategorie jsou uvedeny ve <<vyjimky_z_pravidel_pro_U14.adoc#bezpecnost-a-jisteni,výjimkách z pravidel pro závody mládeže U14>>.
 
 . Soutěž v lezení na obtížnost se obvykle sestává z:
-.. kvalifikačního kola, které se musí odehrávat na dvou nestejných cestách. Obě cesty musí být přibližně stejného rázu a podobné technické obtížnosti. Cesty jsou přelézány stylem FLASH;
-.. finále (v případě <<#mistrovstvi,Mistrovství>> i semifinále, všechny závody mládeže se lezou bez semifinále), které se odehrávají na jedné cestě, která je lezena stylem On-sight.
+.. kvalifikačního kola, které se musí odehrávat na dvou nestejných cestách. Obě cesty musí být přibližně stejného rázu a podobné technické obtížnosti. Cesty jsou přelézány po provedeném předlezení;
+.. finále (v případě <<#mistrovstvi,Mistrovství>> i semifinále, všechny závody mládeže se lezou bez semifinále), které se odehrávají na jedné cestě a neprobíhá pro ně předlezení.
 
 +
 V případě nepředvídaných událostí může Hlavní rozhodčí zrušit jedno z kol. Je-li jedno kolo zrušeno, pak se výsledky z předchozího kola počítají rovněž jako výsledky zrušeného kola.
+Pro kvalifikační kola platí odstavce <<#registrace>>, <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-2>> a <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-3>>.
+
+. Návrh cest:
+.. Každá cesta musí být postavena tak aby:
+... se omezilo riziko zranění při pádu soutěžícího nebo jakékoliv třetí osoby. Nebo překážela jinému soutěžícímu.
+... neobsahovala skoky směrem dolů
+
+.. Hlavní rozhodčí může povolit že:
+... lano bude zapnuté do jednoho nebo více jistících bodů a
+... bude použít „chytač“ k zajištění dodatečné bezpečnosti v nižších částech stěny
+
++
+ale pokud je to možné, návrh cesty by měl být udělaný tak, aby toto nebylo potřeba.
+
+[#bezpecnost-a-jisteni]
+=== BEZPEČNOST A JIŠTĚNÍ
+
+. Hlavní rozhodčí
+.. společně s hlavním stavěčem musí zkontrolovat každou cestu před zahájením každého kola. Hlavní stavěč může označit, že jistící bod musí být z důvodu bezpečnosti zapnutý z příslušného chytu (<<#bezpecnostni-chyt,Bezpečností chyt>>) nebo dříve. V těchto případech příslušný chyt a jistící body musí být zřetelně označené modrým křížem a upozorněno na tuto skutečnost během prohlídky cesty.
+.. rozhodne, zda má být lano vyměněno kdykoliv během soutěže
+
+. Každý soutěžící musí mít nasazen úvazek. Hlavní rozhodčí nesmí povolit start soutěžícího, pokud má oprávněné důvody věřit, že úvazek soutěžícího je nebezpečný.
+
+. Lezecké lano musí být pod kontrolou jednoho jističe, kterému pokud možno asistuje jeden pomocník. Každý jistič:
+
+.. musí používat jen <<#manualni-jistitka,manuálně ovládané jistící pomůcky>> (zakázány jsou veškeré <<#blokovaci-jistitka,blokující jistící pomůcky>>). Veškeré jistící prostředky musí být schváleny Hlavním rozhodčím;
+.. před každým pokusem musí zkontrolovat (nejlépe v přípravné zóně) že:
+... úvazek soutěžícího je správně zajištěn
+... lezecké lano musí být navázáno k úvazku soutěžícího za pomoci osmičkového uzlu zajištěného jedním uzlem navíc; 
+... je lezecké lano stočené nebo jinak uspořádané tak, že je možné jej okamžitě a správně používat;
+
+.. po celou dobu lezeckého pokusu soutěžícího na cestě musí jistič dávat neustále dobrý pozor na jeho postup a musí neustále povolovat lano o vhodnou délku, aby zajistil že:
+... soutěžícího pohyby nebudou nijak omezovány příliš napjatým lanem;
+... všechny pády budou zastaveny dynamickým a bezpečným způsobem 
+... soutěžící je bezpečně spuštěn na zem. Je třeba dávat pozor, aby se soutěžící nedostal do kontaktu s žádným na zemi nebo jinde umístěným zařízením.
+... když se soutěžící pokusí zapnout lano do bodu postupového jištění, musí mít k dispozici dostatečně volné lano, pokud se zapnutí nepodaří, průvěs musí být okamžitě dobrán;
+... soutěžící nebude vystaven žádným nepřiměřeným pádům;
+... je věnována velká pozornost tomu, aby nebyl padající nebo spouštěný soutěžící vystaven žádnému nebezpečí zranění, způsobenému hranou převisu nebo jiným prvkem lezecké stěny.
+
+. Jakékoliv napnutí lana může být považováno za umělou pomoc nebo překážku pro soutěžícího a v takovém případě musí Hlavní rozhodčí oznámit technický incident.
+
+. Zatímco si soutěžící odvazuje lano od svého úvazku, jistič musí stáhnout lano dolů tak rychle jak to jde bez toho, aby se nadměrně zatěžovaly expresky. Na zodpovědnosti jističe je zajistit, že soutěžící co nejrychleji uvolní lezeckou zónu.
 
 [#startovni-listiny-obtiznost]
 === STARTOVNÍ LISTINY
 
-. Startovní pořadí na první kvalifikační cestě bude náhodné. Startovní pořadí na druhé kvalifikační cestě bude stejné jako na té první, ale s posunem 50%.
+. Startovní pořadí na první kvalifikační cestě bude náhodné. Startovní pořadí na druhé kvalifikační cestě bude stejné jako na té první, ale s posunem 50 %.
 
 +
 .Sudý počet závodníků
 ====
-Při 20ti soutěžících v dané kategorii, pak ten, který lezl jako 11. na první kvalifikační cestě, poleze na druhé cestě jako první.
+Při 20 soutěžících v dané kategorii, pak ten, který lezl jako 11. na první kvalifikační cestě, poleze na druhé cestě jako první.
 ====
 
 +
 .Lichý počet závodníků
 ====
-Při 21ti soutěžících v dané kategorii, pak ten, který lezl jako 11. na první kvalifikační cestě, poleze na druhé cestě jako první.
+Při 21 soutěžících v dané kategorii, pak ten, který lezl jako 11. na první kvalifikační cestě, poleze na druhé cestě jako první.
 ====
-
-+
-Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druhé cestě musí být minimálně 20 minut.
 
 . Startovní pořadí v kolech následujících po kvalifikačním kole musí být opakem umístění v předchozím kole, např. nejlépe hodnocený soutěžící leze jako poslední. V případě společného umístění dvou a více soutěžících v předchozím kole bude jejich startovní pořadí v dalším kole určeno následovně:
 
@@ -47,71 +84,49 @@ Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druh�
 
 .. pokud soutěžící v aktuálním průběžném rankingu nejsou uvedeni, startují v náhodném pořadí. Losování pořadí se provede pro každé kolo nově.
 
-[#flash-obtiznost]
-=== FLASH
-
-. Pro cesty lezené stylem FLASH platí odstavce <<#registrace>>, <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-2>> a <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-3>> týkající se izolace ve stejném smyslu pro rozcvičovací prostory.
-
-. Cesty musí být předlezeny živě před pokusem prvního závodníka. Je vhodné, aby cesty pro muže byly lezeny mužem, cesty pro ženy ženou. V případě potřeby je možné nahradit živé předlezení opakovaným přehráváním videozáznamu z předlezení.
+[#prubeh-souteze]
+=== PRŮBĚH SOUTĚŽE
+. Semifinálové a finálová kola v lezení na obtížnost se musí konat za <<#podminky-izolace,podmínek izolace>>. Soutěžící, kteří v těchto kolech startují se musí ohlásit v izolační zóně během kontroly docházky po oficiálním uzavření izolace. Soutěžící, kteří tak neučiní, nemohou v daném kole soutěžit.
+. Musí se dodržet následující minimální časové mezery:
+.. Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druhé cestě musí být minimálně 20 minut.  
+.. Konají-li se dvě návazná kola po sobě (kvalifikace – semifinále, semifinále – finále u závodů nejvyšších soutěží, kvalifikace – finále u závodů 1. ligy), musí být minimálně 2 hodiny mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další. V nezbytných případech může Hlavní rozhodčí rozhodnout o zkrácení této doby, doba mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další nesmí klesnout pod 1 hodinu a informace o tomto zkrácení pak musí být veřejně vyhlášena a vyvěšena na oficiální tabuli nejpozději 15 minut před startem prvního závodníka v poslední cestě 1. kola.
+.. Izolace by neměla být uzavřena dříve, než 1 hodinu před startem prvního závodníka. V případě více kategorií závodících na stejné cestě je myšlen první závodník první kategorie.
+. Každý soutěžící musí zahájit pokus na jakékoliv cestě v pořadí definovaném oficiální startovní listinou. Start se nesmí přeplánovat, pokud soutěžící nemůže v daném čase odstartovat.
+. Chyty na cestě je třeba čistit. Četnost čistění chytů určí Hlavní rozhodčí po poradě s Hlavním stavěčem. Maximální počet pokusů před každým čištěním je standardně 20 a nikdy nesmí překročit 22. Čistící úkony je v průběhu kola třeba rovnoměrně rozvrhnout. Četnost čištění je nutné soutěžícím oznámit v rámci technické instruktáže v izolaci a je třeba o něm informovat i na všech vydaných startovních listinách. Soutěžící nesmí v průběhu svého pokusu čistit jakýkoliv chyt na cestě.
+. Před zahájením finálového kola musí proběhnout představení soutěžících v daném kole. Finálové kolo pro jakoukoliv jednu kategorii nesmí trvat déle než 90 minut.
 
 [#prohlidka-cest]
 === PROHLÍDKA CEST
 . Kvalifikační cesty musí být demonstrovány předlezci
 .. pomocí videa přehrávaného ve smyčce v rámci <<#rozcvicovaci-zona, rozcvičovací zóny>>. Video musí být spuštěno nejpozději 60 minut před plánovaným startem daného kola; nebo
-.. pokud video předlezení není možné, pak pomocí živého předlezení, které musí začít nejpozději 30 (TODO 15???) minut před pokusem prvního závodníka
+.. pokud video předlezení není možné, pak pomocí živého předlezení, které musí začít nejpozději 15 minut před pokusem prvního závodníka
 
++
+Je vhodné, aby cesty pro muže byly lezeny mužem, cesty pro ženy ženou.
 . V souladu s částí <<#prohlidka-cesty>> obecných pravidel, soutěžící (jako skupina) mají povolenou prohlídku cest, které polezou on-sight.
 
-. Čas na prohlídku cesty je 6 minut.
+. Čas na společnou prohlídku cesty před semifinálovým nebo finálovým kolem je 6 minut.
 
-. Soutěžící se mohou dotýkat prvního(ch) chytu(ů) za předpokladu, že obě chodidla zůstanou na zemi.
+.. Během této doby mohou soutěžící:
+... se dotýkat prvního(ch) chytu(ů) za předpokladu, že obě chodidla zůstanou na zemi. 
+... používat dalekohled
+... dělat si poznámky a nákresy rukou
 
-. Na konci doby určené k prohlídce cesty se soutěžící musejí neprodleně vrátit do izolace, nebo v případě několika prvních soutěžících na startovní listině, do přípravné zóny, když je k tomu vybídnou rozhodčí. Každé nepřiměřené zdržení může vyústit v obdržení žluté karty, jakákoliv další prodleva bude mít za následek diskvalifikaci v souladu s částí <<#disciplinarni-rizeni>>.
++
+ale nesmí používat žádné nahrávací zařízení
 
-[#bezpecnost-a-jisteni]
-=== BEZPEČNOST A JIŠTĚNÍ
-
-. Na nástupu do pokusu každého kola:
-
-.. Každý soutěžící musí být vybaven v souladu s pravidly a nařízeními ČHS týkajícími se vybavení;
-
-.. Lezecké lano musí být navázáno k úvazku soutěžícího za pomoci osmičkového uzlu zajištěného jedním uzlem navíc;
-
-.. Před nástupem soutěžícího do cesty musejí jističi zkontrolovat (nejlépe v přípravné zóně), že je soutěžící vybaven v souladu s pravidly, že je lano navázáno na jeho úvazek v souladu s článkem b) výše, a že je úvazek správně upevněn;
-
-.. Předtím, než soutěžícího doprovodí pod cestu, musejí jističi zajistit, že je lezecké lano stočené nebo jinak uspořádané tak, že je možné jej okamžitě a správně používat;
-
-.. Hlavní rozhodčí po poradě s Hlavním stavěčem rozhodne, jestli budou jističi na začátku cesty potřebovat asistenta, aby se soutěžícímu zajistila dodatečná bezpečnost na spodní části cesty.
-
-. Hlavní rozhodčí může po poradě s Hlavním stavěčem rozhodnout o tom, že se lano předem zapne do první expresky, nebo jiného jistícího bodu. Pokud je to možné, je třeba konstruovat trať takovým způsobem, aby k tomuto opatření nemuselo dojít.
-
-. Lezecké lano musí být pod kontrolou jednoho jističe, kterému pokud možno asistuje jeden pomocník. Po celou dobu lezeckého pokusu soutěžícího na cestě musí jistič dávat neustále dobrý pozor na jeho postup, aby zajistil že:
-
-.. Soutěžícího pohyby nebudou nijak omezovány příliš napjatým lanem;
-
-.. Když se soutěžící pokusí zapnout lano do bodu postupového jištění, musí mít k dispozici dostatečně volné lano, pokud se zapnutí nepodaří, průvěs musí být okamžitě dobrán;
-
-.. Všechny pády budou zastaveny dynamickým a bezpečným způsobem. Kvůli specifické povaze lezení na obtížnost je možné používat pouze manuálně ovládané jistící pomůcky (zakázány jsou veškeré automatické a poloautomatické jistící pomůcky). Veškeré jistící prostředky musí být schváleny Hlavním rozhodčím;
-
-.. Soutěžící nebude vystaven žádným nepřiměřeným pádům;
-
-.. Je věnována velká pozornost tomu, aby nebyl padající nebo spouštěný soutěžící vystaven žádnému nebezpečí zranění, způsobenému hranou převisu nebo jiným prvkem lezecké stěny.
-
-. Jistič musí neustále povolovat lano o vhodnou délku. Jakékoliv napnutí lana může být považováno za umělou pomoc nebo překážku pro soutěžícího a v takovém případě musí Hlavní rozhodčí oznámit technický incident.
-
-. Po zapnutí lana do poslední expresky nebo po pádu je nutné soutěžícího spustit na zem. Je třeba dávat pozor, aby se soutěžící nedostal do kontaktu s žádným na zemi nebo jinde umístěným zařízením.
-
-. Zatímco si soutěžící odvazuje lano od svého úvazku, jistič musí stáhnout lano dolů tak rychle jak to jde bez toho, aby se nadměrně zatěžovaly expresky. Na zodpovědnosti jističe je zajistit, že soutěžící co nejrychleji uvolní lezeckou zónu.
++
+.. Na konci doby určené k prohlídce cesty se soutěžící musejí neprodleně vrátit do izolace, nebo v případě několika prvních soutěžících na startovní listině, do přípravné zóny, když je k tomu vybídnou rozhodčí. Každé nepřiměřené zdržení může vyústit v obdržení žluté karty, jakákoliv další prodleva bude mít za následek diskvalifikaci v souladu s částí <<#disciplinarni-rizeni>>.
 
 [#prubeh-lezeni]
 === PRŮBĚH LEZENÍ
 
-. Stanovená délka doby lezení je 6 minut ve všech kolech.
-. V momentě, kdy soutěžící vejde do soutěžní zóny u paty lezecké cesty, má 40 vteřin na to, aby nastoupil do cesty. Těchto 40 vteřin konečné prohlídky cesty není součástí celkového času vyhrazeného na přelezení cesty. Nezačne-li soutěžící po vypršení těchto 40 vteřin lézt, musí být ke startu okamžitě vyzván. Jakákoliv další prodleva bude mít za následek disciplinární postih v souladu s částí <<#disciplinarni-rizeni>>. 40 vteřin prohlídky cesty platí i v případě lezení cest stylem FLASH.
-. Každý pokus soutěžícího je považovaný za zahájený a čas se začne měřit v momentě, kdy obě chodidla soutěžícího opustí zem. Aby se předešlo pochybnostem, traťový rozhodčí určí, zda pokus začal nebo se jedná o úpravu postavení před startem.
-. Soutěžící se v průběhu svého pokusu na cestě může ptát, kolik z času mu zbývá, přičemž Hlavní rozhodčí musí soutěžícího okamžitě informovat nebo někoho pověřit, aby soutěžícího informoval. Když časový limit vyprší, musí dát Hlavní rozhodčí soutěžícímu pokyn, aby přestal lézt. Soutěžící, který tohoto pokynu neuposlechne, bude vystaven disciplinárnímu postihu v souladu s článkem <<#disciplinarni-rizeni>>.
-. V průběhu pokusu na cestě:
-.. Soutěžící musí být stále v povolené pozici. To je z hlediska postupového jištění když:
+. [[pl-1,{counter:pl}]]Stanovená délka doby lezení je 6 minut ve všech kolech.
+. [[pl-2,{counter:pl}]]V momentě, kdy soutěžící vejde do soutěžní zóny u paty lezecké cesty, má 40 vteřin na to, aby nastoupil do cesty. Těchto 40 vteřin konečné prohlídky cesty není součástí celkového času vyhrazeného na přelezení cesty. Nezačne-li soutěžící po vypršení těchto 40 vteřin lézt, musí být ke startu okamžitě vyzván. Jakákoliv další prodleva bude mít za následek disciplinární postih v souladu s částí <<#disciplinarni-rizeni>>. 40 vteřin prohlídky cesty platí i v případě lezení kol, pro které neplatí podmínky izolace.
+. [[pl-3,{counter:pl}]]Každý pokus soutěžícího je považovaný za zahájený a čas se začne měřit v momentě, kdy obě chodidla soutěžícího opustí zem. Aby se předešlo pochybnostem, traťový rozhodčí určí, zda pokus začal nebo se jedná o úpravu postavení před startem.
+. [[pl-4,{counter:pl}]]Soutěžící se v průběhu svého pokusu na cestě může ptát, kolik z času mu zbývá, přičemž Hlavní rozhodčí musí soutěžícího okamžitě informovat nebo někoho pověřit, aby soutěžícího informoval. Když časový limit vyprší, musí dát Hlavní rozhodčí soutěžícímu pokyn, aby přestal lézt. Soutěžící, který tohoto pokynu neuposlechne, bude vystaven disciplinárnímu postihu v souladu s článkem <<#disciplinarni-rizeni>>.
+. [[pl-5,{counter:pl}]]V průběhu pokusu na cestě:
+.. Soutěžící musí být stále v <<#legitimni-pozice,legitimní pozici>>. To je z hlediska postupového jištění když:
 ... [[prubeh-pokusu-i,({counter:pp:i})]]soutěžící celým tělem nepřelezl nad/za spodní karabinu expresky, do které ještě nezapnul lano nebo
 ... [[prubeh-pokusu-ii,({counter:pp})]]neopustil oběma rukama poslední chyt, který byl hlavním stavěčem označen jako poslední chyt, ze kterého může být ještě jištění zapnuto
 ... pokud je vyznačen chyt z důvodu bezpečnosti modrým křížem, bodování je pozastaveno na tomto chytu, dokud není příslušné jištění zapnuto
@@ -129,30 +144,10 @@ Jakékoliv porušení tohoto pravidla bude mít za následek ukončení pokusu s
 .. Pokud zapne soutěžící lano do karabiny v souladu článkem a), ale vytvoří tak „Z-klip“, bude soutěžícímu dovoleno odepnout a znovu připnout (v případě nutnosti i slezením zpět) libovolnou z expresek v „Z-klipu“ zapojených. Po opravě musejí být všechna postupová jištění zapnuta.
 
 +
-Hlavní rozhodčí může rozhodnout, že je nutné jednu nebo více expresek zapnout z určitého chytu nebo dříve. Tuto informaci je doporučeno soutěžícím sdělit v rámci technické instruktáže v izolaci (kde je relevantní), chyt a expresku, kterých se to týká, je nutné viditelně označit, nejlépe modrým křížkem a je nutné na to poukázat v průběhu prohlídky cesty.
+Cesta je považována za úspěšně přelezenou, pokud byla přelezena v souladu s platnými pravidly a pokud bylo lano zapnuto z regulérní polohy do poslední expresky. V případě cesty lezené top-rope (mládež), je nutné dosáhnout posledního chytu oběma rukama. Tento chyt musí být jasně označen a musí na něj být upozorněno při předlezení.
 
 +
 Hlavní rozhodčí může vydat pokyn k ukončení pokusu, má-li za to, že další postup na trati by byl nebezpečný.
-
-. Chyty na cestě je třeba čistit. Četnost čistění chytů určí Hlavní rozhodčí po poradě s Hlavním stavěčem. Maximální počet pokusů před každým čištěním je standardně 20 a nikdy nesmí překročit 22. Čistící úkony je v průběhu kola třeba rovnoměrně rozvrhnout. Četnost čištění je nutné soutěžícím oznámit v rámci technické instruktáže v izolaci a je třeba o něm informovat i na všech vydaných startovních listinách. Soutěžící nesmí v průběhu svého pokusu čistit jakýkoliv chyt na cestě.
-
-[#technicke-incidenty-obtiznost]
-=== TECHNICKÉ INCIDENTY
-
-. Za technický incident v soutěžích v lezení na obtížnost považujeme:
-.. Zlomený nebo uvolněný chyt;
-.. Nesprávně umístěná expreska nebo karabina;
-.. Napnuté lano, které soutěžícímu buď pomáhá, nebo brání;
-.. Jakákoliv jiná událost, která pro soutěžícího vyústí ve znevýhodnění nebo v nespravedlivé zvýhodnění a kterou soutěžící svým počínáním nezpůsobil.
-. Jestliže soutěžící spadne a ohlásí, že za pád může technický incident, pak je okamžitě odveden do speciální izolace, kde musí vyčkat na rozhodnutí o vyšetření proklamovaného technického incidentu.
-. [[ti-obtiznost-3]]V případě uznaného technického incidentu je soutěžícímu dán odpočinkový čas ve speciální izolaci s přístupem k rozcvičovacímu vybavení, přičemž během této doby nesmí soutěžící komunikovat s nikým jiným než se soutěžními činiteli ČHS a s organizátory.
-+
-Odpočinkový čas soutěžícího před dalším pokusem je přibližně 1 minuta za každý chyt dosažený v cestě, než došlo k technickému incidentu. Soutěžící, kterého se to týká, má právo na maximální čas na zotavení 20 minut. V závislosti na požadavcích soutěžícího ohledně odpočinkového času v rámci maximálního limitu pak Hlavní rozhodčí rozhodne o tom, kdy bude následující pokus soutěžícího zařazen. Všichni soutěžící, kterých se to týká, musejí být o tomto zařazení informováni.
-+
-V případě finálového soutěžního kola nesmí odpočinkový čas přesáhnout 20 minut od chvíle, kdy poslední soutěžící ukončil svůj pokus.
-+
-V případě, že by byl nějaký nový pokus zařazen v jakémkoliv kole soutěže za posledního soutěžícího a že soutěžící, který utrpěl technický incident, se v tomto kole již umístil jako první, nebude mu nový pokus povolen.
-. Po dokončení opakovaného pokusu na cestě se soutěžícímu započítává nejlepší z jeho pokusů.
 
 [#hodnoceni-obtiznost]
 === HODNOCENÍ
@@ -227,21 +222,33 @@ Vzhledem k zavedení času jako jednoho z rozhodujících kritérií ve finále 
 .. Použije k lezení rukama otvory v lezecké stěně určené pro montáž chytů;
 .. Použije k lezení boční nebo horní okraj lezecké stěny;
 .. Použije k lezení nýtů (včetně jejich šroubů) nebo expresek;
-.. Nepodaří se mu zapnout expresku podle pravidel v souladu s odstavcem 4.6.5;
+.. Nepodaří se mu zapnout expresku podle pravidel v souladu s odstavcem <<#prubeh-lezeni>>.<<#pl-5>>;
 .. Dotkne se jakoukoliv částí těla země poté, co nastoupil na cestu;
 .. Využije jakoukoliv umělou pomůcku neuvedenou v pravidlech a neschválenou hlavním rozhodčím.
 . V případě porušení pravidel vztahujících se k článku <<#ukonceni-pokusu-na-ceste-obtiznost>>.<<#ukonceni-pokusu,1>>b.-i., musí Hlavní rozhodčí nařídit soutěžícímu lezení ukončit.
 +
-Soutěžící nebo jeho trenér může proti tomuto rozhodnutí podat okamžitý protest. Je-li takový protest podán, bude soutěžící odveden do speciální izolace. Protest je třeba podrobit postupu popsanému v části 8 a odvolací komise se protestu musí věnovat, co nejdříve to okolnosti dovolí. Je-li protest uznán, má soutěžící právo na nový pokus. Soutěžícímu je třeba umožnit odpočinek za podobných podmínek jako v článku <<#technicke-incidenty-obtiznost>>.<<#ti-obtiznost-3,3>> hovořícím o zotavení se soutěžících po technickém incidentu. Po dokončení nového pokusu na cestě se soutěžícímu započítává nejlepší z jeho pokusů.
+Soutěžící nebo jeho trenér může proti tomuto rozhodnutí podat okamžitý protest. Je-li takový protest podán, bude soutěžící odveden do speciální izolace. Protest je třeba podrobit postupu popsanému v části <<#protesty,protesty>> a odvolací komise se protestu musí věnovat, co nejdříve to okolnosti dovolí. Je-li protest uznán, má soutěžící právo na nový pokus. Soutěžícímu je třeba umožnit odpočinek za podobných podmínek jako v článku <<#technicke-incidenty-obtiznost>>.<<#ti-obtiznost-3,3>> hovořícím o zotavení se soutěžících po technickém incidentu. Po dokončení nového pokusu na cestě se soutěžícímu započítává nejlepší z jeho pokusů.
+
+[#technicke-incidenty-obtiznost]
+=== TECHNICKÉ INCIDENTY
+
+. Za technický incident v soutěžích v lezení na obtížnost považujeme:
+.. Zlomený nebo uvolněný chyt;
+.. Nesprávně umístěná expreska nebo karabina;
+.. Napnuté lano, které soutěžícímu buď pomáhá, nebo brání;
+.. Jakákoliv jiná událost, která pro soutěžícího vyústí ve znevýhodnění nebo v nespravedlivé zvýhodnění a kterou soutěžící svým počínáním nezpůsobil.
+. Jestliže soutěžící spadne a ohlásí, že za pád může technický incident, pak je okamžitě odveden do speciální izolace, kde musí vyčkat na rozhodnutí o vyšetření proklamovaného technického incidentu.
+. [[ti-obtiznost-3]]V případě uznaného technického incidentu je soutěžícímu dán odpočinkový čas ve speciální izolaci s přístupem k rozcvičovacímu vybavení, přičemž během této doby nesmí soutěžící komunikovat s nikým jiným než se soutěžními činiteli ČHS a s organizátory.
++
+Odpočinkový čas soutěžícího před dalším pokusem je přibližně 1 minuta za každý chyt dosažený v cestě, než došlo k technickému incidentu. Soutěžící, kterého se to týká, má právo na maximální čas na zotavení 20 minut. V závislosti na požadavcích soutěžícího ohledně odpočinkového času v rámci maximálního limitu pak Hlavní rozhodčí rozhodne o tom, kdy bude následující pokus soutěžícího zařazen. Všichni soutěžící, kterých se to týká, musejí být o tomto zařazení informováni.
++
+V případě finálového soutěžního kola nesmí odpočinkový čas přesáhnout 20 minut od chvíle, kdy poslední soutěžící ukončil svůj pokus.
++
+V případě, že by byl nějaký nový pokus zařazen v jakémkoliv kole soutěže za posledního soutěžícího a že soutěžící, který utrpěl technický incident, se v tomto kole již umístil jako první, nebude mu nový pokus povolen.
+. Po dokončení opakovaného pokusu na cestě se soutěžícímu započítává nejlepší z jeho pokusů.
 
 [#pouziti-videozaznamu-obtiznost]
 === POUŽITÍ VIDEOZÁZNAMU
 
 . Má-li Hlavní rozhodčí za to, že je potřebné prohlédnout si videozáznam pokusu soutěžícího na cestě za účelem zhodnocení jeho výkonu, musí nejdříve soutěžícího ve shodě s pravidly nechat dokončit daný pokus. Jakmile soutěžící svůj pokus ukončí, musí ho Hlavní rozhodčí informovat, že jeho hodnocení v daném kole soutěže bude podléhat prozkoumání videozáznamu. Potvrzení hodnocení musí být provedeno co nejdříve.
 . Oficiální videozáznam mohou používat rozhodčí pro potvrzení pravidel o držení/tečování v rámci hodnocení a umístění soutěžících na konci každého kola.
-
-[#casova-ustanoveni-obtiznost]
-=== ČASOVÁ USTANOVENÍ
-
-. Konají-li se dvě návazná kola po sobě (kvalifikace – semifinále, semifinále – finále u závodů nejvyšších soutěží, kvalifikace – finále u závodů 1. ligy), musí být minimálně 2 hodiny mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další. V nezbytných případech může Hlavní rozhodčí rozhodnout o zkrácení této doby, doba mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další nesmí klesnout pod 1 hodinu a informace o tomto zkrácení pak musí být veřejně vyhlášena a vyvěšena na oficiální tabuli nejpozději 15 minut před startem prvního závodníka v poslední cestě 1. kola.
-. Izolace by neměla být uzavřena dříve, než 1 hodinu před startem prvního závodníka. V případě více kategorií závodících na stejné cestě je myšlen první závodník první kategorie.

@@ -80,6 +80,7 @@ Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pok
 
 Na prohlídku cesty, pokud se leze stylem OS, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
+[#bezpecnost-a-jisteni]
 === Bezpečnost a jištění
 . Kvalifikační cesty:
 +
