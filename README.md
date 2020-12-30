@@ -15,7 +15,7 @@ Repositář s pravidly soutěžního lezení ČHS. obsahuje soubory, ze kterých
   - poslat mi email s popisem toho co je potreba opravit
 
 - online
-Požádat mě o právo přispívat do tohoto repositáře, nebo udělat fork pravidel a vytvářet Pull requesty. V tomto případě je vždy nutné si zřídít na Githubu účet.
+  - Požádat mě o právo přispívat do tohoto repositáře, nebo udělat fork pravidel a vytvářet Pull requesty. V tomto případě je vždy nutné si zřídít na Githubu účet.
   - Na počítači:
     - nainstalovat si Git for Windows [stáhnout zde](https://git-scm.com/download/win)
     - nainstalovat si např. Visual Studio Code ([stáhnout zde](https://code.visualstudio.com/download)) a do něj rozšíření pro AsciiDoc a Better AsciiDoc, GitLab a Git. 
