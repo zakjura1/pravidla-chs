@@ -93,7 +93,7 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 [#prubeh-lezeni-finale-sp-bouldering]
 === PRŮBĚH LEZENÍ – FINÁLE SYSTÉMEM SP
 
-. Ve finálovém kole lezeném systémem SP musí být každý boulder lezen všemi soutěžícími podle pořadí jejich startovních čísel a teprve potom se soutěžící přesunou k dalšímu boulderu. Pokud obě kategorie lezou současně, pak pokusují současně boulder stejného pořadí, tedy pokud jedna kategorie skončí své pokusy dříve, počká, než druhá kategorie dokončí své pokusy, a poté se společně přesunou na další boulder.
+. Ve finálovém kole lezeném systémem SP musí být každý boulder lezen všemi soutěžícími podle pořadí jejich startovních čísel a teprve potom se soutěžící přesunou k dalšímu boulderu. Pokud dvě kategorie lezou současně, pak pokusují současně boulder stejného pořadí, tedy pokud jedna kategorie skončí své pokusy dříve, počká, než druhá kategorie dokončí své pokusy, a poté se společně přesunou na další boulder.
 . Doba lezení ve finále jsou 4 minuty. Jestliže soutěžící ukončí svůj pokus před uplynutím 4minutového limitu, musí se vrátit do přechodné izolace v tranzitním prostoru a další lezec v pořadí musí být připraven ihned zahájit svůj pokus.
 . Každý pokus soutěžícího musí začít z pozice popsané v odstavci <<#obecne-bouldering>>.<<ob-9,9>>.
 . Začátek (a konec) každého časového limitu musí být oznámen hlasitým a jasným signálem. Když zbývá jedna minuta do konce doby střídání, bude to oznámeno jiným signálem. V soutěžní zóně musí být umístěna časomíra, zobrazující neustále zbývající časový limit. Počet a umístění zařízení zobrazujících časový limit musí být stanoven tak, aby byla vidět ode všech lezených boulderů, z prostoru pro odpočinek a ze všech částí hlediště.
