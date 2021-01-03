@@ -106,11 +106,12 @@ Při 21ti soutěžících v dané kategorii, pak ten, který lezl jako 11. na pr
 
 . Minimální pauza mezi 1. a 2. cestou je 5 minut. Toto neplatí v opakovaném pokusu po předčasném startu.
 . [[ksr-6]]Soutěžící budou hodnoceni následovně:
-.. závodníci, kteří nebyli schopni zahájit oba své kvalifikační pokusy nebudou v kole hodnoceni a jejich výsledek bude označen jako DNS
-.. závodníci s předčasným startem v prvním nebo druhém pokusu budou hodnoceni na stejné pozici, a to poslední v daném kole
-.. podléhající bodům a., b.: závodníci, jejichž pokus nebo oba pokusy byly hodnoceny jako neúspěšné, budou hodnoceni na stejné pozici, a to před závodníky s předčasným startem
-.. podléhající bodům a., b., c.: závodníci s alespoň jedním platným časem budou seřazeni sestupně, přičemž závodník s rychlejším časem je umístěn lépe
-... pokud dva nebo více závodníků má stejný čas, pak jsou setříděni podle druhého času, přičemž závodníci s platným časem jsou před závodníky bez platného druhého času. 
+.. [[ksr-a,{counter:ksr:a}.]]závodníci, kteří nebyli schopni zahájit oba své kvalifikační pokusy nebudou v kole hodnoceni a jejich výsledek bude označen jako DNS
+.. [[ksr-b,{counter:ksr}.]]závodníci s předčasným startem v prvním nebo druhém pokusu budou hodnoceni na stejné pozici, a to poslední v daném kole
+.. [[ksr-c,{counter:ksr}.]]v závislosti na bodech <<#ksr-a>>, <<#ksr-b>>: závodníci, jejichž pokus nebo oba pokusy byly hodnoceny jako neúspěšné, budou hodnoceni na stejné pozici, a to před závodníky s předčasným startem
+.. v závislosti na bodech <<#ksr-a>>, <<#ksr-b>>, <<#ksr-c>>: závodníci s alespoň jedním platným časem budou seřazeni sestupně, přičemž závodník s rychlejším časem je umístěn lépe
+... pokud dva nebo více závodníků má stejný čas, pak jsou setříděni podle druhého času, přičemž
+... závodníci s platným časem jsou před závodníky bez platného druhého času. 
 ... pokud více závodníků nemá druhý platný čas jsou hodnoceni na stejné pozici
 . V případě předčasného startu při prvním pokusu jednoho ze soutěžících, je tento soutěžící vyřazen a nebude se dále účastnit závodu. Druhý soutěžící ihned absolvuje nový pokus samostatně. 
 
