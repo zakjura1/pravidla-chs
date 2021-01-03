@@ -61,4 +61,4 @@ a odvolací porota musí bez odkladu rozhodnout a aplikovat opatření vedoucí 
 === POPLATKY ZA PROTESTY
 
 . Protestné ve výši 500 Kč musí být uhrazeno Hlavnímu rozhodčímu současně s podáním protestu.
-. Je-li protest uznán nebo , protestné se vrací. Není-li protest uznán, protestné se nevrací.
+. Je-li protest uznán protestné se vrací. Není-li protest uznán, protestné se nevrací.
