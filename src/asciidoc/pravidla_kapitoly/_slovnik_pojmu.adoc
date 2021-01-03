@@ -168,7 +168,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[nakres]]Nákres cesty:: je symbolický popis cesty, který obsahuje bodované hodnoty pro každý chyt cesty
 
-[[tranzitni-zona]]Tranzitní zóna/Přechodná izolace:: je konkrétní část v rámci <<#soutezni-prostor, Soutěžního prostoru>>, která je upravena tak, aby umožňovala soutěžícím se připravit (nebo si odpočinout) před na jejich pokus(y) na boulderu/cestě.
+[[tranzitni-zona]]Tranzitní zóna/Přechodná izolace:: je konkrétní část v rámci <<#soutezni-prostor, Soutěžního prostoru>>, která je upravena tak, aby umožňovala soutěžícím se připravit (nebo si odpočinout) před/na jejich pokus(y) na boulderu/cestě.
 
 [[pouzit]]Použít::  znamená pro potřeby rozhodování a bodování stav, kdy soutěžící použil nějaký objekt/strukturu k postupnému pohybu jak svého těžiště těla nebo boků a pohyb jedné nebo obou rukou směřoval:
 .. k dalšímu chytu podél linie cesty; nebo

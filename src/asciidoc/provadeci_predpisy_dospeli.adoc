@@ -21,7 +21,7 @@ v1.1, 1.1.2021
 
 . ČHS prostřednictvím sekretariátu uzavře s pořadatelem písemnou smlouvu o pořádání závodu, ve které jsou stanoveny podmínky uspořádání závodu. Uzavření smlouvy není nutné v případě rankingového závodu. 
 
-. ČHS poskytne pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky atd.). Výše dotace na každý rok na jednotlivé závody je stanovena Komisí soutěžního lezení ČHS (dále jen Komise) a zveřejněna na webu ČHS (viz dokument Dotace pro pořadatele v roce 2020). 
+. ČHS poskytne pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky atd.). Výše dotace na každý rok na jednotlivé závody je stanovena Komisí soutěžního lezení ČHS (dále jen Komise) a zveřejněna na webu ČHS (viz dokument Dotace pro pořadatele v roce 2021). 
 
 . ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje technický delegát a upravuje smlouva mezi ČHS a pořadatelem. 
 
@@ -104,15 +104,15 @@ Nominační závody musí být pořádány v open formátu.
 
 === Obtížnost 
 
-. Při závodech v lezení na obtížnost nejvyšších soutěží i 1. ligy je počet postupujících dán Pravidly soutěžního lezení ČHS 2020. 
+. Při závodech v lezení na obtížnost nejvyšších soutěží i 1. ligy je počet postupujících dán Pravidly soutěžního lezení ČHS 2021. 
 
 === Bouldering 
 
-. Při závodech v boulderingu nejvyšších soutěží i 1. ligy je počet postupujících dán Pravidly soutěžního lezení ČHS 2020 
+. Při závodech v boulderingu nejvyšších soutěží i 1. ligy je počet postupujících dán Pravidly soutěžního lezení ČHS 2021 
 
 === Rychlost
 
-. při závodech v lezení na rychlost nejvyšších soutěží i 1. ligy je počet postupujících dán Pravidly soutěžního lezení ČHS 2020 na základě počtu závodníků a zvoleného formátu.
+. při závodech v lezení na rychlost nejvyšších soutěží i 1. ligy je počet postupujících dán Pravidly soutěžního lezení ČHS 2021 na základě počtu závodníků a zvoleného formátu.
 
 === Závody se zahraniční účastí 
 
@@ -192,7 +192,7 @@ Nominační závody musí být pořádány v open formátu.
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů všech kategorií schvaluje Komise. V případě nedodržení Pravidel soutěžního lezení ČHS platných pro rok 2020 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
+. Výši finanční a případně jiné podpory závodů všech kategorií schvaluje Komise. V případě nedodržení Pravidel soutěžního lezení ČHS platných pro rok 2021 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
 
 . Pro závody 3. ligy mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<pioz-1>>, <<pioz-2>> a <<pioz-3>>. 
 

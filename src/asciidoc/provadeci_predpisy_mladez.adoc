@@ -38,18 +38,18 @@ Předběžná registrace je možná pouze ve vazbě na software pro zpracování
 === Pořadatel nebo Komise může po vzájemném souhlasu dále určit nižší startovné pro závodníky, kteří jsou členy ČHS a jejichž rodiče aktivně vypomáhají při organizaci daného závodu.
 === V izolační zóně před finále musí být na závodech možnost rozcvičení a rozlezení. Případné výjimky z tohoto pravidla jsou možné výhradně na závodech Českého poháru do 14 let pouze po dohodě s Komisí. Závodníci musí mít v izolaci k dispozici toalety.
 
-== Typy závodů mládeže pro rok 2020 
+== Typy závodů mládeže pro rok 2021 
 
 === Obtížnost
-. seriál závodů Českého poháru mládeže v lezení na obtížnost 2020 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže
+. seriál závodů Českého poháru mládeže v lezení na obtížnost 2021 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže
 . závody Českého poháru do 14 let – max. 7 závodů pro mladší věkové kategorie, jeho součástí je Mistrovství ČR mládeže do 14 let
 
 === Rychlost
-. seriál závodů Českého poháru mládeže 2020 - max. 5 závodů včetně Mistrovství ČR mládeže
+. seriál závodů Českého poháru mládeže 2021 - max. 5 závodů včetně Mistrovství ČR mládeže
 . seriál závodů Českého poháru do 14 let - max. 5 závodů včetně Mistrovství ČR do 14 let
 
 === Bouldering
-. seriál závodů Českého poháru mládeže 2020 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže
+. seriál závodů Českého poháru mládeže 2021 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže
 . seriál závodů Českého poháru do 14 let – max. 4 závody včetně Mistrovství ČR do 14 let
 
 == Závodníci 
@@ -89,7 +89,7 @@ Věkové kategorie pro celý seriál závodů jsou dané. Závodník může záv
 
 === Komise jmenuje delegáta ČHS, hlavního rozhodčího soutěže a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. Na závodech Českého poháru mládeže a Českého poháru do 14 let smí být hlavním rozhodčím pouze rozhodčí z aktuálního seznamu hlavních rozhodčích pro Český pohár mládeže.
 === Komise schválí hlavního stavěče závodu pro závody ČP mládeže a MČR mládeže. Hlavní stavěč závodů ČPM a MČRM musí být držitelem národní stavěčské licence nebo mezinárodní licence IFSC. Pro ČP do 14 let je využití stavěče s národní nebo mezinárodní licencí doporučené, využití licencovaného stavěče bude zohledněno při stanovení výše doplňkové dotace.
-=== Práci a náklady spojené se stavěním závodních cest hradí pořadatel. Minimální cena za stavění závodních cest týmem vedeným licencovaným stavěčem je u závodů mládeže v lezení na obtížnost 1 000 Kč za cestu, u boulderingu není pro rok 2020 minimální cena stanovena.
+=== Práci a náklady spojené se stavěním závodních cest hradí pořadatel. Minimální cena za stavění závodních cest týmem vedeným licencovaným stavěčem je u závodů mládeže v lezení na obtížnost 1 000 Kč za cestu, u boulderingu není pro rok 2021 minimální cena stanovena.
 
 == Poskytování informací o závodě 
 
@@ -106,9 +106,9 @@ Věkové kategorie pro celý seriál závodů jsou dané. Závodník může záv
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí Pravidla soutěžního lezení ČHS 2020.
+Pro všechny typy závodů platí Pravidla soutěžního lezení ČHS 2021.
 
-Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu „Výjimky ze soutěžních pravidel ČHS pro závody mládeže do 14 let v soutěžním lezení pro rok 2020“, který je přílohou Pravidel soutěžního lezení ČHS.
+Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu „Výjimky ze soutěžních pravidel ČHS pro závody mládeže do 14 let v soutěžním lezení pro rok 2021“, který je přílohou Pravidel soutěžního lezení ČHS.
 
 
 === Obtížnost
@@ -120,11 +120,11 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sa
 === Bouldering
 . Pro kvalifikace se doporučuje FLASH formát, finálový formát je plně na rozhodnutí pořadatele.
 . Závody ČPM a ČP do 14 let v boulderingu lze po dohodě s Komisí uspořádat jako závody bez finále, výsledky závodu jsou v takovém případě určeny výsledkem kvalifikace.
-. Závod MČR mládeže musí obsahovat kvalifikační a finálové kolo. Kvalifikace se mohou lézt stylem flash nebo OS, finále se lezou stylem OS. Pořadatel si může sám zvolit formát finále – tj. buď závodníci lezou zároveň na všech boulderech nebo všichni lezou postupně stejný boulder – formát SP (mohou lézt dívky i chlapci zároveň). Finálové kolo musí být zařazeno v důstojných časech – při společných závodech s dospělými nejlépe před finálovými koly dospělých popř. samostatně. Časové zařazení finále MČRM musí být schváleno Komisí. Závod MČR do 14 může být uspořádán bez finále.
+. Závod MČR mládeže musí obsahovat kvalifikační a finálové kolo. Kvalifikace se mohou lézt stylem FLASH nebo OS, finále se lezou stylem OS. Pořadatel si může sám zvolit formát finále – tj. buď závodníci lezou zároveň na všech boulderech nebo všichni lezou postupně stejný boulder – formát SP (mohou lézt dívky i chlapci zároveň). Finálové kolo musí být zařazeno v důstojných časech – při společných závodech s dospělými nejlépe před finálovými koly dospělých popř. samostatně. Časové zařazení finále MČRM musí být schváleno Komisí. Závod MČR do 14 může být uspořádán bez finále.
 
 === Postupový klíč
 . Při závodech ČPM a ČP do 14 let v lezení na obtížnost a v boulderingu včetně MČR mládeže postupuje z kvalifikačního kola ve všech kategoriích do finále prvních 8 závodníků. Při shodě na posledním postupovém místě postupují do finále všichni závodníci z tohoto děleného umístění.
-. Při závodech ČPM a ČP do 14 let v lezení na rychlost je počet postupujících dán Pravidly soutěžního lezení ČHS 2020 na základě počtu závodníků a zvoleného formátu, tedy klasického nebo světového.
+. Při závodech ČPM a ČP do 14 let v lezení na rychlost je počet postupujících dán Pravidly soutěžního lezení ČHS 2021 na základě počtu závodníků a zvoleného formátu, tedy klasického nebo světového.
 . V případě, že se závody uskuteční se zahraniční účastí a budou vyhlášeny jako Open, nesmí zahraniční účastníci ovlivnit počty postupujících českých závodníků. Celkový počet postupujících bude pro každé kolo navýšen o postupující zahraniční účastníky. Toto ustanovení platí pro všechny kategorie a disciplíny s výjimkou závodů na rychlost – zde je počet postupujících dán pravidly a postupovým klíčem.
 
 == Vyhlášení výsledků 
@@ -168,5 +168,5 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sa
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje Komise. V případě nedodržení Pravidel soutěžního lezení ČHS platných pro rok 2020 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
+. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje Komise. V případě nedodržení Pravidel soutěžního lezení ČHS platných pro rok 2021 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
 . Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>> a <<vyjimky_z_pravidel_u14.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže do 14 let v soutěžním lezení pro rok 2021>>.

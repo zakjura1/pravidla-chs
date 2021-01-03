@@ -11,7 +11,7 @@ include::../../locale/_attributes.adoc[]
 :toclevels: 1
 = Výjimky ze soutěžních pravidel ČHS pro závody mládeže do 14 let v soutěžním lezení pro rok 2021
 Český horolezecký svaz
-v1.0, 15.1.2020
+v1.0, 1.1.2021
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -84,11 +84,11 @@ Na prohlídku cesty, pokud se leze stylem OS, mohou závodníky doprovázet tre
 === Bezpečnost a jištění
 . Kvalifikační cesty:
 +
-Kategorie U10 a U12 musí lézt s horním jištěním (top-rope) stylem "FLASH". Cesta musí být předlezena před začátkem závodu. Kategorie U14 může lézt s horním jištěním nebo se spodním jištěním. Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního rozhodčího tak, aby byla zajištěna bezpečnost závodníků. Pro zvýšení bezpečnosti lze lézt se zapnutou první expreskou v případě lezení se spodním jištěním.
+Kategorie U10 a U12 musí lézt s horním jištěním (top-rope) bez <<pravidla_sl.adoc#podminky-izolace,podminky izolace>>. Cesta musí být předlezena před začátkem závodu. Kategorie U14 může lézt s horním jištěním nebo se spodním jištěním. Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního rozhodčího tak, aby byla zajištěna bezpečnost závodníků. Pro zvýšení bezpečnosti lze lézt se zapnutou první expreskou v případě lezení se spodním jištěním.
 
 . Finálová cesta:
-Kat. U10 a U12:: musí lézt s horním jištěním (top-rope), stylem "ON-SIGHT".
-Kat. U14:: musí lézt se spodním jištěním stylem "ON-SIGHT". Případnou změnu povoluje hlavní rozhodčí.
+Kat. U10 a U12:: musí lézt s horním jištěním (top-rope), za <<pravidla_sl.adoc#podminky-izolace,podminek izolace>>.
+Kat. U14:: musí lézt se spodním jištěním za <<pravidla_sl.adoc#podminky-izolace,podminek izolace>>. Případnou změnu povoluje hlavní rozhodčí.
 +
 Při lezení s horním jištěním (top-rope) je přípustné navázání závodníka dle bodu 6.2.5.b) (dvě karabiny s pojistkou zámku - západky proti sobě, nebo jedna karabina se zajištěním proti pootočení).
 +
@@ -109,7 +109,7 @@ Nominační formát může proběhnout na jedné nebo dvou identických cestách
 
 == Bouldering
 
-Pro závody mládeže do 14 let neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> Pravidel soutěžního lezení 2020, která zde mají pouze doporučující charakter.
+Pro závody mládeže do 14 let neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> Pravidel soutěžního lezení 2021, která zde mají pouze doporučující charakter.
 
 == Protesty
 

@@ -6,7 +6,7 @@
 
 . Tato pravidla je nutné číst ve spojení s částí 3, Obecná pravidla.
 . Soutěže v lezení na rychlost se konají na účelově vyrobených umělých stěnách s minimální výškou 9 metrů a minimální šířkou každé cesty 2,5 metru.
-. Soutěže v lezení na rychlost se lezou stylem FLASH
+. Soutěže v lezení na rychlost se lezou bez <<#podminky-izolace,podmínek izolace>>
 . Soutěže v lezení na rychlost se odehrávají v těchto formátech:
 .. Klasický formát - soutěží se na dvou cestách podobné délky, profilu a obtížnosti
 .. Světový formát - soutěží se na dvou identických paralelních cestách
@@ -150,7 +150,7 @@ h|Číslo kola h|Pořadí z kvalifikace h|Číslo kola h|Pořadí z kvalifikace 
 +
 Startovní pořadí v následujících vyřazovacích kolech ukazuje následující <<#pavouk>>:
 +
-.Startovní pořadí pro jednotlivá vyřazovací kola finálové části soutěže pro (shora) 16, 8 a 4 finalisty.
+. Startovní pořadí pro jednotlivá vyřazovací kola finálové části soutěže pro (shora) 16, 8 a 4 finalisty.
 [#pavouk]
 image::pavouk_rychlost.jpg[Varianty pavouka,width=475,height=651,align="center"]
 +
