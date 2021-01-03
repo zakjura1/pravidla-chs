@@ -58,7 +58,7 @@
 
 . [[dcr-1,{counter:dcr}]]Pokus je chápán jako úspěšně dokončený v případě, že byl lezen v souladu s pravidly a soutěžící rukou stiskl spínač časomíry a časomíra se zastavila.
 . [[dcr-2,{counter:dcr}]]Pokus soutěžícího je hodnocen jako neúspěšný když, kterýkoliv soutěžící poruší pravidlo o předčasném startu nebo když:
-.. nepodařilo se mu zastavit časomíru
+.. se soutěžícímu nepodařilo zastavit časomíru
 .. zastavil pád nebo uklouznutí jinak než použitím nejvýše drženým/použitým chytem předtím než došlo k pádu/uklouznutí.
 .. Použije k lezení chyty nebo prvky vyčleněné v souladu s článkem <<#lezecka-stena>>.<<#ls-2>>;
 .. Použije k lezení boční nebo horní okraj lezecké stěny;
@@ -106,10 +106,13 @@ Při 21ti soutěžících v dané kategorii, pak ten, který lezl jako 11. na pr
 
 . Minimální pauza mezi 1. a 2. cestou je 5 minut. Toto neplatí v opakovaném pokusu po předčasném startu.
 . [[ksr-6]]Soutěžící budou hodnoceni následovně:
-.. první budou seřazeni závodníci s alespoň jedním platným časem, přičemž závodník s rychlejším časem je umístěn lépe
-.. pokud dva nebo více závodníků má stejný čas, pak jsou setříděni podle druhého času, přičemž závodníci s platným časem jsou před závodníky bez platného druhého času
-.. závodníci bez platného času
-. V případě předčasného startu jednoho ze soutěžících, je tento vyřazen a druhý soutěžící ihned absolvuje nový pokus samostatně. Soutěžící, který předčasně vystartoval, přichází o všechny platné výsledky a je zařazen na konec výsledkové listiny.
+.. závodníci, kteří nebyli schopni zahájit oba své kvalifikační pokusy nebudou v kole hodnoceni a jejich výsledek bude označen jako DNS
+.. závodníci s předčasným startem v prvním nebo druhém pokusu budou hodnoceni na stejné pozici, a to poslední v daném kole
+.. podléhající bodům a., b.: závodníci, jejichž pokus nebo oba pokusy byly hodnoceny jako neúspěšné, budou hodnoceni na stejné pozici, a to před závodníky s předčasným startem
+.. podléhající bodům a., b., c.: závodníci s alespoň jedním platným časem budou seřazeni sestupně, přičemž závodník s rychlejším časem je umístěn lépe
+... pokud dva nebo více závodníků má stejný čas, pak jsou setříděni podle druhého času, přičemž závodníci s platným časem jsou před závodníky bez platného druhého času. 
+... pokud více závodníků nemá druhý platný čas jsou hodnoceni na stejné pozici
+. V případě předčasného startu při prvním pokusu jednoho ze soutěžících, je tento soutěžící vyřazen a nebude se dále účastnit závodu. Druhý soutěžící ihned absolvuje nový pokus samostatně. 
 
 [#finale-kf-sf-rychlost]
 === FINÁLE – KLASICKÝ A SVĚTOVÝ FORMÁT
