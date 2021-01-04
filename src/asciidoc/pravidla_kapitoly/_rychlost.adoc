@@ -193,7 +193,7 @@ Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo
 === OFICIÁLNÍ TRÉNINK
 
 . Pokud je to možné, závodníci by měli mít vyhrazen čas na oficiální trénink v závodních cestách před zahájením kvalifikačních kol. Čas zahájení tréninku oznámí hlavní rozhodčí při technickém meetingu (v případě nutnosti oznámí důvody, proč není oficiální trénink možný).
-. Každý závodník má nárok na 1 tréninkový pokus v každé kvalifikační cestě.
+. Každý závodník má nárok na 1 tréninkový pokus v každé kvalifikační cestě. V případě předčasného startu závodník nebude zastaven.
 . Trénink by měl obsahovat ukázku signálů startovacího zařízení včetně signálu pro předčasný start.
 . Závodníci nastupují k tréninkovým pokusům ve stejném pořadí, jako je jejich startovní pořadí pro kvalifikace.
 
@@ -201,8 +201,8 @@ Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo
 === PRŮBĚH LEZENÍ
 
 . [[plr-1]]Je-li soutěžící zavolán na start
-.. nejprve umístí nášlapnou desku (elektronický spínač) startovacího zařízení do místa vhodného pro svou startovní pozici (zhruba 10s)
-.. umožní jističům připevnit jistící lano ke svému úvazku
+.. nejprve umístí nášlapnou desku (elektronický spínač) startovacího zařízení do místa vhodného pro svou startovní pozici (zhruba 10s). Během této doby se může dotýkat pouze prvních chytů a nesmí opustit zem
+.. umožní jističům zkontrolovat správně zapnutý úvazek a bezpečně připevnit jistící lano ke svému úvazku
 .. postaví se na přípravnou pozici určenou startérem zády ke stěně, ne dále než 2 metry před lezeckou stěnu.
 . Umístění spínače startovního signálu musí být pro oba soutěžící ve stejné vzdálenosti. Startér musí zaujmout takovou pozici, aby ho žádný ze soutěžících neviděl. Startér nesmí být nikdo z oficiálních soutěžních činitelů ČHS.
 . [[plr-3]]Jakmile jsou oba soutěžící připraveni před lezeckou stěnu, startér musí říct „Na místa“ nebo „At your marks“. S povelem „Na místa“ se každý soutěžící postaví na startovní pozici: soutěžící má jednu nohu na nášlapné desce (elektronickém spínači), druhá noha může být v jakékoliv pozici a jedna nebo obě ruce jsou na závodníkem zvoleném nástupním chytu (na zaujetí startovní pozice má závodník zhruba 4s). Když jsou lezci na místech v klidu ve startovní pozici, pak startér řekne „Ready!“ a následně spustí elektronické startovací zařízení nebo, v případě používání manuální časomíry, řekne „Go!“ Veškeré ústní instrukce musejí být hlasité a jasně slyšitelné. V případě používání manuální časomíry se pauza před startovním signálem musí během závodu měnit, ale nikdy nesmí přesáhnout 2 vteřiny.
