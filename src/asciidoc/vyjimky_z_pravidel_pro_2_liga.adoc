@@ -9,26 +9,37 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu do 14 let v soutěžním lezení pro rok 2021
+= Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy v soutěžním lezení mládeže pro rok 2021
 Český horolezecký svaz
 v1.0, 1.1.2021
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
-Pro Mistrovství republiky a závody Českého poháru do 14 let platí <<provadeci_predpisy_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2021“>> a <<pravidla_sl.adoc#,„Pravidla soutěžního lezení ČHS 2021“>> s výjimkami v těchto bodech:
+Pro závody 2. ligy v lezení dětí a mládeže (dále jen závody 2. ligy) platí <<provadeci_predpisy_2_liga_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2021“>> a <<pravidla_sl.adoc#,„Pravidla soutěžního lezení ČHS 2021“>> s výjimkami v těchto bodech:
 
 == Hodnocení a žebříčky
 
-Závody ČP do 14 let mají své vlastní hodnocení vedené na webových stránkách ČHS. Celkové pořadí je stanoveno po skončení posledního (finálového) závodu seriálu.
+. Závody 2. ligy mají své vlastní hodnocení vedené na webových stránkách ČHS. Celkové pořadí je stanoveno po skončení posledního (finálového) závodu seriálu.
 
 == Lezecká stěna
 
-V případě, že stěna nesplňuje výškové požadavky dle soutěžních pravidel, ale umožňuje postavit plnohodnotné cesty v uvedené délce, může Komise udělit výjimku.
+. Pro závody druhé ligy neplatí ustanovení o minimální výšece stěny.
+. Závodní cesty pro závody 2. ligy mohou být postaveny mezi stávajícími lezeckými cestami.
+. Závodní cesty postavené pro potřeby daného závodu musí být jednoznačně odlišené od “lezeckého materiálu”, který se závodem nesouvisí. Pokud je závodní cesta postavena v jiné již stávající cestě/cestách, je nezbytné, aby byly chyty a struktury patřící k závodní cestě ze všech směrů viditelně označeny nebo aby chyty a struktury, které závodníci nesmí používat, byly označeny jako zakázané v souladu s <<pravidla_sl.adoc#,„Pravidly soutěžního lezení ČHS 2021“>>.
+
+== Oficiální soutěžní činitel
+
+. Delegát ČHS není jmenován
+. Hlavní rozhodčí musí mít licenci
+.. Hlavní rozhodčí ČHS
+.. Rozhodčí ČHS
++
+Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz.
 
 == Obtížnost
 === Povolené formáty
 
-U závodů Českého poháru do 14 let, kde lze kromě ustanovení pravidel soutěžního lezení využít i tyto možnosti:
+U závodů 2. ligy, kde lze kromě ustanovení pravidel soutěžního lezení využít i tyto možnosti:
 
 . Formát závodů kategorie ČP do 14 let a určení pořadí:
 .. Klasický formát – tj. 2 kvalifikační cesty + finále.
@@ -84,12 +95,18 @@ Na prohlídku cesty, pokud se leze za <<pravidla_sl.adoc#podminky-izolace,podmí
 === Bezpečnost a jištění
 . Kvalifikační cesty:
 +
-Kategorie U10 a U12 musí lézt s horním jištěním (top-rope) bez <<pravidla_sl.adoc#podminky-izolace,podminky izolace>>. Kategorie U14 může lézt s horním jištěním nebo se spodním jištěním. Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního rozhodčího tak, aby byla zajištěna bezpečnost závodníků. Pro zvýšení bezpečnosti lze lézt se zapnutou první expreskou v případě lezení se spodním jištěním.
+Neplatí pro ně <<pravidla_sl.adoc#podminky-izolace,podminky izolace>>
+
+Kategorie U10 a U12:: musí lézt s horním jištěním (top-rope)
+Kategorie U14, B, A a J:: může lézt s horním jištěním nebo se spodním jištěním. 
+
++
+Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního rozhodčího tak, aby byla zajištěna bezpečnost závodníků. Pro zvýšení bezpečnosti lze lézt se zapnutou první expreskou v případě lezení se spodním jištěním.
 
 . Finálová cesta:
 + Musí se lézt za <<pravidla_sl.adoc#podminky-izolace,podminek izolace>>. Případnou změnu povoluje hlavní rozhodčí.
 Kategorie U10 a U12:: musí lézt s horním jištěním (top-rope)
-Kategorie U14:: musí lézt se spodním jištěním 
+Kategorie U14:: musí lézt se spodním jištěním
 +
 Při lezení s horním jištěním (top-rope) je přípustné navázání závodníka dle bodu <<pravidla_sl.adoc#6.2.5.c.ii,6.2.5.c.ii>>.
 +
@@ -110,8 +127,8 @@ Nominační formát může proběhnout na jedné nebo dvou identických cestách
 
 == Bouldering
 
-Pro závody mládeže do 14 let neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel soutěžního lezení 2021>>, která zde mají pouze doporučující charakter.
+Pro závody 2. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel soutěžního lezení 2021>>, která zde mají pouze doporučující charakter.
 
 == Protesty
 
-Poplatek je stanoven na 200 Kč.
+Poplatek je stanoven na 100 Kč.

@@ -17,11 +17,11 @@ v1.1, 1.1.2021
 
 == Pořadatel 
 
-=== Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen ČHS), nebo právnická či fyzická osoba s příslušným oprávněním, má právo požádat ČHS o pořadatelství závodů: Mistrovství České republiky mládeže (dále jen MČRM), závodů Českého poháru mládeže (dále jen ČPM) v lezení na obtížnost, rychlost a v boulderingu a závodů Českého poháru do 14 let v lezení na obtížnost, rychlost a v boulderingu.
-=== S každým pořadatelem uzavře ČHS prostřednictvím sekretariátu ČHS písemnou smlouvu o pořádání závodu.
-=== Každý pořadatel obdrží dotaci a případně další pomoc od ČHS nebo partnera ČHS na uspořádání závodů dle zveřejněných pravidel stanovených Komisí soutěžního lezení (dále jen Komisí). Tato dotace musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky atd.). Pravidla získávání dotace budou pro kalendářní rok zveřejněna v „Informacích pro pořadatele“ na webových stránkách ČHS.
-=== ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje Delegát ČHS (TD – viz bod 4) a upravuje smlouva mezi ČHS a pořadatelem. ČHS si dále vyhrazuje právo stanovit další podmínky pro pořadatele, tyto podmínky budou součástí smlouvy a budou pro případné zájemce o pořadatelství závodů zveřejněny na stránkách ČHS v části „Informace pro pořadatele“.
-=== Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
+. Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen ČHS), nebo právnická či fyzická osoba s příslušným oprávněním, má právo požádat ČHS o pořadatelství závodů: Mistrovství České republiky mládeže (dále jen MČRM), závodů Českého poháru mládeže (dále jen ČPM) v lezení na obtížnost, rychlost a v boulderingu a závodů Českého poháru do 14 let v lezení na obtížnost, rychlost a v boulderingu.
+. S každým pořadatelem uzavře ČHS prostřednictvím sekretariátu ČHS písemnou smlouvu o pořádání závodu.
+. Každý pořadatel obdrží dotaci a případně další pomoc od ČHS nebo partnera ČHS na uspořádání závodů dle zveřejněných pravidel stanovených Komisí soutěžního lezení (dále jen Komisí). Tato dotace musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky atd.). Pravidla získávání dotace budou pro kalendářní rok zveřejněna v „Informacích pro pořadatele“ na webových stránkách ČHS.
+. ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje Delegát ČHS (TD – viz bod 4) a upravuje smlouva mezi ČHS a pořadatelem. ČHS si dále vyhrazuje právo stanovit další podmínky pro pořadatele, tyto podmínky budou součástí smlouvy a budou pro případné zájemce o pořadatelství závodů zveřejněny na stránkách ČHS v části „Informace pro pořadatele“.
+. Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 
 [cols=",,,,",options="header",]
 |===
@@ -35,26 +35,26 @@ v1.1, 1.1.2021
 Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla ve čtvrtek 20.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
 
 
-=== Pořadatel nebo Komise může po vzájemném souhlasu dále určit nižší startovné pro závodníky, kteří jsou členy ČHS a jejichž rodiče aktivně vypomáhají při organizaci daného závodu.
-=== V izolační zóně před finále musí být na závodech možnost rozcvičení a rozlezení. Případné výjimky z tohoto pravidla jsou možné výhradně na závodech Českého poháru do 14 let pouze po dohodě s Komisí. Závodníci musí mít v izolaci k dispozici toalety.
+. Pořadatel nebo Komise může po vzájemném souhlasu dále určit nižší startovné pro závodníky, kteří jsou členy ČHS a jejichž rodiče aktivně vypomáhají při organizaci daného závodu.
+. V izolační zóně před finále musí být na závodech možnost rozcvičení a rozlezení. Případné výjimky z tohoto pravidla jsou možné výhradně na závodech Českého poháru do 14 let pouze po dohodě s Komisí. Závodníci musí mít v izolaci k dispozici toalety.
 
 == Typy závodů mládeže pro rok 2021 
 
-=== Obtížnost
+. Obtížnost
 . seriál závodů Českého poháru mládeže v lezení na obtížnost 2021 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže
 . závody Českého poháru do 14 let – max. 7 závodů pro mladší věkové kategorie, jeho součástí je Mistrovství ČR mládeže do 14 let
 
-=== Rychlost
+. Rychlost
 . seriál závodů Českého poháru mládeže 2021 - max. 5 závodů včetně Mistrovství ČR mládeže
 . seriál závodů Českého poháru do 14 let - max. 5 závodů včetně Mistrovství ČR do 14 let
 
-=== Bouldering
+. Bouldering
 . seriál závodů Českého poháru mládeže 2021 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže
 . seriál závodů Českého poháru do 14 let – max. 4 závody včetně Mistrovství ČR do 14 let
 
 == Závodníci 
 
-=== Pro všechny závody ČPM a ČP do 14 let platí, že čeští účastníci závodů musí být členy ČHS. Nestačí jen evidované členství, jelikož jeho součástí není průkaz ČHS.
+. Pro všechny závody ČPM a ČP do 14 let platí, že čeští účastníci závodů musí být členy ČHS. Nestačí jen evidované členství, jelikož jeho součástí není průkaz ČHS.
 
 Pro zjednodušení přechodu na závody, kde čeští závodníci musí splňovat podmínku členství v ČHS, bude v letošní sezóně pro závody kategorií ČPM a ČP do 14 let umožněno toto: při závodníkově prvním závodě v sezóně mu bude umožněn start i bez členství v ČHS. Závodník obdrží na závodě pokyny, jak postupovat pro získání členství do dalšího závodu.
 
@@ -62,13 +62,13 @@ Při předběžné registraci na stránkách závodního lezení bude závodník
 
 Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. Všechny závody Českého poháru mládeže ve všech disciplínách včetně MČR a závody ČP do 14 let jsou pořádány v mezinárodním formátu. Nominační závody musí proběhnout v open formátu.
 
-=== Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností.
+. Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností.
 
-=== Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 14 let je na https://www.horosvaz.cz/soutezni-lezeni/informace-pro-zavodniky/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf?seek=1544788604[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce jsou součástí programu pro zpracování výsledků a aktuální seznam zdravotních prohlídek je k dispozici v kalendáři závodů jako součást systému předregistrací.
+. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 14 let je na https://www.horosvaz.cz/soutezni-lezeni/informace-pro-zavodniky/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf?seek=1544788604[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce jsou součástí programu pro zpracování výsledků a aktuální seznam zdravotních prohlídek je k dispozici v kalendáři závodů jako součást systému předregistrací.
 
 Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
-=== Kategorie:
+. Kategorie:
 
 [cols="2,5",width=50%]
 [.center]
@@ -87,22 +87,22 @@ Věkové kategorie pro celý seriál závodů jsou dané. Závodník může záv
 
 == Rozhodčí a stavěč cest 
 
-=== Komise jmenuje delegáta ČHS, hlavního rozhodčího soutěže a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. Na závodech Českého poháru mládeže a Českého poháru do 14 let smí být hlavním rozhodčím pouze rozhodčí z aktuálního seznamu hlavních rozhodčích pro Český pohár mládeže.
-=== Komise schválí hlavního stavěče závodu pro závody ČP mládeže a MČR mládeže. Hlavní stavěč závodů ČPM a MČRM musí být držitelem národní stavěčské licence nebo mezinárodní licence IFSC. Pro ČP do 14 let je využití stavěče s národní nebo mezinárodní licencí doporučené, využití licencovaného stavěče bude zohledněno při stanovení výše doplňkové dotace.
-=== Práci a náklady spojené se stavěním závodních cest hradí pořadatel. Minimální cena za stavění závodních cest týmem vedeným licencovaným stavěčem je u závodů mládeže v lezení na obtížnost 1 000 Kč za cestu, u boulderingu není pro rok 2021 minimální cena stanovena.
+. Komise jmenuje delegáta ČHS, hlavního rozhodčího soutěže a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. Na závodech Českého poháru mládeže a Českého poháru do 14 let smí být hlavním rozhodčím pouze rozhodčí z aktuálního seznamu hlavních rozhodčích pro Český pohár mládeže.
+. Komise schválí hlavního stavěče závodu pro závody ČP mládeže a MČR mládeže. Hlavní stavěč závodů ČPM a MČRM musí být držitelem národní stavěčské licence nebo mezinárodní licence IFSC. Pro ČP do 14 let je využití stavěče s národní nebo mezinárodní licencí doporučené, využití licencovaného stavěče bude zohledněno při stanovení výše doplňkové dotace.
+. Práci a náklady spojené se stavěním závodních cest hradí pořadatel. Minimální cena za stavění závodních cest týmem vedeným licencovaným stavěčem je u závodů mládeže v lezení na obtížnost 1 000 Kč za cestu, u boulderingu není pro rok 2021 minimální cena stanovena.
 
 == Poskytování informací o závodě 
 
 [#pioz-1]
-=== Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (ivana.palasova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. Propozice by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby Komise měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk. Úroveň propagace bude mít vliv na výši doplňkové části dotace.
+. Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (ivana.palasova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. Propozice by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby Komise měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk. Úroveň propagace bude mít vliv na výši doplňkové části dotace.
 
 [#pioz-2]
-=== Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
+. Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
 [#pioz-3]
-=== Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této listiny a podpis hlavního rozhodčího.
+. Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této listiny a podpis hlavního rozhodčího.
 
-=== Pro zpracování výsledků musí pořadatel používat oficiální program pro zpracování výsledků. Při použití vlastního programu a zaslání výsledků pro pořadí ČPM a ČPM U14 v jiném než oficiálním výstupu bude pořadateli krácena doplňková dotace.
+. Pro zpracování výsledků musí pořadatel používat oficiální program pro zpracování výsledků. Při použití vlastního programu a zaslání výsledků pro pořadí ČPM a ČPM U14 v jiném než oficiálním výstupu bude pořadateli krácena doplňková dotace.
 
 == Průběh závodů 
 
@@ -113,7 +113,7 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sa
 
 === Obtížnost
 
-=== Rychlost
+. Rychlost
 . V případě dohody s Komisí lze uspořádat závod ČPM v lezení na rychlost zvlášť pro starší kategorie (B, A, J) na standardní cestě a zvlášť (i v jiném termínu) závod ČP do 14 let pro mladší kategorie.
 . Pokud je závod na rychlost kategorií A a J propojený se závody dospělých a uspořádán v jiném než nominačním formátu, pak jsou výsledky mládeže vyhlášeny na základě výsledku v kvalifikaci.
 
@@ -136,9 +136,9 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sa
 
 == Hodnocení seriálu závodů ČPM a ČP do 14 let
 
-=== Z každého závodu seriálu Českého poháru mládeže a ČP do 14 let získává účastník body do celkového pořadí Českého poháru mládeže a ČP do 14 let v dané disciplíně.
+. Z každého závodu seriálu Českého poháru mládeže a ČP do 14 let získává účastník body do celkového pořadí Českého poháru mládeže a ČP do 14 let v dané disciplíně.
 
-=== Celkové hodnocení v poháru
+. Celkové hodnocení v poháru
 . Český pohár mládeže a ČP do 14 let v lezení na obtížnost se skládá minimálně ze čtyř závodů ČPM, jedním z těchto závodů je i Mistrovství ČR mládeže (MČRM). Do celkového hodnocení ČPM a ČP do 14 let se při pěti závodech započítávají čtyři nejlepší výsledky (podle počtu bodů) ze všech závodů, kterých se závodník zúčastnil, a to včetně společného MČR mládeže. Pokud se uskuteční 5 a více pohárových závodů včetně MČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Při shodě bodů mezi dvěma či více závodníky v celkovém hodnocení ČPM a ČP do 14 let rozhoduje o konečném umístění výsledek z MČR mládeže. Český pohár mládeže a ČP do 14 let v lezení na obtížnost bude vyhlášen, pokud se uskuteční nejméně 4 závody ČPM a ČP do 14 let (včetně MČR mládeže). V takovém případě se do celkového hodnocení započítávají výsledky všech závodů.
 . Český pohár mládeže a ČP do 14 let v lezení na rychlost se skládá minimálně ze tří závodů ČP, jedním z těchto závodů je i MČR mládeže v lezení na rychlost. Do celkového pořadí poháru se započítávají tři nejlepší výsledky dosažené v závodech ČPM a ČP do 14 let nebo na MČR mládeže. Pokud se uskuteční 4 a více pohárových závodů včetně MČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. V případě stejného počtu bodů rozhoduje umístění na MČR. Český pohár bude vyhlášen, pokud se uskuteční nejméně tři závody ČPM a ČP do 14 let v rychlosti (včetně MČR), v tomto případě se do celkového hodnocení budou započítávat výsledky všech těchto tří závodů.
 . Český pohár mládeže v boulderingu a ČP do 14 let se skládá minimálně ze tří závodů ČP, jedním z těchto závodů je i MČR mládeže. Do celkového pořadí poháru se započítávají všechny tři výsledky dosažené v těchto závodech. Pokud se uskuteční 4 a více pohárových závodů včetně MČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. V případě stejného počtu bodů rozhoduje umístění na MČR. Český pohár resp. ČP do 14 let bude vyhlášen, pokud se uskuteční nejméně tři závody ČPM resp. ČP do 14 let (včetně MČR).

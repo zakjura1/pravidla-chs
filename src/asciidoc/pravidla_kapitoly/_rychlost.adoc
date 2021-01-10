@@ -28,7 +28,7 @@
 .. Horní jištění musí procházet skrze dva oddělené <<#jistici-bod, jistící body>>.
 .. Lezecké lano musí být připevněné k úvazku každého soutěžícího buď:
 ... za pomoci osmičkového uzlu, zajištěného dalším uzlem, nebo
-... za pomoci karabiny se šroubovací pojistkou západky takového typu, který minimalizuje nebezpečí příčného zatížení a vycvaknutí lana z karabiny, nebo použitím dvou karabin se šroubovací pojistkou západky proti sobě. Lezecké lano musí být spojeno s karabinou/karabinami osmičkovým uzlem, zajištěným další uzlem.
+... [[6.2.5.c.ii]]za pomoci karabiny se šroubovací pojistkou západky takového typu, který minimalizuje nebezpečí příčného zatížení a vycvaknutí lana z karabiny, nebo použitím dvou karabin se šroubovací pojistkou západky proti sobě. Lezecké lano musí být spojeno s karabinou/karabinami osmičkovým uzlem, zajištěným další uzlem.
 .. Každé lano je ovládáno dvěma jističi. Jističi musejí stát na takovém místě pod stěnou, aby se vyhnuli nebezpečí úrazu zaviněného pádem soutěžícího, padajícími chyty či jiným vybavením, které může nastat v průběhu lezení.
 .. Po celou dobu lezeckého pokusu soutěžícího na cestě musejí jističi dávat neustále dobrý pozor na jeho postup, aby zajistili, že:
 .. Pohyb soutěžícího nebude nijak omezován příliš napjatým lanem;
