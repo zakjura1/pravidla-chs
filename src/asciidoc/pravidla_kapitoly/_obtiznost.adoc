@@ -8,7 +8,7 @@
 
 . Soutěže v lezení na obtížnost se konají na účelově vyrobených umělých stěnách s minimální výškou 10 metrů, které dovolují postavit cesty s minimální délkou 12 metrů a minimální šířkou každé cesty 3 metry. Hlavní rozhodčí může po úvaze povolit šířku menší než 3 metry na omezeném úseku cesty.
 
-. Všechny soutěže v lezení na obtížnost se lezou se spodním jištěním soutěžícího. U vybraných kategorií mládeže je povoleno lézt s horním jištěním – top-rope. Příslušné kategorie jsou uvedeny ve <<vyjimky_z_pravidel_pro_U14.adoc#bezpecnost-a-jisteni,výjimkách z pravidel pro závody mládeže U14>>.
+. Všechny soutěže v lezení na obtížnost se lezou se spodním jištěním soutěžícího. U vybraných kategorií mládeže je povoleno lézt s horním jištěním – top-rope. Příslušné kategorie jsou uvedeny ve výjimkách z pravidel pro závody mládeže příslušných lig.
 
 . Soutěž v lezení na obtížnost se obvykle sestává z:
 .. kvalifikačního kola, které se musí odehrávat na dvou nestejných cestách. Obě cesty musí být přibližně stejného rázu a podobné technické obtížnosti. Cesty jsou přelézány po provedeném předlezení;

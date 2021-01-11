@@ -14,8 +14,8 @@
 .. On-sight: po schválené prohlídce cesty, kdy soutěžícím není dovoleno vidět ostatní soutěžící v cestě nebo boulderu před svým pokusem;
 .. Flash: po předlezení cesty/boulderu předlezcem a/nebo po zhlédnutí pokusů ostatních soutěžících.
 . Národní soutěže jsou vyhlašovány v mezinárodním nebo Open formátu. Tato informace musí být uvedena v propozicích závodu.
-.. Mezinárodní formát – počty postupujících závodníků do dalších kol se nenavyšují o zahraniční účastníky
-.. Open formát – počty postupujících závodníků do dalších kol se navyšují o zahraniční účastníky
+.. [[mezinarodni-format]]Mezinárodní formát – počty postupujících závodníků do dalších kol se nenavyšují o zahraniční účastníky
+.. [[open-format]]Open formát – počty postupujících závodníků do dalších kol se navyšují o zahraniční účastníky
 
 [#bezpecnost]
 === BEZPEČNOST

@@ -15,8 +15,8 @@
 ... FLASH – soutěžící se volně pohybují v prostoru závodu a pokusují bouldery v jimi zvoleném pořadí a za přítomnosti ostatních soutěžících (viz odstavec <<#prubeh-lezeni-kvalifikace-flash-bouldering>>)
 ... [[klasicky-format]]Klasický formát – soutěžící lezou bouldery za <<#podminky-izolace,podmínek izolace>> a bouldery pokusují všichni ve stejném pořadí a s pravidelným časovým intervalem lezení a odpočinku (viz odstavec <<#prubeh-lezeni-kvalifikace-onsight-bouldering>>)
 .. finále je možné lézt systémem:
-... Klasický formát – viz <<#obecne-bouldering>>.<<klasicky-format,5.a.ii>>
-... Formát SP – leze se za <<#podminky-izolace,podmínek izolace>>, všichni finalisté lezou nejprve první, pak druhý, atd. boulder.
+... [[bouldering-klasicky-format]]Klasický formát – viz <<#obecne-bouldering>>.<<klasicky-format,5.a.ii>>
+... [[bouldering-format-sp]]Formát SP – leze se za <<#podminky-izolace,podmínek izolace>>, všichni finalisté lezou nejprve první, pak druhý, atd. boulder.
 .. semifinále se leze pouze za <<#podminky-izolace,podmínek izolace>> a bouldery pokusují všichni ve stejném pořadí a s pravidelným časovým intervalem lezení a odpočinku (viz odstavec <<#prubeh-lezeni-kvalifikace-onsight-bouldering>>)
 . Počet boulderů v kvalifikaci má být 5. Počet boulderů ve finále i semifinále má být 4.
 +
