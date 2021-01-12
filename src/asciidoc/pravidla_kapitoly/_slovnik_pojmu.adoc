@@ -37,6 +37,24 @@ může:: představuje volitelnou záležitost
 [[svolavaci-zona]]Svolávací zóna:: je vyhrazená oblast, ve které se musí závodníci ohlásit před zahájením jejich pokusu v jakémkoliv kole závodu
 
 [[kategorie]]Kategorie:: představuje skupinu závodníků v rámci jedné <<#disciplina,Disciplíny>>, pohlaví a věkové skupiny
++
+[cols="2,5",width=50%]
+[.center]
+|===
+|U10 |ročník 2012 a mladší (děti do 9 let včetně)
+|U12 |ročníky 2011 - 2010 (10 - 11 let)
+|U14 |ročníky 2009 - 2008 (12 - 13 let)
+|kategorie B |ročníky 2007 - 2006 (14 - 15 let)
+|kategorie A |ročníky 2005 - 2004 (16 - 17 let)
+|kategorie J |ročníky 2003 - 2002 (18 - 19 let)
+|dospělí     |ročník 2005 a starší (16 let a více)
+|masters     |ročník 1981 a starší (40 let a více)
+|legends     |ročník 1971 a starší (50 let a více)
+|===
++
+Pro zařazení do kategorie je rozhodující ročník narození závodníka.
++
+Věkové kategorie pro celý rok jsou dané. Závodník může závodit pouze ve své věkové kategorii dané ročníkem narození.
 
 [[mistrovstvi]]Mistrovství:: označuje nejvyšší Soutěž schválenou ČHS v disciplínách Bouldering, Rychlost, Obtížnost, která je otevřená soutěžícím:
 +

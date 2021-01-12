@@ -22,7 +22,7 @@ v1.1, 1.1.2021
 . Každý pořadatel obdrží dotaci a případně další pomoc od ČHS nebo partnera ČHS na uspořádání závodů dle zveřejněných pravidel stanovených Komisí soutěžního lezení (dále jen Komisí). Tato dotace musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky atd.). Pravidla získávání dotace budou pro kalendářní rok zveřejněna v „Informacích pro pořadatele“ na webových stránkách ČHS.
 . ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje Delegát ČHS (TD – viz bod 4) a upravuje smlouva mezi ČHS a pořadatelem. ČHS si dále vyhrazuje právo stanovit další podmínky pro pořadatele, tyto podmínky budou součástí smlouvy a budou pro případné zájemce o pořadatelství závodů zveřejněny na stránkách ČHS v části „Informace pro pořadatele“.
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
-
++
 [cols=",,,,",options="header",]
 |===
       2+a|                                  ^|*základní startovné* ^| *startovní čísla* ^| *startovní čísla a dres*
@@ -32,10 +32,8 @@ v1.1, 1.1.2021
                         ^| *na místě*       ^| 350 Kč              ^| 400 Kč            ^| 500 Kč
 |===
 
-Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla ve čtvrtek 20.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
+. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla ve čtvrtek 20.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
 
-
-. Pořadatel nebo Komise může po vzájemném souhlasu dále určit nižší startovné pro závodníky, kteří jsou členy ČHS a jejichž rodiče aktivně vypomáhají při organizaci daného závodu.
 . V izolační zóně před finále musí být na závodech možnost rozcvičení a rozlezení. Případné výjimky z tohoto pravidla jsou možné výhradně na závodech Českého poháru do 14 let pouze po dohodě s Komisí. Závodníci musí mít v izolaci k dispozici toalety.
 
 == Typy závodů mládeže pro rok 2021 
@@ -68,25 +66,8 @@ Předběžná registrace je možná pouze ve vazbě na software pro zpracování
 . Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností.
 
 . Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 14 let je na https://www.horosvaz.cz/soutezni-lezeni/informace-pro-zavodniky/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf?seek=1544788604[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce jsou součástí programu pro zpracování výsledků a aktuální seznam zdravotních prohlídek je k dispozici v kalendáři závodů jako součást systému předregistrací.
-
++
 Zdravotní prohlídka bude požadována i po zahraničních závodnících.
-
-. Kategorie:
-
-[cols="2,5",width=50%]
-[.center]
-|===
-|U10 |ročník 2012 a mladší (děti do 9 let včetně)
-|U12 |ročníky 2011 - 2010 (10 - 11 let)
-|U14 |ročníky 2009 - 2008 (12 - 13 let)
-|kategorie B |ročníky 2007 - 2006 (14 - 15 let)
-|kategorie A |ročníky 2005 - 2004 (16 - 17 let)
-|kategorie J |ročníky 2003 - 2002 (18 - 19 let)
-|===
-
-Pro zařazení do kategorie je rozhodující ročník narození závodníka.
-
-Věkové kategorie pro celý seriál závodů jsou dané. Závodník může závodit pouze ve své věkové kategorii dané ročníkem narození.
 
 == Rozhodčí a stavěč cest 
 

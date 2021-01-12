@@ -25,7 +25,7 @@ v1.1, 1.1.2021
 . S každým pořadatelem uzavře ČHS prostřednictvím sekretariátu ČHS písemnou smlouvu o pořádání závodu.
 . ČHS poskytne pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky, ceny pro vítěze atd.). Výše dotace na každý rok na jednotlivé závody je stanovena Komisí soutěžního lezení ČHS (dále jen Komise) a zveřejněna na webu ČHS (viz dokument https://www.horosvaz.cz/soutezni-lezeni[Dotace pro pořadatele v roce 2021]).
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
-
++
 [cols=",,,",options="header",]
 |===
       2+a|                                  ^|*základní startovné* ^| *startovní čísla*
@@ -35,7 +35,7 @@ v1.1, 1.1.2021
                         ^| *na místě*       ^| 350 Kč              ^| 400 Kč           
 |===
 
-Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla ve čtvrtek 20.00 před závodem.
+. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla ve čtvrtek 20.00 před závodem.
 
 . Pořadatel nebo Komise může po vzájemném souhlasu dále určit nižší startovné pro závodníky, kteří jsou členy ČHS a jejichž rodiče aktivně vypomáhají při organizaci daného závodu.
 
@@ -64,27 +64,8 @@ Předběžná registrace je možná pouze ve vazbě na software pro zpracování
 . Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností.
 
 . Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 14 let je na https://www.horosvaz.cz/soutezni-lezeni/informace-pro-zavodniky/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf?seek=1544788604[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce jsou součástí programu pro zpracování výsledků a aktuální seznam zdravotních prohlídek je k dispozici v kalendáři závodů jako součást systému předregistrací.
-
++
 Zdravotní prohlídka bude požadována i po zahraničních závodnících.
-
-. Kategorie:
-+
-[cols="2,5",width=50%]
-[.center]
-|===
-|U10 |ročník 2012 a mladší (děti do 9 let včetně)
-|U12 |ročníky 2011 - 2010 (10 - 11 let)
-|U14 |ročníky 2009 - 2008 (12 - 13 let)
-|kategorie B |ročníky 2007 - 2006 (14 - 15 let)
-|kategorie A |ročníky 2005 - 2004 (16 - 17 let)
-|kategorie J |ročníky 2003 - 2002 (18 - 19 let)
-|===
-
-+
-Pro zařazení do kategorie je rozhodující ročník narození závodníka.
-
-+
-Věkové kategorie pro celý seriál závodů jsou dané. Závodník může závodit pouze ve své věkové kategorii dané ročníkem narození.
 
 . Závodník účastí na svém prvním závodě 2. ligy je zařazen do daného regionu, ve kterém bude závodit po celou sezónu.
 
@@ -93,6 +74,10 @@ Věkové kategorie pro celý seriál závodů jsou dané. Závodník může záv
 . Hlavní rozhodčí musí mít licenci
 .. Hlavní rozhodčí ČHS
 .. Rozhodčí ČHS
+. Hlavní stavěč musí mít licenci
+.. Hlavní stavěč ČHS
+.. Stavěč ČHS
+.. Stavěč - Aspirant
 +
 Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz a je uveden v seznamu rozhodčích na webu ČHS https://www.horosvaz.cz[TODO pridat odkaz].
 
