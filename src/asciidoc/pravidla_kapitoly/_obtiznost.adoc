@@ -168,7 +168,7 @@ ale nesmí používat žádné nahrávací zařízení
 
 . Započítávají se pouze chyty dosažené rukama.  U chytu, který je <<#pouzit,použitý>> bude započítána hodnota tohoto chytu se znaménkem (+). Toto hodnocení je lepší než <<#kontrolovat,držení>> stejného chytu.
 
-. Hodnocení pokusu soutěžícího bude pozastaveno na posledním chytu v nákresu, o kterém si Hlavní stavěč myslí, že je poslední, ze kterého je možné zapnout nezapnutou expresku a soutěžící tento chyt drží nebo jej mine. A to až do okamžiku, kdy je tato expreska zapnuta.
+. Hodnocení pokusu soutěžícího bude pozastaveno na posledním chytu v nákresu, který Hlavní stavěč považuje za poslední, ze kterého je možné zapnout nezapnutou expresku a soutěžící tento chyt drží nebo jej mine. A to až do okamžiku, kdy je tato expreska zapnuta.
 
 . Pokud soutěžící <<#pouzit,použije>> nebo <<#kontrolovat,drží chyt>>, který není v nákresu cesty, tak Hlavní rozhodčí spolu s Hlavním stavěčem přiřadí tomuto chytu bodovou hodnotu. Aby se předešlo pochybnostem, tato hodnota může být stejná jako již existující jiný chyt nebo nová.
 
