@@ -114,7 +114,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[dsq]]Diskvalifikace/DSQ:: znamená diskvalifikaci ze závodu za porušení těchto pravidel
 
-[[dsb]]Diskvalifikace za chování:: znamená diskvalifikaci ze soutěže pro porušení Antidopingových pravidel (nebo případně Olympijské charty) nebo jakýchkoliv jiných závažných porušeních předpisů vydaných ČHS, IFSC, MOV nebo ČOV včetně, ale není omezeno jen na 
+[[dsb]]Diskvalifikace za chování/DSB:: znamená diskvalifikaci ze soutěže pro porušení Antidopingových pravidel (nebo případně Olympijské charty) nebo jakýchkoliv jiných závažných porušeních předpisů vydaných ČHS, IFSC, MOV nebo ČOV včetně, ale není omezeno jen na 
 .. závažné nesportovní chování nebo jiné závažné narušení; a
 .. urážlivé, výhružné nebo násilné chování vůči jiné osobě
 
