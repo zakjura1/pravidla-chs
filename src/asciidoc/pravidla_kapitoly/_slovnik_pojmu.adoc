@@ -68,8 +68,8 @@ Věkové kategorie pro celý rok jsou dané. Závodník může závodit pouze ve
 v každém případě musí být uvedeno v kalendáři závodu publikovaném ČHS.
 
 [[lezecky-povrch]]Lezecký povrch:: představuje použitelnou plochu lezecké stěny:
- .. zahrnující jakýkoliv Přírodní chyt, a
- .. vylučující jakýkoliv <<#umely-chyt, Umělý chyt>>, strukturu nebo jiný dočasnou <<#struktura,Strukturu>> uchycenou na použitelnou plochu
+ .. zahrnující jakýkoliv Přirozený chyt, a
+ .. vylučující jakýkoliv <<#umely-chyt, Umělý chyt>>, strukturu nebo jinou dočasnou <<#struktura,Strukturu>> uchycenou na použitelnou plochu
 
 [[lezecka-stena]]Lezecká stěna::
 .. [[ls-1,{counter:ls}]]Celý povrch lezecké stěny je možno použít k lezení s následujícími výjimkami:
@@ -143,7 +143,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 [[legitimni-pozice]]Legitimní pozice:: znamená pro potřeby soutěží v lezení na obtížnost, že soutěžící během jeho pokusu:
 .. nepoužil <<#umela-pomoc,Umělou pomoc>>
 .. zapnul postupně ve správném pořadí každý <<#jistici-bod, Jistící bod>>; a
-.. tam kde příští <<#jistici-bod, Jistící bod>> ještě nebyl zapnut, soutěžící jej ještě nedosáhl nebo neprovedl žádný lezecký pohyb, kterým by se dostal za <<#bezpecnostni-chyt,Bezpečnostní chyt>> určený hlavním stavěčem
+.. tam kde následující <<#jistici-bod, Jistící bod>> ještě nebyl zapnut, soutěžící jej ještě nedosáhl nebo neprovedl žádný lezecký pohyb, kterým by se dostal za <<#bezpecnostni-chyt,Bezpečnostní chyt>> určený hlavním stavěčem
 
 [[blokovaci-jistitka]]Blokovací jistící zařízení:: jsou zařízení, která splňují normu link:https://www.nlfnorm.cz/terminologicky-slovnik/82180[ČSN EN 15151-1]
 
@@ -186,7 +186,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[nakres]]Nákres cesty:: je symbolický popis cesty, který obsahuje bodované hodnoty pro každý chyt cesty
 
-[[tranzitni-zona]]Tranzitní zóna/Přechodná izolace:: je konkrétní část v rámci <<#soutezni-prostor, Soutěžního prostoru>>, která je upravena tak, aby umožňovala soutěžícím se připravit (nebo si odpočinout) před/na jejich pokus(y) na boulderu/cestě.
+[[tranzitni-zona]]Tranzitní zóna/Přechodná izolace:: je konkrétní část v rámci <<#soutezni-prostor, Soutěžního prostoru>>, která je upravena tak, aby umožňovala soutěžícím se připravit (nebo si odpočinout po) před/na jejich pokus(y) na boulderu/cestě.
 
 [[pouzit]]Použít::  znamená pro potřeby rozhodování a bodování stav, kdy soutěžící použil nějaký objekt/strukturu k postupnému pohybu jak svého těžiště těla nebo boků a pohyb jedné nebo obou rukou směřoval:
 .. k dalšímu chytu podél linie cesty; nebo
