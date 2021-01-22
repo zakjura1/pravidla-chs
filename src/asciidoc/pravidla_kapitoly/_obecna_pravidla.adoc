@@ -102,9 +102,9 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 
 . [[pdsp-2,{counter:pdsp}]]Do soutěžního prostoru nesmějí zvířata. Výjimky z tohoto pravidla musí být schváleny Hlavním rozhodčím.
 
-. [[pdsp-3,{counter:pdsp}]]Kouření v soutěžním prostoru je zakázáno. Pořadatel však může vyhradit prostor pro kuřáky tak, aby nedošlo k porušení podmínek izolace a nebyli omezování ostatní soutěžící.
+. [[pdsp-3,{counter:pdsp}]]Kouření v soutěžním prostoru je zakázáno. Pořadatel však může vyhradit prostor pro kuřáky tak, aby nedošlo k porušení <<#podminky-izolace,podmínek izolace>> a nebyli omezování ostatní soutěžící.
 
-. [[pdsp-4,{counter:pdsp}]]Soutěžící musejí dodržovat podmínky izolace během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
+. [[pdsp-4,{counter:pdsp}]]Soutěžící musejí dodržovat <<#podminky-izolace,podmínky izolace>> během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
 
 [#prohlidka-cesty]
 === PROHLÍDKA CESTY

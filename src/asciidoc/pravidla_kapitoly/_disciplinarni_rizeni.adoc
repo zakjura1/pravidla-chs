@@ -41,12 +41,12 @@
 
 .. použití neschváleného vybavení;
 .. nepovolené použití jakéhokoliv způsobu komunikace v rámci soutěžního prostoru.
-.. s ohledem na každé kolo, které probíhá za <<#podminky-izolace,podmínek izolace>>, získáním nebo poskytnutím informací jinak, než umožňují podmínky izolace včetně, ale ne omezeno jen na
+.. s ohledem na každé kolo, které probíhá za dodržení <<#podminky-izolace,podmínek izolace>>, získáním nebo poskytnutím informací jinak, než umožňují <<#podminky-izolace,podmínky izolace>> včetně, ale ne omezeno jen na
 ... od libovolné osoby mimo soutěžní prostor
 ... od libovolné osoby, která již absolvovala příslušnou cestu/boulder
 
 +
-Aby se předešlo pochybnostem, v soutěžních kolech, kde se podmínky izolace neaplikují, mohou soutěžící získávat informace od jiných členů týmu, kteří jsou mimo soutěžní prostor. a to jak před pokusem, tak i během jejich pokusu.
+Aby se předešlo pochybnostem, v soutěžních kolech, kde se <<#podminky-izolace,podmínky izolace>> neaplikují, mohou soutěžící získávat informace od jiných členů týmu, kteří jsou mimo soutěžní prostor. a to jak před pokusem, tak i během jejich pokusu.
 
 === DISKVALIFIKACE ZA CHOVÁNÍ (DQB)
 . Hlavní rozhodčí je oprávněný diskvalifikovat za chování libovolného <<#clenove-tymu,člena týmu>>. Jakákoliv diskvalifikace za chování bude potrestána udělením červené karty a bude postoupena Disciplinární komisi ČHS. A dále okamžitou diskvalifikací dané osoby ze všech soutěží dané <<#soutez,Soutěže>>. 

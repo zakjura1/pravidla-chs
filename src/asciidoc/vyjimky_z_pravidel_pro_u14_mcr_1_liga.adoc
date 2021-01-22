@@ -72,14 +72,14 @@ Při dvaceti závodnících v dané kategorii a čtyřech cestách v kvalifikaci
 Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pokusu na další cestě musí být minimálně 15 minut.
 
 === Prohlídka cest
-
-Na prohlídku cesty, pokud se leze za <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
+. Živé předlezení u kvalifikačních cest musí začít nejpozději 15 min před pokusem prvního závodníka.
+. Na prohlídku cesty, pokud se leze za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
 [#bezpecnost-a-jisteni]
 === Bezpečnost a jištění
 . Kvalifikační cesty:
 +
-Neplatí pro ně <<pravidla_sl.adoc#podminky-izolace,podminky izolace>>
+Neplatí pro ně <<pravidla_sl.adoc#podminky-izolace,podmínky izolace>>
 
 Kategorie U10 a U12:: musí lézt s horním jištěním (top-rope)
 Kategorie U14:: může lézt s horním jištěním nebo se spodním jištěním.
@@ -89,7 +89,7 @@ Kategorie U14:: může lézt s horním jištěním nebo se spodním jištěním.
 
 . Finálová cesta:
 +
-Musí se lézt za <<pravidla_sl.adoc#podminky-izolace,podminek izolace>>. Případnou změnu povoluje hlavní rozhodčí.
+Musí se lézt za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Případnou změnu povoluje hlavní rozhodčí.
 Kategorie U10 a U12:: musí lézt s horním jištěním (top-rope)
 Kategorie U14:: musí lézt se spodním jištěním 
 
@@ -112,7 +112,7 @@ U závodů 1. ligy, kde lze kromě ustanovení pravidel soutěžního lezení vy
 . Na prohlídku boulderů, pokud se leze <<pravidla_sl.adoc#bouldering-format-sp,světovým formátem>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
 === Průběh závodu
-. Kvalifikace se leze bez <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>
+. Kvalifikace se leze bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>
 
 . Pro závody mládeže v kategoriích do 14 let neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel soutěžního lezení 2021>>, která zde mají pouze doporučující charakter.
 

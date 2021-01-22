@@ -23,7 +23,7 @@
 
 . V případě písemného nebo ústního protestu v souladu s článkem <<#protesty>> musí Hlavní rozhodčí shromáždit Odvolací porotu.
 . Členy Odvolací poroty budou Hlavní rozhodčí, Delegát ČHS a Hlavní stavěč. V případě, že byl Hlavní rozhodčí původcem rozhodnutí, které protest vyvolalo, nastoupí na jeho místo v Odvolací porotě Ředitel závodu (pozn. pokud na závod není jmenován delegát ČHS, zůstává Hlavní rozhodčí členem Odvolací poroty na základě odstavce <<#oficialni-soutezni-cinitele>>.<<#td,1.b.>>.
-. Pokud jsou dostupné důkazy a materiály neprůkazné nebo nemůže-li se Odvolací porota jednohlasně shodnout na posouzení protestu, pak platí původní rozhodnutí. Protest v tomto případě bude označen  „*neurčitý*“ a neplatí se poplatek za protest.
+. Pokud jsou dostupné důkazy a materiály neprůkazné nebo nemůže-li se Odvolací porota jednohlasně shodnout na posouzení protestu, pak platí původní rozhodnutí. Protest v tomto případě bude označen  „*nerozhodnutelný*“ a neplatí se poplatek za protest.
 . Rozhodnout je třeba tak rychle, jak to okolnosti dovolí. V případě písemných protestů musí být písemné rozhodnutí Odvolací poroty předáno Hlavním rozhodčím osobě, která oficiálně protest podala nebo, v případě protestu podle níže zmíněného článku <<#protest-proti-vysledkum>>.<<#ppv-3b,3.b.>>, je třeba informovat vedoucího týmu a/nebo soutěžícího.
 
 [#protesty-proti-bezpecnosti]

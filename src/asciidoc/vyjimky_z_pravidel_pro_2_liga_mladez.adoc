@@ -74,8 +74,8 @@ Při dvaceti závodnících v dané kategorii a čtyřech cestách v kvalifikaci
 Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pokusu na další cestě musí být minimálně 15 minut.
 
 === Prohlídka cest
-
-Na prohlídku cesty, pokud se leze za <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
+. Živé předlezení u kvalifikačních cest musí začít nejpozději 15 min před pokusem prvního závodníka.
+. Na prohlídku cesty, pokud se leze za <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
 [#bezpecnost-a-jisteni]
 === Bezpečnost a jištění
@@ -91,7 +91,7 @@ Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního ro
 
 . Finálová cesta:
 + 
-Musí se lézt za <<pravidla_sl.adoc#podminky-izolace,podminek izolace>>. Případnou změnu povoluje hlavní rozhodčí.
+Musí se lézt za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Případnou změnu povoluje hlavní rozhodčí.
 
 Kategorie U10 a U12:: musí lézt s horním jištěním (top-rope)
 Kategorie U14:: musí lézt se spodním jištěním

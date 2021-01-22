@@ -105,7 +105,7 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
 --
 .. v kontextu konkrétního boulderu, cesty nebo rozběhu v rámci jakéhokoliv kola nebo fáze závodu, že daný závodník se vůbec nepokusil daný boulder, cestu nebo rozběh absolvovat; a
  .. v kontextu jakéhokoliv kola nebo fáze závodu, když závodník:
-  ... v kole závodu, které splňuje podmínky izolace, se neohlásil v <<#izolacni-zona,Izolační zóně>> nebo v této zóně nebyl přítomen v čase uzavření izolace uvedené na startovní listině daného kola.
+  ... v kole závodu, které splňuje <<#podminky-izolace,podmínky izolace>>, se neohlásil v <<#izolacni-zona,Izolační zóně>> nebo v této zóně nebyl přítomen v čase uzavření izolace uvedené na startovní listině daného kola.
   ... neohlásil se ve <<#svolavaci-zona,Svolávací zóně>> po vyvolání v daném kole nebo fázi soutěže, nebo
   ... byl jiným způsobem ohodnocen značkou <<#irm,Označení neplatného výsledku>> s ohledem na příslušné ustanovení těchto pravidel
 --

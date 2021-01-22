@@ -86,9 +86,9 @@ Při 21 soutěžících v dané kategorii, pak ten, který lezl jako 11. na prvn
 
 [#prubeh-souteze]
 === PRŮBĚH SOUTĚŽE
-. Semifinálové a finálová kola v lezení na obtížnost se musí konat za <<#podminky-izolace,podmínek izolace>>. Soutěžící, kteří v těchto kolech startují se musí ohlásit v izolační zóně během kontroly docházky po oficiálním uzavření izolace. Soutěžící, kteří tak neučiní, nemohou v daném kole soutěžit.
+. Semifinálové a finálová kola v lezení na obtížnost se musí konat za dodržení <<#podminky-izolace,podmínek izolace>>. Soutěžící, kteří v těchto kolech startují se musí ohlásit v izolační zóně během kontroly docházky po oficiálním uzavření izolace. Soutěžící, kteří tak neučiní, nemohou v daném kole soutěžit.
 . Musí se dodržet následující minimální časové mezery:
-.. Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druhé cestě musí být minimálně 20 minut.  
+.. Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druhé cestě musí být minimálně 30 minut.  
 .. Konají-li se dvě návazná kola po sobě (kvalifikace – semifinále, semifinále – finále u závodů nejvyšších soutěží, kvalifikace – finále u závodů 1. ligy), musí být minimálně 2 hodiny mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další. V nezbytných případech může Hlavní rozhodčí rozhodnout o zkrácení této doby, doba mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další nesmí klesnout pod 1 hodinu a informace o tomto zkrácení pak musí být veřejně vyhlášena a vyvěšena na oficiální tabuli nejpozději 15 minut před startem prvního závodníka v poslední cestě 1. kola.
 .. Izolace by neměla být uzavřena dříve, než 1 hodinu před startem prvního závodníka. V případě více kategorií závodících na stejné cestě je myšlen první závodník první kategorie.
 . Každý soutěžící musí zahájit pokus na jakékoliv cestě v pořadí definovaném oficiální startovní listinou. Start se nesmí přeplánovat, pokud soutěžící nemůže v daném čase odstartovat.
@@ -99,11 +99,11 @@ Při 21 soutěžících v dané kategorii, pak ten, který lezl jako 11. na prvn
 === PROHLÍDKA CEST
 . Kvalifikační cesty musí být demonstrovány předlezci
 .. pomocí videa přehrávaného ve smyčce v rámci <<#rozcvicovaci-zona, rozcvičovací zóny>>. Video musí být spuštěno nejpozději 60 minut před plánovaným startem daného kola; nebo
-.. pokud video předlezení není možné, pak pomocí živého předlezení, které musí začít nejpozději 15 minut před pokusem prvního závodníka
+.. pokud video předlezení není možné, pak pomocí živého předlezení, které musí začít nejpozději 30 minut před pokusem prvního závodníka
 
 +
 Je vhodné, aby cesty pro muže byly lezeny mužem, cesty pro ženy ženou.
-. V souladu s částí <<#prohlidka-cesty>> obecných pravidel, soutěžící (jako skupina) mají povolenou prohlídku cest, které polezou za podmínek izolace.
+. V souladu s částí <<#prohlidka-cesty>> obecných pravidel, soutěžící (jako skupina) mají povolenou prohlídku cest, které polezou za dodržení <<#podminky-izolace,podmínek izolace>>.
 
 . Čas na společnou prohlídku cesty před semifinálovým nebo finálovým kolem je 6 minut.
 
@@ -122,7 +122,7 @@ ale nesmí používat žádné nahrávací zařízení
 === PRŮBĚH LEZENÍ
 
 . Stanovená délka doby lezení je 6 minut ve všech kolech.
-. V momentě, kdy soutěžící vejde do soutěžní zóny u paty lezecké cesty, má 40 vteřin na to, aby nastoupil do cesty. Těchto 40 vteřin konečné prohlídky cesty není součástí celkového času vyhrazeného na přelezení cesty. Nezačne-li soutěžící po vypršení těchto 40 vteřin lézt, musí být ke startu okamžitě vyzván. Jakákoliv další prodleva bude mít za následek disciplinární postih v souladu s částí <<#disciplinarni-rizeni>>. 40 vteřin prohlídky cesty platí i v případě lezení kol, pro které neplatí podmínky izolace.
+. V momentě, kdy soutěžící vejde do soutěžní zóny u paty lezecké cesty, má 40 vteřin na to, aby nastoupil do cesty. Těchto 40 vteřin konečné prohlídky cesty není součástí celkového času vyhrazeného na přelezení cesty. Nezačne-li soutěžící po vypršení těchto 40 vteřin lézt, musí být ke startu okamžitě vyzván. Jakákoliv další prodleva bude mít za následek disciplinární postih v souladu s částí <<#disciplinarni-rizeni>>. 40 vteřin prohlídky cesty platí i v případě lezení kol, pro které neplatí <<#podminky-izolace,podmínky izolace>>.
 . Každý pokus soutěžícího je považovaný za zahájený a čas se začne měřit v momentě, kdy obě chodidla soutěžícího opustí zem. Aby se předešlo pochybnostem, traťový rozhodčí určí, zda pokus začal nebo se jedná o úpravu postavení před startem.
 . Soutěžící se v průběhu svého pokusu na cestě může ptát, kolik z času mu zbývá, přičemž Hlavní rozhodčí musí soutěžícího okamžitě informovat nebo někoho pověřit, aby soutěžícího informoval.
 . Soutěžící v průběhu pokusu na cestě:
