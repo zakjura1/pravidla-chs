@@ -154,7 +154,7 @@ ale nesmí používat žádné nahrávací zařízení
 [#hodnoceni-obtiznost]
 === HODNOCENÍ
 
-. Nákres cesty musí být připravený Hlavním stavěčem za konzultace s Hlavním rozhodčím před startem každého kola soutěže.
+. Nákres cesty musí být připravený Hlavním stavěčem za konzultace s Hlavním rozhodčím před startem každého kola soutěže. U semifinálových kol a finálových kol může být nákres cesty dán k dispozici <<#manazer-tymu,vedoucímu týmu>>, ale ne dříve než po skončení prohlídky příslušné cesty a po té co opustil <<#izolacni-zona,Izolační zónu>>.
 
 . Každá cesta je posuzována alespoň jedním rozhodčím, kterému může asistovat osoba, která zapisuje každému soutěžícímu
 .. lezecký čas, který se měří na sekundy (zaokrouhleno dolů)

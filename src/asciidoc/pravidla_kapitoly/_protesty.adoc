@@ -39,7 +39,15 @@ a odvolací porota musí bez odkladu rozhodnout a aplikovat opatření vedoucí 
 === PROTESTY PROTI ROZHODNUTÍ, KTERÉ SE TÝKÁ UKONČENÍ POKUSU SOUTĚŽÍCÍHO
 
 . Jedná-li se o protest týkající se pokusu soutěžícího, je třeba protest podat Hlavnímu rozhodčímu, který okamžitě zahájí potřebné kroky v souladu s výše zmíněným postupem.
-. Postižený soutěžící může tento protest podat slovně a neplatí poplatek. Pokud takový protest podává zástupce daného soutěžícího, pak jej musí podat písemně. Protest musí být podán do zahájení pokusu dalšího soutěžícího. Na soutěžícího se do posouzení protestu nahlíží jako na závodníka postiženého technickým incidentem.
+. Postižený soutěžící může tento protest podat slovně a neplatí poplatek. Pokud takový protest podává zástupce daného soutěžícího, pak jej musí podat písemně. Protest musí být podán do zahájení pokusu dalšího soutěžícího. 
+. V boulderingu musí být podán protest:
+.. v případě kola lezeného za dodržení <<#podminky-izolace,podmínek izolace>> <<#bouldering-klasicky-format,klasickým formátem>> do konce následující časového limitu pro výměnu závodníků.
+.. v případě finálového kola lezeného <<#bouldering-format-sp,formátem SP>>, před zahájením pokusů následujícího závodníka.
+
++
+V každém případě se soutěžící, kterého se protest týká, řídí pokyny hlavního rozhodčího. Aby se předešlo pochybnostem, kterýkoliv soutěžící, který opustí <<#soutezni-prostor,soutěžní prostor>> před rozhodnutím o protestu nebude mít možnost vykonat případné další pokusy.
+
+. Na soutěžícího se do posouzení protestu nahlíží jako na závodníka postiženého technickým incidentem. 
 
 [#protest-proti-vysledkum]
 === PROTESTY PROTI UVEŘEJNĚNÝM VÝSLEDKŮM

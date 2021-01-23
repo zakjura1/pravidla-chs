@@ -68,7 +68,7 @@ Věkové kategorie pro celý rok jsou dané. Závodník může závodit pouze ve
 v každém případě musí být uvedeno v kalendáři závodu publikovaném ČHS.
 
 [[lezecky-povrch]]Lezecký povrch:: představuje použitelnou plochu lezecké stěny:
- .. zahrnující jakýkoliv Přirozený chyt, a
+ .. zahrnující jakýkoliv Přirozený chyt (neodstranitelnou část stěny, které se dá držet), a
  .. vylučující jakýkoliv <<#umely-chyt, Umělý chyt>>, strukturu nebo jinou dočasnou <<#struktura,Strukturu>> uchycenou na použitelnou plochu
 
 [[lezecka-stena]]Lezecká stěna::

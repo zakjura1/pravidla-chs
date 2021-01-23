@@ -11,8 +11,8 @@
 . Soutěže se mohou sestávat z oddělených soutěží pro lezení na obtížnost, boulderingu a lezení na rychlost. V jednotlivé soutěži nemusejí být všechny disciplíny zastoupeny.
 . Každá národní soutěž musí zahrnovat dvě kategorie: mužskou a ženskou.
 . Národní soutěže mohou obsahovat cesty/bouldery, které jsou přelézány:
-.. On-sight: po schválené prohlídce cesty, kdy soutěžícím není dovoleno vidět ostatní soutěžící v cestě nebo boulderu před svým pokusem;
-.. Flash: po předlezení cesty/boulderu předlezcem a/nebo po zhlédnutí pokusů ostatních soutěžících.
+.. za dodržení <<#podminky-izolace,podmínek izolace>> - po schválené prohlídce cesty (pokud ji umožňuje daný formát), kdy soutěžícím není dovoleno vidět ostatní soutěžící v cestě nebo boulderu před svým pokusem;
+.. bez dodržení <<#podminky-izolace,podmínek izolace>> - po předlezení cesty/boulderu předlezcem a/nebo po zhlédnutí pokusů ostatních soutěžících.
 . Národní soutěže jsou vyhlašovány v mezinárodním nebo Open formátu. Tato informace musí být uvedena v propozicích závodu.
 .. [[mezinarodni-format]]Mezinárodní formát – počty postupujících závodníků do dalších kol se nenavyšují o zahraniční účastníky
 .. [[open-format]]Open formát – počty postupujících závodníků do dalších kol se navyšují o zahraniční účastníky
