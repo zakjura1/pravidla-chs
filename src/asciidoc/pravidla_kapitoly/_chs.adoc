@@ -34,6 +34,7 @@
 .. 1. liga – Český pohár, včetně Českého poháru mládeže a Českého poháru do 14 let
 .. 2. liga – oblastní závody pořádané jako oficiální soutěže ČHS
 .. 3. liga – závody nižší úrovně pořádané jako oficiální soutěže ČHS
+.. Školní Boulder pohár mládeže
 
 [#oficialni-soutezni-cinitele]
 === OFICIÁLNÍ SOUTĚŽNÍ ČINITELÉ SOUTĚŽÍ ČHS
@@ -48,7 +49,7 @@ Hlavní rozhodčí je zodpovědný za vydání výsledkové listiny, přijímán
 +
 Hlavnímu rozhodčímu v jeho výkonu asistují pomocní rozhodčí (traťový rozhodčí, boulderový rozhodčí), jmenovaní pořadatelem soutěže. Hlavní rolí pomocných rozhodčí je posuzovat výkony soutěžících na cestách a na boulderech. Pomocní rozhodčí musejí být plně obeznámeni se všemi technickými pravidly a nařízeními platnými pro soutěže ČHS a v rámci svých povinností přijímají pokyny a pracují pod vedením Hlavního rozhodčího. Hlavní rozhodčí je zodpovědný za informování všech pomocných rozhodčích ohledně aplikace pravidel ČHS ještě před začátkem soutěže.
 +
-ČHS může také jmenovat dodatečné rozhodčí, případně rozhodčího-uchazeče, který prochází poslední fází výcviku držitele licence Hlavního rozhodčího ČHS.
+ČHS může také jmenovat dodatečné rozhodčí, případně rozhodčího-aspiranta, který prochází poslední fází výcviku držitele licence Hlavního rozhodčího ČHS.
 +
 Hlavní rozhodčí musí předložit ČHS podrobnou zprávu o dané soutěži a o každém uchazeči na rozhodčího, který prochází konečnou fází svého výcvikového programu.
 +

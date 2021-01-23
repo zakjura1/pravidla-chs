@@ -16,7 +16,7 @@
 
 +
 V případě nepředvídaných událostí může Hlavní rozhodčí zrušit jedno z kol. Je-li jedno kolo zrušeno, pak se výsledky z předchozího kola počítají rovněž jako výsledky zrušeného kola.
-Pro kvalifikační kola platí odstavce <<#registrace>>, <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-2>> a <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-3>>.
+Pro kvalifikační kola platí odstavce <<#registrace>>, <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-1>> a <<#pristup-do-soutezniho-prostoru>>.<<#pdsp-2>>.
 
 . Návrh cest:
 .. Každá cesta musí být postavena tak aby:
@@ -99,7 +99,7 @@ Při 21 soutěžících v dané kategorii, pak ten, který lezl jako 11. na prvn
 === PROHLÍDKA CEST
 . Kvalifikační cesty musí být demonstrovány předlezci
 .. pomocí videa přehrávaného ve smyčce v rámci <<#rozcvicovaci-zona, rozcvičovací zóny>>. Video musí být spuštěno nejpozději 60 minut před plánovaným startem daného kola; nebo
-.. pokud video předlezení není možné, pak pomocí živého předlezení, které musí začít nejpozději 30 minut před pokusem prvního závodníka
+.. pokud video předlezení není možné, pak pomocí živého předlezení, které musí začít nejpozději 30 minut před pokusem prvního závodníka.
 
 +
 Je vhodné, aby cesty pro muže byly lezeny mužem, cesty pro ženy ženou.

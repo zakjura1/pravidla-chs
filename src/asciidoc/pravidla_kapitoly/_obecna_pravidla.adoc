@@ -78,6 +78,7 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 .. Časy otevření a uzavření izolace, je-li to relevantní;
 .. Čas startu kola;
 .. Jakoukoliv jinou informaci schválenou Hlavním rozhodčím.
+. Startovní listiny nesmí obsahovat jména sponzorů nebo partnerů. Je povoleno uvádět pouze oddíl ČHS závodníka, členství v resortním centru (např. Victoria, Olymp apod.),  individuální členství v ČHS nebo nic.
 . Způsob přípravy startovních listin pro jednotlivé disciplíny je uveden v odstavci <<#startovni-listiny-obtiznost>> pro obtížnost, odstavci <<#startovni-listiny-bouldering>> pro bouldering a odstavcích <<#kvalifikace-kf-rychlost>>, <<#kvalifikace-sf-rychlost>>, <<#finale-kf-sf-rychlost>> pro rychlost.
 
 [#registrace]
@@ -87,6 +88,7 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 [#soutezni-prostor-p]
 === SOUTĚŽNÍ PROSTOR
 . Soutěžní prostor musí být oddělen od jakéhokoliv veřejně dostupného prostoru
+. Kouření v soutěžním prostoru je zakázáno.
 . Žádný soutěžící nebo člen týmu u sebe nesmí mít žádné elektronické komunikační zařízení, když se nalézá v soutěžním prostoru, aniž by mu to povolil Hlavní rozhodčí.
 . Soutěžící nesmí v průběhu pozorování a lezení poslouchat žádné audio zařízení.
 . Průběžné výsledky mohou být zobrazovány v izolaci nebo viditelné z izolace.
@@ -102,9 +104,7 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 
 . [[pdsp-2,{counter:pdsp}]]Do soutěžního prostoru nesmějí zvířata. Výjimky z tohoto pravidla musí být schváleny Hlavním rozhodčím.
 
-. [[pdsp-3,{counter:pdsp}]]Kouření v soutěžním prostoru je zakázáno. Pořadatel však může vyhradit prostor pro kuřáky tak, aby nedošlo k porušení <<#podminky-izolace,podmínek izolace>> a nebyli omezování ostatní soutěžící.
-
-. [[pdsp-4,{counter:pdsp}]]Soutěžící musejí dodržovat <<#podminky-izolace,podmínky izolace>> během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
+. [[pdsp-3,{counter:pdsp}]]Soutěžící musejí dodržovat <<#podminky-izolace,podmínky izolace>> během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
 
 [#prohlidka-cesty]
 === PROHLÍDKA CESTY

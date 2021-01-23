@@ -23,13 +23,13 @@ v1.1, 1.1.2021
 . ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje Delegát ČHS (TD – viz bod 4) a upravuje smlouva mezi ČHS a pořadatelem. ČHS si dále vyhrazuje právo stanovit další podmínky pro pořadatele, tyto podmínky budou součástí smlouvy a budou pro případné zájemce o pořadatelství závodů zveřejněny na stránkách ČHS v části „Informace pro pořadatele“.
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 +
-[cols=",,,,",options="header",]
+[cols=",,,",options="header",]
 |===
-      2+a|                                  ^|*základní startovné* ^| *startovní čísla* ^| *startovní čísla a dres*
-   .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 150 Kč              ^| 200 Kč            ^| 300 Kč
-                        ^| *na místě*       ^| 250 Kč              ^| 300 Kč            ^| 400 Kč
-   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 250 Kč              ^| 300 Kč            ^| 400 Kč
-                        ^| *na místě*       ^| 350 Kč              ^| 400 Kč            ^| 500 Kč
+      2+a|                                  ^|*základní startovné* ^| *startovní čísla* 
+   .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 150 Kč              ^| 200 Kč            
+                        ^| *na místě*       ^| 250 Kč              ^| 300 Kč            
+   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 250 Kč              ^| 300 Kč            
+                        ^| *na místě*       ^| 350 Kč              ^| 400 Kč            
 |===
 
 . Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla ve čtvrtek 20.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
@@ -78,7 +78,7 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 == Poskytování informací o závodě 
 
 [#pioz-1]
-. Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (ivana.palasova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. Propozice by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby Komise měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk. Úroveň propagace bude mít vliv na výši doplňkové části dotace.
+. Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (ivana.palasova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/307/052327.docx?seek=1579254231[Propozice]  by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby Komise měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk. Úroveň propagace bude mít vliv na výši doplňkové části dotace.
 
 [#pioz-2]
 . Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).

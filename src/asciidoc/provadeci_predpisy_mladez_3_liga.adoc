@@ -29,10 +29,10 @@ v1.1, 1.1.2021
 [cols=",,,",options="header",]
 |===
       2+a|                                  ^|*základní startovné* ^| *startovní čísla*
-   .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 150 Kč              ^| 200 Kč           
-                        ^| *na místě*       ^| 250 Kč              ^| 300 Kč           
-   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 250 Kč              ^| 300 Kč           
-                        ^| *na místě*       ^| 350 Kč              ^| 400 Kč           
+   .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 200 Kč              ^| 300 Kč           
+                        ^| *na místě*       ^| 300 Kč              ^| 400 Kč           
+   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 300 Kč              ^| 450 Kč           
+                        ^| *na místě*       ^| 400 Kč              ^| 500 Kč           
 |===
 +
 Podmínky registrace stanovuje pořadatel.
