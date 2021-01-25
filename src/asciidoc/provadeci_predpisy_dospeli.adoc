@@ -77,7 +77,7 @@ Nominační závody musí být pořádány v open formátu.
 
 == Poskytování informací o závodech 
 
-. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (ivana.palasova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/307/052327.docx?seek=1579254231[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk. Úroveň propagace bude mít vliv na výši doplňkové části dotace. 
+. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/307/052327.docx?seek=1579254231[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk. Úroveň propagace bude mít vliv na výši doplňkové části dotace. 
 
 . Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
