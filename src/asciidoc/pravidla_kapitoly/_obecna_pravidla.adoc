@@ -33,7 +33,7 @@
 [#standardy]
 === VYBAVENí
 . Veškeré vybavení používané v soutěži – jak organizátorem, tak soutěžícími - musí být v souladu s odpovídajícími ČSN EN normami nebo srovnatelnými mezinárodními ekvivalenty pokud není ČHS uvedeno jinak a ve výjimečných případech hlavním rozhodčím. Aplikované normy v tuto chvíli jsou:
-
++
 [cols="2*",options="header",width="75%"]
 [.center]
 |===
@@ -50,7 +50,7 @@
 |Expreska / karabina| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ B, typ D)
 |Expreska / rychlospojka| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ Q)
 |===
-
++
 . V rámci těchto požadavků musejí soutěžící v lezení na obtížnost a na rychlost používat jednoduché lano poskytnuté pořadateli (výjimkou je pouze použití automatického jistícího zařízení v případě lezení na rychlost). O frekvenci, se kterou se lano bude měnit, musí rozhodnout Hlavní rozhodčí.
 
 [#zdravotnicky-personal]
