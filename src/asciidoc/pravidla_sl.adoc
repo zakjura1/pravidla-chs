@@ -14,7 +14,7 @@ include::../../locale/_attributes.adoc[]
 v1.1, 1.1.2021
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 
-<<index.adoc#,Zpět na seznam dokumentů>>
+ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 include::{includedir}/_slovnik_pojmu.adoc[]
 

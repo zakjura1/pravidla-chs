@@ -15,7 +15,7 @@ v1.1, 1.1.2021
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
-<<index.adoc#,Zpět na seznam dokumentů>>
+ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
 . Závody 2. ligy v lezení dětí a mládeže jsou organizovány pod záštitou Českého horolezeckého svazu a jsou primárně určené pro začínající a středně pokročilé závodníky ve věku do 19 let.
