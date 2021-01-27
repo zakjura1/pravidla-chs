@@ -167,8 +167,6 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[bezpecnostni-chyt]]Bezpečnostní chyt:: je takový chyt, který hlavní stavěč určil, z důvodu bezpečnosti, jako poslední možný, ze kterého se musí zapnout příslušný <<#jistici-bod, Jistící bod>>. Jistící bod i chyt musí být označeny modrým křížkem a závodníci na něj musí být během prohlídky upozorněni.
 
-[[seeding]]Seeding:: ???
-
 [[lano]]Jednoduché lano:: je dynamické lezecké lano splňující standard link:https://www.nlfnorm.cz/ehn/5495[ČSN EN-892]
 
 [[startovni-listina]]Startovní listina:: je popsána v bodě <<#startovni-listiny>>
