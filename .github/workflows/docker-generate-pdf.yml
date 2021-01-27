@@ -27,7 +27,7 @@ jobs:
     - name: Archive generated pdf's
       uses: actions/upload-artifact@v2
       with:
-        name: generated-pravidla-pdf.zip
+        name: pravidla-pdf
         path: src/asciidoc/*.pdf
       
        
