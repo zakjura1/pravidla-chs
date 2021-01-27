@@ -15,6 +15,8 @@ v1.1, 1.1.2021
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
+<<index.adoc#,Zpět na seznam dokumentů>>
+
 == Pořadatel 
 
 . Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen ČHS), nebo právnická či fyzická osoba s příslušným oprávněním, má právo požádat ČHS o pořadatelství závodů: Mistrovství České republiky mládeže (dále jen MČRM), závodů Českého poháru mládeže (dále jen ČPM) v lezení na obtížnost, rychlost a v boulderingu a závodů Českého poháru do 14 let v lezení na obtížnost, rychlost a v boulderingu.

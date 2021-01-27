@@ -16,3 +16,5 @@ include::../../locale/_attributes.adoc[]
 <<provadeci_predpisy_mladez_3_liga.adoc#,Prováděcí předpisy pro závody mládeže v 3. lize>> [link:provadeci_predpisy_mladez_3_liga.pdf[PDF verze]]
 
 <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky z pravidel soutěžního lezení pro 2. ligu mládeže>> [link:vyjimky_z_pravidel_pro_2_liga_mladez.pdf[PDF verze]]
+
+Stáhnout vše: link:pravidla-pdf.zip[PDF], link:pravidla-html.zip[HTML]
