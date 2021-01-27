@@ -1,0 +1,18 @@
+:lang: cs
+include::../../locale/_attributes.adoc[]
+
+= Pravidla a prováděcí předpisy soutěžního lezení pro rok 2021
+
+<<pravidla_sl.adoc#,Pravidla soutěžního lezení>> [link:pravidla_sl.pdf[PDF verze]]
+
+<<provadeci_predpisy_dospeli.adoc#,Prováděcí předpisy pro závody dospělých>> [link:provadeci_predpisy_dospeli.pdf[PDF verze]]
+
+<<provadeci_predpisy_mladez_1_liga.adoc#,Prováděcí předpisy pro závody mládeže v nejvyšších soutěžích a 1. lize>> [link:provadeci_predpisy_mladez_1_liga.pdf[PDF verze]]
+
+<<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky z pravidel soutěžního lezení pro nejvyšší soutěže a 1. ligu mládeže>> [link:vyjimky_z_pravidel_pro_u14_mcr_1_liga.pdf[PDF verze]]
+
+<<provadeci_predpisy_mladez_2_liga.adoc#,Prováděcí předpisy pro závody mládeže v 2. lize>> [link:provadeci_predpisy_mladez_2_liga.pdf[PDF verze]]
+
+<<provadeci_predpisy_mladez_3_liga.adoc#,Prováděcí předpisy pro závody mládeže v 3. lize>> [link:provadeci_predpisy_mladez_3_liga.pdf[PDF verze]]
+
+<<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky z pravidel soutěžního lezení pro 2. ligu mládeže>> [link:vyjimky_z_pravidel_pro_2_liga_mladez.pdf[PDF verze]]
