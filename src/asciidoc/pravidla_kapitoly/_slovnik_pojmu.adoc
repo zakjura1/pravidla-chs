@@ -41,7 +41,8 @@ může:: představuje volitelnou záležitost
 [cols="2,5",width=50%]
 [.center]
 |===
-|U10 |ročník 2012 a mladší (děti do 9 let včetně)
+|U8  |ročník 2014 a mladší (děti do 7 let včetně)
+|U10 |ročník 2012 - 2013 (děti 8 - 9 let)
 |U12 |ročníky 2011 - 2010 (10 - 11 let)
 |U14 |ročníky 2009 - 2008 (12 - 13 let)
 |kategorie B |ročníky 2007 - 2006 (14 - 15 let)

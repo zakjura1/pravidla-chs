@@ -37,13 +37,13 @@ v1.1, 1.1.2021
 |===
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 +
-[cols=",,,",options="header",]
+[cols=",,",options="header",]
 |===
-      2+a|                                  ^|*základní startovné* ^| *startovní čísla*
-   .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 150 Kč              ^| 200 Kč           
-                        ^| *na místě*       ^| 250 Kč              ^| 300 Kč           
-   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 250 Kč              ^| 300 Kč           
-                        ^| *na místě*       ^| 350 Kč              ^| 400 Kč           
+      2+a|                                   ^| *startovné*
+   .2+^.^| *člen ČHS*   ^| *předregistrace*  ^| 200 Kč           
+                        ^| *na místě*        ^| 300 Kč           
+   .2+^.^| *nečlen ČHS* ^| *předregistrace*  ^| 300 Kč           
+                        ^| *na místě*        ^| 400 Kč           
 |===
 
 . Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla ve čtvrtek 20.00 před závodem.

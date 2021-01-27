@@ -15,7 +15,7 @@ v1.1, 1.1.2021
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
-<<index.adoc#,Zpět na seznam dokumentů>>
+////  ////<<index.adoc#,Zpět na seznam dokumentů>>
 
 == Obecně
 . Závody 3. ligy v lezení dětí a mládeže jsou organizovány pod záštitou Českého horolezeckého svazu a jsou primárně určené pro začínající závodníky ve věku do 19 let.
@@ -28,13 +28,13 @@ v1.1, 1.1.2021
 . Vyplněním link:https://www.horosvaz.cz[TODO link na formulář žádosti] o pořadatelství závodů 3. ligy je závod zapsán do kalendáře závodů pro daný rok.
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 +
-[cols=",,,",options="header",]
+[cols=",,",options="header",]
 |===
-      2+a|                                  ^|*základní startovné* ^| *startovní čísla*
-   .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 200 Kč              ^| 300 Kč           
-                        ^| *na místě*       ^| 300 Kč              ^| 400 Kč           
-   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 300 Kč              ^| 450 Kč           
-                        ^| *na místě*       ^| 400 Kč              ^| 500 Kč           
+      2+a|                                  ^|*startovné* 
+   .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 200 Kč              
+                        ^| *na místě*       ^| 300 Kč              
+   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 300 Kč              
+                        ^| *na místě*       ^| 400 Kč              
 |===
 +
 Podmínky registrace stanovuje pořadatel.
