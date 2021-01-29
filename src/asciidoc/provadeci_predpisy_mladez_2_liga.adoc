@@ -144,7 +144,7 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla soutěžního lez
   * Nad 15 závodníků - koeficient 1
   * Do 15 závodníků včetně - koeficient 0,85
 
-. Závodníci na prvních třech místech celkového pořadí seriálů dané oblasti v každé kategorii obdrží po ukončení posledního závodu diplomy, poháry a ceny pro celkové vyhodnocení seriálu. Vyhlášení celkového pořadí zajistí předseda KSL nebo jeho zástupce pro Český pohár.
+. Závodníci na prvních třech místech celkového pořadí seriálů dané oblasti v každé kategorii obdrží po ukončení posledního závodu diplomy a poháry pro celkové vyhodnocení seriálu. Vyhlášení celkového pořadí zajistí předseda KSL nebo jeho zástupce pro Český pohár.
 
 == Ostatní 
 
