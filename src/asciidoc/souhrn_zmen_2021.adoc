@@ -1,0 +1,42 @@
+:lang: cs
+include::../../locale/_attributes.adoc[]
+:title-page:
+:imagesdir: ./images
+:!chapter-label:
+:!section-refsig:
+:!chapter-refsig:
+:stem: latexmath
+:xrefstyle: short
+:toc: left
+:toclevels: 2
+= Souhrn změn v pravidlech a prováděcích předpisech pro rok 2021
+Český horolezecký svaz
+v1.1, 1.1.2021
+:title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
+:sectnums:
+
+ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
+
+Od letošního roku jsou pravidla ve formátu PDF a HTML, pro snadnější správu a možnosti interaktivního procházení mezi body. Tento dokument stručně uvádí hlavní změny které v pravidlech a prováděcích předpisech nastaly. Detailní seznam změn lze nalézt v repositáři na GitHubu.
+
+S ohledem na nový systém soutěží přibyly dokumenty pro různé úrovně mládežnických soutěží.
+
+Byl vytvořen <<pravidla_sl.adoc#Slovník pojmů,slovník pojmů>>, který definuje pojmy dříve uvedené v rámci textu pravidel. Pojmy FLASH a ON-SIGHT nahrazeny bez dodržení podmínek izolace a za dodržení podmínek izolace.
+
+Zavedení standardních označení pro neplatné výsledky: DNF,DSQ,DSB,DNS. S tím souvisí úprava a restrukturalizace pasáži o disciplinárním řízení.
+
+V sekci o <<#pravidla_sl.adoc#obleceni-a-vybaveni,oblečení>> přibyla ustanovení o kompresních návlecích a nákolenících.
+
+V sekci o <<#pravidla_sl.adoc#standary,standardech vybavení>> uvedeny konkrétní normy, které musí jednotlivé vybavení splňovat.
+
+V obecné části byla restrukturalizována sekce týkající se registrací a přístupů do izolace a soutěžního prostoru. V celém soutěžním prostoru je zakázáno kouřit.
+
+V sekci o Antidopingu, drobná restrukturalizace bodů.
+
+V obtížnosti definovány časové limity pro zahájení videopředlezů a živých prohlídek před kvalifikačními cestami. Celá obtížnost byla restrukturalizována a měla by více odpovídat pořadí v pravidlech IFSC. Byl navýšen limit pro odpočinek mezi pokusy v kvalifikaci na 30min. Vedoucí týmů mají možnost získat v semifinále a finále nákres cesty.
+
+V  boulderingu, po skončení pokusů na boulderech se závodník odebere zpět do přechodné izolace a opouští ji po skončení další rotace. Z důvodu návaznosti na možnost podání protestu proti ukončení pokusu, který může být podán do konce následující rotace, v kvalifikaci a semifinále s dodržením podmínek izolace.
+
+V rychlosti byla upravena definice neúspěšného pokusu dle formulace IFSC. V kvalifikaci podle světového formátu přeformulované způsobu určení pořadí. Upřesněno, že předčasný start v tréninku nevadí.
+
+Pohár dospělých se boduje až do 40. místa a průběžný ranking se bude nově počítat ze závodů za posledních 730 dní.
