@@ -68,7 +68,9 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 .. Stavěč ČHS
 .. Stavěč - Aspirant
 +
-Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/361/061472.pdf[seznamu rozhodčích] na webu ČHS.
+Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/362/061702.pdf[seznamu rozhodčích] na webu ČHS.
++
+Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/362/061697.pdf[seznamu stavěčů] na webu ČHS.
 
 . Pořadatel zajistí hlavního rozhodčího a traťové rozhodčí pro jednotlivé kategorie. Pro řádný průběh závodu musí být dostatečný počet traťových rozhodčích.
 . Pokud se rozhodne pořadatel o využití stavěče nebo rozhodčích ČHS informuje o této skutečnosti před vydáním propozic komisi soutěžního lezení zasláním emailu na adresu zavody@horosvaz.cz
