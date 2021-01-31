@@ -91,14 +91,14 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 .. Stavěč ČHS
 .. Stavěč - Aspirant
 +
-Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz a je uveden v seznamu rozhodčích na webu ČHS https://www.horosvaz.cz[TODO pridat odkaz].
+Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/361/061472.pdf[seznamu rozhodčích] na webu ČHS.
 
 . Pořadatel zajistí hlavního rozhodčího a traťové rozhodčí pro jednotlivé kategorie. Pro řádný průběh závodu musí být dostatečný počet traťových rozhodčích.
 . Práci a náklady spojené s rozhodčími a se stavěním závodních cest hradí pořadatel.
 
 == Poskytování informací o závodě 
 
-. Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/307/052327.docx?seek=1579254231[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk.
+. Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061733.docx[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
 
 . Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 

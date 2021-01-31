@@ -24,7 +24,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 . Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen ČHS), nebo právnická či fyzická osoba s příslušným oprávněním, má právo požádat ČHS o pořadatelství závodů 3. ligy.
 . Vzájemné vztahy pořadatele a ČHS včetně jejich práv a povinností upravuje tento dokument.
-. Vyplněním link:https://www.horosvaz.cz[TODO link na formulář žádosti] o pořadatelství závodů 3. ligy je závod zapsán do kalendáře závodů pro daný rok.
+. Vyplněním link:https://forms.gle/ikS9YWdmYzYzc7eD9[formuláře s žádosti] o pořadatelství závodů 3. ligy je závod zapsán do kalendáře závodů pro daný rok.
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 +
 [cols=",,",options="header",]
@@ -68,14 +68,14 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 .. Stavěč ČHS
 .. Stavěč - Aspirant
 +
-Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz a je uveden v seznamu rozhodčích na webu ČHS https://www.horosvaz.cz[TODO pridat odkaz].
+Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/361/061472.pdf[seznamu rozhodčích] na webu ČHS.
 
 . Pořadatel zajistí hlavního rozhodčího a traťové rozhodčí pro jednotlivé kategorie. Pro řádný průběh závodu musí být dostatečný počet traťových rozhodčích.
 . Pokud se rozhodne pořadatel o využití stavěče nebo rozhodčích ČHS informuje o této skutečnosti před vydáním propozic komisi soutěžního lezení zasláním emailu na adresu zavody@horosvaz.cz
 
 == Poskytování informací o závodě 
 
-. Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu včetně pravidel závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/307/052327.docx?seek=1579254231[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele a pravidla závodu. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk.
+. Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu včetně pravidel závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061734.docx[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele a pravidla závodu. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
 
 . Pořadatel je povinen nahrát výsledky ve formátu PDF na web ČHS do 72 hodin po skončení závodu.
 
@@ -96,4 +96,4 @@ Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveř
 == Ostatní 
 
 . KSL si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti a regulérnosti závodu.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>> a <<vyjimky_z_pravidel_pro_3_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 3. ligy v soutěžním lezení pro rok 2021>>.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>> a <<vyjimky_z_pravidel_pro_2_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2021>>.

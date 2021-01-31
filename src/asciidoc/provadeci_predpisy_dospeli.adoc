@@ -67,11 +67,11 @@ Nominační závody musí být pořádány v open formátu.
 
 . Hlavního stavěče závodu v lezení na obtížnost a boulderingu navrhuje pořadatel na základě seznamu držitelů příslušných stavěčských licencí, jeho nasazení pro daný závod musí být schváleno KSL. Hlavní stavěč závodu nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS) nebo úrovně 2. (Stavěč ČHS), případně mezinárodní licence IFSC, pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit KSL. 
 
-. Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderingu  jsou upraveny ve smlouvě mezi ČHS a pořadatelem. Minimální cena za stavění závodních cest u závodů nejvyšších soutěží a 1. ligy týmem vedeným licencovaným stavěčem je 10 000,- Kč za jednodenní závod a 12 000,- za závod dvoudenní. 
+. Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderingu  jsou upraveny ve smlouvě mezi ČHS a pořadatelem.
 
 == Poskytování informací o závodech 
 
-. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/307/052327.docx?seek=1579254231[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je žádoucí využít k propagaci i místní tisk.
+. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/307/052327.docx?seek=1579254231[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
 
 . [[pioz-2]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
