@@ -44,7 +44,7 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 [#startovni-listiny-bouldering]
 === STARTOVNÍ LISTINY
 
-. Při kvalifikaci lezené on-sight se startovní pořadí určí podle průběžného rankingu, a to ve shodném pořadí – nejlépe umístěný soutěžící leze první. Soutěžící neuvedení v aktuálním průběžném rankingu startují poslední v náhodném pořadí.
+. Při kvalifikaci lezené za dodržení <<#podminky-izolace,podmínek izolace>> se startovní pořadí určí podle průběžného rankingu, a to ve shodném pořadí – nejlépe umístěný soutěžící leze první. Soutěžící neuvedení v aktuálním průběžném rankingu startují poslední v náhodném pořadí.
 . Při kvalifikaci lezené bez dodržení <<#podminky-izolace,podmínek izolace>> nastupují soutěžící na bouldery v libovolném pořadí podle vlastního výběru, viz odstavec <<#prubeh-lezeni-kvalifikace-flash-bouldering>>.
 . Startovní pořadí ve finále a semifinále musí být opakem umístění v předchozím kole, tedy nejlépe hodnocený soutěžící leze jako poslední. V případě shodného umístění soutěžících v kvalifikaci (případně i semifinále) bude jejich startovní pořadí v dalších kolech (finále, semifinále) následující:
 .. pokud jsou soutěžící uvedeni v průběžném rankingu, lezou v obráceném pořadí, než jak jsou v něm seřazeni;
@@ -82,9 +82,9 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 . [[pl-kv-flash-bouldering-7]]Delegát ČHS po dohodě s Hlavním rozhodčím může povolit formát s jednou kvalifikační skupinou. V tomto případě musí být časový limit kola upraven tak, že základní časový interval je 105 minut pro maximálně 30 závodníků. Za každých dalších maximálně 5 závodníků se přidává 10 minut.
 
 [#prubeh-lezeni-kvalifikace-onsight-bouldering]
-=== PRŮBĚH LEZENÍ – KVALIFIKACE ON-SIGHT, SEMIFINÁLE A FINÁLE KLASICKÝM FORMÁTEM
+=== PRŮBĚH LEZENÍ – KVALIFIKACE ZA DODRŽENÍ PODMÍNEK IZOLACE, SEMIFINÁLE A FINÁLE KLASICKÝM FORMÁTEM
 
-. Při kvalifikaci lezené on-sight, semifinále a finále klasickým formátem musejí soutěžící lézt bouldery ve stanoveném pořadí. Po každém boulderu má soutěžící odpočinkový čas, který je stejný jako čas přidělený na přelezení boulderu, kterému se říká časový interval, ten je 5 minut. Každý boulder musí obsahovat i jasně vyznačený prostor, odkud soutěžící boulder může vidět a který musí obsahovat bezpečnostní žíněnky.
+. Při kvalifikaci lezené za dodržení <<#podminky-izolace,podmínek izolace>>, semifinále a finále klasickým formátem musejí soutěžící lézt bouldery ve stanoveném pořadí. Po každém boulderu má soutěžící odpočinkový čas, který je stejný jako čas přidělený na přelezení boulderu, kterému se říká časový interval, ten je 5 minut. Každý boulder musí obsahovat i jasně vyznačený prostor, odkud soutěžící boulder může vidět a který musí obsahovat bezpečnostní žíněnky.
 . Soutěžící, kteří lezou, musejí s koncem časového intervalu ukončit lezení a vrátit se do prostoru pro odpočinek – přechodné izolace. Z tohoto místa nesmí být možné pozorovat žádný boulder. Soutěžící, kterému skončil odpočinkový čas, se musí přesunout k dalšímu boulderu nebo pokud dokončil všechny bouldery pak musí opustit soutěžní prostor. Hlavní rozhodčí nebo jím pověřená osoba musí zajistit, aby závodníci nebyli vypuštěni z přechodné izolace před koncem časového intervalu.
 . Každý pokus soutěžícího musí začít z pozice popsané v odstavci <<#obecne-bouldering>>.<<#ob-9,9>>.
 . Začátek (a konec) každé doby střídání musí být oznámen hlasitým a jasným signálem. Když zbývá jedna minuta do konce doby střídání, bude to oznámeno jiným signálem. V soutěžní zóně musí být umístěna časomíra, zobrazující neustále zbývající časový limit. Počet a umístění zařízení zobrazujících časový limit musí být stanoven tak, aby byla vidět ode všech lezených boulderů, z prostoru pro odpočinek a ze všech částí hlediště.

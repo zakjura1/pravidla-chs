@@ -3,6 +3,8 @@ include::../../locale/_attributes.adoc[]
 
 = Pravidla a prováděcí předpisy soutěžního lezení pro rok 2021
 
+<<souhrn_zmen_2021.adoc#,Souhrn změn v pravidlech a prováděcích předpisech pro rok 2021>> [link:souhrn_zmen_2021.pdf[PDF verze]]
+
 <<pravidla_sl.adoc#,Pravidla soutěžního lezení>> [link:pravidla_sl.pdf[PDF verze]]
 
 <<provadeci_predpisy_dospeli.adoc#,Prováděcí předpisy pro závody dospělých>> [link:provadeci_predpisy_dospeli.pdf[PDF verze]]
