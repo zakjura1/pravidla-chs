@@ -87,7 +87,7 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel soutěžního lezení ČHS 2021>> a <<vyjimky_z_pravidel_pro_2_liga.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2021>>.
+Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel soutěžního lezení ČHS 2021>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2021>>.
 
 == Vyhlášení výsledků 
 
@@ -98,4 +98,4 @@ Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveř
 == Ostatní 
 
 . KSL si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti a regulérnosti závodu.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>> a <<vyjimky_z_pravidel_pro_2_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2021>>.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2021>>.

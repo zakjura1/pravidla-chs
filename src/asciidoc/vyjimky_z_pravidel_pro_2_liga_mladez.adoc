@@ -22,7 +22,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Lezecká stěna
 
-. Pro závody druhé ligy neplatí ustanovení o minimální výšece stěny.
+. Pro závody druhé ligy neplatí ustanovení o minimální výšce stěny.
 . Závodní cesty pro závody 2. ligy mohou být postaveny mezi stávajícími lezeckými cestami.
 . Závodní cesty postavené pro potřeby daného závodu musí být jednoznačně odlišené od “lezeckého materiálu”, který se závodem nesouvisí. Pokud je závodní cesta postavena v jiné již stávající cestě/cestách, je nezbytné, aby byly chyty a struktury patřící k závodní cestě ze všech směrů viditelně označeny nebo aby chyty a struktury, které závodníci nesmí používat, byly označeny jako zakázané v souladu s <<pravidla_sl.adoc#,„Pravidly soutěžního lezení ČHS 2021“>>.
 
