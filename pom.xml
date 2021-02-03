@@ -4,7 +4,7 @@
 
     <groupId>org.chs</groupId>
     <artifactId>pravidla-chs</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1.69</version>
     <packaging>pom</packaging>
 
     <name>Soutěžní dokumenty komise soutěžního lezení ČHS</name>
