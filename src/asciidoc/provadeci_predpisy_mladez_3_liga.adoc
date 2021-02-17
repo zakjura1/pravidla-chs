@@ -23,6 +23,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 == Pořadatel 
 
 . Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen ČHS), nebo právnická či fyzická osoba s příslušným oprávněním, má právo požádat ČHS o pořadatelství závodů 3. ligy.
+. Pořadatel může pořádat v rámci 3. ligy maximálně 4 závody.
 . Vzájemné vztahy pořadatele a ČHS včetně jejich práv a povinností upravuje tento dokument.
 . Vyplněním link:https://forms.gle/ikS9YWdmYzYzc7eD9[formuláře s žádosti] o pořadatelství závodů 3. ligy je závod zapsán do kalendáře závodů pro daný rok.
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
@@ -52,9 +53,19 @@ Podmínky registrace stanovuje pořadatel.
 
 . Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
 
+. Pořadatel musí garantovat aby z maximálního počtu závodníků závodu bylo minimálně 30% vyhrazeno pro závodníky z jiných oddílů než pořádajícího.
+
+. Pro všechny závody platí, že čeští účastníci závodů musí být členy ČHS. Nestačí jen evidované členství, jelikož jeho součástí není průkaz ČHS.
+
+. Pro zjednodušení přechodu na závody, kde čeští závodníci musí splňovat podmínku členství v ČHS, bude v letošní sezóně pro závody umožněno toto: při závodníkově prvním závodě v sezóně mu bude umožněn start i bez členství v ČHS. Závodník obdrží na závodě pokyny, jak postupovat pro získání členství do dalšího závodu.
+
+. Při předběžné registraci na stránkách soutěžního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
+
+. Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
+
 . Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností.
 
-. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb v platném znění. Pro závody mládeže je na https://www.horosvaz.cz/soutezni-lezeni/informace-pro-zavodniky/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf?seek=1544788604[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce jsou součástí programu pro zpracování výsledků a aktuální seznam zdravotních prohlídek je k dispozici v kalendáři závodů jako součást systému předregistrací. Osoba, která doprovází a zastupuje nezletilého závodníka, je zodpovědná, že daný závodník je zdravotně způsobilý a na požádání je schopen toto doložit.
+. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění. Pro závody mládeže je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce jsou součástí programu pro zpracování výsledků a aktuální seznam zdravotních prohlídek je k dispozici v kalendáři závodů jako součást systému předregistrací. Osoba, která doprovází a zastupuje nezletilého závodníka, je zodpovědná, že daný závodník je zdravotně způsobilý a na požádání je schopen toto doložit.
 +
 Zdravotní prohlídka bude požadována i po zahraničních závodnících. 
 

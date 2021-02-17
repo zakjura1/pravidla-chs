@@ -40,3 +40,5 @@ V  boulderingu, po skončení pokusů na boulderech se závodník odebere zpět 
 V rychlosti byla upravena definice neúspěšného pokusu dle formulace IFSC. V kvalifikaci podle světového formátu přeformulované způsobu určení pořadí. Upřesněno, že předčasný start v tréninku nevadí.
 
 Pohár dospělých se boduje až do 40. místa a průběžný ranking se bude nově počítat ze závodů za posledních 730 dní.
+
+Na všech listinách se uvádí v případě českých závodníků jen oddíl, pod kterým jsou registrování v ČHS, případně informace o individuálním členství a členství v resortním centru.

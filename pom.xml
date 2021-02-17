@@ -4,7 +4,7 @@
 
     <groupId>org.chs</groupId>
     <artifactId>pravidla-chs</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.1.70</version>
     <packaging>pom</packaging>
 
     <name>Soutěžní dokumenty komise soutěžního lezení ČHS</name>
@@ -14,7 +14,7 @@
         <maven.build.timestamp.format>dd.MM.yyyy</maven.build.timestamp.format>
         <asciidoctor.maven.plugin.version>2.1.0</asciidoctor.maven.plugin.version>
         <asciidoctorj.version>2.4.2</asciidoctorj.version>
-        <asciidoctorj.pdf.version>1.5.3</asciidoctorj.pdf.version>
+        <asciidoctorj.pdf.version>1.5.4</asciidoctorj.pdf.version>
         <maven.jdocbook.plugin.version>2.3.10</maven.jdocbook.plugin.version>
         <pressgang.xslt.ns.version>3.1.4</pressgang.xslt.ns.version>
     </properties>
