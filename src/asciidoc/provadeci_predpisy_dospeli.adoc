@@ -85,12 +85,10 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla soutěžního lez
 
 === Obtížnost
 . Závody nejvyšších soutěží se uskuteční ve dvou dnech: 1. den muži kvalifikace (2 cesty) + ženy kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den muži semifinále + finále, ženy semifinále + finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>) /. 
+. Závody na obtížnost 1. ligy se uskuteční na dvou kvalifikačních cestách bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> a finále za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> v jednom dni.
 
 === Bouldering
 . Boulderingové závody nejvyšších soutěží se uskuteční ve dvou dnech. Kvalifikace se mohou lézt bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> nebo za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, finále se lezou za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Pořadatel si může sám zvolit formát finále – tj. buď závodníci lezou zároveň na všech boulderech nebo všichni lezou postupně stejný boulder – formát SP (mohou lézt ženy i muži zároveň). V případě formátu SP musí být zařazeno semifinále. Doporučený formát je SP.
-
-. Závody na obtížnost 1. ligy se uskuteční na dvou kvalifikačních cestách bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> a finále za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> v jednom dni.
-
 . Závody v boulderingu 1. ligy mohou mít kvalifikace bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> nebo za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, finále musí být za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, přičemž ve finále platí stejné možnosti jako u závodů nejvyšších soutěží. 
 
 === Rychlost
