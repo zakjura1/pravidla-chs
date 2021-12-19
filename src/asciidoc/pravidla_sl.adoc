@@ -9,7 +9,7 @@ include::../../locale/_attributes.adoc[]
 :stem: latexmath
 :xrefstyle: short
 :toc: left
-= Pravidla soutěžního lezení ČHS 2022
+= Pravidla sportovního lezení ČHS 2022
 Český horolezecký svaz
 v1.2, 1.1.2022
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]

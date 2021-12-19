@@ -1,5 +1,5 @@
-# Pravidla soutěžního lezení ČHS
-Repositář s pravidly soutěžního lezení ČHS. obsahuje soubory, ze kterých jsou generované PDF a HTML soubory s oficiálními pravidly a prováděcímí předpisy
+# Pravidla sportovního lezení ČHS
+Repositář s pravidly sportovního lezení ČHS. obsahuje soubory, ze kterých jsou generované PDF a HTML soubory s oficiálními pravidly a prováděcímí předpisy
 
 # Prohlížení
 - oficiální verze, která je platná je vždy na webových stránkých ČHS a v [Releases](https://github.com/rimuln/pravidla-chs/releases)

@@ -39,6 +39,8 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
 .. závažné nesportovní chování nebo jiné závažné narušení; a
 .. urážlivé, výhružné nebo násilné chování vůči jiné osobě
 
+[[chranic-kolen]]Chránič kolen::  se rozumí ručně nebo průmyslově vyrobený kryt na koleno vyrobený z nebo obsahující pryž nebo jiné podobné materiály, jejichž účelem nebo vlastností je poskytnout zvýšené tření nebo jiné usnadnění při použití kolen během lezení
+
 [[izolacni-zona]]Izolační zóna:: znamená <<#rozcvicovaci-zona,Rozcvičovací zónu>> do které je hlídaný vstup a omezen na:
 .. závodníky, kteří se kvalifikovali do daného kola závodu
 .. doprovázející <<#clenove-tymu,Členy týmu>>
@@ -55,16 +57,16 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
 [cols="2,5",width=50%]
 [.center]
 |===
-|U8  |ročník 2014 a mladší (děti do 7 let včetně)
-|U10 |ročník 2012 - 2013 (děti 8 - 9 let)
-|U12 |ročníky 2011 - 2010 (10 - 11 let)
-|U14 |ročníky 2009 - 2008 (12 - 13 let)
-|kategorie B |ročníky 2007 - 2006 (14 - 15 let)
-|kategorie A |ročníky 2005 - 2004 (16 - 17 let)
-|kategorie J |ročníky 2003 - 2002 (18 - 19 let)
-|dospělí     |ročník 2005 a starší (16 let a více)
-|masters     |ročník 1981 a starší (40 let a více)
-|legends     |ročník 1971 a starší (50 let a více)
+|U8  |ročník 2015 a mladší (děti do 7 let včetně)
+|U10 |ročník 2013 - 2014 (děti 8 - 9 let)
+|U12 |ročníky 2012 - 2011 (10 - 11 let)
+|U14 |ročníky 2010 - 2009 (12 - 13 let)
+|kategorie B (U16) |ročníky 2008 - 2007 (14 - 15 let)
+|kategorie A (U18) |ročníky 2006 - 2005 (16 - 17 let)
+|kategorie J (U20) |ročníky 2004 - 2003 (18 - 19 let)
+|dospělí     |ročník 2006 a starší (16 let a více)
+|masters     |ročník 1982 a starší (40 let a více)
+|legends     |ročník 1972 a starší (50 let a více)
 |===
 +
 Pro zařazení do kategorie je rozhodující ročník narození závodníka.
@@ -156,6 +158,8 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[rozcvicovaci-zona]]Rozcvičovací zóna:: znamená jakoukoliv část <<#soutezni-prostor,Soutěžního prostoru>> která je určená a vybavená pro potřeby přípravy závodníků
 
+[[rukavice]]Rukavice:: se rozumí ručně nebo průmyslově vyrobená rukavice, ať už navržená nebo ne a prodávána pro účely lezení. Aby se předešlo pochybnostem, páska nalepená na ruce sportovcem se nepovažuje za rukavice.
+
 [[soutez]]Soutěž:: je soutěž, která
  .. zahrnuje závody v jedné nebo více disciplínách, které organizuje ČHS a dodržují tato pravidla
  .. jsou uvedeny v kalendáři závodů publikovaném ČHS
@@ -184,7 +188,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
  .. jakýkoliv montážní otvor (T-Nut) určený k uchycení <<#umely-chyt,umělého chytu>>
  .. jakákoliv část <<#lezecky-povrch,lezeckého povrchu>> ohraničené pomocí nepřerušované <<#cerna-paska,černé pásky>>
  .. jakákoliv reklama nebo informační cedule upevněná na <<#lezecky-povrch,lezeckém povrchu>>
- .. jakýkoliv otevřený okraj nebo horní hrana <<#lezecky-povrch,lezeckého povrchu>>
+ .. jakákoliv otevřená hrana <<#lezecky-povrch,lezeckého povrchu>>
  .. jakýkoliv borhák/nýt umístěný na <<#lezecky-povrch,lezeckého povrchu>>
  .. jakýkoliv <<#jistici-bod,jistící bod>> nebo lano
 
@@ -192,9 +196,6 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[manazer-tymu]]Vedoucí týmu:: je týmem zvolená osoba, která je zodpovědná za chování <<#clenove-tymu,členů>> v rámci jejich týmu během celé soutěže. Pro různé disciplíny může být zvolen jiný vedoucí týmu
 
-[[zavodni-licence]]Závodní licence:: znamená povolení udělené ČHS jednotlivci:
-.. účastnit se jakéhokoliv Mezinárodního Mistrovství ČR, Mistrovství mládeže ČR, Mistrovství mládeže U14 ČR, Mistrovství [oblasti]
-.. účastnit se Českého poháru, Českého poháru mládeže
-.. získávat body do rankingu v jakémkoliv závodě.
+[[zavodni-registrace]]Závodní registrace:: je upravena ve <<https://www.horosvaz.cz/res/archive/423/070396.pdf?seek=1637244137,Směrnici Českého horolezeckého svazu o registraci sportovců pro závody ve sportovním lezení>> a je povinná pro všechny závodníky nejvyšších soutěží, 1. ligy a 2. ligy.
 
 [[z-klip]]Z-klip:: je situace, kdy je lano protažené skrz dva <<#jistici-bod,Jistící body>> mimo logické pořadí

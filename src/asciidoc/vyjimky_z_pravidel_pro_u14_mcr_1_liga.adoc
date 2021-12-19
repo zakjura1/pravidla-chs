@@ -18,7 +18,7 @@ v1.2, 1.1.2022
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-Pro Mistrovství republiky a závody 1. ligy v kategoriích do 14 let platí <<provadeci_predpisy_mladez_1_liga.adoc#,„Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy mládeže v soutěžním lezení pro rok 2022“>> a <<pravidla_sl.adoc#,„Pravidla soutěžního lezení ČHS 2022“>> s výjimkami v těchto bodech:
+Pro Mistrovství republiky a závody 1. ligy v kategoriích do 14 let platí <<provadeci_predpisy_mladez_1_liga.adoc#,„Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy mládeže v soutěžním lezení pro rok 2022“>> a <<pravidla_sl.adoc#,„Pravidla sportovního lezení ČHS 2022“>> s výjimkami v těchto bodech:
 
 == Lezecká stěna
 
@@ -27,7 +27,7 @@ Pro Mistrovství republiky a závody 1. ligy v kategoriích do 14 let platí <<p
 == Obtížnost
 === Povolené formáty
 
-U závodů nejvyšší kategorie a 1. ligy v kategoriích do 14 let, lze kromě ustanovení pravidel soutěžního lezení využít i tyto možnosti:
+U závodů nejvyšší kategorie a 1. ligy v kategoriích do 14 let, lze kromě ustanovení pravidel sportovního lezení využít i tyto možnosti:
 
 . Rozšířený klasický formát – tj. 3 – 6 kvalifikačních cest + finále.
 . Volný formát – tj. 3 - 10 cest bez finále. Při tomto formátu závodů se výsledné pořadí každého závodníka určí geometrickým průměrem pořadí v jednotlivých cestách.
@@ -106,7 +106,7 @@ Kategorie U14:: musí lézt se spodním jištěním
 
 == Bouldering
 === Povolené formáty
-U závodů 1. ligy, kde lze kromě ustanovení pravidel soutěžního lezení využít i tyto možnosti:
+U závodů 1. ligy, kde lze kromě ustanovení pravidel sportovního lezení využít i tyto možnosti:
 
 . jednokolový závod bez finále
 . kvalifikace a finále světovým formátem
@@ -117,7 +117,7 @@ U závodů 1. ligy, kde lze kromě ustanovení pravidel soutěžního lezení vy
 === Průběh závodu
 . Kvalifikace se leze bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>
 
-. Pro závody mládeže v kategoriích do 14 let neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel soutěžního lezení 2022>>, která zde mají pouze doporučující charakter.
+. Pro závody mládeže v kategoriích do 14 let neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel sportovního lezení 2022>>, která zde mají pouze doporučující charakter.
 
 == Rychlost
 === Předčasný start v závodech na rychlost

@@ -64,7 +64,7 @@ Nominační závody musí proběhnout v open formátu.
 
 . Pro všechny závody ČPM a ČP do 14 let platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou závodní registraci. 
 
-. Při předběžné registraci na stránkách soutěžního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
+. Při předběžné registraci na stránkách sportovního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
 
 . Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
 
@@ -94,9 +94,9 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2022>>.
+Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2022>>.
 
-Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let v soutěžním lezení pro rok 2022“>>, který je přílohou Pravidel soutěžního lezení ČHS.
+Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let v soutěžním lezení pro rok 2022“>>, který je přílohou Pravidel sportovního lezení ČHS.
 
 === Obtížnost
 . Závody nejvyšších soutěží kategorií B, A, J se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci finále, dívky finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>) /.
@@ -186,5 +186,5 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sam
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel soutěžního lezení ČHS platných pro rok 2022 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2022>> a <<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mladeže do 14 let v soutěžním lezení pro rok 2022>>.
+. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2022 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2022>> a <<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mladeže do 14 let v soutěžním lezení pro rok 2022>>.

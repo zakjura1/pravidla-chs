@@ -18,18 +18,18 @@ v1.2, 1.1.2022
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-. Pro závody 2. ligy v lezení dětí a mládeže (dále jen závody 2. ligy) platí <<provadeci_predpisy_2_liga_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2022“>> a <<pravidla_sl.adoc#,„Pravidla soutěžního lezení ČHS 2022“>> s výjimkami v těchto bodech:
+. Pro závody 2. ligy v lezení dětí a mládeže (dále jen závody 2. ligy) platí <<provadeci_predpisy_2_liga_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2022“>> a <<pravidla_sl.adoc#,„Pravidla sportovního lezení ČHS 2022“>> s výjimkami v těchto bodech:
 
 == Lezecká stěna
 
 . Pro závody druhé ligy neplatí ustanovení o minimální výšce stěny.
 . Závodní cesty pro závody 2. ligy mohou být postaveny mezi stávajícími lezeckými cestami.
-. Závodní cesty postavené pro potřeby daného závodu musí být jednoznačně odlišené od “lezeckého materiálu”, který se závodem nesouvisí. Pokud je závodní cesta postavena v jiné již stávající cestě/cestách, je nezbytné, aby byly chyty a struktury patřící k závodní cestě ze všech směrů viditelně označeny nebo aby chyty a struktury, které závodníci nesmí používat, byly označeny jako zakázané v souladu s <<pravidla_sl.adoc#,„Pravidly soutěžního lezení ČHS 2022“>>.
+. Závodní cesty postavené pro potřeby daného závodu musí být jednoznačně odlišené od “lezeckého materiálu”, který se závodem nesouvisí. Pokud je závodní cesta postavena v jiné již stávající cestě/cestách, je nezbytné, aby byly chyty a struktury patřící k závodní cestě ze všech směrů viditelně označeny nebo aby chyty a struktury, které závodníci nesmí používat, byly označeny jako zakázané v souladu s <<pravidla_sl.adoc#,„Pravidly sportovního lezení ČHS 2022“>>.
 
 == Obtížnost
 === Povolené formáty
 
-U závodů 2. ligy, lze kromě ustanovení pravidel soutěžního lezení využít i tyto možnosti:
+U závodů 2. ligy, lze kromě ustanovení pravidel sportovního lezení využít i tyto možnosti:
 
 . Rozšířený klasický formát – tj. 3 – 6 kvalifikačních cest + finále.
 . Volný formát – tj. 3 - 10 cest bez finále. Při tomto formátu závodů se výsledné pořadí každého závodníka určí geometrickým průměrem pořadí v jednotlivých cestách.
@@ -108,7 +108,7 @@ Kategorie U14:: musí lézt se spodním jištěním
 
 == Bouldering
 === Povolené formáty
-U závodů 2. ligy, kde lze kromě ustanovení pravidel soutěžního lezení využít i tyto možnosti:
+U závodů 2. ligy, kde lze kromě ustanovení pravidel sportovního lezení využít i tyto možnosti:
 
 . jednokolový závod bez finále
 . kvalifikace a finále světovým formátem
@@ -119,7 +119,7 @@ U závodů 2. ligy, kde lze kromě ustanovení pravidel soutěžního lezení vy
 === Průběh závodu
 . Kvalifikace se leze bez <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>
 
-. Pro závody 2. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel soutěžního lezení 2022>>, která zde mají pouze doporučující charakter.
+. Pro závody 2. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel sportovního lezení 2022>>, která zde mají pouze doporučující charakter.
 
 == Rychlost
 === Předčasný start v závodech na rychlost

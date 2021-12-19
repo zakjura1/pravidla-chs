@@ -61,7 +61,7 @@ Podmínky registrace stanovuje pořadatel.
 
 . Pro zjednodušení přechodu na závody, kde čeští závodníci musí splňovat podmínku členství v ČHS, bude v letošní sezóně pro závody umožněno toto: při závodníkově prvním závodě v sezóně mu bude umožněn start i bez členství v ČHS. Závodník obdrží na závodě pokyny, jak postupovat pro získání členství do dalšího závodu.
 
-. Při předběžné registraci na stránkách soutěžního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
+. Při předběžné registraci na stránkách sportovního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
 
 . Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
 
@@ -86,7 +86,7 @@ Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které p
 Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/362/061697.pdf[seznamu stavěčů] na webu ČHS.
 
 . Pořadatel zajistí hlavního rozhodčího a traťové rozhodčí pro jednotlivé kategorie. Pro řádný průběh závodu musí být dostatečný počet traťových rozhodčích.
-. Pokud se rozhodne pořadatel o využití stavěče nebo rozhodčích ČHS informuje o této skutečnosti před vydáním propozic komisi soutěžního lezení zasláním emailu na adresu zavody@horosvaz.cz
+. Pokud se rozhodne pořadatel o využití stavěče nebo rozhodčích ČHS informuje o této skutečnosti před vydáním propozic komisi sportovního lezení zasláním emailu na adresu zavody@horosvaz.cz
 
 == Poskytování informací o závodě 
 
@@ -100,7 +100,7 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel soutěžního lezení ČHS 2022>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2022>>.
+Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel sportovního lezení ČHS 2022>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2022>>.
 
 == Vyhlášení výsledků 
 
@@ -111,4 +111,4 @@ Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveř
 == Ostatní 
 
 . KSL si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti a regulérnosti závodu.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2022>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2022>>.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2022>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2022>>.
