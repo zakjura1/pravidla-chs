@@ -151,6 +151,7 @@ h|Číslo kola h|Pořadí z kvalifikace h|Číslo kola h|Pořadí z kvalifikace 
 Startovní pořadí v následujících vyřazovacích kolech ukazuje následující <<#pavouk>>:
 +
 . Startovní pořadí pro jednotlivá vyřazovací kola finálové části soutěže pro (shora) 16, 8 a 4 finalisty.
++
 [#pavouk]
 image::pavouk_rychlost.jpg[Varianty pavouka,width=475,height=651,align="center"]
 +
