@@ -1,0 +1,17 @@
+{
+    "spellright.language": [
+        "cs"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "asciidoc"
+    ],
+    "cSpell.words": [
+        "borhák",
+        "boulder",
+        "boulderu",
+        "boulderů"
+    ]
+}
