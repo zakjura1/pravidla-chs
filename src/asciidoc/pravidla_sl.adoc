@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :stem: latexmath
 :xrefstyle: short
 :toc: left
-= Pravidla soutěžního lezení ČHS 2021
+= Pravidla soutěžního lezení ČHS 2022
 Český horolezecký svaz
-v1.1, 1.1.2021
+v1.2, 1.1.2022
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]

@@ -9,22 +9,22 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy v soutěžním lezení mládeže pro rok 2021
+= Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy v soutěžním lezení mládeže pro rok 2022
 Český horolezecký svaz
-v1.0, 1.1.2021
+v1.2, 1.1.2022
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-. Pro závody 2. ligy v lezení dětí a mládeže (dále jen závody 2. ligy) platí <<provadeci_predpisy_2_liga_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2021“>> a <<pravidla_sl.adoc#,„Pravidla soutěžního lezení ČHS 2021“>> s výjimkami v těchto bodech:
+. Pro závody 2. ligy v lezení dětí a mládeže (dále jen závody 2. ligy) platí <<provadeci_predpisy_2_liga_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2022“>> a <<pravidla_sl.adoc#,„Pravidla soutěžního lezení ČHS 2022“>> s výjimkami v těchto bodech:
 
 == Lezecká stěna
 
 . Pro závody druhé ligy neplatí ustanovení o minimální výšce stěny.
 . Závodní cesty pro závody 2. ligy mohou být postaveny mezi stávajícími lezeckými cestami.
-. Závodní cesty postavené pro potřeby daného závodu musí být jednoznačně odlišené od “lezeckého materiálu”, který se závodem nesouvisí. Pokud je závodní cesta postavena v jiné již stávající cestě/cestách, je nezbytné, aby byly chyty a struktury patřící k závodní cestě ze všech směrů viditelně označeny nebo aby chyty a struktury, které závodníci nesmí používat, byly označeny jako zakázané v souladu s <<pravidla_sl.adoc#,„Pravidly soutěžního lezení ČHS 2021“>>.
+. Závodní cesty postavené pro potřeby daného závodu musí být jednoznačně odlišené od “lezeckého materiálu”, který se závodem nesouvisí. Pokud je závodní cesta postavena v jiné již stávající cestě/cestách, je nezbytné, aby byly chyty a struktury patřící k závodní cestě ze všech směrů viditelně označeny nebo aby chyty a struktury, které závodníci nesmí používat, byly označeny jako zakázané v souladu s <<pravidla_sl.adoc#,„Pravidly soutěžního lezení ČHS 2022“>>.
 
 == Obtížnost
 === Povolené formáty
@@ -77,7 +77,7 @@ Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pok
 
 === Prohlídka cest
 . Živé předlezení u kvalifikačních cest musí začít nejpozději 15 min před pokusem prvního závodníka.
-. Na prohlídku cesty, pokud se leze za <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
+. Na prohlídku cesty, pokud se leze za <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
 [#bezpecnost-a-jisteni]
 === Bezpečnost a jištění
@@ -104,7 +104,7 @@ Kategorie U14:: musí lézt se spodním jištěním
 
 === Ukončení pokusu v cestě
 
-. Rozhodčí povolí závodníkovi na jeho žádost jeden další pokus v kvalifikačních cestách v případě pádu pod první expreskou nebo pod určeným označeným chytem, oznámeným v průběhu prohlídky. Aby nebylo pochyb, chyt může být jen <<pravidla_sl.adoc#kontrolovat,kontrolován>> a nesmí být <<pravidla_sl.adoc#pouzit,použit>> k dalšímu postupu.
+. Rozhodčí povolí závodníkovi na jeho žádost jeden další pokus v kvalifikačních cestách v případě pádu pod první expreskou nebo pod určeným označeným chytem, oznámeným v průběhu prohlídky. Aby nebylo pochyb, chyt může být jen <<pravidla_sl.adoc#kontrolovat,kontrolován>> a nesmí být <<pravidla_sl.adoc#pouzit,použit>> k dalšímu postupu.
 
 == Bouldering
 === Povolené formáty
@@ -119,12 +119,12 @@ U závodů 2. ligy, kde lze kromě ustanovení pravidel soutěžního lezení vy
 === Průběh závodu
 . Kvalifikace se leze bez <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>
 
-. Pro závody 2. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel soutěžního lezení 2021>>, která zde mají pouze doporučující charakter.
+. Pro závody 2. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel soutěžního lezení 2022>>, která zde mají pouze doporučující charakter.
 
 == Rychlost
-=== Předčasný start v závodech na rychlost
+=== Předčasný start v závodech na rychlost
 
-. Pro závody v klasickém formátu a světovém formátu není závodník při předčasném startu okamžitě vyřazen, ale má možnost jednoho opravného pokusu na cestě.
+. Pro závody v klasickém formátu a světovém formátu není závodník při předčasném startu okamžitě vyřazen, ale má možnost jednoho opravného pokusu na cestě.
 
 === Cesty u nominačního formátu
 

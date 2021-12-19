@@ -1,9 +1,9 @@
 :lang: cs
 include::../../locale/_attributes.adoc[]
 
-= Pravidla a prováděcí předpisy soutěžního lezení pro rok 2021
+= Pravidla a prováděcí předpisy sportovního lezení pro rok 2022
 
-<<souhrn_zmen_2021.adoc#,Souhrn změn v pravidlech a prováděcích předpisech pro rok 2021>> [link:souhrn_zmen_2021.pdf[PDF verze]]
+<<souhrn_zmen_2022.adoc#,Souhrn změn v pravidlech a prováděcích předpisech pro rok 2022>> [link:souhrn_zmen_2022.pdf[PDF verze]]
 
 <<pravidla_sl.adoc#,Pravidla soutěžního lezení>> [link:pravidla_sl.pdf[PDF verze]]
 

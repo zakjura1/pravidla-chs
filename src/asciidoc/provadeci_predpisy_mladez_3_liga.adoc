@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Prováděcí předpisy ČHS pro závody 3. ligy v soutěžním lezení dětí a mládeže pro rok 2021
+= Prováděcí předpisy ČHS pro závody 3. ligy v soutěžním lezení dětí a mládeže pro rok 2022
 Český horolezecký svaz
-v1.1, 1.1.2021
+v1.2, 1.1.2022
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -26,7 +26,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Pořadatel může pořádat v rámci 3. ligy maximálně 4 závody.
 . Vzájemné vztahy pořadatele a ČHS včetně jejich práv a povinností upravuje tento dokument.
 . Vyplněním link:https://forms.gle/ikS9YWdmYzYzc7eD9[formuláře s žádosti] o pořadatelství závodů 3. ligy je závod zapsán do kalendáře závodů pro daný rok.
-. Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
+. Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 +
 [cols=",,",options="header",]
 |===
@@ -39,7 +39,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 +
 Podmínky registrace stanovuje pořadatel.
 
-== Typy závodů mládeže pro rok 2021 
+== Typy závodů mládeže pro rok 2022 
 
 . Závody netvoří ucelený seriál závodů a probíhají v následujících disciplínách:
 .. Obtížnost
@@ -49,13 +49,15 @@ Podmínky registrace stanovuje pořadatel.
 
 == Závodníci 
 
-. Všechny závody mládeže ve všech disciplínách jsou otevřené pro všechny české i zahraniční účastníky odpovídajícího věku a probíhají v <<pravidla_sl.adoc#mezinarodni-format,mezinárodním formátu>>.
+. Všechny závody mládeže ve všech disciplínách jsou otevřené pouze pro české účastníky a  cizince kteří mají v České republice trvalý pobyt. Závody probíhají v <<pravidla_sl.adoc#mezinarodni-format,mezinárodním formátu>>.
 
 . Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
 
 . Pořadatel musí garantovat aby z maximálního počtu závodníků závodu bylo minimálně 30% vyhrazeno pro závodníky z jiných oddílů než pořádajícího.
 
 . Pro všechny závody platí, že čeští účastníci závodů musí být členy ČHS. Nestačí jen evidované členství, jelikož jeho součástí není průkaz ČHS.
+
+. Závodníci v 3. lize nemusí mít platnou závodní registraci pro rok 2022
 
 . Pro zjednodušení přechodu na závody, kde čeští závodníci musí splňovat podmínku členství v ČHS, bude v letošní sezóně pro závody umožněno toto: při závodníkově prvním závodě v sezóně mu bude umožněn start i bez členství v ČHS. Závodník obdrží na závodě pokyny, jak postupovat pro získání členství do dalšího závodu.
 
@@ -65,7 +67,7 @@ Podmínky registrace stanovuje pořadatel.
 
 . Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností.
 
-. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění. Pro závody mládeže je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce jsou součástí programu pro zpracování výsledků a aktuální seznam zdravotních prohlídek je k dispozici v kalendáři závodů jako součást systému předregistrací. Osoba, která doprovází a zastupuje nezletilého závodníka, je zodpovědná, že daný závodník je zdravotně způsobilý a na požádání je schopen toto doložit.
+. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění. Pro závody mládeže je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce jsou součástí programu pro zpracování výsledků a aktuální seznam zdravotních prohlídek je k dispozici v kalendáři závodů jako součást systému předregistrací. Osoba, která doprovází a zastupuje nezletilého závodníka, je zodpovědná, že daný závodník je zdravotně způsobilý a na požádání je schopen toto doložit.
 +
 Zdravotní prohlídka bude požadována i po zahraničních závodnících. 
 
@@ -98,7 +100,7 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel soutěžního lezení ČHS 2021>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2021>>.
+Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel soutěžního lezení ČHS 2022>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2022>>.
 
 == Vyhlášení výsledků 
 
@@ -109,4 +111,4 @@ Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveř
 == Ostatní 
 
 . KSL si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti a regulérnosti závodu.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2021>>.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2022>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy v soutěžním lezení pro rok 2022>>.

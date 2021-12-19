@@ -1,0 +1,33 @@
+:lang: cs
+include::../../locale/_attributes.adoc[]
+:title-page:
+:imagesdir: ./images
+:!chapter-label:
+:!section-refsig:
+:!chapter-refsig:
+:stem: latexmath
+:xrefstyle: short
+:toc: left
+:toclevels: 2
+= Souhrn změn v pravidlech a prováděcích předpisech pro rok 2022
+Český horolezecký svaz
+v1.2, 1.1.2022
+:title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
+:sectnums:
+
+ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
+
+Předregistrace do závodu končí v úterý v 8.00 hod. Registrace v den závodu není možná.
+V 1. lize mládeže
+
+V 2. lize mládeže nesmí startovat zahraniční závodníci bez trvalého pobytu v ČR.
+
+V 2. lize mládeže je povinnost mít platnou závodní registraci.
+
+V 2. lize mládeže uvedena možnost, sloučení závodů do jedné oblasti v případě malého počtu závodů.
+
+V 2. lize mládeže je povinnost používat oficiální aplikaci pro výsledkový servis.
+
+V 3. lize mládeže nesmí startovat zahraniční závodníci bez trvalého pobytu v ČR.
+
+V 3. lize mládeže není povinnost mít platnou závodní registraci.

@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy v soutěžním lezení dětí a mládeže pro rok 2021
+= Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy v soutěžním lezení dětí a mládeže pro rok 2022
 Český horolezecký svaz
-v1.1, 1.1.2021
+v1.2, 1.1.2022
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -23,7 +23,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . S každým pořadatelem uzavře ČHS prostřednictvím sekretariátu ČHS písemnou smlouvu o pořádání závodu.
 . ČHS poskytne pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky atd.). Pravidla pro získání dotace budou definována ve smlouvě mezi ČHS a pořadatelem.
 . ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje technický delegát a upravuje smlouva mezi ČHS a pořadatelem. 
-. Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
+. Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 +
 [cols=",,",options="header",]
 |===
@@ -34,34 +34,35 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
                         ^| *na místě*       ^| 400 Kč            
 |===
 
-. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla ve čtvrtek 20.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
+. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých. 
+ 
+. Dodatečná registrace v den závodu není možná.
 
 . Každý pořadatel musí zabezpečit pro závodníky a rozhodčí základní občerstvení (např. minerální voda, banán, tatranka, jablko apod.). 
 . V izolační zóně musí být k dispozici další minerální voda. 
 . V izolační zóně před finále musí být na závodech možnost rozcvičení, rozlezení a přístup k toaletám.
 
-== Typy závodů mládeže pro rok 2021 
+== Typy závodů mládeže pro rok 2022 
 Obtížnost::
-. seriál závodů Českého poháru mládeže v lezení na obtížnost 2021 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže
+. seriál závodů Českého poháru mládeže v lezení na obtížnost 2022 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže
 . závody Českého poháru do 14 let – max. 7 závodů pro mladší věkové kategorie, jeho součástí je Mistrovství ČR mládeže do 14 let
 
 Rychlost::
-. seriál závodů Českého poháru mládeže 2021 - max. 5 závodů včetně Mistrovství ČR mládeže
+. seriál závodů Českého poháru mládeže 2022 - max. 5 závodů včetně Mistrovství ČR mládeže
 . seriál závodů Českého poháru do 14 let - max. 5 závodů včetně Mistrovství ČR do 14 let
 
 Bouldering::
-. seriál závodů Českého poháru mládeže 2021 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže
+. seriál závodů Českého poháru mládeže 2022 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže
 . seriál závodů Českého poháru do 14 let – max. 4 závody včetně Mistrovství ČR do 14 let
 
-Všechny závody 1. ligy ve všech disciplínách a MČR  jsou pořádány v mezinárodním formátu. 
+Všechny závody 1. ligy ve všech disciplínách a MČR jsou pořádány v mezinárodním formátu. 
 
-Nominační závody musí proběhnout v open formátu.
+Nominační závody musí proběhnout v open formátu.
 
 == Závodníci 
 . Závodníci jsou povinni lézt v dresu (triko) dodaném pořadatelem, pokud pořadatel takový dres dodá a stanoví povinnost v něm startovat.
-. Pro všechny závody ČPM a ČP do 14 let platí, že čeští účastníci závodů musí být členy ČHS. Nestačí jen evidované členství, jelikož jeho součástí není průkaz ČHS.
 
-. Pro zjednodušení přechodu na závody, kde čeští závodníci musí splňovat podmínku členství v ČHS, bude v letošní sezóně pro závody kategorií ČPM a ČP do 14 let umožněno toto: při závodníkově prvním závodě v sezóně mu bude umožněn start i bez členství v ČHS. Závodník obdrží na závodě pokyny, jak postupovat pro získání členství do dalšího závodu.
+. Pro všechny závody ČPM a ČP do 14 let platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou závodní registraci. 
 
 . Při předběžné registraci na stránkách soutěžního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
 
@@ -69,7 +70,7 @@ Nominační závody musí proběhnout v open formátu.
 
 . Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností.
 
-. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 14 let je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce jsou součástí programu pro zpracování výsledků a aktuální seznam zdravotních prohlídek je k dispozici v kalendáři závodů jako součást systému předregistrací.
+. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závodníky je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský nebo praktický lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce se zadává v modulu Předseda systému ČHS a dále je použitá v systému pro zpracování výsledků jako součást systému předregistrací.
 +
 Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
@@ -93,22 +94,22 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>>.
+Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2022>>.
 
-Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let v soutěžním lezení pro rok 2021“>>, který je přílohou Pravidel soutěžního lezení ČHS.
+Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let v soutěžním lezení pro rok 2022“>>, který je přílohou Pravidel soutěžního lezení ČHS.
 
 === Obtížnost
-. Závody nejvyšších soutěží se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci semifinále + finále, dívky semifinále + finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>) /. 
+. Závody nejvyšších soutěží kategorií B, A, J se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci finále, dívky finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>) /.
 
 === Bouldering
 . Pro kvalifikace se doporučuje lézt bez dodržení <<pravidla_sl.adoc#podminky-izolace, podmínek izolace>>, finálový formát je plně na rozhodnutí pořadatele.
 . Závody ČPM a ČP do 14 let v boulderingu lze po dohodě s KSL uspořádat jako závody bez finále, výsledky závodu jsou v takovém případě určeny výsledkem kvalifikace.
-. Závod MČR mládeže musí obsahovat kvalifikační a finálové kolo. Kvalifikace se mohou lézt bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> nebo za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, finále se lezou za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Pořadatel si může sám zvolit formát finále – tj. buď závodníci lezou zároveň na všech boulderech nebo všichni lezou postupně stejný boulder – formát SP (mohou lézt dívky i chlapci zároveň). Finálové kolo musí být zařazeno v důstojných časech – při společných závodech s dospělými nejlépe před finálovými koly dospělých popř. samostatně. Časové zařazení finále MČRM musí být schváleno KSL. Závod MČR do 14 může být uspořádán bez finále.
+. Závod MČR mládeže musí obsahovat kvalifikační a finálové kolo. Kvalifikace se mohou lézt bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> nebo za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, finále se lezou za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Pořadatel si může sám zvolit formát finále – tj. buď závodníci lezou zároveň na všech boulderech nebo všichni lezou postupně stejný boulder – formát SP (mohou lézt dívky i chlapci zároveň). Finálové kolo musí být zařazeno v důstojných časech – při společných závodech s dospělými nejlépe před finálovými koly dospělých popř. samostatně. Časové zařazení finále MČRM musí být schváleno KSL. Závod MČR do 14 může být uspořádán bez finále.
 
 === Rychlost
 . Závody na rychlost nejvyšších soutěží i 1. ligy se konají v jednom dni. 
 . V případě dohody s KSL lze uspořádat závod ČPM v lezení na rychlost zvlášť pro starší kategorie (B, A, J) na standardní cestě a zvlášť (i v jiném termínu) závod ČP do 14 let pro mladší kategorie.
-. Pokud je závod na rychlost kategorií A a J propojený se závody dospělých a uspořádán v jiném než nominačním formátu, pak jsou výsledky mládeže vyhlášeny na základě výsledku v kvalifikaci.
+. Pokud je závod na rychlost kategorií A a J propojený se závody dospělých a uspořádán v jiném než nominačním formátu, pak jsou výsledky mládeže vyhlášeny na základě výsledku v kvalifikaci.
 
 === Závody se zahraniční účastí 
 . V případě, že se závody uskuteční se zahraniční účastí a budou vyhlášeny v <<pravidla_sl.adoc#open-format,Open formátu>>, nesmí zahraniční účastníci ovlivnit počty postupujících českých závodníků. Celkový počet postupujících bude pro každé kolo navýšen o postupující zahraniční účastníky. Toto ustanovení platí pro všechny kategorie a disciplíny s výjimkou závodů na rychlost – zde je počet postupujících dán pravidly a postupovým klíčem.
@@ -117,7 +118,7 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sa
 
 . Vyhlášení výsledků musí být provedeno důstojným způsobem. Vyhlášení výsledků musí být nejdéle do 30 minut po ukončení posledního kola závodu poslední kategorie. Jednotlivé kategorie mohou být vyhlašovány i v průběhu závodu.
 . Při vyhlášení výsledků musí být dodrženy podmínky stanovené ČHS ve smlouvě s pořadatelem podle smluv s partnery ČHS.
-. Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem a cenami dodanými eventuálním partnerem závodu. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků s výjimkou MČR.
+. Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem a cenami dodanými eventuálním partnerem závodu. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků s výjimkou MČR.
 . V případě MČR mládeže musí pořadatel zajistit zvlášť vyhlášení závodu a zvlášť MČRM, které se týká pouze závodníků ČR. V každé kategorii může být udělen pouze jeden titul MČR mládeže.
 
 == Hodnocení seriálu závodů ČPM a ČP do 14 let
@@ -185,5 +186,5 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sa
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel soutěžního lezení ČHS platných pro rok 2021 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2021>> a <<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mladeže do 14 let v soutěžním lezení pro rok 2021>>.
+. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel soutěžního lezení ČHS platných pro rok 2022 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla soutěžního lezení ČHS 2022>> a <<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mladeže do 14 let v soutěžním lezení pro rok 2022>>.
