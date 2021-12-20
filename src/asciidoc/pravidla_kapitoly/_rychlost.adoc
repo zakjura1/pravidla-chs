@@ -7,14 +7,14 @@
 . Tato pravidla je nutné číst ve spojení s částí 3, Obecná pravidla.
 . Soutěže v lezení na rychlost se konají na účelově vyrobených umělých stěnách s minimální výškou 9 metrů a minimální šířkou každé cesty 2,5 metru.
 . Soutěže v lezení na rychlost se lezou bez dodržení <<#podminky-izolace,podmínek izolace>>
-. Soutěže v lezení na rychlost se odehrávají v těchto formátech:
+. Soutěže v lezení na rychlost se odehrávají v těchto formátech:
 .. Klasický formát - soutěží se na dvou cestách podobné délky, profilu a obtížnosti
 .. Světový formát - soutěží se na dvou identických paralelních cestách
 .. Nominační formát – soutěží se na jedné cestě
 . Kategorie B, A, J a Dospělí musí soutěžit Světovým, nebo Nominačním formátem a to výhradně na standardní cestě, jejíž parametry jsou definovány v pravidlech IFSC (https://www.ifsc-climbing.org/images/about-ifsc/Speed_Project/140429_SDSpeedLicenseRules4.1-corrected.pdf[Speed Licence Rules] a https://www.ifsc-climbing.org/images/World_competitions/Officials_resources/Specific%20positions/RS/130118_DLD-SpeedRoutePlanRS.pdf[Speed Route Plans])
-. Soutěž v klasickém formátu sestává z kvalifikačního kola a finálových kol. Každý soutěžící leze v kvalifikaci a v každém kole finálové části obě cesty. Cesty ve finálových kolech musí být identické s cestami v kvalifikačním kole.
-. Soutěž ve Světovém formátu sestává z kvalifikačního kola a finálových kol. Každý soutěžící leze v kvalifikaci dvě cesty, ale pouze jednu cestu ve vyřazovacích kolech finále. Cesty ve finálových kolech musí být identické s cestami v kvalifikačním kole.
-. Soutěž v Nominačním formátu je jednokolová (tzn. bez finále). Závodník absolvuje cestu v šesti pokusech a je mu započítán nejlepší čas. Delegát ČHS může v odůvodněných případech rozhodnout o snížení počtu pokusů, ten však nesmí klesnout pod 4.
+. Soutěž v klasickém formátu sestává z kvalifikačního kola a finálových kol. Každý soutěžící leze v kvalifikaci a v každém kole finálové části obě cesty. Cesty ve finálových kolech musí být identické s cestami v kvalifikačním kole.
+. Soutěž ve Světovém formátu sestává z kvalifikačního kola a finálových kol. Každý soutěžící leze v kvalifikaci dvě cesty, ale pouze jednu cestu ve vyřazovacích kolech finále. Cesty ve finálových kolech musí být identické s cestami v kvalifikačním kole.
+. Soutěž v Nominačním formátu je jednokolová (tzn. bez finále). Závodník absolvuje cestu v šesti pokusech a je mu započítán nejlepší čas. Delegát ČHS může v odůvodněných případech rozhodnout o snížení počtu pokusů, ten však nesmí klesnout pod 4.
 
 [#bezpecnost-rychlost]
 === BEZPEČNOST
@@ -23,7 +23,7 @@
 . Jištění soutěžících probíhá buď manuálně, nebo za pomocí automatického jistícího zařízení (naviják). Leze-li se na více cestách (Klasický nebo Světový formát), musí být pro obě cesty využito stejného způsobu jištění.
 . Vratný jistící bod, resp. zařízení pro automatické jištění musí být umístěný nad/za koncový spínač časomíry nebo signalizační zařízení pro danou cestu.
 . Umístění jistících bodů musí být takové, aby tyto body nepomáhaly, nebránily nebo neohrožovaly soutěžícího v lezení na cestě.
-. V případě manuálního způsobu jištění platí:
+. V případě manuálního způsobu jištění platí:
 .. Soutěžící je jištěný zespodu. Lano se používá jednoduché.
 .. Horní jištění musí procházet skrze dva oddělené <<#jistici-bod, jistící body>>.
 .. Lezecké lano musí být připevněné k úvazku každého soutěžícího buď:
@@ -36,9 +36,9 @@
 .. Soutěžící nebude vystaven žádným nepřiměřeným pádům;
 .. Je věnována velká pozornost tomu, aby nebyl padající soutěžící vystaven žádnému nebezpečí zranění způsobenému hranou převisu nebo jiným prvkem lezecké stěny.
 .. Po dokončení pokusu či po pádu je nutné soutěžícího spustit na zem. Je třeba dávat pozor, aby se soutěžící nedostal do kontaktu s žádným na zemi nebo jinde umístěným zařízením.
-. V případě jištění pomocí automatického jistícího zařízení platí:
+. V případě jištění pomocí automatického jistícího zařízení platí:
 .. Takové zařízení musí splňovat příslušné normy.
-.. Veškerá manipulace s tímto zařízením, jeho instalace na stěnu i způsob jeho připevnění k úvazku závodníka musí být v souladu s manuálem pro toto zařízení.
+.. Veškerá manipulace s tímto zařízením, jeho instalace na stěnu i způsob jeho připevnění k úvazku závodníka musí být v souladu s manuálem pro toto zařízení.
 . Z cest je třeba odstranit všechno přebytečné vybavení (karabiny, expresky, nýty apod.). Nýty, které nelze odstranit, je možné používat při lezení jako stupy.
 . Cesty je třeba postavit tak, aby si soutěžící příliš nepřekáželi a nemohli rozptylovat jeden druhého. Nejsou-li linie cest vertikální, měly by být odkloněny různými směry.
 
@@ -49,7 +49,7 @@
 . Elektro-mechanický systém měření musí být schopen hlídat předčasný start. Za předčasný start se považuje reakční doba kratší než 0.1 vteřiny. Hlavní rozhodčí může povolit zařízení, které nekontroluje předčasný start.
 .. Pokud má jen jeden závodník kratší reakční čas, tak je tomuto závodníkovi přiřazen předčasný start
 .. Pokud mají oba závodníci kratší reakční čas, tak
-... Závodník s menším (rychlejším) časem má přiřazen předčasný start
+... Závodník s menším (rychlejším) časem má přiřazen předčasný start
 ... Oba závodníci mají shodný reakční čas, pak není nikomu předčasný start přiřazen a následuje opakovaný start
 . V případě poruchy zařízení časomíry v průběhu pokusu bude pro všechny soutěžící v daném rozřazovacím kole ohlášen technický incident.
 
@@ -63,7 +63,7 @@
 .. Použije k lezení chyty nebo prvky vyčleněné v souladu s článkem <<#lezecka-stena>>.<<#ls-2>>;
 .. Použije k lezení boční nebo horní okraj lezecké stěny;
 .. Dotkne se jakoukoliv částí těla země poté, co nastoupil na cestu;
-.. Využije jakoukoliv umělou pomůcku neuvedenou v pravidlech a neschválenou hlavním rozhodčím.
+.. Využije jakoukoliv umělou pomůcku neuvedenou v pravidlech a neschválenou hlavním rozhodčím.
 
 [#zverejneni-vysledku-rychlost]
 === ZVEŘEJNĚNÍ VÝSLEDKŮ
@@ -79,8 +79,8 @@
 . Startovní pořadí kvalifikačního kola musí být opakem umístění v aktuálním průběžném rankingu. Soutěžící bez umístění začnou v daném kole jako první, a to v náhodném pořadí.
 . Každý soutěžící leze nejdříve cestu 1. Po jejím úspěšném přelezení pak pokračuje na cestu 2.
 . [[kkr-3]]Každý soutěžící bude hodnocen na základě souhrnného času dosaženého na obou cestách.
-. Soutěžící musí dokončit obě kvalifikační cesty, v opačném případě bude vyřazen a umístí se na posledním místě.
-. V případě předčasného startu jednoho ze soutěžících, je tento vyřazen a druhý soutěžící následně absolvuje nový pokus samostatně. Soutěžící, který předčasně vystartoval, je zařazen na konec výsledkové listiny.
+. Soutěžící musí dokončit obě kvalifikační cesty, v opačném případě bude vyřazen a umístí se na posledním místě.
+. V případě předčasného startu jednoho ze soutěžících, je tento vyřazen a druhý soutěžící následně absolvuje nový pokus samostatně. Soutěžící, který předčasně vystartoval, je zařazen na konec výsledkové listiny.
 
 [#kvalifikace-sf-rychlost]
 === KVALIFIKACE – SVĚTOVÝ FORMÁT
@@ -89,7 +89,7 @@
 . Každý závodník muže udělat jeden pokus na každé cestě, kromě:
 .. pokud je vyžadován opakovaný pokus po předčasném startu nebo technickém incidentu, pak musí být povolen další pokus
 .. pokud se závodník neohlásí po vyvolání, pak pokus proběhne bez něho.
-. Každý závodník musí zůstat v soutěžním prostoru dle pokynu hlavního rozhodčího, dokud nedokončí své pokusy na obou cestách
+. Každý závodník musí zůstat v soutěžním prostoru dle pokynu hlavního rozhodčího, dokud nedokončí své pokusy na obou cestách
 . Startovní pořadí na první kvalifikační cestě bude náhodné. Startovní pořadí na druhé kvalifikační cestě bude stejné jako na té první, ale s posunem 50%.
 
 +
@@ -104,16 +104,16 @@ Při 20ti soutěžících v dané kategorii, pak ten, který lezl jako 11. na pr
 Při 21ti soutěžících v dané kategorii, pak ten, který lezl jako 11. na první kvalifikační cestě, poleze na druhé cestě jako první.
 ====
 
-. Minimální pauza mezi 1. a 2. cestou je 5 minut. Toto neplatí v opakovaném pokusu po předčasném startu.
+. Minimální pauza mezi 1. a 2. cestou je 5 minut. Toto neplatí v opakovaném pokusu po předčasném startu.
 . [[ksr-6]]Soutěžící budou hodnoceni následovně:
 .. [[ksr-a,{counter:ksr:a}.]]závodníci, kteří nebyli schopni zahájit oba své kvalifikační pokusy nebudou v kole hodnoceni a jejich výsledek bude označen jako DNS
 .. [[ksr-b,{counter:ksr}.]]závodníci s předčasným startem v prvním nebo druhém pokusu budou hodnoceni na stejné pozici, a to poslední v daném kole
 .. [[ksr-c,{counter:ksr}.]]v závislosti na bodech <<#ksr-a>>, <<#ksr-b>>: závodníci, jejichž pokus nebo oba pokusy byly hodnoceny jako neúspěšné, budou hodnoceni na stejné pozici, a to před závodníky s předčasným startem
-.. v závislosti na bodech <<#ksr-a>>, <<#ksr-b>>, <<#ksr-c>>: závodníci s alespoň jedním platným časem budou seřazeni sestupně, přičemž závodník s rychlejším časem je umístěn lépe
+.. v závislosti na bodech <<#ksr-a>>, <<#ksr-b>>, <<#ksr-c>>: závodníci s alespoň jedním platným časem budou seřazeni sestupně, přičemž závodník s rychlejším časem je umístěn lépe
 ... pokud dva nebo více závodníků má stejný čas, pak jsou setříděni podle druhého času, přičemž
-... závodníci s platným časem jsou před závodníky bez platného druhého času. 
+... závodníci s platným časem jsou před závodníky bez platného druhého času. 
 ... pokud více závodníků nemá druhý platný čas jsou hodnoceni na stejné pozici
-. V případě předčasného startu při prvním pokusu jednoho ze soutěžících, je tento soutěžící vyřazen a nebude se dále účastnit závodu. Druhý soutěžící ihned absolvuje nový pokus samostatně. 
+. V případě předčasného startu při prvním pokusu jednoho ze soutěžících, je tento soutěžící vyřazen a nebude se dále účastnit závodu. Druhý soutěžící ihned absolvuje nový pokus samostatně. 
 
 [#finale-kf-sf-rychlost]
 === FINÁLE – KLASICKÝ A SVĚTOVÝ FORMÁT
@@ -122,7 +122,7 @@ Při 21ti soutěžících v dané kategorii, pak ten, který lezl jako 11. na pr
 .. Je-li počet soutěžících, kteří dokončili kvalifikační kolo 16 nebo více, pak se do finále kvalifikuje 16 soutěžících;
 .. Je-li počet soutěžících, kteří dokončili kvalifikační kolo mezi 15 a 8, pak se do finále kvalifikuje 8 soutěžících;
 .. Je-li počet soutěžících, kteří dokončili kvalifikační kolo mezi 7 a 4, pak se do finále kvalifikují 4 soutěžící;
-.. Je-li počet soutěžících, kteří dokončili kvalifikační kolo menší než 4, pak je nutné kvalifikaci zopakovat, dokud se do finále nekvalifikují alespoň 4 soutěžící. Toto ustanovení neplatí v případě, že celkový počet soutěžících je menší než 4. V takovém případě se finálové kolo nekoná a výsledky jsou stanoveny na základě kvalifikačního kola.
+.. Je-li počet soutěžících, kteří dokončili kvalifikační kolo menší než 4, pak je nutné kvalifikaci zopakovat, dokud se do finále nekvalifikují alespoň 4 soutěžící. Toto ustanovení neplatí v případě, že celkový počet soutěžících je menší než 4. V takovém případě se finálové kolo nekoná a výsledky jsou stanoveny na základě kvalifikačního kola.
 
 +
 Finálové kolo se tedy může skládat z následujících fází: osmifinále, čtvrtfinále, vždy se skládá ze semifinále a finále.
@@ -157,16 +157,16 @@ image::pavouk_rychlost.jpg[Varianty pavouka,width=475,height=651,align="center"]
 +
 Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo 1 (Klasický formát), respektive leze cestu č. 1 (Světový formát).
 
-. [[fksfr-4]]Pořadí v jakémkoliv finálovém kole bude určeno následovně:
-.. Pokud oba závodníci mají uspěšný pokus, pak vyhrává závodník s rychlejším časem
-.. Pokud závodník předčasně odstartoval, pak vyhrává druhý závodník. V případě předčasného startu na prvním rozběhu v klasickém formátu, musí postupující závodník absolvovat i druhou cestu sám.
-.. Pokud oba závodníci dosáhnou stejného času nebo nemají platný čas z jiného důvodu než předčasný start potom:
-... Vyhrává závodník s lepším umístěním v kvalifikaci nebo
-... Pokud mají v kvalifikaci stejné umístění, pak se rozběh opakuje
+. [[fksfr-4]]Pořadí v jakémkoliv finálovém kole bude určeno následovně:
+.. Pokud oba závodníci mají uspěšný pokus, pak vyhrává závodník s rychlejším časem
+.. Pokud závodník předčasně odstartoval, pak vyhrává druhý závodník. V případě předčasného startu na prvním rozběhu v klasickém formátu, musí postupující závodník absolvovat i druhou cestu sám.
+.. Pokud oba závodníci dosáhnou stejného času nebo nemají platný čas z jiného důvodu než předčasný start potom:
+... Vyhrává závodník s lepším umístěním v kvalifikaci nebo
+... Pokud mají v kvalifikaci stejné umístění, pak se rozběh opakuje
 .. Pokud se závodník neohlásí po vyvolání, pak vyhrává druhý závodník
 . Vždy musí proběhnout rozřazovací kolo o třetí a čtvrté místo (malé finále), a to dříve, než proběhne finále o 1. na 2. místo.
-. V případě předčasného startu v souboji o 1. místo musí vítěz absolvovat další pokus pro získání platného času.
-. Každý závodník musí zůstat v soutěžním prostoru dle pokynu hlavního rozhodčího, dokud není vyřazen.
+. V případě předčasného startu v souboji o 1. místo musí vítěz absolvovat další pokus pro získání platného času.
+. Každý závodník musí zůstat v soutěžním prostoru dle pokynu hlavního rozhodčího, dokud není vyřazen.
 
 [#nominacni-format-rychlost]
 === NOMINAČNÍ FORMÁT
@@ -174,12 +174,12 @@ Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo
 . Startovní pořadí musí být náhodné
 . Každý soutěžící bude hodnocen na základě nejlepšího času ze všech absolvovaných pokusů
 . Minimální pauza mezi jednotlivými pokusy je 5 minut.
-. Pokus se posuzuje podle bodů <<#dokonceni-cesty-rychlost>>.<<#dcr-1>> a <<#dokonceni-cesty-rychlost>>.<<#dcr-2>>. V případě předčasného startu se pokus považuje jen za neúspěšný pokus.
+. Pokus se posuzuje podle bodů <<#dokonceni-cesty-rychlost>>.<<#dcr-1>> a <<#dokonceni-cesty-rychlost>>.<<#dcr-2>>. V případě předčasného startu se pokus považuje jen za neúspěšný pokus.
 . Remíza soutěžících:
-.. Nastane-li po porovnání nejlepších časů remíza dvou nebo více soutěžících, jsou tito soutěžící porovnání na základě druhého nejlepšího času, v případě shody pak třetího atd.
-.. V případě, kdy závodníci jsou stále na stejném místě, pak je lépe umístěn závodník s více platnými pokusy
-.. V případě, kdy závodníci jsou stále na stejném místě, jsou hodnoceni celkově na shodném místě.
-. Pokud nominační formát probíhá na dvou standardních cestách, pak závodník absolvuje své pokusy střídavě na každé z nich.
+.. Nastane-li po porovnání nejlepších časů remíza dvou nebo více soutěžících, jsou tito soutěžící porovnání na základě druhého nejlepšího času, v případě shody pak třetího atd.
+.. V případě, kdy závodníci jsou stále na stejném místě, pak je lépe umístěn závodník s více platnými pokusy
+.. V případě, kdy závodníci jsou stále na stejném místě, jsou hodnoceni celkově na shodném místě.
+. Pokud nominační formát probíhá na dvou standardních cestách, pak závodník absolvuje své pokusy střídavě na každé z nich.
 
 [#hodnoceni-po-kazdem-kole-rychlost]
 === HODNOCENÍ PO KAŽDÉM KOLE
@@ -188,7 +188,7 @@ Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo
 . Remíza soutěžících:
 .. Nastane-li po kvalifikačním kole remíza dvou nebo více soutěžících na poslední příčce (příčkách), která(é) se ještě kvalifikuje(í) do finále, a je tak překročen počet stanovených soutěžících pro finále v souladu s článkem <<#finale-kf-sf-rychlost>>.<<#fksfr-1,1>> a <<#hodnoceni-po-kazdem-kole-rychlost>>.<<#hpkkr-1,1>>, pak musí mezi těmito soutěžícími proběhnout na cestě č. 1 další pokusy, dokud není remíza rozbita. Časy zaznamenané během těchto pokusů musí být použité pouze pro určení, kdo se kvalifikoval do finálového kola, a ne pro jiné účely.
 .. Nastane-li po kvalifikačním kole remíza dvou nebo více soutěžících na jakémkoliv jiném než na posledním kvalifikačním místě, budou tito soutěžící náhodně rozmístěni ve startovním pořadí;
-.. Nastane-li remíza ve finálovém kole, pak se postupuje v souladu s odstavcem <<#finale-kf-sf-rychlost>>.<<#fksfr-4,4>>
+.. Nastane-li remíza ve finálovém kole, pak se postupuje v souladu s odstavcem <<#finale-kf-sf-rychlost>>.<<#fksfr-4,4>>
 
 [#oficialni-trenink-rychlost]
 === OFICIÁLNÍ TRÉNINK
@@ -206,11 +206,11 @@ Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo
 .. umožní jističům zkontrolovat správně zapnutý úvazek a bezpečně připevnit jistící lano ke svému úvazku
 .. postaví se na přípravnou pozici určenou startérem zády ke stěně, ne dále než 2 metry před lezeckou stěnu.
 . Umístění spínače startovního signálu musí být pro oba soutěžící ve stejné vzdálenosti. Startér musí zaujmout takovou pozici, aby ho žádný ze soutěžících neviděl. Startér nesmí být nikdo z oficiálních soutěžních činitelů ČHS.
-. [[plr-3]]Jakmile jsou oba soutěžící připraveni před lezeckou stěnu, startér musí říct „Na místa“ nebo „At your marks“. S povelem „Na místa“ se každý soutěžící postaví na startovní pozici: soutěžící má jednu nohu na nášlapné desce (elektronickém spínači), druhá noha může být v jakékoliv pozici a jedna nebo obě ruce jsou na závodníkem zvoleném nástupním chytu (na zaujetí startovní pozice má závodník zhruba 4s). Když jsou lezci na místech v klidu ve startovní pozici, pak startér řekne „Ready!“ a následně spustí elektronické startovací zařízení nebo, v případě používání manuální časomíry, řekne „Go!“ Veškeré ústní instrukce musejí být hlasité a jasně slyšitelné. V případě používání manuální časomíry se pauza před startovním signálem musí během závodu měnit, ale nikdy nesmí přesáhnout 2 vteřiny.
+. [[plr-3]]Jakmile jsou oba soutěžící připraveni před lezeckou stěnu, startér musí říct „Na místa“ nebo „At your marks“. S povelem „Na místa“ se každý soutěžící postaví na startovní pozici: soutěžící má jednu nohu na nášlapné desce (elektronickém spínači), druhá noha může být v jakékoliv pozici a jedna nebo obě ruce jsou na závodníkem zvoleném nástupním chytu (na zaujetí startovní pozice má závodník zhruba 4s). Když jsou lezci na místech v klidu ve startovní pozici, pak startér řekne „Ready!“ a následně spustí elektronické startovací zařízení nebo, v případě používání manuální časomíry, řekne „Go!“ Veškeré ústní instrukce musejí být hlasité a jasně slyšitelné. V případě používání manuální časomíry se pauza před startovním signálem musí během závodu měnit, ale nikdy nesmí přesáhnout 2 vteřiny.
 +
 NOTE: Elektronické startovací zařízení dle standardů IFSC generuje tři zvukové signály (pípnutí) se sekundovou pauzou. Dva první signály mají identický tón, třetí signál má vyšší tón. Třetí (vyšší) tón je signálem ke startu.
 +
-. Startér musí vrátit závodníky do přípravné pozice, pokud nastane z jakéhokoliv důvodu následující situace mezi signálem „Na místa“ a „Ready“:
+. Startér musí vrátit závodníky do přípravné pozice, pokud nastane z jakéhokoliv důvodu následující situace mezi signálem „Na místa“ a „Ready“:
 .. Startér vyhodnotí, že kolo nemůže proběhnout
 .. Závodník zvednutím ruky informuje, že není připraven odstartovat
 . Nikde nesmí být nikde slyšet žádný hluk ani nic jiného, co by mohlo soutěžící rozptylovat a zabránit tak tomu, aby byl povel ke startu jasně slyšitelný všemi soutěžícími a/nebo rozhodčími.
@@ -220,7 +220,7 @@ NOTE: Elektronické startovací zařízení dle standardů IFSC generuje tři zv
 .. opustí nášlapnou desku startovacího zařízení mezi pokynem startéra „Ready“ a signálem pro start, nebo
 .. [[plr-8b]]reakční doba závodníka na startovní signál je nižší než 1/10 sekundy
 +
-NOTE: rozhodnutí o předčasném startu dle bodu <<plr-8b,b.>> lze uplatnit pouze v případě, že je využito elektronické startovací zařízení s ověřeným systémem měření reakční doby.
+NOTE: rozhodnutí o předčasném startu dle bodu <<plr-8b,b.>> lze uplatnit pouze v případě, že je využito elektronické startovací zařízení s ověřeným systémem měření reakční doby.
 +
 . Na konci každé cesty musí soutěžící zastavit časomíru tím, že rukou stiskne její spínač.
 . Závodník má v cestě jeden pokus, pokud nedojde k technickému incidentu.
@@ -235,9 +235,9 @@ NOTE: rozhodnutí o předčasném startu dle bodu <<plr-8b,b.>> lze uplatnit pou
 .. Zjevná nebo systematická porucha systému časomíry;
 .. Jakákoliv jiná událost, která pro soutěžícího vyústí ve znevýhodnění nebo v nespravedlivé zvýhodnění a kterou soutěžící svým počínáním nezpůsobil.
 . Pokud závodník, nebo jeho zástupce si myslí, že nastal technický incident, musí o něm okamžitě informovat hlavního rozhodčího před startem dalšího rozběhu.
-. Za účelem rozhodnutí o technickém incidentu může hlavní rozhodčí dle potřeby využít oficiální video záznam, požadovat otestování systému nebo požádat stavěče nebo jinou osobu z řad pořadatelů o vylezení cesty a zmáčknutí horního tlačítka.
+. Za účelem rozhodnutí o technickém incidentu může hlavní rozhodčí dle potřeby využít oficiální video záznam, požadovat otestování systému nebo požádat stavěče nebo jinou osobu z řad pořadatelů o vylezení cesty a zmáčknutí horního tlačítka.
 . Jestliže technický incident může být opraven a má se zato, že ovlivnil jen jeden rozběh, pak závodníci, které technický incident přímo ovlivnil, opakují svůj pokus.
-. Jestliže technický incident nemůže být opraven nebo se má zato, že ovlivnil všechny soutěžící v příslušném kole, pak hlavní rozhodčí může buď zrušit aktuální kolo a všechny následující nebo zrušit a restartovat celé kolo.
+. Jestliže technický incident nemůže být opraven nebo se má zato, že ovlivnil všechny soutěžící v příslušném kole, pak hlavní rozhodčí může buď zrušit aktuální kolo a všechny následující nebo zrušit a restartovat celé kolo.
 . V případě technického incidentu v kvalifikaci má soutěžící nový pokus, při kterém leze sám. V případě technického incidentu, který soutěžícího poškodil, se do výsledků počítá lepší dosažený výkon. Jinak se počítá výkon dosažený v náhradním pokusu.
 +
 Pokud je soutěžící postižen technickým incidentem v průběhu jakéhokoliv rozřazovacího kola ve finále, pak jeho soupeř musí pokračovat v lezení. Je-li technický incident uznán, pak musejí rozřazovací kolo opakovat oba soutěžící, pokud soutěžící, který neutrpěl technický incident, nebyl již vyřazen. Pak by lezl soutěžící postižený uznaným technickým incidentem sám.
