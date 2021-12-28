@@ -6,7 +6,7 @@
 . Český horolezecký svaz je členem Mezinárodní federace sportovního lezení (IFSC), která je uznána Mezinárodním olympijským výborem (MOV) a je členem Asociace sportů uznaných MOV (ARISF), Generální asociace mezinárodních sportovních federací (GAISF) a Mezinárodní federace Světových her (IWGA).
 +
 Český horolezecký svaz hájí zájmy horolezectví směrem k organizacím v ČR i k mezinárodní federaci IFSC (International Federation of Sport Climbing). ČHS vlastní veškerá marketingová, obchodní, mediální a další práva k oficiálním soutěžím v soutěžním lezení na území ČR. Převod těchto práv na další subjekt je plně v kompetenci ČHS.
-. ČHS plní funkci nejvyšší autority pro všechny významné národní lezecké soutěže, jak jsou uvedeny níže v části <<#souteze>>. Jako takový je zodpovědný za:
+. ČHS plní funkci nejvyšší autority pro všechny významné národní lezecké soutěže, jak jsou uvedeny níže v části <<#souteze>>. Jako takový je zodpovědný za:
 .. Kontrolu všech technických a jiných aspektů tohoto sportu;
 .. Příjem přihlášek od pořadatelů významných národních lezeckých soutěží;
 .. Schvalování těchto přihlášek, které posuzuje v zájmu tohoto sportu a které vyhodnotí ve shodě s pravidly a nařízeními ČHS platnými pro tyto soutěže.
@@ -68,6 +68,8 @@ U soutěží, kde Delegát ČHS není právě přítomen, přebírá všechna je
 Hlavní stavěč pro závody nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence 1. úrovně (Hlavní stavěč ČHS) nebo 2. úrovně (Stavěč ČHS) nebo mezinárodní stavěčské licence IFSC. Hlavní stavěč se radí se členy stavěčského týmu, který je jmenován pořadatelem před započetím soutěže, aby naplánoval a zkoordinoval veškeré záležitosti týkající se stavby a údržby cest, včetně podoby každé cesty nebo boulderu; upevnění chytů, bodů postupových jištění a jiného vybavení v souladu s nařízeními ČHS; opravy a čištění cest a instalaci a údržbu rozcvičovacího vybavení. Je zodpovědný za kontrolu bezpečnosti na každé cestě nebo boulderu, radí Hlavnímu rozhodčímu v technických otázkách v rámci soutěžního prostoru, asistuje při sestavování nákresu pro cesty v lezení na obtížnost, radí rozhodčím ohledně rozmístění kamer a ohledně maximálních časových limitů pro jednotlivá kola.
 +
 Hlavní stavěč je členem odvolací poroty.
++
+V případě nemoci nebo absence hlavní stavěč za sebe nominuje jiného stavěče s licencí hlavního stavěče ČHS.
 
 .. Stavěč ČHS
 +
@@ -77,7 +79,7 @@ Stavěči ČHS během přípravy soutěžních cest pomáhají pomocní stavěč
 +
 .. Obsluha výsledkového servisu
 +
-Zodpovídá za přípravu listin pro registraci závodníků, připravuje startovní a výsledkové listiny. Nahrává finální výsledky na stránky ČHS a předává datový soubor s výsledky po závodu správci rankingu na lezeni@navrat.name. Je schopná se orientovat v technických věcech související s průběžnými výsledky a obsluhou mobilních klientů při vkládání výsledků traťovými rozhodčími. Připravuje ve spolupráci s hlavním rozhodčím a technickým delegátem případné další informace, které je nutné zveřejnit. Má právo vstupovat do všech prostor soutěžního prostoru.
+Zodpovídá za přípravu listin pro registraci závodníků, připravuje startovní a výsledkové listiny. Nahrává finální výsledky na stránky ČHS a předává datový soubor s výsledky po závodu správci rankingu na lezeni@navrat.name. Je schopná se orientovat v technických věcech související s průběžnými výsledky a obsluhou mobilních klientů při vkládání výsledků traťovými rozhodčími. Připravuje ve spolupráci s hlavním rozhodčím a technickým delegátem případné další informace, které je nutné zveřejnit. Má právo vstupovat do všech prostor soutěžního prostoru.
 
 +
 .. Ředitel soutěže

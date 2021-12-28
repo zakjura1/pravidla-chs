@@ -4,45 +4,45 @@
 [#obecne-kombinace]
 === OBECNĚ
 
-. Tato pravidla musí být vykládána ve spojitosti s částí 3, Obecná pravidla.
-. Závody v kombinaci (kombinované soutěži) zahrnují:
-.. kvalifikační kolo s pevně stanovenou kvótou 20 soutěžících v každé kategorii; a
-.. finálové kolo s pevně stanovenou kvótou 8 soutěžících v každé kategorii,
+. Tato pravidla musí být vykládána ve spojitosti s částí 3, Obecná pravidla.
+. Závody v kombinaci (kombinované soutěži) zahrnují:
+.. kvalifikační kolo s pevně stanovenou kvótou 20 soutěžících v každé kategorii; a
+.. finálové kolo s pevně stanovenou kvótou 8 soutěžících v každé kategorii,
 
 +
-kde všechna kvalifikační i finálová kola budou kombinovat soutěže v lezení na rychlost, bouldering a lezení na obtížnost v tomto pořadí.
+kde všechna kvalifikační i finálová kola budou kombinovat soutěže v lezení na rychlost, boulder a lezení na obtížnost v tomto pořadí.
 
-. Každý závod, který je součástí kombinace, musí být v souladu s příslušnými ustanoveními v části <<#obtiznost>> _(Obtížnost_), <<#bouldering>> (_Bouldering_) a <<#rychlost>> (_Rychlost_) těchto pravidel a s dodatky a doplňujícími informacemi uvedenými v této části (_Kombinace_).
-. Kvalifikační a finálová kola kombinované soutěže se musí konat v samostatných dnech.
+. Každý závod, který je součástí kombinace, musí být v souladu s příslušnými ustanoveními v části <<#obtiznost>> _(Obtížnost_), <<#boulder>> (_Boulder_) a <<#rychlost>> (_Rychlost_) těchto pravidel a s dodatky a doplňujícími informacemi uvedenými v této části (_Kombinace_).
+. Kvalifikační a finálová kola kombinované soutěže se musí konat v samostatných dnech.
 . Kvalifikace kombinované soutěže je organizována tak, že:
-.. Každý závodník musí mít minimálně 30 minut času na odpočinek mezi svým posledním pokusem v soutěži lezení na rychlost a začátkem svých pokusů v soutěži v boulderingu, která následuje; a
-.. Každý závodník musí mít minimálně 120 minut času na odpočinek mezi svým posledním pokusem v soutěži v boulderingu a začátkem svého pokusu v soutěži lezení na obtížnost, která následuje.
+.. Každý závodník musí mít minimálně 30 minut času na odpočinek mezi svým posledním pokusem v soutěži lezení na rychlost a začátkem svých pokusů v soutěži v boulderu, která následuje; a
+.. Každý závodník musí mít minimálně 120 minut času na odpočinek mezi svým posledním pokusem v soutěži v boulderu a začátkem svého pokusu v soutěži lezení na obtížnost, která následuje.
 . Finále kombinované soutěže jsou organizována tak, že:
-.. Každý závodník musí mít minimálně 15 minut času na odpočinek mezi svým posledním pokusem v soutěži lezení na rychlost a začátkem svých pokusů v soutěži v boulderingu, která následuje; a
-.. Každý závodník musí mít minimálně 15 minut času na odpočinek mezi svým posledním pokusem v soutěži v boulderingu a začátkem svého pokusu v soutěži lezení na obtížnost, která následuje.
+.. Každý závodník musí mít minimálně 15 minut času na odpočinek mezi svým posledním pokusem v soutěži lezení na rychlost a začátkem svých pokusů v soutěži v boulderu, která následuje; a
+.. Každý závodník musí mít minimálně 15 minut času na odpočinek mezi svým posledním pokusem v soutěži v boulderu a začátkem svého pokusu v soutěži lezení na obtížnost, která následuje.
 
 [#format-kk-kombinace]
 === FORMÁT KVALIFIKAČNÍHO KOLA
 
 . Kvalifikační kolo kombinované soutěže musí být:
-. v případě soutěže lezení na rychlost v souladu s ustanoveními v části <<#rychlost>> (_Rychlost_) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení kvalifikačního kola soutěží v lezení na rychlost.
-. v případě soutěže v boulderingu v souladu s ustanoveními v části <<#bouldering>> (_Bouldering_) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení semifinálového kola soutěží v boulderingu.
-. v případě soutěže lezení na obtížnost v souladu s ustanoveními v části <<#obtiznost>> (_Obtížnost_) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení semifinálového kola soutěží v lezení na obtížnost.
-. Startovní pořadí v kvalifikačním kole kombinované soutěže je následující:
-.. Pokud se jedná o soutěže v boulderingu a lezení na obtížnost je pořadí nasazení v kvalifikaci stanoveno:
-... Jedná-li se o závodníky kvalifikované pro kombinovanou soutěž prostřednictvím kvalifikační soutěže, ve které jsou pořádány závody v lezení na rychlost, boulderingu a lezení na obtížnost, celkové pořadí pro takovou soutěž se vypočítá podle článku <<#celkove-umisteni-kombinace>>.<<#cuk-2,2>> těchto pravidel; a
-... Jedná-li se o závodníky kvalifikované pro kombinovanou soutěž prostřednictvím mnohočetných kvalifikačních soutěží, je rozhodující pořadí vypočítané podle čl. <<#celkove-umisteni-kombinace>>.<<#cuk-2,2>>. těchto pravidel z nejlepších výsledků dosažených v jednotlivých disciplínách v rámci všech kvalifikačních soutěží
-.. Jedná-li se o závodníky v soutěži lezení na rychlost, startovní pořadí pro levou dráhu (Dráha A) musí být v pořadí dle nasazení v kvalifikaci. Startovní pořadí pro pravou dráhu (Dráha B) musí být ve stejném pořadí jako pro dráhu A, ale s 50% odstupem.
+. v případě soutěže lezení na rychlost v souladu s ustanoveními v části <<#rychlost>> (_Rychlost_) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení kvalifikačního kola soutěží v lezení na rychlost.
+. v případě soutěže v boulderu v souladu s ustanoveními v části <<#boulder>> (_Boulder_) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení semifinálového kola soutěží v boulderu.
+. v případě soutěže lezení na obtížnost v souladu s ustanoveními v části <<#obtiznost>> (_Obtížnost_) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení semifinálového kola soutěží v lezení na obtížnost.
+. Startovní pořadí v kvalifikačním kole kombinované soutěže je následující:
+.. Pokud se jedná o soutěže v boulderu a lezení na obtížnost je pořadí nasazení v kvalifikaci stanoveno:
+... Jedná-li se o závodníky kvalifikované pro kombinovanou soutěž prostřednictvím kvalifikační soutěže, ve které jsou pořádány závody v lezení na rychlost, boulderu a lezení na obtížnost, celkové pořadí pro takovou soutěž se vypočítá podle článku <<#celkove-umisteni-kombinace>>.<<#cuk-2,2>> těchto pravidel; a
+... Jedná-li se o závodníky kvalifikované pro kombinovanou soutěž prostřednictvím mnohočetných kvalifikačních soutěží, je rozhodující pořadí vypočítané podle čl. <<#celkove-umisteni-kombinace>>.<<#cuk-2,2>>. těchto pravidel z nejlepších výsledků dosažených v jednotlivých disciplínách v rámci všech kvalifikačních soutěží
+.. Jedná-li se o závodníky v soutěži lezení na rychlost, startovní pořadí pro levou dráhu (Dráha A) musí být v pořadí dle nasazení v kvalifikaci. Startovní pořadí pro pravou dráhu (Dráha B) musí být ve stejném pořadí jako pro dráhu A, ale s 50% odstupem.
 
 [#format-fk-kombinace]
 === FORMÁT FINÁLOVÉHO KOLA
 
 . Finálové kolo kombinované soutěže musí:
-.. Jedná-li se o soutěž v lezení na rychlost, být v souladu s ustanoveními v části <<#rychlost>> (Rychlost) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení finálového kola soutěží v lezení na rychlost.
-.. Jedná-li se o soutěž v boulderingu, být v souladu s ustanoveními v části <<#bouldering>> (Bouldering) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení finálového kola soutěží v boulderingu. Počet boulderů je omezen na 3 a hlavní rozhodčí nemůže žádný boulder zrušit.
-.. Jedná-li se o soutěž v lezení na obtížnost, být v souladu s ustanoveními v části <<#obtiznost>> (Obtížnost) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení finálového kola soutěží v lezení na obtížnost.
+.. Jedná-li se o soutěž v lezení na rychlost, být v souladu s ustanoveními v části <<#rychlost>> (Rychlost) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení finálového kola soutěží v lezení na rychlost.
+.. Jedná-li se o soutěž v boulderu, být v souladu s ustanoveními v části <<#boulder>> (Boulder) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení finálového kola soutěží v boulderu. Počet boulderů je omezen na 3 a hlavní rozhodčí nemůže žádný boulder zrušit.
+.. Jedná-li se o soutěž v lezení na obtížnost, být v souladu s ustanoveními v části <<#obtiznost>> (Obtížnost) těchto pravidel, protože se tato pravidla vztahují k organizaci a řízení finálového kola soutěží v lezení na obtížnost.
 . Startovní pořadí finálového kola kombinované soutěže musí být následující:
-.. Jedná-li se o soutěž v lezení na rychlost, musí být pořadí následující (číselná označení pro závody 1,2 a 3 se týkají pořadí závodníků soutěže lezení na rychlost v kvalifikačním kole):
+.. Jedná-li se o soutěž v lezení na rychlost, musí být pořadí následující (číselná označení pro závody 1,2 a 3 se týkají pořadí závodníků soutěže lezení na rychlost v kvalifikačním kole):
 +
 [cols="10*^.^",options="header"]
 |===
@@ -60,33 +60,33 @@ kde všechna kvalifikační i finálová kola budou kombinovat soutěže v lez
         |[.small]#*B*# |[.small]#Kvalifikovaný #6#         |[.small]#*B*# |[.small]#Vítěz 4#              |[.small]#*B*# |[.small]#Vítěz 8# 
 |===
 +
-To znamená, že prvního závodu se zúčastní závodník umístěný na 1. a 8. místě v rámci soutěže lezení na rychlost v kvalifikačním kole.
+To znamená, že prvního závodu se zúčastní závodník umístěný na 1. a 8. místě v rámci soutěže lezení na rychlost v kvalifikačním kole.
 
-.. Jedná-li se o soutěž v boulderingu, musí být startovní pořadí obrácené oproti výslednému pořadí z předcházející soutěže v lezení na rychlost, tj. nejvýše (nejlépe) umístěný závodník začíná jako poslední.
-.. Jedná-li se o soutěž v lezení na obtížnost, startovní pořadí musí být obracené oproti prozatímnímu celkovému pořadí, které je vypočítáno po ukončení předchozích soutěží v lezení na rychlost a boulderingu, tj. nejvýše (nejlépe) umístěný závodník začíná jako poslední.
+.. Jedná-li se o soutěž v boulderu, musí být startovní pořadí obrácené oproti výslednému pořadí z předcházející soutěže v lezení na rychlost, tj. nejvýše (nejlépe) umístěný závodník začíná jako poslední.
+.. Jedná-li se o soutěž v lezení na obtížnost, startovní pořadí musí být obracené oproti prozatímnímu celkovému pořadí, které je vypočítáno po ukončení předchozích soutěží v lezení na rychlost a boulderu, tj. nejvýše (nejlépe) umístěný závodník začíná jako poslední.
 
 [#poradi-v-ramci-soutezi-kombinace]
-=== POŘADÍ V RÁMCI JEDNOTLIVÝCH SOUTĚŽÍ
+=== POŘADÍ V RÁMCI JEDNOTLIVÝCH SOUTĚŽÍ
 
-Pořadí v rámci všech soutěží, které jsou součástí kombinované soutěže, musí být po finálovém kole vypočítány následovně:
+Pořadí v rámci všech soutěží, které jsou součástí kombinované soutěže, musí být po finálovém kole vypočítány následovně:
 
-. Jedná-li se o soutěž v lezení na rychlost podle ustanovení v části <<#rychlost>> (_Rychlost_) těchto pravidel pro světový formát s následujícími dodatky a doplňujícími informacemi pro finálové kolo:
+. Jedná-li se o soutěž v lezení na rychlost podle ustanovení v části <<#rychlost>> (_Rychlost_) těchto pravidel pro světový formát s následujícími dodatky a doplňujícími informacemi pro finálové kolo:
 .. poražení soutěžící ve čtvrtfinále nejsou vyřazeni, ale absolvují sérii dalších kol pro určení pořadí na 5. až 8. místě. Všichni soutěžící tak absolvují stejný počet kol.
 .. finální pořadí bude určeno na základě finálové série kol:
 ... vítěz závodu č. 9 se umístí na sedmém a poražený na osmém místě;
 ... vítěz závodu č. 10 se umístí na pátém a poražený na šestém místě;
 ... vítěz závodu č. 11 se umístí na třetím a poražený na čtvrtém místě;
 ... vítěz závodu č. 12 se umístí na prvním a poražený na druhém místě;
-. Jedná-li se o soutěž v boulderingu podle ustanovení v části <<#bouldering>> (_Bouldering)_ těchto pravidel s následujícími dodatky a doplňujícími informacemi:
-.. [[pvrjs-a]]V takovém případě, kdy dva nebo více závodníků dosáhnou stejného výsledku v soutěži, pak je pořadí určeno porovnáním počtu úspěšných dokončených boulderů na 1. pokus, následně porovnáním počtu úspěšných dokončených boulderů na 2. pokus.
+. Jedná-li se o soutěž v boulderu podle ustanovení v části <<#boulder>> (_Boulder)_ těchto pravidel s následujícími dodatky a doplňujícími informacemi:
+.. [[pvrjs-a]]V takovém případě, kdy dva nebo více závodníků dosáhnou stejného výsledku v soutěži, pak je pořadí určeno porovnáním počtu úspěšných dokončených boulderů na 1. pokus, následně porovnáním počtu úspěšných dokončených boulderů na 2. pokus.
 .. pokud po aplikaci bodu a) existuje shoda, pak je pořadí určeno porovnáním počtu zón získaných na 1. pokus, následně počtem zón získaných na 2. pokus atd.
-.. [[pvrjs-c]]v takovém případě, kdy dva nebo více závodníků dosáhnou stejného výsledku v soutěži v boulderingu ve finálovém kole, je relativní pořadí určeno porovnáním výsledků kvalifikace příslušných závodníků.
-.. Pokud i po aplikaci bodů <<#pvrjs-a,a.>> až <<#pvrjs-c,c.>> existuje shoda, pak budou aplikována relevantní ustanovení v části <<#bouldering>> (_Bouldering_). V opačném případě budou závodníci umístěni na stejné pozici.
+.. [[pvrjs-c]]v takovém případě, kdy dva nebo více závodníků dosáhnou stejného výsledku v soutěži v boulderu ve finálovém kole, je relativní pořadí určeno porovnáním výsledků kvalifikace příslušných závodníků.
+.. Pokud i po aplikaci bodů <<#pvrjs-a,a.>> až <<#pvrjs-c,c.>> existuje shoda, pak budou aplikována relevantní ustanovení v části <<#boulder>> (_Boulder_). V opačném případě budou závodníci umístěni na stejné pozici.
 . Jedná-li se o soutěž v lezení na obtížnost podle ustanovení v části <<#obtiznost>> (_Obtížnost_) těchto pravidel s následujícími dodatky a doplňujícími informacemi:
 .. V takovém případě, kdy dva nebo více závodníků dosáhnou stejného výsledku v kvalifikačním kole, je relativní pořadí závodníků se stejným výsledkem určeno porovnáním jejich časů lezení na trase (nižší čas je lepší);
 .. V takovém případě, kdy dva nebo více závodníků dosáhnou stejného výsledku v soutěži lezení na obtížnost ve finálovém kole, je relativní pořadí závodníků se stejným výsledkem určeno:
 ... [[pvrjs-i]]porovnáním jejich časů lezení na finálové trase (nižší čas je lepší); a
-... [[pvrjs-ii]]pokud je po aplikování <<#pvrjs-i,i.>> stále shoda a je k dispozici oficiání video záznam schopný měřit čas na 1/10 sekundy musí být použitý k určení času lezení.
+... [[pvrjs-ii]]pokud je po aplikování <<#pvrjs-i,i.>> stále shoda a je k dispozici oficiání video záznam schopný měřit čas na 1/10 sekundy musí být použitý k určení času lezení.
 ... [[pvrjs-iii]]pokud následovně jakýkoliv závodník zůstane se stejným výsledkem, je relativní pořadí závodníků se stejným výsledkem stanoveno porovnáním výsledků kvalifikace příslušných závodníků.
 ... pokud po aplikování  <<#pvrjs-i,i.>> až  <<#pvrjs-iii,iii.>> zůstává shoda mezi závodníky na prvním místě budou závodníci umístěni na stejné pozici.
 
@@ -95,21 +95,21 @@ Pořadí v rámci všech soutěží, které jsou součástí kombinované sout�
 
 . Celkové umístění v kombinované soutěži je vypočítáno po ukončení všech kol ve všech zúčastněných kategoriích závodníků.
 . [[cuk-2]]Pouze závodníci, kteří se zúčastnili soutěží ve všech třech disciplínách, budou zahrnuti do celkového umístění, které se stanoví následujícím způsobem.
-.. Každému závodníkovi budou uděleny body za pořadí v každé ukončené soutěži v jednotlivých disciplínách:
-... v případě samostatného umístění v soutěži v dané disciplíně získá závodník body odpovídající jeho umístění
-... v případě kdy dva nebo více závodníků dosáhnou v soutěži v dané disciplíně nerozhodného výsledku, získá závodník body odpovídající průměrnému pořadí shodných závodníků.
+.. Každému závodníkovi budou uděleny body za pořadí v každé ukončené soutěži v jednotlivých disciplínách:
+... v případě samostatného umístění v soutěži v dané disciplíně získá závodník body odpovídající jeho umístění
+... v případě kdy dva nebo více závodníků dosáhnou v soutěži v dané disciplíně nerozhodného výsledku, získá závodník body odpovídající průměrnému pořadí shodných závodníků.
 +
 např. pokud je shoda na 4. místě čtyř závodníků, pak body budou rovny stem:[( 4 + 5 + 6 + 7 ) \div 4 = 5,5]
 .. Celkový počet bodů se u každého příslušného závodníka rovná součinu bodů, které získali ve všech soutěžích (v jednotlivých disciplínách)
-.. Každému závodníkovi budou uděleny celkové body ve vzestupném pořadí, které se vypočítají pro všechny závodníky (tj. nižší hodnoty jsou lepší). V případě, že někteří soutěžící mají stejné celkové bodové ohodnocení, relativní celkové pořadí těchto závodníků s nerozhodnými výsledky se stanoví:
+.. Každému závodníkovi budou uděleny celkové body ve vzestupném pořadí, které se vypočítají pro všechny závodníky (tj. nižší hodnoty jsou lepší). V případě, že někteří soutěžící mají stejné celkové bodové ohodnocení, relativní celkové pořadí těchto závodníků s nerozhodnými výsledky se stanoví:
 ... [[cuk-2i]]porovnáním vzájemného výkonu těchto soutěžících; a
-...[[cuk-2ii]] pouze ve finálovém kole, v případě celkového hodnocení, kde takové vzájemné porovnání nemůže rozhodnout, dojde k porovnání výsledků kvalifikace příslušných závodníků.
+...[[cuk-2ii]] pouze ve finálovém kole, v případě celkového hodnocení, kde takové vzájemné porovnání nemůže rozhodnout, dojde k porovnání výsledků kvalifikace příslušných závodníků.
 +
 .Porovnání vzájemného výkonu remizujících soutěžících podle <<#cuk-2i,i.>>
 ====
 [cols=",,,,,,",options="header",]
 |===
-|Závodník |Rychlost |Bouldering |Obtížnost |Celkové body |Počet lepších umístění |
+|Závodník |Rychlost |Boulder |Obtížnost |Celkové body |Počet lepších umístění |
 |AAA |4. |*1.* |3. |12 |1 |
 |BBB |*3.* |4. |*1.* |12 |2 |Vítěz
 |===
@@ -119,7 +119,7 @@ např. pokud je shoda na 4. místě čtyř závodníků, pak body budou rovny st
 ====
 [cols=",,,,,,,",]
 |===
-|Závodník |Rychlost |Bouldering |Obtížnost |Celkové body |Výsledek kvalifikace |Počet lepších umístění |
+|Závodník |Rychlost |Boulder |Obtížnost |Celkové body |Výsledek kvalifikace |Počet lepších umístění |
 |AAA |12. |3,5 |*4.* |168 |*4* |1 |
 |BBB |*4* |3,5 |12. |168 |*3* |1 |Vítěz
 |===
@@ -129,11 +129,11 @@ např. pokud je shoda na 4. místě čtyř závodníků, pak body budou rovny st
 ====
 [cols=",,,,,,,",]
 |===
-|Závodník |Rychlost |Bouldering |Obtížnost |Celkové body |Výsledek kvalifikace |Počet lepších umístění |
+|Závodník |Rychlost |Boulder |Obtížnost |Celkové body |Výsledek kvalifikace |Počet lepších umístění |
 |AAA |12. |7. |4. |336 |*7* |1 |
 |BBB |7. |4. |12. |336 |*4* |1 |
 |CCC |4. |12. |7. |336 |*3* |1 |Vítěz
 |===
 ====
 +
-. Předběžné celkové hodnocení by mělo být vypočítáno po ukončení soutěží v lezení na rychlost a boulderingu ve všech kolech kombinované soutěže pro všechny zúčastněné kategorie závodníků, přičemž tyto výsledky z těchto dvou soutěží se použijí pouze pro výpočet.
+. Předběžné celkové hodnocení by mělo být vypočítáno po ukončení soutěží v lezení na rychlost a boulderu ve všech kolech kombinované soutěže pro všechny zúčastněné kategorie závodníků, přičemž tyto výsledky z těchto dvou soutěží se použijí pouze pro výpočet.

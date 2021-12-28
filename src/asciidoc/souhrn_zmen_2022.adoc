@@ -17,8 +17,23 @@ v1.2, 1.1.2022
 
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
-Předregistrace do závodu končí v úterý v 8.00 hod. Registrace v den závodu není možná.
-V 1. lize mládeže
+Rukavice a chrániče kolen jsou zakázány, pokud je pravidla výslovně nepovolí.
+
+V závodech na rychlost jsou povoleny chrániče loktů a kolen.
+
+Předregistrace do závodu končí zpravidla v úterý v 8.00 hod. Registrace v den závodu není možná.
+
+Přejmenovaná disciplína Bouldering na Boulder. 
+
+Disciplína kombinace odstraněna z pravidel. 
+
+Změna vyhodnocení pořadí u rychlosti, pokud je stejný výkon ve finálovém rozběhu.
+
+Specifikováno, kdy musí proběhnout čištění cest na rychlost.
+
+Zaveden do pravidel asistenční pes.
+
+V Boulderu si závodníci kvalifikační skupinu nebudou volit. Bude jim přiřazena na základě umístění v rankingu.
 
 V 2. lize mládeže nesmí startovat zahraniční závodníci bez trvalého pobytu v ČR.
 

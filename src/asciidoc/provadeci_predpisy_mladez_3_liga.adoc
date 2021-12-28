@@ -44,12 +44,12 @@ Podmínky registrace stanovuje pořadatel.
 . Závody netvoří ucelený seriál závodů a probíhají v následujících disciplínách:
 .. Obtížnost
 .. Rychlost
-.. Bouldering
+.. Boulder
 .. různé kombinace výše uvedených
 
 == Závodníci 
 
-. Všechny závody mládeže ve všech disciplínách jsou otevřené pouze pro české účastníky a  cizince kteří mají v České republice trvalý pobyt. Závody probíhají v <<pravidla_sl.adoc#mezinarodni-format,mezinárodním formátu>>.
+. Všechny závody mládeže ve všech disciplínách jsou otevřené pouze pro české účastníky a cizince kteří mají v České republice trvalý nebo dlouhodobý pobyt. Závody probíhají v <<pravidla_sl.adoc#mezinarodni-format,mezinárodním formátu>>.
 
 . Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
 

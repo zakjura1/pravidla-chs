@@ -14,13 +14,15 @@ může:: představuje volitelnou záležitost
 
 . Následující definice použité v těchto pravidlech znamenají
 
+[[asistencni-pes]]Asistenční pes:: je pes, který poskytuje asistenci zdravotně postižené osobě a je vytrénován aby zmírnil její postižení.
+
 [[bezpecnostni-chyt]]Bezpečnostní chyt:: je takový chyt, který hlavní stavěč určil, z důvodu bezpečnosti, jako poslední možný, ze kterého se musí zapnout příslušný <<#jistici-bod, Jistící bod>>. Jistící bod i chyt musí být označeny modrým křížkem a závodníci na něj musí být během prohlídky upozorněni.
 
 [[blokovaci-jistitka]]Blokovací jistící zařízení:: jsou zařízení, která splňují normu link:https://www.nlfnorm.cz/terminologicky-slovnik/82180[ČSN EN 15151-1]
 
 [[cerna-paska]]Černá páska:: je páska černé barvy. V případě nutnosti lze využít jinou, kontrastní barvu, pak ale musí být tato barva jasně specifikována při prohlídce cesty
 
-[[cesky-pohar]]Český pohár:: označuje nejvyšší úroveň série závodů schválených ČHS včetně <<#mistrovstvi,Mistrovství>> v disciplínách Bouldering, Obtížnost a Rychlost, která je otevřená závodníkům:
+[[cesky-pohar]]Český pohár:: označuje nejvyšší úroveň série závodů schválených ČHS včetně <<#mistrovstvi,Mistrovství>> v disciplínách Boulder, Obtížnost a Rychlost, která je otevřená závodníkům:
 +
 --
  .. ve věku 16 let a více v roce poháru
@@ -59,11 +61,11 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
 |===
 |U8  |ročník 2015 a mladší (děti do 7 let včetně)
 |U10 |ročník 2013 - 2014 (děti 8 - 9 let)
-|U12 |ročníky 2012 - 2011 (10 - 11 let)
-|U14 |ročníky 2010 - 2009 (12 - 13 let)
-|kategorie B (U16) |ročníky 2008 - 2007 (14 - 15 let)
-|kategorie A (U18) |ročníky 2006 - 2005 (16 - 17 let)
-|kategorie J (U20) |ročníky 2004 - 2003 (18 - 19 let)
+|U12 |ročníky 2011 - 2012 (10 - 11 let)
+|U14 |ročníky 2009 - 2010 (12 - 13 let)
+|kategorie B (U16) |ročníky 2007 - 2008 (14 - 15 let)
+|kategorie A (U18) |ročníky 2005 - 2006 (16 - 17 let)
+|kategorie J (U20) |ročníky 2003 - 2004 (18 - 19 let)
 |dospělí     |ročník 2006 a starší (16 let a více)
 |masters     |ročník 1982 a starší (40 let a více)
 |legends     |ročník 1972 a starší (50 let a více)
@@ -89,12 +91,12 @@ Věkové kategorie pro celý rok jsou dané. Závodník může závodit pouze ve
 .. [[ls-2,{counter:ls}]]Je-li potřeba ohraničit chyty, části stěny nebo struktury, které nejsou k lezení povoleny, je k tomuto vymezení třeba použít  <<#cerna-paska,černou pásku>>. 
 
 [[lezecky-povrch]]Lezecký povrch:: představuje použitelnou plochu lezecké stěny:
- .. zahrnující jakýkoliv Přirozený chyt (neodstranitelnou část stěny, které se dá držet), a
+ .. zahrnující jakýkoliv <<#prirozeny-chyt,Přirozený chyt>> a
  .. vylučující jakýkoliv <<#umely-chyt, Umělý chyt>>, strukturu nebo jinou dočasnou <<#struktura,Strukturu>> uchycenou na použitelnou plochu
 
  [[manualni-jistitka]]Manuální jistící zařízení:: jsou zařízení, která splňují normu link:https://www.nlfnorm.cz/terminologicky-slovnik/82171[ČSN EN 15151-2]
 
-[[mistrovstvi]]Mistrovství:: označuje nejvyšší Soutěž schválenou ČHS v disciplínách Bouldering, Rychlost, Obtížnost, která je otevřená soutěžícím:
+[[mistrovstvi]]Mistrovství:: označuje nejvyšší Soutěž schválenou ČHS v disciplínách Boulder, Rychlost, Obtížnost, která je otevřená soutěžícím:
 +
 --
  .. ve věku 16 let a více v daném roce je relevantní „Mezinárodní Mistrovství ČR“
@@ -152,6 +154,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[prubezne-vysledky]]Průběžné výsledky/Neoficiální výsledky:: jsou výsledky, které jsou publikovány nebo kolují dříve, než je <<#chs-official,Oficiální činovník ČHS>> pro daný závod nebo jakoukoliv cestu či kolo během závodu publikuje
 
+[[prirozeny-chyt]]Přirozený chyt:: představuje jakoukoliv nepravidelnost nebo texturovaný prvek tvořící součast lezecké plochy, nebo jakákoliv uzavřená hrana lezecké plochy
 [[puvodni-rozhodnuti]]Původní rozhodnutí:: je takové rozhodnutí, které platilo předtím, než na něj byl podán platný protest dle příslušných stanovení v <<#protesty>>
 
 [[reakcni-cas]]Reakční čas:: je rozdíl mezi časem, kdy soutěžící opustil startovní desku a začátkem startovního signálu. Měří se minimálně na 0,01 sekundy a může být 0, kladný nebo záporný

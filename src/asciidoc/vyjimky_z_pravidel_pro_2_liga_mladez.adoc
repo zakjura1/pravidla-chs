@@ -106,7 +106,7 @@ Kategorie U14:: musí lézt se spodním jištěním
 
 . Rozhodčí povolí závodníkovi na jeho žádost jeden další pokus v kvalifikačních cestách v případě pádu pod první expreskou nebo pod určeným označeným chytem, oznámeným v průběhu prohlídky. Aby nebylo pochyb, chyt může být jen <<pravidla_sl.adoc#kontrolovat,kontrolován>> a nesmí být <<pravidla_sl.adoc#pouzit,použit>> k dalšímu postupu.
 
-== Bouldering
+== Boulder
 === Povolené formáty
 U závodů 2. ligy, kde lze kromě ustanovení pravidel sportovního lezení využít i tyto možnosti:
 
@@ -114,12 +114,12 @@ U závodů 2. ligy, kde lze kromě ustanovení pravidel sportovního lezení vyu
 . kvalifikace a finále světovým formátem
 
 === Prohlídka boulderů
-. Na prohlídku boulderů, pokud se leze <<pravidla_sl.adoc#bouldering-format-sp,světovým formátem>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
+. Na prohlídku boulderů, pokud se leze <<pravidla_sl.adoc#boulder-format-sp,světovým formátem>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
 === Průběh závodu
 . Kvalifikace se leze bez <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>
 
-. Pro závody 2. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-bouldering-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-bouldering-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel sportovního lezení 2022>>, která zde mají pouze doporučující charakter.
+. Pro závody 2. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-boulder-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-boulder-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel sportovního lezení 2022>>, která zde mají pouze doporučující charakter.
 
 == Rychlost
 === Předčasný start v závodech na rychlost

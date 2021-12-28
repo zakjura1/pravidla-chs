@@ -8,7 +8,7 @@
 
 . Soutěže v lezení na obtížnost se konají na účelově vyrobených umělých stěnách s minimální výškou 10 metrů, které dovolují postavit cesty s minimální délkou 12 metrů a minimální šířkou každé cesty 3 metry. Hlavní rozhodčí může po úvaze povolit šířku menší než 3 metry na omezeném úseku cesty.
 
-. Všechny soutěže v lezení na obtížnost se lezou se spodním jištěním soutěžícího. U vybraných kategorií mládeže je povoleno lézt s horním jištěním – top-rope. Příslušné kategorie jsou uvedeny ve výjimkách z pravidel pro závody mládeže příslušných lig.
+. Všechny soutěže v lezení na obtížnost se lezou se spodním jištěním soutěžícího. U vybraných kategorií mládeže je povoleno lézt s horním jištěním – top-rope. Příslušné kategorie jsou uvedeny ve výjimkách z pravidel pro závody mládeže příslušných lig.
 
 . Soutěž v lezení na obtížnost se obvykle sestává z:
 .. kvalifikačního kola, které se musí odehrávat na dvou nestejných cestách. Obě cesty musí být přibližně stejného rázu a podobné technické obtížnosti. Cesty jsou přelézány po provedeném předlezení;
@@ -34,7 +34,7 @@ ale pokud je to možné, návrh cesty by měl být udělaný tak, aby toto nebyl
 === BEZPEČNOST A JIŠTĚNÍ
 
 . Hlavní rozhodčí
-.. společně s Hlavním stavěčem musí zkontrolovat každou cestu před zahájením každého kola. Hlavní stavěč může označit, že jistící bod musí být z důvodu bezpečnosti zapnutý z příslušného chytu (<<#bezpecnostni-chyt,Bezpečností chyt>>) nebo dříve. V těchto případech příslušný chyt a jistící body musí být zřetelně označené modrým křížem a upozorněno na tuto skutečnost během prohlídky cesty.
+.. společně s Hlavním stavěčem musí zkontrolovat každou cestu před zahájením každého kola. Hlavní stavěč může označit, že jistící bod musí být z důvodu bezpečnosti zapnutý z příslušného chytu (<<#bezpecnostni-chyt,Bezpečnostní chyt>>) nebo dříve. V těchto případech příslušný chyt a jistící body musí být zřetelně označené modrým křížem a upozorněno na tuto skutečnost během prohlídky cesty.
 .. rozhodne, zda má být lano vyměněno kdykoliv během soutěže
 
 . Každý soutěžící musí mít nasazen úvazek. Hlavní rozhodčí nesmí povolit start soutěžícího, pokud má oprávněné důvody věřit, že úvazek soutěžícího je nebezpečný.
@@ -90,7 +90,7 @@ Při 21 soutěžících v dané kategorii, pak ten, který lezl jako 11. na prvn
 . Musí se dodržet následující minimální časové mezery:
 .. Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druhé cestě musí být minimálně 30 minut.  
 .. Konají-li se dvě návazná kola po sobě (kvalifikace – semifinále, semifinále – finále u závodů nejvyšších soutěží, kvalifikace – finále u závodů 1. ligy), musí být minimálně 2 hodiny mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další. V nezbytných případech může Hlavní rozhodčí rozhodnout o zkrácení této doby, doba mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další nesmí klesnout pod 1 hodinu a informace o tomto zkrácení pak musí být veřejně vyhlášena a vyvěšena na oficiální tabuli nejpozději 15 minut před startem prvního závodníka v poslední cestě 1. kola.
-.. Izolace by neměla být uzavřena dříve, než 1 hodinu před startem prvního závodníka. V případě více kategorií závodících na stejné cestě je myšlen první závodník první kategorie.
+.. Izolace by neměla být uzavřena dříve, než 1 hodinu před startem prvního závodníka. V případě více kategorií závodících na stejné cestě je myšlen první závodník první kategorie.
 . Každý soutěžící musí zahájit pokus na jakékoliv cestě v pořadí definovaném oficiální startovní listinou. Start se nesmí přeplánovat, pokud soutěžící nemůže v daném čase odstartovat.
 . Chyty na cestě je třeba čistit. Četnost čistění chytů určí Hlavní rozhodčí po poradě s Hlavním stavěčem. Maximální počet pokusů před každým čištěním je standardně 20 a nikdy nesmí překročit 22. Čistící úkony je v průběhu kola třeba rovnoměrně rozvrhnout. Četnost čištění je nutné soutěžícím oznámit v rámci technické instruktáže v izolaci a je třeba o něm informovat i na všech vydaných startovních listinách. 
 . Před zahájením finálového kola musí proběhnout představení soutěžících v daném kole. Finálové kolo pro jakoukoliv jednu kategorii nesmí trvat déle než 90 minut.
@@ -143,7 +143,7 @@ ale nesmí používat žádné nahrávací zařízení
 .. soutěžící
 ... překročil určený časový limit pro danou cestu 
 ... vrátil se zpět na zem po zahájení pokusu na cestě 
-... využije jakoukoliv umělou pomůcku neuvedenou v pravidlech a neschválenou Hlavním rozhodčím.
+... využije jakoukoliv umělou pomůcku neuvedenou v pravidlech a neschválenou Hlavním rozhodčím.
 
 . Hlavní rozhodčí může ukončit pokus soutěžícího jestliže:
 .. soutěžící již není v legitimní pozici, nebo
@@ -170,7 +170,7 @@ ale nesmí používat žádné nahrávací zařízení
 
 . Hodnocení pokusu soutěžícího bude pozastaveno na posledním chytu v nákresu, který Hlavní stavěč považuje za poslední, ze kterého je možné zapnout nezapnutou expresku a soutěžící tento chyt drží nebo jej mine. A to až do okamžiku, kdy je tato expreska zapnuta.
 
-. Pokud soutěžící <<#pouzit,použije>> nebo <<#kontrolovat,drží chyt>>, který není v nákresu cesty, tak Hlavní rozhodčí spolu s Hlavním stavěčem přiřadí tomuto chytu bodovou hodnotu. Aby se předešlo pochybnostem, tato hodnota může být stejná jako již existující jiný chyt nebo nová.
+. Pokud soutěžící <<#pouzit,použije>> nebo <<#kontrolovat,drží chyt>>, který není v nákresu cesty, tak Hlavní rozhodčí spolu s Hlavním stavěčem přiřadí tomuto chytu bodovou hodnotu. Aby se předešlo pochybnostem, tato hodnota může být stejná jako již existující jiný chyt nebo nová.
 
 . Chyt musí být jako takový definován Hlavním stavěčem před začátkem soutěžního kola a musí být zakreslen na nákresu cesty používaném traťovými rozhodčími k hodnocení nebo musí být při soutěži alespoň jedním soutěžícím úspěšně použit k postupu. Každému chytu je přiřazena bodová hodnota, definovaná vzestupnou číselnou řadou hodnot přiřazených jednotlivým chytům v linii cesty od nástupního chytu do posledního chytu v cestě.
 

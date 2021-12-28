@@ -18,7 +18,7 @@
 
 [#bezpecnost-rychlost]
 === BEZPEČNOST
-
+. Soutěžící může mít nasazené chrániče loktů nebo kolen aby se snížilo riziko zranění a krvácení.
 . Všechny cesty se musejí lézt s horním jištěním (top-rope)
 . Jištění soutěžících probíhá buď manuálně, nebo za pomocí automatického jistícího zařízení (naviják). Leze-li se na více cestách (Klasický nebo Světový formát), musí být pro obě cesty využito stejného způsobu jištění.
 . Vratný jistící bod, resp. zařízení pro automatické jištění musí být umístěný nad/za koncový spínač časomíry nebo signalizační zařízení pro danou cestu.
@@ -158,11 +158,9 @@ image::pavouk_rychlost.jpg[Varianty pavouka,width=475,height=651,align="center"]
 Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo 1 (Klasický formát), respektive leze cestu č. 1 (Světový formát).
 
 . [[fksfr-4]]Pořadí v jakémkoliv finálovém kole bude určeno následovně:
-.. Pokud oba závodníci mají uspěšný pokus, pak vyhrává závodník s rychlejším časem
+.. Pokud oba závodníci mají úspěšný pokus, pak vyhrává závodník s rychlejším časem
 .. Pokud závodník předčasně odstartoval, pak vyhrává druhý závodník. V případě předčasného startu na prvním rozběhu v klasickém formátu, musí postupující závodník absolvovat i druhou cestu sám.
-.. Pokud oba závodníci dosáhnou stejného času nebo nemají platný čas z jiného důvodu než předčasný start potom:
-... Vyhrává závodník s lepším umístěním v kvalifikaci nebo
-... Pokud mají v kvalifikaci stejné umístění, pak se rozběh opakuje
+.. Pokud oba závodníci dosáhnou stejného času nebo nemají platný čas z jiného důvodu než předčasný start potom se příslušný rozběh opakuje. Pokud i po tomto rozběhu závodníci nebyli rozřazeni, pak budou porovnáni podle pořadí z kvalifikace. Aby se předešlo pochybnostem rozběh se neopakuje jestliže oba soutěžící nemohou odstartovat.
 .. Pokud se závodník neohlásí po vyvolání, pak vyhrává druhý závodník
 . Vždy musí proběhnout rozřazovací kolo o třetí a čtvrté místo (malé finále), a to dříve, než proběhne finále o 1. na 2. místo.
 . V případě předčasného startu v souboji o 1. místo musí vítěz absolvovat další pokus pro získání platného času.
@@ -224,6 +222,7 @@ NOTE: rozhodnutí o předčasném startu dle bodu <<plr-8b,b.>> lze uplatnit pou
 +
 . Na konci každé cesty musí soutěžící zastavit časomíru tím, že rukou stiskne její spínač.
 . Závodník má v cestě jeden pokus, pokud nedojde k technickému incidentu.
+. Každa cesta na rychlost bude vyčištěna po skončení oficiálního tréninku a před zahájením finálových rozběhů.
 
 [#technicke-incidenty-rychlost]
 === TECHNICKÉ INCIDENTY
@@ -234,7 +233,7 @@ NOTE: rozhodnutí o předčasném startu dle bodu <<plr-8b,b.>> lze uplatnit pou
 .. Příliš povolené lano, které soutěžícímu překáží;
 .. Zjevná nebo systematická porucha systému časomíry;
 .. Jakákoliv jiná událost, která pro soutěžícího vyústí ve znevýhodnění nebo v nespravedlivé zvýhodnění a kterou soutěžící svým počínáním nezpůsobil.
-. Pokud závodník, nebo jeho zástupce si myslí, že nastal technický incident, musí o něm okamžitě informovat hlavního rozhodčího před startem dalšího rozběhu.
+. Pokud účastnící se závodník, nebo jeho <<#oficialni-doprovod,oficiální doprovod>> si myslí, že nastal technický incident, musí o něm okamžitě informovat hlavního rozhodčího před startem dalšího rozběhu.
 . Za účelem rozhodnutí o technickém incidentu může hlavní rozhodčí dle potřeby využít oficiální video záznam, požadovat otestování systému nebo požádat stavěče nebo jinou osobu z řad pořadatelů o vylezení cesty a zmáčknutí horního tlačítka.
 . Jestliže technický incident může být opraven a má se zato, že ovlivnil jen jeden rozběh, pak závodníci, které technický incident přímo ovlivnil, opakují svůj pokus.
 . Jestliže technický incident nemůže být opraven nebo se má zato, že ovlivnil všechny soutěžící v příslušném kole, pak hlavní rozhodčí může buď zrušit aktuální kolo a všechny následující nebo zrušit a restartovat celé kolo.

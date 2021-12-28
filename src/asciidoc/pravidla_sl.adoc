@@ -28,9 +28,11 @@ include::{includedir}/_obecna_pravidla.adoc[]
 
 include::{includedir}/_obtiznost.adoc[]
 
-include::{includedir}/_bouldering.adoc[]
+include::{includedir}/_boulder.adoc[]
 
 include::{includedir}/_rychlost.adoc[]
+
+include::{includedir}/_boulder_obtiznost.adoc[]
 
 include::{includedir}/_kombinace.adoc[]
 

@@ -4,16 +4,17 @@
 [#discipliny]
 === DISCIPLÍNY
 . Soutěže ve sportovním lezení se dělí do následujících disciplín:
-.. Lezení na obtížnost: cesty se lezou s jištěním soutěžícího lanem a nejdelší dosažená vzdálenost v linii cesty určuje umístění soutěžícího.
-.. Bouldering: řada jednotlivých, krátkých cest (boulderů) je lezena bez lezeckého lana, s ochrannými matracemi. Úhrnný počet bodů dosažených soutěžícím při lezení boulderů a počet pokusů nutných k jejich získání určuje umístění soutěžícího.
+.. Obtížnost: cesty se lezou s jištěním soutěžícího lanem a nejdelší dosažená vzdálenost v linii cesty určuje umístění soutěžícího.
+.. Boulder: řada jednotlivých, krátkých cest (boulderů) je lezena bez lezeckého lana, s ochrannými matracemi. Úhrnný počet bodů dosažených soutěžícím při lezení boulderů a počet pokusů nutných k jejich získání určuje umístění soutěžícího.
 .. Rychlost: cesty jsou lezeny s horním jištěním (top-rope). O umístění soutěžícího rozhoduje čas, potřebný k přelezení cesty.
-.. Kombinace: soutěží se ve všech třech uvedených disciplínách (obtížnost, rychlost, bouldering), úhrnný počet bodů získaný soutěžícím za umístění v jednotlivých disciplínách určuje umístění soutěžícího.
-. Soutěže se mohou sestávat z oddělených soutěží pro lezení na obtížnost, boulderingu a lezení na rychlost. V jednotlivé soutěži nemusejí být všechny disciplíny zastoupeny.
+.. Boulder&Obtížnost: soutěží se v disciplínách Boulder a Obtížnost. Výkony v jednotlivých disciplínách se převedou na body a jejich součet určí celkové pořadí.
+
+. Soutěže se mohou sestávat z oddělených soutěží pro lezení na obtížnost, boulderu a lezení na rychlost. V jednotlivé soutěži nemusejí být všechny disciplíny zastoupeny.
 . Každá národní soutěž musí zahrnovat dvě kategorie: mužskou a ženskou.
 . Národní soutěže mohou obsahovat cesty/bouldery, které jsou přelézány:
 .. za dodržení <<#podminky-izolace,podmínek izolace>> - po schválené prohlídce cesty (pokud ji umožňuje daný formát), kdy soutěžícím není dovoleno vidět ostatní soutěžící v cestě nebo boulderu před svým pokusem;
 .. bez dodržení <<#podminky-izolace,podmínek izolace>> - po předlezení cesty/boulderu předlezcem a/nebo po zhlédnutí pokusů ostatních soutěžících.
-. Národní soutěže jsou vyhlašovány v mezinárodním nebo Open formátu. Tato informace musí být uvedena v propozicích závodu.
+. Národní soutěže jsou vyhlašovány v mezinárodním nebo Open formátu. Tato informace musí být uvedena v propozicích závodu.
 .. [[mezinarodni-format]]Mezinárodní formát – počty postupujících závodníků do dalších kol se nenavyšují o zahraniční účastníky
 .. [[open-format]]Open formát – počty postupujících závodníků do dalších kol se navyšují o zahraniční účastníky
 
@@ -51,11 +52,11 @@
 |Expreska / rychlospojka| link:https://www.nlfnorm.cz/ehn/2110[ČSN EN 12275] (typ Q)
 |===
 +
-. V rámci těchto požadavků musejí soutěžící v lezení na obtížnost a na rychlost používat jednoduché lano poskytnuté pořadateli (výjimkou je pouze použití automatického jistícího zařízení v případě lezení na rychlost). O frekvenci, se kterou se lano bude měnit, musí rozhodnout Hlavní rozhodčí.
+. V rámci těchto požadavků musejí soutěžící v lezení na obtížnost a na rychlost používat jednoduché lano poskytnuté pořadateli (výjimkou je pouze použití automatického jistícího zařízení v případě lezení na rychlost). O frekvenci, se kterou se lano bude měnit, musí rozhodnout Hlavní rozhodčí.
 
 [#zdravotnicky-personal]
 === ZDRAVOTNICKÝ PERSONÁL
-. Hlavní rozhodčí musí ověřit, že je na místě vhodně kvalifikovaný zdravotnický personál, aby bylo možné zajistit rychlou pomoc v případě jakékoliv nehody nebo úrazu soutěžícího nebo oficiálního doprovodu týmu. Tento zdravotnický personál soutěže musí být přítomen od plánovaného otevření izolace nebo rozcvičovací zóny do konce pokusu posledního soutěžícího.
+. Hlavní rozhodčí musí ověřit, že je na místě vhodně kvalifikovaný zdravotnický personál, aby bylo možné zajistit rychlou pomoc v případě jakékoliv nehody nebo úrazu jakéhokoliv <<#clenove-tymu,člena týmu>>. Tento zdravotnický personál soutěže musí být přítomen od plánovaného otevření izolace nebo rozcvičovací zóny do konce pokusu posledního soutěžícího.
 . Existují-li důvody věřit, že je soutěžící z jakéhokoliv důvodu nezpůsobilý soutěžit (např. zranění nebo nemoc), je Hlavní rozhodčí oprávněn vyžádat si prohlídku soutěžícího. Tu provede zdravotník pořadatele a bude spočívat v následujícím tělesném testu:
 .. Dolní končetiny: Soutěžící musí být schopen udělat pět po sobě jdoucích skoků na každé noze.
 .. Horní končetiny: Soutěžící musí být schopen udělat pět po sobě jdoucích kliků na obou rukou.
@@ -79,19 +80,21 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 .. Čas startu kola;
 .. Jakoukoliv jinou informaci schválenou Hlavním rozhodčím.
 . Startovní listiny nesmí obsahovat jména sponzorů nebo partnerů. Je povoleno uvádět pouze oddíl ČHS závodníka, členství v resortním centru (např. Victoria, Olymp apod.),  individuální členství v ČHS nebo nic.
-. Způsob přípravy startovních listin pro jednotlivé disciplíny je uveden v odstavci <<#startovni-listiny-obtiznost>> pro obtížnost, odstavci <<#startovni-listiny-bouldering>> pro bouldering a odstavcích <<#kvalifikace-kf-rychlost>>, <<#kvalifikace-sf-rychlost>>, <<#finale-kf-sf-rychlost>> pro rychlost.
+. Způsob přípravy startovních listin pro jednotlivé disciplíny je uveden v odstavci <<#startovni-listiny-obtiznost>> pro obtížnost, odstavci <<#startovni-listiny-boulder>> pro boulder a odstavcích <<#kvalifikace-kf-rychlost>>, <<#kvalifikace-sf-rychlost>>, <<#finale-kf-sf-rychlost>> pro rychlost.
 
 [#registrace]
 === REGISTRACE
-. Všichni soutěžící způsobilí soutěžit v některém kole soutěže se musejí zaregistrovat v registračním oddělení, a to nejpozději v časovém limitu určeném pořadateli.
+. Všichni soutěžící účastnící se nejvyšších soutěží, závodů 1. a 2. ligy musí mít platnou soutěžní registraci dle https://www.horosvaz.cz/res/archive/423/070396.pdf?seek=1637244137[Směrnice o registraci závodníků]
+. Všichni soutěžící účastnící se nejvyšších soutěží, závodů 1. a 2. ligy se musí do závodu registrovat předem. Dodateční registrace na místě nebude možná.
+. Všichni soutěžící způsobilí soutěžit v některém kole soutěže se musejí zaprezentovat v registračním oddělení, a to nejpozději v časovém limitu určeném pořadateli.
 
 [#soutezni-prostor-p]
 === SOUTĚŽNÍ PROSTOR
 . Soutěžní prostor musí být oddělen od jakéhokoliv veřejně dostupného prostoru
 . Kouření v soutěžním prostoru je zakázáno.
-. Žádný soutěžící nebo člen týmu u sebe nesmí mít žádné elektronické komunikační zařízení, když se nalézá v soutěžním prostoru, aniž by mu to povolil Hlavní rozhodčí.
+. Žádný <<#clenove-tymu,člen týmu>> u sebe nesmí mít žádné elektronické komunikační zařízení, když se nalézá v soutěžním prostoru, aniž by mu to povolil Hlavní rozhodčí.
 . Soutěžící nesmí v průběhu pozorování a lezení poslouchat žádné audio zařízení.
-. Průběžné výsledky mohou být zobrazovány v izolaci nebo viditelné z izolace.
+. Průběžné výsledky mohou být zobrazovány v izolaci nebo viditelné z izolace.
 
 [#pristup-do-soutezniho-prostoru]
 === PŘÍSTUP DO SOUTĚŽNÍHO PROSTORU
@@ -102,14 +105,14 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 .. Oprávnění trenéři (jen <<#izolacni-zona,Izolační zóna>> a <<#rozcvicovaci-zona,Rozcvičovací zóna>>)
 .. Ostatní osoby zmocněné Hlavním rozhodčím. Tyto osoby musejí být během svého setrvání v soutěžním prostoru, v rámci zachování bezpečnosti v soutěžním prostoru a v rámci zabránění nepatřičného rozptylování soutěžících nebo kontaktu s nimi, pod dohledem k tomu zmocněného oficiálního činitele.
 
-. [[pdsp-2,{counter:pdsp}]]Do soutěžního prostoru nesmějí zvířata. Výjimky z tohoto pravidla musí být schváleny Hlavním rozhodčím.
+. [[pdsp-2,{counter:pdsp}]]Do soutěžního prostoru nesmějí jiná zvířata než <<#asistencni-pes,asistenční pes>>. Výjimky z tohoto pravidla musí být schváleny Hlavním rozhodčím.
 
 . [[pdsp-3,{counter:pdsp}]]Soutěžící musejí dodržovat <<#podminky-izolace,podmínky izolace>> během celé doby, kdy se pohybují v soutěžním prostoru, a to včetně přípravných a soutěžních zón. To znamená, že nesmějí získávat jakékoliv informace od osob mimo soutěžní prostor, aniž by měli povolení od Hlavního rozhodčího. Při porušení tohoto pravidla bude soutěžící diskvalifikován.
 
 [#prohlidka-cesty]
 === PROHLÍDKA CESTY
 
-. Před začátkem pokusu daného kola je soutěžícím registrovaným pro toto konkrétní kolo povolena prohlídka cesty, během níž mají příležitost si prohlédnout cestu(y) nebo boulder(y). Konkrétní pravidla pro tato pozorování jsou definována v příslušných odděleních týkajících se lezení na obtížnost, boulderingu a rychlosti.
+. Před začátkem pokusu daného kola je soutěžícím registrovaným pro toto konkrétní kolo povolena prohlídka cesty, během níž mají příležitost si prohlédnout cestu(y) nebo boulder(y). Konkrétní pravidla pro tato pozorování jsou definována v příslušných odděleních týkajících se lezení na obtížnost, boulderu a rychlosti.
 
 . Při prohlídce musejí soutěžící dodržovat pravidla izolace. Trenéři nesmějí soutěžící během pozorování doprovázet. Soutěžící musejí po dobu pozorování setrvat ve vyznačeném pozorovacím prostoru. Není povoleno lézt na stěnu nebo si stoupat na jakékoliv vybavení nebo nábytek. Soutěžící nesmějí žádným způsobem komunikovat s kýmkoliv mimo prostor pro prohlídku.
 
@@ -137,20 +140,22 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 
 . Pořadatel má právo vybavit soutěžící jednotným soutěžním dresem – trikem. Soutěžící je povinen takový dres nosit v průběhu všech svých pokusů a při vyhlášení výsledků.
 
-. Každý závodník
-.. musí mít oblečení na horní i dolní části těla. V případě nevhodných klimatických podmínek může hlavní rozhodčí udělit výjimku z tohoto pravidla.
+. Závodník
+.. musí mít:
+... oblečení na horní i dolní části těla. V případě nevhodných klimatických podmínek může hlavní rozhodčí udělit výjimku z tohoto pravidla.
+... během pokusu lezeckou obuv a v disciplínách, kde to je relevantní úvazek
 
-.. musí mít během pokusu lezeckou obuv a v disciplínách, kde to je relevantní úvazek
+.. může použít:
+... pytlík na magnézium a suché nebo tekuté magnézium pouze na své ruce. Nesmí být použité další činidla pro zvýšení přilnavosti (např. pryskyřice)
+... elastické kompresní bandáže/zábaly (na horní nebo dolní končetiny)
+... kineziologické a podobné pásky pokud je to nutné k prevenci nebo léčbě úrazu
+... helmu
 
-.. může používat pytlík na magnézium a suché nebo tekuté magnézium pouze na své ruce. Nesmí být použité další činidla pro zvýšení přilnavosti (např. pryskyřice)
-
-.. může používat kompresní návleky (na horní nebo dolní končetiny) a/nebo lezecké chrániče kolenou (nákoleníky)
-
-.. může využít tejpování pokud je potřeba k prevenci nebo léčbě úrazu
-
-.. může použít helmu
-
-.. nesmí během pokusu mít oblečené ani nést audio zařízení
+.. nesmí během pokusu mít oblečené ani nést:
+... audio zařízení jakéhokoliv popisu
+... <<#rukavice,rukavice>> nebo <<#chranic-kolen,chrániče kolen>>
++
+jiné než je speciálně povolené těmito pravidly.
 
 . Veškeré vybavení a oblečení musí být v souladu s následujícími pravidly týkajícími se reklamy:
 
@@ -182,7 +187,7 @@ Porušení těchto pravidel bude mít za následek disciplinární postih ve sho
 [#technicke-incidenty]
 === TECHNICKÉ INCIDENTY
 
-. Technický incident je jakákoliv událost, která pro soutěžícího vyústí ve znevýhodnění nebo v nespravedlivé zvýhodnění a kterou soutěžící svým počínáním nezpůsobil. Typy technických incidentů a opatření, následujících při jejich výskytu, to vše je specifikováno níže, v příslušných částech týkajících se lezení na obtížnost, boulderingu a rychlosti.
+. Technický incident je jakákoliv událost, která pro soutěžícího vyústí ve znevýhodnění nebo v nespravedlivé zvýhodnění a kterou soutěžící svým počínáním nezpůsobil. Typy technických incidentů a opatření, následujících při jejich výskytu, to vše je specifikováno níže, v příslušných částech týkajících se lezení na obtížnost, boulderu a rychlosti.
 
 . Obecně je třeba se technickým incidentem zabývat následujícím způsobem:
 
@@ -207,7 +212,7 @@ Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je 
 
 . Pro potřeby rozhodčích je třeba zajistit monitor připojitelný k záznamu. Monitor je třeba umístit tak, aby rozhodčí mohli sledovat záznamový materiál a probírat jakoukoliv událost bez toho, aby záznam mohla zahlédnout nepovolaná osoba a bez toho, aby mohl rozhodčí při těchto debatách někdo poslouchat nebo vyrušovat, avšak dostatečně blízko ke stolu, za kterým rozhodčí sedí.
 
-. Pro posuzování se smí používat pouze oficiální záznam a oficiální vysílání ČHS, pokud je k dispozici. Záznam si smí prohlížet pouze Hlavní rozhodčí, pomocní rozhodčí, Hlavní stavěč a Delegát ČHS, případně ředitel závodu, pokud je členem odvolací poroty.
+. Pro posuzování se smí používat pouze oficiální záznam a oficiální vysílání ČHS, pokud je k dispozici. Záznam si smí prohlížet pouze Hlavní rozhodčí, pomocní rozhodčí, Hlavní stavěč a Delegát ČHS, případně ředitel závodu, pokud je členem odvolací poroty.
 
 . Na konci každého kola musí být záznam předán Hlavnímu rozhodčímu, pokud si ho vyžádá.
 
@@ -223,7 +228,7 @@ Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je 
 [#hodnoceni-a-zebricky]
 === HODNOCENÍ A ŽEBŘÍČKY
 
-. Postupy pro individuální hodnocení soutěžících v průběhu soutěže jsou popsány v příslušných částech věnujících se lezení na obtížnost, boulderingu a rychlosti.
+. Postupy pro individuální hodnocení soutěžících v průběhu soutěže jsou popsány v příslušných částech věnujících se lezení na obtížnost, boulderu a rychlosti.
 
 . ČHS vydává následující společné žebříčky hodnocení:
 .. Český pohár, včetně Českého poháru mládeže a Českého poháru do 14 let
