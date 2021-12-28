@@ -25,9 +25,9 @@ Byl vytvořen <<pravidla_sl.adoc#Slovník pojmů,slovník pojmů>>, který defin
 
 Zavedení standardních označení pro neplatné výsledky: DNF,DSQ,DSB,DNS. S tím souvisí úprava a restrukturalizace pasáži o disciplinárním řízení.
 
-V sekci o <<#pravidla_sl.adoc#obleceni-a-vybaveni,oblečení>> přibyla ustanovení o kompresních návlecích a nákolenících.
+V sekci o <<pravidla_sl.adoc#obleceni-a-vybaveni,oblečení>> přibyla ustanovení o kompresních návlecích a nákolenících.
 
-V sekci o <<#pravidla_sl.adoc#standary,standardech vybavení>> uvedeny konkrétní normy, které musí jednotlivé vybavení splňovat.
+V sekci o <<pravidla_sl.adoc#standardy,standardech vybavení>> uvedeny konkrétní normy, které musí jednotlivé vybavení splňovat.
 
 V obecné části byla restrukturalizována sekce týkající se registrací a přístupů do izolace a soutěžního prostoru. V celém soutěžním prostoru je zakázáno kouřit.
 
