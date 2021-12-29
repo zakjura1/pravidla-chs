@@ -9,7 +9,7 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let v soutěžním lezení pro rok 2022
+= Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let ve sportovním lezení pro rok 2022
 Český horolezecký svaz
 v1.2, 1.1.2022
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
@@ -18,7 +18,7 @@ v1.2, 1.1.2022
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-Pro Mistrovství republiky a závody 1. ligy v kategoriích do 14 let platí <<provadeci_predpisy_mladez_1_liga.adoc#,„Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy mládeže v soutěžním lezení pro rok 2022“>> a <<pravidla_sl.adoc#,„Pravidla sportovního lezení ČHS 2022“>> s výjimkami v těchto bodech:
+Pro Mistrovství republiky a závody 1. ligy v kategoriích do 14 let platí <<provadeci_predpisy_mladez_1_liga.adoc#,„Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy mládeže ve sportovním lezení pro rok 2022“>> a <<pravidla_sl.adoc#,„Pravidla sportovního lezení ČHS 2022“>> s výjimkami v těchto bodech:
 
 == Lezecká stěna
 

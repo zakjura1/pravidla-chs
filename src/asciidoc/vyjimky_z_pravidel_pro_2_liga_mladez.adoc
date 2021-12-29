@@ -9,7 +9,7 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy v soutěžním lezení mládeže pro rok 2022
+= Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy ve sportovním lezení mládeže pro rok 2022
 Český horolezecký svaz
 v1.2, 1.1.2022
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
@@ -18,7 +18,7 @@ v1.2, 1.1.2022
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-. Pro závody 2. ligy v lezení dětí a mládeže (dále jen závody 2. ligy) platí <<provadeci_predpisy_2_liga_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže v soutěžním lezení pro rok 2022“>> a <<pravidla_sl.adoc#,„Pravidla sportovního lezení ČHS 2022“>> s výjimkami v těchto bodech:
+. Pro závody 2. ligy v lezení dětí a mládeže (dále jen závody 2. ligy) platí <<provadeci_predpisy_2_liga_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže ve sportovním lezení pro rok 2022“>> a <<pravidla_sl.adoc#,„Pravidla sportovního lezení ČHS 2022“>> s výjimkami v těchto bodech:
 
 == Lezecká stěna
 
