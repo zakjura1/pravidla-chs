@@ -57,6 +57,8 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Typy závodů mládeže pro rok 2022 
 
+. Závody musí být vypsané minimálně pro kategorie U8, U10, U12 a U14. Kategorie U16, U18 a U20 jsou volitelné na pořadateli.
+
 . Obtížnost
 .. seriál závodů 2. ligy v lezení na obtížnost 2022 pro danou oblast - max. 5 závodů v každé oblasti
 
@@ -80,6 +82,8 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 .. se v roce 2021 umístili v Českém poháru na 1. až 3. místě 
 .. se v roce 2021 umístili na Mistrovství ČR na 1. až 3. místě
 .. se v roce 2022 umístili v libovolném závodě Českého poháru na 1. až 3. místě, který probíhal před příslušným závodem 2. ligy
++
+Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodobé nemoci)
 
 . Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
 

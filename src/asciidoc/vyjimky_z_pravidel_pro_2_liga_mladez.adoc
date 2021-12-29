@@ -85,7 +85,7 @@ Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pok
 +
 Neplatí pro ně <<pravidla_sl.adoc#podminky-izolace,podminky izolace>>
 
-Kategorie U10 a U12:: musí lézt s horním jištěním (top-rope)
+Kategorie U8, U10 a U12:: musí lézt s horním jištěním (top-rope)
 Kategorie U14, B, A a J:: může lézt s horním jištěním nebo se spodním jištěním. 
 
 +

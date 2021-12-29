@@ -59,6 +59,8 @@ Podmínky registrace stanovuje pořadatel.
 .. se v roce 2022 účastnili závodů 1. ligy před příslušným závodem 3. ligy
 .. se v roce 2022 umístili v libovolném závodě Českého poháru na 1. až 3. místě
 .. se v roce 2022 umístili v libovolném závodě 2 ligy na 1. až 3. místě před příslušným závodem 3. ligy
++
+Komise může udělit výjimku (např. návrat po dlouhodobé nemoci)
 
 . Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
 
@@ -105,7 +107,8 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 . Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této listiny a podpis hlavního rozhodčího.
 
-. Pro zpracování výsledků může pořadatel využít výsledkové aplikace dodané svazem, pokud pravidla závodů jsou shodné s pravidly pro vyšší soutěže. V tomto případě může využít i systému předregistrace, který tato aplikace nabízí.
+. Pro zpracování výsledků může pořadatel využít výsledkové aplikace dodané svazem, pokud pravidla závodů jsou shodné s pravidly pro vyšší soutěže. 
+. Pro předregistraci musí pořadatel využít svazový systém, který bude hlídat omezení startujících závodníků na závodech. Pořadatel bude mít možnost si stáhnout po skončení předregistrace seznam registrovaných závodníků.
 
 == Průběh závodů 
 

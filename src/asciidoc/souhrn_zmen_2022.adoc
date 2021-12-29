@@ -45,6 +45,8 @@ V 2. lize mládeže uvedena možnost, sloučení závodů do jedné oblasti v p�
 
 V 2. lize mládeže je povinnost používat oficiální aplikaci pro výsledkový servis.
 
-V 3. lize mládeže nesmí startovat zahraniční závodníci bez trvalého pobytu v ČR.
+V 3. lize mládeže nesmí startovat zahraniční závodníci bez trvalého nebo dlouhodobého pobytu v ČR.
 
 V 3. lize mládeže není povinnost mít platnou závodní registraci.
+
+V 3. lize mládeže je povinnost použít svazovou předregistrační systém. Pořadatel si z něj bude moci vyexportovat předregistrované závodníky.

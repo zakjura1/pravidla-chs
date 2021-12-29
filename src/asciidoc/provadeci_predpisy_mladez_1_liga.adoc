@@ -44,16 +44,16 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Typy závodů mládeže pro rok 2022 
 Obtížnost::
-. seriál závodů Českého poháru mládeže v lezení na obtížnost 2022 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže
-. závody Českého poháru do 14 let – max. 7 závodů pro mladší věkové kategorie, jeho součástí je Mistrovství ČR mládeže do 14 let
+. seriál závodů Českého poháru mládeže v lezení na obtížnost 2022 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
+. závody Českého poháru do 14 let – max. 7 závodů pro mladší věkové kategorie, jeho součástí je Mistrovství ČR mládeže do 14 let, pro kategorie U10, U12 a U14
 
 Rychlost::
-. seriál závodů Českého poháru mládeže 2022 - max. 5 závodů včetně Mistrovství ČR mládeže
-. seriál závodů Českého poháru do 14 let - max. 5 závodů včetně Mistrovství ČR do 14 let
+. seriál závodů Českého poháru mládeže 2022 - max. 5 závodů včetně Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
+. seriál závodů Českého poháru do 14 let - max. 5 závodů včetně Mistrovství ČR do 14 let, pro kategorie U10, U12 a U14
 
 Boulder::
-. seriál závodů Českého poháru mládeže 2022 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže
-. seriál závodů Českého poháru do 14 let – max. 4 závody včetně Mistrovství ČR do 14 let
+. seriál závodů Českého poháru mládeže 2022 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
+. seriál závodů Českého poháru do 14 let – max. 4 závody včetně Mistrovství ČR do 14 let, pro kategorie U10, U12 a U14
 
 Všechny závody 1. ligy ve všech disciplínách a MČR jsou pořádány v mezinárodním formátu. 
 
