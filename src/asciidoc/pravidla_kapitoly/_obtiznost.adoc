@@ -160,7 +160,7 @@ ale nesmí používat žádné nahrávací zařízení
 .. lezecký čas, který se měří na sekundy (zaokrouhleno dolů)
 .. dosažený výkon
 . Pokud soutěžící během pokusu zůstal v <<#legitimni-pozice,legitimní pozici>> jeho výkon bude 
-.. "TOP" , pokud soutěžící zapnul poslední jistící bod během časového limitu pro lezení nebo
+.. „TOP“ , pokud soutěžící zapnul poslední jistící bod během časového limitu pro lezení nebo
 .. hodnota posledního chytu, definovaná v nákresu cesty, který byl soutěžícím <<#kontrolovat,držený>> nebo <<#pouzit,použitý>> předtím než:
 ... spadnul, nebo
 ... jeho pokus byl ukončený

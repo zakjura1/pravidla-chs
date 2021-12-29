@@ -79,16 +79,20 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 +
 . Hlavní rozhodčí po dohodě s Delegátem ČHS může po skončení registrace závodníků rozhodnout o maximálním počtu pokusů závodníka na boulder. Tento počet pokusů ale nesmí klesnout pod 5. O této skutečnosti musí být závodníci informování.
 . [[pl-kv-flash-boulder-7]]Delegát ČHS po dohodě s Hlavním rozhodčím může povolit formát s jednou kvalifikační skupinou. V tomto případě musí být časový limit kola upraven tak, že základní časový interval je 105 minut pro maximálně 30 závodníků. Za každých dalších maximálně 5 závodníků se přidává 10 minut.
-. Závodníci budou do kvalifikačních skupin rozděleni podle průběžného rankingu, následujícím způsobem:
+. Závodníci budou do kvalifikačních skupin rozděleni podle průběžného rankingu.
 +
+.{blank}
+====
+Závodu se účastní závodníci umístění v rankingu na místech 3, 6, 7, 8, 12, 18
 [cols="^2,^2",options="header",width=60%]
 [.center]
 |===
 |skupina 1. |skupina 2
-| 1. | 2.
-| 3. | 4.
-| 5. | 6.
+| 3. | 6.
+| 7. | 8.
+| 12.| 18.
 |===
+====
 +
 Závodníci, kteří nejsou uvedení v aktuálním průběžném rankingu, budou do skupin rozděleni náhodně.
 . Rozdělení proběhne po uzavření registrací a bude zveřejněno v systému registrací nejpozději den před konáním závodu.
@@ -117,7 +121,7 @@ Závodníci, kteří nejsou uvedení v aktuálním průběžném rankingu, budou
 . Pokus se považuje za započatý, když závodník přeruší kontakt se zemí poslední částí těla.
 . Pokus se považuje za ukončený když
 .. byl úspěšný
-.. soutěžící spadnul, nebo se dotknul země po odstartování
+.. soutěžící spadl, nebo se dotknul země po odstartování
 .. pokus byl ukončen pomocným rozhodčím nebo hlavním rozhodčím nebo delegátem ČHS.
 
 [#hodnoceni]
@@ -127,7 +131,7 @@ Závodníci, kteří nejsou uvedení v aktuálním průběžném rankingu, budou
 ... provede úspěšný nebo neúspěšný start
 ... [[tib-3]]před odstartováním se dotkne nebo použije jakýkoliv umělý chyt nebo strukturu jinou než
 .... startovní chyty
-.... jakýkoliv umělý chyt nebo strukturu, která je umístěna tak aby měnila použitelnou část jakéhokoliv startovního chytu ("blokující chyt")
+.... jakýkoliv umělý chyt nebo strukturu, která je umístěna tak aby měnila použitelnou část jakéhokoliv startovního chytu („blokující chyt“)
 ... [[tib-4]]přidá jakékoliv značky
 +
 a v případech <<#tib-3>> a <<#tib-4>> může být rovněž aplikováno disciplinární řízení dle <<#disciplinarni-rizeni>>.
@@ -142,25 +146,29 @@ a v případech <<#tib-3>> a <<#tib-4>> může být rovněž aplikováno discipl
 +
 a v okamžiku neúspěšného pokusu, pomocný rozhodčí rozhodne o ukončení daného pokusu
 . Pokus závodníka je považován za úspěšný pokud je v kontrolované pozici:
-.. dotkl se oběma rukama TOPu, nebo
+.. dotknul se oběma rukama TOPu, nebo
 ..  postavil se na vrchol boulderu.
++
+a v každém případě pomocný rozhodčí zvedne ruku a oznámí „TOP“
 
 . Start závodníka bude posouzen jako:
-.. správný, když závodník docílil stabilní kontrolované pozice oběma rukama a oběma nohama na startovních chytech bez kontrolování nebo použití jakývkoliv jiných umělých chytů nebo struktur. Aby se předešlo pochybnostem, závodník během startování může
+.. správný, když závodník docílil stabilní kontrolované pozice oběma rukama a oběma nohama na startovních chytech bez kontrolování nebo použití jakýchkoliv jiných umělých chytů nebo struktur. Aby se předešlo pochybnostem, závodník během startování může
 ... dotknout se, kontrolovat nebo použít jakoukoliv část lezeckého povrchu aby docílil startovní pozice
 ... dotknout se jakéholiv blokujícího chytu.
-.. nesprávný , když závodník
+.. nesprávný, když závodník
 ... nebyl úspěšný v dosažení stabilní kontrolované pozice oběma rukama a oběma nohama na startovních chytech nebo
 ... kontroloval nebo použil jiné než umělé chyty nebo jiné struktury, které nebyly označené jako startovní chyty, před dosažením stabilní kontrolované pozice oběma rukama a oběma nohama na startovních chytech
 
 [#poradi-po-kazdem-kole-boulder]
 === POŘADÍ PO KAŽDÉM KOLE
-
+. Soutěžící který selhal nebo nemohl odstartovat, nebude hodnocený v příslušném kole a jeho výkon bude označen příslušným <<#irm,označením neplatného výsledku>>
 . Po každém kole jsou soutěžící hodnoceni podle následujících kritérií:
-.. Počet úspěšně přelezených boulderů;
-.. Celkový počet získaných zón;
-.. Celkový počet pokusů pro úspěšné přelezení těchto boulderů;
-.. Celkový počet pokusů pro získané zóny.
+.. v sestupném pořadí počet úspěšně přelezených boulderů;
+.. v sestupném pořadí počet získaných zón, kdy bod je udělen když
+... byl kontrolovaný nebo použitý chyt označený jako zóna, nebo
+... byl úspěšně dokončený boulder bez kontrolovaného nebo použitého chytu, který byl označený jako zóna
+.. ve vzestupném pořadí celkový počet pokusů pro úspěšné přelezení těchto boulderů
+.. ve vzestupném pořadí celkový počet pokusů pro získané zóny.
 . Nastane-li na nějaké pozici remíza, vezmou se v úvahu výsledky soutěžících z předchozího kola.
 . Nastane-li remíza na prvních třech místech ve finálovém kole poté, co bylo aplikováno zpětné hodnocení, jejích umístění bude vyhodnoceno následovně:
 .. [[ppkk-a]]porovnáním nejlepších výsledků každého závodníka ve finálovém kole, počínaje počtem Topů získaných na první pokus, potom počtem Topů získaných na druhý pokus atd.

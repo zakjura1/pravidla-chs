@@ -50,6 +50,15 @@ Podmínky registrace stanovuje pořadatel.
 == Závodníci 
 
 . Všechny závody mládeže ve všech disciplínách jsou otevřené pouze pro české účastníky a cizince kteří mají v České republice trvalý nebo dlouhodobý pobyt. Závody probíhají v <<pravidla_sl.adoc#mezinarodni-format,mezinárodním formátu>>.
+. Na zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky.
+
+. Závodů se nesmí účastnit závodníci, kteří: 
+.. se v roce 2021 umístili v Českém poháru na 1. až 3. místě 
+.. se v roce 2021 umístili na Mistrovství ČR na 1. až 3. místě
+.. se v roce 2021 umístili v celkovém pořadí 2. ligy na 1. až 3. místě 
+.. se v roce 2022 účastnili závodů 1. ligy před příslušným závodem 3. ligy
+.. se v roce 2022 umístili v libovolném závodě Českého poháru na 1. až 3. místě
+.. se v roce 2022 umístili v libovolném závodě 2 ligy na 1. až 3. místě před příslušným závodem 3. ligy
 
 . Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
 

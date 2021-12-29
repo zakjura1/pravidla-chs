@@ -63,7 +63,7 @@ Nominační závody musí být pořádány v open formátu.
 
 . Závodů dospělých nejvyšších soutěží a 1. ligy se mohou zúčastnit pouze závodníci, kteří v daném kalendářním roce dosáhnou věku 16 let. Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností. 
 
-. Pro účast na závodech dospělých organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závodníky je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský nebo praktický lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce se zadává v modulu Předseda systému ČHS a dále je použitá v systému pro zpracování výsledků jako součást systému předregistrací.
+. Pro účast na závodech dospělých organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závodníky je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení vydává dětský nebo praktický lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce se zadává v modulu Předseda systému ČHS a dále je použitá v systému pro zpracování výsledků jako součást systému předregistrací.
 
 == Rozhodčí a stavěč cest 
 

@@ -1,3 +1,3 @@
 [#poradatel]
 == POŘADATEL
-Pořadatelem závodů v oficiálních disciplínách (viz čl. <<#discipliny>>) může být fyzická osoba registrovaná v Českém horolezeckém svazu (dále jen "ČHS"), nebo oddíl registrovaný v ČHS, nebo právnická či fyzická osoba s příslušným oprávněním. Vzájemné vztahy pořadatele a ČHS včetně jejich práv a povinností upravují prováděcí předpisy platné pro příslušný rok a smlouva uzavřená mezi ČHS a pořadatelem.
+Pořadatelem závodů v oficiálních disciplínách (viz čl. <<#discipliny>>) může být fyzická osoba registrovaná v Českém horolezeckém svazu (dále jen „ČHS“), nebo oddíl registrovaný v ČHS, nebo právnická či fyzická osoba s příslušným oprávněním. Vzájemné vztahy pořadatele a ČHS včetně jejich práv a povinností upravují prováděcí předpisy platné pro příslušný rok a smlouva uzavřená mezi ČHS a pořadatelem.

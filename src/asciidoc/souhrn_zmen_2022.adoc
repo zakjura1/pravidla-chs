@@ -35,7 +35,9 @@ Zaveden do pravidel asistenční pes.
 
 V Boulderu si závodníci kvalifikační skupinu nebudou volit. Bude jim přiřazena na základě umístění v rankingu.
 
-V 2. lize mládeže nesmí startovat zahraniční závodníci bez trvalého pobytu v ČR.
+V Boulderu sekce <<pravidla_sl.adoc#zacatek-a-konec-pokusu-boulder,Začátek a konec pokusu>>, <<pravidla_sl.adoc#hodnoceni,Hodnocení>> a <<pravidla_sl.adoc#poradi-po-kazdem-kole-boulder,Pořadí po každém kole>> přestrukturována
+
+V 2. lize mládeže nesmí startovat zahraniční závodníci bez trvalého nebo dlouhodobého pobytu v ČR. Pokud cizinec žije v České republice, závodů se účastnit může za stejných podmínek jako čeští závodníci. Tj. členství v ČHS, závodní registrace, získávání bodů do žebříčku, omezení startů mezi ligami.
 
 V 2. lize mládeže je povinnost mít platnou závodní registraci.
 

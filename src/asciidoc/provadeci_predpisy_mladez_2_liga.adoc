@@ -73,11 +73,17 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Závodníci 
 
-. Všechny závody mládeže ve všech disciplínách jsou otevřené pouze pro české účastníky a  cizince kteří mají v České republice trvalý pobyt. Závody probíhají v <<pravidla_sl.adoc#mezinarodni-format,mezinárodním formátu>>.
+. Všechny závody mládeže ve všech disciplínách jsou otevřené pouze pro české účastníky a cizince kteří mají v České republice trvalý nebo dlouhodobý pobyt. Závody probíhají v <<pravidla_sl.adoc#mezinarodni-format,mezinárodním formátu>>.
+. Na zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky včetně možnosti umístění v žebříčcích.
+
+. Závodů se nesmí účastnit závodníci, kteří: 
+.. se v roce 2021 umístili v Českém poháru na 1. až 3. místě 
+.. se v roce 2021 umístili na Mistrovství ČR na 1. až 3. místě
+.. se v roce 2022 umístili v libovolném závodě Českého poháru na 1. až 3. místě, který probíhal před příslušným závodem 2. ligy
 
 . Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
 
-. Pro všechny závody platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou závodní registraci.
+. Pro všechny závody platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou <<pravidla_sl.adoc#zavodni-registrace,závodní registraci>>.
 
 . Při předběžné registraci na stránkách sportovního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
 
@@ -116,7 +122,7 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 . [[pioz-3]]Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této listiny a podpis hlavního rozhodčího.
 
-. [[pioz-4]]Pro všechny závody nejvyšší soutěží a 1. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
+. [[pioz-4]]Pro všechny závody 2. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
 
 == Průběh závodů 
 

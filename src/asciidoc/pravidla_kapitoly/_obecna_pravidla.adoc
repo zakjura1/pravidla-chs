@@ -84,9 +84,9 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 
 [#registrace]
 === REGISTRACE
-. Všichni soutěžící účastnící se nejvyšších soutěží, závodů 1. a 2. ligy musí mít platnou soutěžní registraci dle https://www.horosvaz.cz/res/archive/423/070396.pdf?seek=1637244137[Směrnice o registraci závodníků]
+. Všichni soutěžící účastnící se nejvyšších soutěží, závodů 1. a 2. ligy musí mít platnou <<#zavodni-registrace,závodní registraci>> dle https://www.horosvaz.cz/res/archive/423/070396.pdf?seek=1637244137[Směrnice o registraci závodníků]
 . Všichni soutěžící účastnící se nejvyšších soutěží, závodů 1. a 2. ligy se musí do závodu registrovat předem. Dodateční registrace na místě nebude možná.
-. Všichni soutěžící způsobilí soutěžit v některém kole soutěže se musejí zaprezentovat v registračním oddělení, a to nejpozději v časovém limitu určeném pořadateli.
+. Všichni soutěžící způsobilí soutěžit v některém kole soutěže se musejí zaprezentovat v registračním oddělení, a to v časovém limitu určeném pořadateli.
 
 [#soutezni-prostor-p]
 === SOUTĚŽNÍ PROSTOR
