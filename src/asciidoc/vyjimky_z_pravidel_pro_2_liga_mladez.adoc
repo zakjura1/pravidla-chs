@@ -77,7 +77,7 @@ Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pok
 
 === Prohlídka cest
 . Živé předlezení u kvalifikačních cest musí začít nejpozději 15 min před pokusem prvního závodníka.
-. Na prohlídku cesty, pokud se leze za <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
+. Na prohlídku cesty, pokud se leze za <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, mohou závodníky doprovázet trenéři pouze u kategorií U8 a U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
 [#bezpecnost-a-jisteni]
 === Bezpečnost a jištění
@@ -95,7 +95,7 @@ Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního ro
 + 
 Musí se lézt za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Případnou změnu povoluje hlavní rozhodčí.
 
-Kategorie U10 a U12:: musí lézt s horním jištěním (top-rope)
+Kategorie U8, U10 a U12:: musí lézt s horním jištěním (top-rope)
 Kategorie U14:: musí lézt se spodním jištěním
 
 . Při lezení s horním jištěním (top-rope) je přípustné navázání závodníka dle bodu <<pravidla_sl.adoc#6.2.5.c.ii,6.2.5.c.ii>>.
@@ -114,7 +114,7 @@ U závodů 2. ligy, kde lze kromě ustanovení pravidel sportovního lezení vyu
 . kvalifikace a finále světovým formátem
 
 === Prohlídka boulderů
-. Na prohlídku boulderů, pokud se leze <<pravidla_sl.adoc#boulder-format-sp,světovým formátem>>, mohou závodníky doprovázet trenéři pouze u kategorie U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
+. Na prohlídku boulderů, pokud se leze <<pravidla_sl.adoc#boulder-format-sp,světovým formátem>>, mohou závodníky doprovázet trenéři pouze u kategorií U8 a U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
 === Průběh závodu
 . Kvalifikace se leze bez <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>

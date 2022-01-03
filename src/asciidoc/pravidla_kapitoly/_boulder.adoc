@@ -125,7 +125,7 @@ Závodníci, kteří nejsou uvedení v aktuálním průběžném rankingu, budou
 .. pokus byl ukončen pomocným rozhodčím nebo hlavním rozhodčím nebo delegátem ČHS.
 
 [#hodnoceni]
-=== Hodnocení
+=== HODNOCENÍ
 . Každý boulder musí být hodnocen alespoň jedním rozhodčím, který zaznamenává
 .. počet pokusů, které provedl každý závodník. Pokud bude započítán pokaždé když závodník
 ... provede úspěšný nebo neúspěšný start

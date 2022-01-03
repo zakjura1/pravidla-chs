@@ -32,7 +32,7 @@
 .. Tam, kde je potřeba prodloužit normální expresku, je nutno použít namísto kratší smyčky opět spojitou, strojově sešitou smyčku o stejné nosnosti. Oko smyčky je možné spojit lepicí páskou. Za žádných okolností není možné takovouto smyčku zkracovat nebo upravovat za pomoci uzlů. Za žádných okolností se nesmí použít řetěz z normálně dlouhých expresek (spojených jedna k druhé buď za pomoci karabiny Maillon Rapide nebo za pomoci karabin s pojistkou či bez ní). Není dovoleno používat svázané lano nebo svázanou plochou smyčku.
 
 [#standardy]
-=== VYBAVENí
+=== VYBAVENÍ
 . Veškeré vybavení používané v soutěži – jak organizátorem, tak soutěžícími - musí být v souladu s odpovídajícími ČSN EN normami nebo srovnatelnými mezinárodními ekvivalenty pokud není ČHS uvedeno jinak a ve výjimečných případech hlavním rozhodčím. Aplikované normy v tuto chvíli jsou:
 +
 [cols="2*",options="header",width="75%"]

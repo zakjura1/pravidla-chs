@@ -34,8 +34,6 @@ include::{includedir}/_rychlost.adoc[]
 
 include::{includedir}/_boulder_obtiznost.adoc[]
 
-include::{includedir}/_kombinace.adoc[]
-
 include::{includedir}/_disciplinarni_rizeni.adoc[]
 
 include::{includedir}/_protesty.adoc[]

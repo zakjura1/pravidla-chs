@@ -199,6 +199,6 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[manazer-tymu]]Vedoucí týmu:: je týmem zvolená osoba, která je zodpovědná za chování <<#clenove-tymu,členů>> v rámci jejich týmu během celé soutěže. Pro různé disciplíny může být zvolen jiný vedoucí týmu
 
-[[zavodni-registrace]]Závodní registrace:: je upravena ve <<https://www.horosvaz.cz/res/archive/423/070396.pdf?seek=1637244137,Směrnici Českého horolezeckého svazu o registraci sportovců pro závody ve sportovním lezení>> a je povinná pro všechny závodníky nejvyšších soutěží, 1. ligy a 2. ligy.
+[[zavodni-registrace]]Závodní registrace:: je upravena ve https://www.horosvaz.cz/res/archive/423/070396.pdf?seek=1637244137[Směrnici Českého horolezeckého svazu o registraci sportovců pro závody ve sportovním lezení] a je povinná pro všechny závodníky nejvyšších soutěží, 1. ligy a 2. ligy.
 
 [[z-klip]]Z-klip:: je situace, kdy je lano protažené skrz dva <<#jistici-bod,Jistící body>> mimo logické pořadí
