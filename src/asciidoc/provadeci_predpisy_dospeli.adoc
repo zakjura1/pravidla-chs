@@ -30,9 +30,9 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 [.center]
 |===
       2+a|                                  ^|*základní startovné* ^| *startovní čísla* 
-   .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 250 Kč              ^| 300 Kč            
-                        ^| *na místě*       ^| 400 Kč              ^| 450 Kč            
-   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 350 Kč              ^| 400 Kč            
+   .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 300 Kč              ^| 350 Kč            
+                        ^| *na místě*       ^| 450 Kč              ^| 500 Kč            
+   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 400 Kč              ^| 450 Kč            
                         ^| *na místě*       ^| neomezeno           ^| neomezeno         
 |===
 +
