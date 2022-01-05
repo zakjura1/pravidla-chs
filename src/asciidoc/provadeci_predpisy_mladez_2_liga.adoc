@@ -32,18 +32,16 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 |===
 ^.|Disciplína ^.| Výše dotace 
 ^.|Obtížnost  ^.| 10 000 Kč 
-^.|Boulder ^.| 10 000 Kč 
+^.|Boulder    ^.| 10 000 Kč 
 ^.|Kombinace  ^.| 15 000 Kč 
 |===
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 +
 [cols=",,",options="header",]
 |===
-      2+a|                                   ^| *startovné*
-   .2+^.^| *člen ČHS*   ^| *předregistrace*  ^| 200 Kč           
-                        ^| *na místě*        ^| 300 Kč           
-   .2+^.^| *nečlen ČHS* ^| *předregistrace*  ^| 300 Kč           
-                        ^| *na místě*        ^| 400 Kč           
+         |                     ^| *Platba*          ^| *Startovné*
+   .2+^.^| *držitel licence*   ^| *předem na účet*  ^| 250 Kč           
+                               ^| *na místě*        ^| 400 Kč                 
 |===
 
 . Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem.

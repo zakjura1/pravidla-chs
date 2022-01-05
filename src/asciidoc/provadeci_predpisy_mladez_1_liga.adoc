@@ -27,11 +27,11 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 +
 [cols=",,",options="header",]
 |===
-      2+a|                                  ^| *startovní čísla* 
-   .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 200 Kč            
-                        ^| *na místě*       ^| 300 Kč            
-   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 300 Kč            
-                        ^| *na místě*       ^| 400 Kč            
+         |                   ^| *Platba*           ^| *Startovné* 
+   .2+^.^| *držitel licence* ^| *předem na účet*   ^| 300 Kč            
+                             ^| *na místě*         ^| 400 Kč            
+   .2+^.^| *nečlen ČHS*      ^| *předem na účet*   ^| 400 Kč            
+                             ^| *na místě*         ^| 600 Kč            
 |===
 
 . Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých. 

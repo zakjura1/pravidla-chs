@@ -26,18 +26,18 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Pořadatel může pořádat v rámci 3. ligy maximálně 4 závody.
 . Vzájemné vztahy pořadatele a ČHS včetně jejich práv a povinností upravuje tento dokument.
 . Vyplněním link:https://forms.gle/ikS9YWdmYzYzc7eD9[formuláře s žádosti] o pořadatelství závodů 3. ligy je závod zapsán do kalendáře závodů pro daný rok.
-. Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
+. Pořadatel má právo vybírat startovné od všech závodníků v doporučené výši dle následující tabulky:
 +
 [cols=",,",options="header",]
 |===
-      2+a|                                  ^|*startovné* 
+      2+a|                                  ^|*Startovné* 
    .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 200 Kč              
                         ^| *na místě*       ^| 300 Kč              
-   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 300 Kč              
-                        ^| *na místě*       ^| 400 Kč              
+   .2+^.^| *nečlen ČHS* ^| *předregistrace* ^| 350 Kč              
+                        ^| *na místě*       ^| 450 Kč              
 |===
 +
-Podmínky registrace stanovuje pořadatel.
+Podmínky registrace si stanovuje pořadatel.
 
 == Typy závodů mládeže pro rok 2022 
 
