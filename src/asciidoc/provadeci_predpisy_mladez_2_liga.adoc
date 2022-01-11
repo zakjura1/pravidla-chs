@@ -31,8 +31,8 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 [.center]
 |===
 ^.|Disciplína ^.| Výše dotace 
-^.|Obtížnost  ^.| 10 000 Kč 
-^.|Boulder    ^.| 10 000 Kč 
+^.|Obtížnost  ^.| 15 000 Kč 
+^.|Boulder    ^.| 15 000 Kč 
 ^.|Kombinace  ^.| 15 000 Kč 
 |===
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
@@ -85,9 +85,9 @@ Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodob
 
 . Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
 
-. Pro všechny závody platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou <<pravidla_sl.adoc#zavodni-registrace,závodní registraci>>.
+. Pro všechny závody platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou <<pravidla_sl.adoc#zavodni-registrace,závodní registraci>> licenci.
 
-. Při předběžné registraci na stránkách sportovního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
+Opět dát pryč. 
 
 . Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
 
@@ -107,7 +107,7 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 . Hlavní stavěč musí mít licenci
 .. Hlavní stavěč ČHS
 .. Stavěč ČHS
-.. Stavěč - Aspirant
+
 +
 Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/362/061702.pdf[seznamu rozhodčích] na webu ČHS.
 +
