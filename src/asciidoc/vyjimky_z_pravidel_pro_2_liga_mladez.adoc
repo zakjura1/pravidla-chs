@@ -111,7 +111,7 @@ Kategorie U14:: musí lézt se spodním jištěním
 U závodů 2. ligy, kde lze kromě ustanovení pravidel sportovního lezení využít i tyto možnosti:
 
 . jednokolový závod bez finále
-. kvalifikace a finále světovým formátem
+. kvalifikace a finále OS
 
 === Prohlídka boulderů
 . Na prohlídku boulderů, pokud se leze <<pravidla_sl.adoc#boulder-format-sp,světovým formátem>>, mohou závodníky doprovázet trenéři pouze u kategorií U8 a U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
