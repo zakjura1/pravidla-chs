@@ -48,12 +48,12 @@ Obtížnost::
 . závody Českého poháru do 14 let – max. 7 závodů pro mladší věkové kategorie, jeho součástí je Mistrovství ČR mládeže do 14 let, pro kategorie U10, U12 a U14
 
 Rychlost::
-. seriál závodů Českého poháru mládeže 2022 - max. 5 závodů včetně Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
-. seriál závodů Českého poháru do 14 let - max. 5 závodů včetně Mistrovství ČR do 14 let, pro kategorie U10, U12 a U14
+. seriál závodů Českého poháru mládeže 2022 - max. 4 závodů včetně Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
+. seriál závodů Českého poháru do 14 let - max. 4 závodů včetně Mistrovství ČR do 14 let, pro kategorie U10, U12 a U14
 
 Boulder::
 . seriál závodů Českého poháru mládeže 2022 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
-. seriál závodů Českého poháru do 14 let – max. 4 závody včetně Mistrovství ČR do 14 let, pro kategorie U10, U12 a U14
+. seriál závodů Českého poháru do 14 let – max. 5 závody včetně Mistrovství ČR do 14 let, pro kategorie U10, U12 a U14
 
 Všechny závody 1. ligy ve všech disciplínách a MČR jsou pořádány v mezinárodním formátu. 
 
@@ -62,9 +62,9 @@ Nominační závody musí proběhnout v open formátu.
 == Závodníci 
 . Závodníci jsou povinni lézt v dresu (triko) dodaném pořadatelem, pokud pořadatel takový dres dodá a stanoví povinnost v něm startovat.
 
-. Pro všechny závody ČPM a ČP do 14 let platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou <<pravidla_sl.adoc#zavodni-registrace,závodní registraci>>. 
+. Pro všechny závody ČPM a ČP do 14 let platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou <<pravidla_sl.adoc#zavodni-registrace,závodní registraci>>. licence
 
-. Při předběžné registraci na stránkách sportovního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
+Tady vydím problém. závodník musí být členem oddílu ČHS, musí mít licenci, o kterou může zažádat pouze předseda, či odpovědná osoba v oddíle. Tohle by tam nemělo být. 
 
 . Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
 
@@ -78,9 +78,9 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 . KSL deleguje pro závody nejvyšších soutěží a 1. ligy delegáta ČHS, hlavního rozhodčího soutěže a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. Hlavním rozhodčím smí být pouze držitel licence Hlavní rozhodčí ČHS.
 
-. Hlavního stavěče závodu v lezení na obtížnost a boulderu navrhuje pořadatel na základě seznamu držitelů příslušných stavěčských licencí, jeho nasazení pro daný závod musí být schváleno KSL. Hlavní stavěč závodu nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS) nebo úrovně 2. (Stavěč ČHS), případně mezinárodní licence IFSC, pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit KSL. Pro ČP do 14 let je využití stavěče s národní nebo mezinárodní licencí doporučené.
+. Hlavního stavěče závodu v lezení na obtížnost a boulderu navrhuje KSL na základě seznamu držitelů příslušných stavěčských licencí. Hlavní stavěč závodu nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS), případně mezinárodní licence IFSC, pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit KSL. Pro ČP do 14 let je využití stavěče s národní nebo mezinárodní licencí doporučené.
 
-. Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderu  jsou upraveny ve smlouvě mezi ČHS a pořadatelem. Minimální cena za stavění závodních cest u závodů nejvyšších soutěží a 1. ligy týmem vedeným licencovaným stavěčem je 10 000,- Kč za jednodenní závod a 12 000,- za závod dvoudenní. 
+. Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderu  jsou upraveny ve smlouvě mezi ČHS a pořadatelem. Zbytečná informace, která se nezakládá na skutečnosti. 
 
 == Poskytování informací o závodě 
 
@@ -126,7 +126,7 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sam
 . Z každého závodu seriálu Českého poháru mládeže a ČP do 14 let získává účastník body do celkového pořadí Českého poháru mládeže a ČP do 14 let v dané disciplíně.
 
 . Celkové hodnocení v poháru
-.. Český pohár mládeže a ČP do 14 let v lezení na obtížnost se skládá minimálně ze čtyř závodů ČPM, jedním z těchto závodů je i Mistrovství ČR mládeže (MČRM). Do celkového hodnocení ČPM a ČP do 14 let se při pěti závodech započítávají čtyři nejlepší výsledky (podle počtu bodů) ze všech závodů, kterých se závodník zúčastnil, a to včetně společného MČR mládeže. Pokud se uskuteční 5 a více pohárových závodů včetně MČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Při shodě bodů mezi dvěma či více závodníky v celkovém hodnocení ČPM a ČP do 14 let rozhoduje o konečném umístění výsledek z MČR mládeže. Český pohár mládeže a ČP do 14 let v lezení na obtížnost bude vyhlášen, pokud se uskuteční nejméně 4 závody ČPM a ČP do 14 let (včetně MČR mládeže). V takovém případě se do celkového hodnocení započítávají výsledky všech závodů.
+.. Český pohár mládeže a ČP do 14 let v lezení na obtížnost se skládá minimálně ze čtyř závodů ČPM, jedním z těchto závodů je i Mistrovství ČR mládeže (MČRM). Do celkového hodnocení ČPM a ČP do 14 let se při pěti závodech započítávají čtyři nejlepší výsledky (podle počtu bodů) ze všech závodů, kterých se závodník zúčastnil, a to včetně společného MČR mládeže. Pokud se uskuteční 5 a více pohárových závodů včetně MČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Při shodě bodů mezi dvěma či více závodníky v celkovém hodnocení ČPM a ČP do 14 let rozhoduje o konečném umístění výsledek z MČR mládeže. Český pohár mládeže a ČP do 14 let v lezení na obtížnost bude vyhlášen, pokud se uskuteční nejméně 4 závody ČPM a ČP do 14 let (včetně MČR mládeže). V takovém případě se do celkového hodnocení započítávají výsledky všech závodů. Zde bych ctil vždy škrtání nejhoršího výsledku (neúčast) a vložil stejně jako u boulder. Pokud se uskuteční 4 a více pohárových závodů včetně MČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. V případě stejného počtu bodů rozhoduje umístění na MČR. Český pohár resp. ČP do 14 let bude vyhlášen, pokud se uskuteční nejméně tři závody ČPM resp. ČP do 14 let (včetně MČR).
 .. Český pohár mládeže a ČP do 14 let v lezení na rychlost se skládá minimálně ze tří závodů ČP, jedním z těchto závodů je i MČR mládeže v lezení na rychlost. Do celkového pořadí poháru se započítávají tři nejlepší výsledky dosažené v závodech ČPM a ČP do 14 let nebo na MČR mládeže. Pokud se uskuteční 4 a více pohárových závodů včetně MČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. V případě stejného počtu bodů rozhoduje umístění na MČR. Český pohár bude vyhlášen, pokud se uskuteční nejméně tři závody ČPM a ČP do 14 let v rychlosti (včetně MČR), v tomto případě se do celkového hodnocení budou započítávat výsledky všech těchto tří závodů.
 .. Český pohár mládeže v boulderu a ČP do 14 let se skládá minimálně ze tří závodů ČP, jedním z těchto závodů je i MČR mládeže. Do celkového pořadí poháru se započítávají všechny tři výsledky dosažené v těchto závodech. Pokud se uskuteční 4 a více pohárových závodů včetně MČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. V případě stejného počtu bodů rozhoduje umístění na MČR. Český pohár resp. ČP do 14 let bude vyhlášen, pokud se uskuteční nejméně tři závody ČPM resp. ČP do 14 let (včetně MČR).
 . Bodování závodů Českého poháru - bodují se pouze závodníci s českou státní příslušností. Body jim budou započítány po odečtení zahraničních závodníků následně:
