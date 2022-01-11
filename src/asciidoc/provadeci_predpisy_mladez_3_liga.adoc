@@ -25,7 +25,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen ČHS), nebo právnická či fyzická osoba s příslušným oprávněním, má právo požádat ČHS o pořadatelství závodů 3. ligy.
 . Pořadatel může pořádat v rámci 3. ligy maximálně 4 závody.
 . Vzájemné vztahy pořadatele a ČHS včetně jejich práv a povinností upravuje tento dokument.
-. Vyplněním link:https://forms.gle/ikS9YWdmYzYzc7eD9[formuláře s žádosti] o pořadatelství závodů 3. ligy je závod zapsán do kalendáře závodů pro daný rok.
+. Vyplněním vložit správný link dodá Jirka o pořadatelství závodů 3. ligy je závod zapsán do kalendáře závodů pro daný rok.
 . Pořadatel má právo vybírat startovné od všech závodníků v doporučené výši dle následující tabulky:
 +
 [cols=",,",options="header",]
@@ -71,7 +71,7 @@ Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodob
 
 . Pro zjednodušení přechodu na závody, kde čeští závodníci musí splňovat podmínku členství v ČHS, bude v letošní sezóně pro závody umožněno toto: při závodníkově prvním závodě v sezóně mu bude umožněn start i bez členství v ČHS. Závodník obdrží na závodě pokyny, jak postupovat pro získání členství do dalšího závodu.
 
-. Při předběžné registraci bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
+Opět, toto je funkce oddílu.
 
 . Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
 
@@ -117,7 +117,7 @@ Pro všechny typy závodů platí pravidla pro průběh soutěže pravidla zveř
 
 . Vyhlášení výsledků musí být provedeno důstojným způsobem. Vyhlášení výsledků musí být nejdéle do 30 minut po ukončení posledního kola závodu poslední kategorie. Jednotlivé kategorie mohou být vyhlašovány i v průběhu závodu.
 
-. Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem a cenami dodanými eventuálním partnerem závodu. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků.
+. Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem a medajlí. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků.
 
 == Ostatní 
 
